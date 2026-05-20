@@ -1,0 +1,123 @@
+1)
+Request 1
+
+Project name: Coi Cafe Expansion Project
+
+Justofications:
+Purpose: The project purpose is develop "Coi Cafe" brand and bring "Coi Cafe" to new marketplace 
+Reasons: To implement an expansion project into 5 Central provinces, with 1 flagship store in each province within 12 months
+
+Project constrains:
+_Scope constraints: the project includes surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store
+_Time constains: 1 flagship store in each province within 12 months. 
+_Budget constrains: The total budget of project is VND 8.5 billion (approximately VND 1.7 billion/store)
+_Quality constrains: The project quality is accepted if each store must reach the break-even point within 8 months after opening
+
+Request 2
+
+Budget items: Place for store - Under VND 100 milion each store
+Description: Each store need a place in that have crowded people or a lot of company around
+Estimate: base on contract with owner 
+
+Budget items: Training staff - Under VND 50 milion for all new store
+Description: Because this is the new market so must be training new staff to bring good drinks and service to customers
+Estimate: Create traning module, document for training
+
+Budget items: Staff Salary - Total VND 80 milion each store 
+Description: Salary for store manager, barista, waiter,...
+Estimate: Offer with staff when interview, and base on working contract after signed
+
+Budget items: Design - Total VND 600 milion for each store
+Descripsion: Design must be show brand's unique, and take customer attention.
+Estimate: Pay for design item, and worker who do the design
+
+Budget items: Coffee and drink materials
+Descripsion: Coffee directly from Dak Lak farmers, and drink material can use from famous local store 
+Estimate: Base on the deal between bussiness and farmers and make a offer to get good prices from local store for long term contract
+2)
+Request 3:
+
+Risk title: Run out budget
+Description: Many component to pay in the project, if not manage budget effectively the project budget might be run out
+Possible Impacts: Cost
+Mitigation: Create project cost management, and ensure follow the budget plan
+Contingency: Mention to Coi's management about run out cost, Conflict and reduce budget a few tasks as design, training staff...
+
+Risk title: The project not within 12 months
+Description: Timeline base on many side as HR team, designer and marketing team can make the project run over the time constrains
+Possible Impacts: Time
+Mitigation: Create a clearly plan for each task, And check process daily to ensure follow the schedule
+Contigency: Increase working time, over-time to solve the problem as soon as. Mention to Coi's management to ask support from company or another team 
+
+Risk title: Each store can not reach the break-even point within 8 months
+Description: Each market has a unique, so the percent can not reach the breal-even as timeline very high
+Possiple Impacts: Quality
+Mitigation: The project manager andd marketing team must create markting plan for each store. Analytics customers behavior. And try to bring the best servive and products to customer
+Contigency: Create new promotion for customer, find the problem to solve and improve marketing plan
+
+Request 4:
+
+Project roles:
+_The project manager (PM) by the Market Development Director
+_Design team
+_HR team
+_Marketing team
+
+Activities
+A1: Create marketing plan for each store
+Accountable: PM
+Responsibilities: Marketing team
+Consulted: HR team
+Informed: PM
+ 
+A2: Hiring Staff
+Accountable: PM
+Responsibilities: HR team
+Consulted: Design team
+Informed: Marketing team
+
+A3: Training Staff 
+Accountable: PM
+Responsibilities: HR team,
+Consulted: Design team 
+Informed: PM, Marketing team
+
+A4: Choose place for store
+Accountable:PM
+Responsibilities:Marketing team
+Consulted: HR team
+Informed: Design team, PM
+
+A5: Create Design plan
+Accountable: PM
+Responsibilities: Design team
+Consulted: HR team
+Informed: Marketing team, PM
+
+A6: Prepare bussiness paper
+Accountable: PM
+Responsibilities: PM
+Consulted: HR team, Design team
+Informed: Marketing team
+
+A7: Prepare Bar tool and coffee machine
+Accountable: PM
+Respomsibilities: Marketing team
+Consulted: HR team, Design team
+Informed: PM, marketing team
+
+A8: Prepare chairs, tables
+Accountable: PM
+Responsibility: Design team
+Consulted: HR team
+Imformed: Marketing team
+
+A9: Create promotion each store
+Accountable: PM
+Responsibilities: Marketing team
+Consulted: HR team
+Informed: Design team
+
+A10: Create Report for this project
+Accpintable: PM
+Responsibilities: MK team Consulted G

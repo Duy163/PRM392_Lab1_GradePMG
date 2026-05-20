@@ -1,0 +1,83 @@
+1)
+Request1
+1. Coi cafe 
+2. Problem: Coffee is traditional drink menu in VietName, many peoples in the world very like coffee of VietNam, but coffee brand is not expand. So that Coi cafe implement an expansion project into 5 central provinces to survice everyone.
+3.
+Scope: surveying and selecting permises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from central region sippliers. and launching campaigns for each store.
+Time: 12 months
+Cost/budget:VND 8.5 billion (approximately VND 1.7 billion/store)
+Quality:Each store must reach the break-even point within 8 months after opening
+Request 2:
+1
+Name: Design, decoration
+Description: design logo and menu, decorate lightning, table.
+Estimation: for each store is VND 400 million x 5 store = VND 2 billion  
+How to estimate: base on the number of logo, menu,table,lightning.
+Person in charged: Design team
+2
+Name: Marketing product 
+Description: promote produc and connect to KOLs when completed
+Estimation:for each store is VND 200 million x 5 = VND 1 billion
+How to estimation: base on each location of store 
+Person in charged: marketing team
+3
+Name: Training local personnel
+Description: training staff how to communication with customer, how to sell product 
+Estimation: for each store is VND 200 million x 5 = VND 1 million
+How to estimation: each store need to 10 staff each staff training cost is 20 million
+Person in charged: HR team
+4
+Name: rental location
+Description: rental location to business 
+Estimation: for each store is VND 400 millon/months x 5 = VND 2 billion
+How to estimation: base on each location
+Person in charged: Market development director (PM)
+5
+Name: material 
+Description: material about coffee, how to produce
+Estimation: for each store is VND 400 x 5 = VND 2 billion
+How to estimation: base on each region sippliers.
+Person in charger: PM
+
+2)
+Requet 3
+1
+Name: low product quality
+Description: product is not quality about logo, taste.
+Scope/quality: not reach the break-even point within 8 months
+Time: Delay time sell not reach acheive
+Cost: effect to revenue.
+mitigation: Ensure product before launch, test prodcut before promote.
+contigency: should be buy 1 get 1 to attract customer.
+2
+Name: difficuly in select location
+Description: find the location not beatiful, many peope not like coffee and not have foreginer
+Scope/quality: not conpleting expand brand
+time: Delay time > 12 months 
+Cost: effect to revennue
+mitigation: make strong parnership of each region to find location.
+contigency:find different location if not found.
+3
+Name: low customer engage
+Description: less customer buy produce
+Scope/quality: not reach the break-even point within 8 months.
+Time: Delay time reach acheive
+ Cost: effect to revenue and rental location not enough
+mitigation: marketing product many time.
+contigency:  Connect to KOLs before launch.
+Request 4
+1.
++ PM- project manager ( mager project, approve decisions)
++ ET- execution team (do the main work, content,operration).
++ ST- support team (support activities, makerting,testing)
+2 & 3
+1.define project plan PM(A), ET(R), ST(C)
+2.analyze requirement: PM(C), ET(R),ST(I)
+3.design solution/content: PM(C), ET(R), ST(I)
+4.develop main output: PM(I), ET(R), ST(C)
+5.develop supporting outting: PM(I), ET(R), ST(C)
+6.review and approve: PM(A), ET(R), ST(C)
+7.Delivery: PM(I), ET(R), ST(A)
+8.promote/support: PM(C), ET(I), ST(R)
+9.monitor performance: PM(A), ET(C), ST(R)
+10.report result: PM(A), ET(C), ST(R)

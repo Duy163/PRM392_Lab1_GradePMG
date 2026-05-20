@@ -1,0 +1,47 @@
+1)
+Request 1: 
+1. Project name: The expansion Coi Cafe
+ 
+2. Justifications: 
+- Purpose: Coi Cafe  implements an expansion project into 5  Central provinces ( Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) because it want to give the  its nostagic space, traditional drink menu and sustainable business model (special it uses the reusable cup, purchases coffee directly from Dak Lak famerss)  for 5 Centrql provinces and  the  coffee brand "Coi Cafe" become be more popular and famous in VietNam.
+
+3.
+ - Project constraints:  
++ Each store must reach the break-even point within 8 months after opening.
+- Scope: 
++  5  Central provinces has 1 flagship store in each province.
+-Time:
++ Project has 1 flagship store  in 12 months.
+Cost:
++The total budget is VND 8.5  billion (approximately VND 1.7 billion/store) from equity and commercial bank loans.
+Quality:
++ The project has the clearly  planning to implement an expansion project into  Central provinces.
+
+Request 2:
+-Surveying  premises:  100 million. First, survey is very important because it can help to decrease the risk.
+-Designing the interiors consistent with the  brand: 400 million. Designing help brand is popular.
+-Training local personal: 100 million. Training is very important it help local person clearly to implement the working.
+-Rent the building: 300 million. The place for Coi Cafe can sell the coffe and seeds.
+-Decord the building: 300 million. Decord help brand is easy to find and can become special.
+
+Request 3:
+- Over Quality. Because the local person can not hard-working for the brand.
+- Over time: Competitive more the coffee store in the local, doesn't have legal document
+- Over Budget:  The cost of building become highly suddently.
+
+Request 4:
+1. Three project roles: PM ,    HR team,    marketing team 
+Gather Users:                I             R, A                   C
+Survey premises:           I             I                         R,A
+Select premises:            I             I                         R,A
+Design consistent:         C            C                       R,A
+Construct consistent:     C            C                       R,A
+Recruit local personnel  I              C                       R,A
+Training local personnel I              C                       I               
+Decord the bulding         C            C                       I
+Advertising the brand      I             C                       C
+prepare project  report  R,A          C                       I
+
+
+
+2)

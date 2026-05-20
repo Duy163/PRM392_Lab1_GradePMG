@@ -1,0 +1,75 @@
+1)
+REQUEST 1:
+Project Charter:
+Project name: GreenCoi Project
+Detailed description:
+- The project will be surveying and selecting premises, designing and contructing interiors consistent with the brand, recruiting and training local personel, buildig a raw material supply and launching campaigns for each newly opened store located in 5 Central provinces.
+- Purpose: To impplement an expansion into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh). This project is in orderto bring the nostalgic space, tradition drinkmenu and sustainable model to the central part of Vietnam.
+Project Constrains:
+- Scope: 
+  + Surveying and selecting premises
+  + Designing and constructing interiors with the brand
+  + Recruiting and training local personel
+  + Building a raw material supply chain from Central Region suppliers
+  + Launching campaigns for each store.
+- Time: Within 12 months with 1 flagship store in each province
+ - Cost/budget: VND 8.5 billion (approximate VND 1.7 billion/store) from equity and commercial bank loans.
+ - Quality: Each store much reach the break-even point within 8 months after opening
+
+REQUEST 2:
+Five main cost/budget items:
+- Training and recruiting local personel.
+  + Description: In order to bring the best experience to the customer, employee must completed the training course.
+  +  How to estimate: each recruiting period * VND 2.5 million for the trainer. recruiting period should last for 1 week. By cover the number current employees and workload, there should be 2 recruiting period per months, total VND 5 million/month approximate for each store.
+  + HR team should cover this part.
+ - Advertising/Promoting on social media platform
+  + Description: By entering different culture part of country, old Marketing plan can not be used. A new plan must be considered in order to reach break-even point within 8 months.
+  + How to estimate: VND 10 million per small promotion (monthly/weekly sales, new product,...) and VND 25 million per large promtion (KOLs collabration,Special days(Tet,..),..). Aproximate 25 million to 35 million per month each store.
+  + Marketing team should cover this part.
+ - Designing and constructing interiors
+  + Description:    In order to have an consistant theme with brand but keep every store have its own sepecalty.
+  + How to estimate: 
+     - Designing: VND 60 million 
+     - Constructinng: VND 350 million per store
+  + Interior design team will cover this.
+     Total VND 1.81 Billion approximate.
+ - Launching Campaign
+   + Descriprion: Bi-Monthly campaign about Coi Cafe to inform its traditional, green business model to attract consumers.
+   + How to estimate: VND 30 million per campaign, 6 campaign per year, total VND 180 million per year.
+   + Marketing team should cover this.
+ - Collaborating with material supply chain from Central region suppliers
+   + Description: In order to having enough materials, local suppliers are perfect choice to reducing distance and promoting local product.
+   + How to estimate: signing contract with 2 big and famous suppliers in central provinces. each contract should last for 1 year period. Estimating VND 2 Billion per year.
+   + PM shoud cover this part.
+2)
+REQUEST 3:
+Three project risks:
+- Overly used budget
+  +The cost of the project might surpassed VND 8.5 Biilion.
+  + Possible impact: there will be not enoung money for latern items
+  + Response plan: building a cost contingency and mitigating all low-needed item.
+ - Long construsting time:
+  + Central provinces are frequently under natural disaster, this can extend the constructing time
+  + Possible impact: It takes more time to open a store and might affect to the break-even point.
+  + Response plan: investigate all the quality of the places to make sure to construct and open in a perfect condition.
+  - Low quality or unfamiliar supplies.
+  + Local supplies are maybe diiferent than the original supply or the quality is not met
+  + Posible impact: the product made from local supplies is not good as the originals, lower the quality of the products.
+  + Response plan: Reduce the quanlity of local supplies in used and expand suppliers radius (Daklak).
+
+REQUEST 4:
+Three project roles;
+ - Market Development Director as PM
+ - HR team as HR
+ - Marketing team as MKT
+Tasks, activities, deliverables:
+ - Develop project charter & plan: PM-A, HR-C, MKT-C
+ - Recruit and train local personel: PM-A, HR-R, MKT-I
+ - Build raw materials supply: PM-A/R, HR-I, MKT-C
+ - Lanch campaign: PM-I, HR-I, MKT- A/R
+ - Approval for campaign: PM-A/R, HR-I, MKT-C
+ - Budget disbursement: PM-A/R, HR-I, MKT-I
+ - conduct final report: PM-A, HR-I, MKT-C
+ - Manage social media: PM-I, HR-C, MKT- A/R
+ - Manage quality of human resources: PM-I, HR-A/R, MKT-I
+ - Survey and selecting premises: PM-A, HR-C, MKT-R.

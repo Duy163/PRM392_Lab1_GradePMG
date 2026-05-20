@@ -1,0 +1,81 @@
+1)
+Request 1: 
+
+Project name: Implement an expansion project into 5 Central provinces, with 1 flagship store in each province
+
+Justificantions:
+     Purpose: the project aim to implement an expansion project into 5 Central provinces ( Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province
+    Reason: the project due to Coi's management want to make the Coi Cafe is more famous. and earn money form 5 Central
+
+Porject:
+    Constraints: Surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain and launching campaigns for each store
+    Scope: 1 flagship store in each province into 5 Central provinces ( Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) 
+     Time: 
+          + Each province within 12 months
+          + Each store must reach he break-event point  within 8 months afer opening 
+     Budget: total buget is VND 8.5 billion ( approximately VND 1.7 billion/store)
+     Quality:
+          + Each province must keep famous for nostalgic space, traditional drink menu,  and sustainable busines model ( using reusable cups, purchasing coffee directly from Dak Lak farmers)
+          + And the project includes: surveying and selecting premises, designing and constructing interiors consistent with the brand
+          + Building a raw material supply chain from Central region suppliers, and each store can launching campaigns 
+
+
+Request 2:
+
+Name: Designing and constructing 
+Description: each store must designing and contructing to make it have a same style with stores in Hanoi or Ho Chi Minh, or have styles good at that place
+
+Name: recruiting and training local personnel
+Description: recruiting and training is one important part to management the store
+
+Name: building a raw material supply chain
+Description: to connect to Cenral region suppliers, and make more famous in that local
+
+Name: Launching campaigns 
+Description: each campaign we lauch to keep user and make store trending we must spent some cost in that
+
+Name: Buy and deliver material
+Description: we purchasing coffee directly from Dak Lak Farmers but the way is difference 
+2)
+Request 3:
+
+- marketing team
+
+Name: Price and quality of drink
+Description: In a coffee brand the price and quality is a important part, they can come because the brand is new but if the price of drink to high or quality is bad so they with not comeback.
+Possible impacts: that with have a bad impact to quality and cost because it is make the brand have low star im vote of brand and they do not come so can make cost to keep that store is increase
+Relevant risk response plan:
+     + We must check all the coffee store around in that local to make sure our price do not high much than other one.
+     + I know the coffee directly from Dak Lak but it is do not mean everyone in that place like that taste, so we can drink some coffee in famous coffee local, if our coffee is good we can buy more, if not we can buy other product like ice cream with coffee, or coconut ... 
+
+Name: Designing and constructing
+Description: if product is good but the teenager is do not have place to check in, or the view is not good , it can make we have some people come because the quality and it loss 50% is teenager to check-in 
+Possible impacts: that is bad for cost because the teenager is a best free marketing for store and if loss them we loss the marketing and much people come because the view 
+Relevant risk response plans:
+     + If we do not have view so we can lauch more campaigns to focus the teenager is drawing or creative new toping,... and we can design later if reach the break-even point
+
+Name: Marketing team
+Description: the markting is a part to make everyone come to our coffee but if the marketing do not do well so that can be very worse
+Possible impacs: bad for cost, and time we must spent more for marketing because we are the new brand in that local so if we not have trending so we can dead at first
+Relevant risk response plans:
+     + Increase cost for marketing 
+     + Lauch new compaigns before have a store to everyone know about that
+ 
+Request 4:
+Project Manager: led by the Market Developmen Director
+HR team: the team to manager recruiting and training local personnel
+Marketing team: Markting the store to everyone
+Design team: designing and constructing all 5 store
+
+
+10 task:
+idea for campaign
+check for campaign
+design the campaign
+delop the campaign
+review the campain
+choice material
+market the campaign
+recruit team
+trainning team
+manager team

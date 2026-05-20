@@ -1,0 +1,123 @@
+1)
+Request 1:
+Project name: Coi Cafe Central Expansion Project 2026.
+This project is to open 5 new stores in Central Vietnam. One store in each place: Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh. The main purpose is to grow the brand and reach more customers. Coi Cafe already strong in Hanoi and HCM, so now expand is needed. Also, Central area is growing fast, many young people and tourist. This can bring more profit and brand awarness. Another reason is to build local supply chain, buy coffee from nearby farmers, reduce cost a bit and keep sustainable ideas.
+Project has some constraints. First is scope. Only 5 stores, not more. Each must follow same concept: nostalgic design, traditional menu, eco style. Second is time. Total project must finish in 12 months, so quite tight. Third is cost. Budget is 8.5 billion VND, approximately VND 1.7 billion/store, cannot overspend. Last is quality. Store must look same brand image, drinks must keep same taste, service need training well. If quality drop, brand image will be bad.
+Request 2:
+Name: Rent & deposit cost
+Decription: pay for store place, include deposits and first moths rent. Very imporant.
+Estimation: around 400–500 mil/store.
+How to estimate: check market price in each city, ask landlord, compare 2-3 options.
+Person in charge: Market Development team lead. 
+Name: Interior design & construction
+Description: design space, build inside, table chair, decor. Make nostalgic style.
+Estimation: about 500–600 mil/store.
+How: based on past store cost, work with design team, get quotation from contractor.
+Person: Interior design team + PM approve. 
+Name: Equipment & machine
+Description: coffee machine, grinder, fridge, POS system.
+Estimation: 250–300 mil/store.
+How: check supplier price list, maybe get discount if buy many.
+Person: Operation team support, PM check. 
+Name: HR recruitment & training
+Description: hire staff, train barista and service.
+Estimation: 100–150 mil/store.
+How: count number staff needed, cost per training, salary training.
+Person: HR team in charged. 
+Name: Marketing & launching
+Description: opening event, ads, social media, promotion.
+Estimation: 120–180 mil/store.
+How: base on old campain, plan ads budget, KOL if needed.
+Person: Marketing team lead. 
+Name: Raw material supply setup
+Description: find supplier, logistics, first stock of coffee, milk, etc.
+Estimation: 80–120 mil/store.
+How: estimate first 1–2 month usage, ask supplier price.
+Person: Supply chain team. 
+Request 3:
+Risk 1: Delay in construction
+Description: contractor finish late or problem with material.
+Impact: time delay, cost increase (pay more rent, labor), scope maybe reduce decor.
+Response:
+Mitigation: choose trusted contractor, clear contract, weekly check progress. 
+Contingency: prepare backup team or adjust opening date. 
+Risk 2: Cannot reach expected revenue
+Description: new market maybe low demand or wrong location.
+Impact: affect quality (cut cost), time to break-even longer, cost pressure high.
+Response:
+Mitigation: do good market research, choose good location, strong marketing. 
+Contingency: run promotion, adjust menu price, reduce some cost. 
+Risk 3: Supply chain problem
+Description: lack of materials or delay delivery from supplier.
+Impact: affect quality (no same taste), time delay in opening, extra cost.
+Response:
+Mitigation: have 2–3 suppliers, sign contract early. 
+Contingency: use backup supplier, keep safety stock. 
+Request 4:
+Project roles:
+PM (Project Manager – Market Development Director) 
+ID Team (Interior Design team) 
+HR Team 
+Marketing Team 
+Tasks / Activities:
+Market research
+PM: A
+ID: C
+HR: I
+MKT: R 
+Location selection
+PM: A/R
+ID: C
+HR: I
+MKT: C 
+Contract signing
+PM: A/R
+ID: I
+HR: I
+MKT: I 
+Store design
+PM: A
+ID: R
+HR: I
+MKT: C 
+Construction
+PM: A
+ID: R
+HR: I
+MKT: I 
+Equipment purchasing
+PM: A
+ID: C
+HR: I
+MKT: I 
+Staff recruitment
+PM: A
+ID: I
+HR: R
+MKT: I 
+Staff training
+PM: A
+ID: I
+HR: R
+MKT: C 
+Marketing campaign
+PM: A
+ID: C
+HR: I
+MKT: R 
+Store opening event
+PM: A
+ID: C
+HR: C
+MKT: R 
+Supply chain setup
+PM: A
+ID: I
+HR: I
+MKT: I 
+Performance monitoring
+PM: A/R
+ID: I
+HR: C
+MKT: C
+2)

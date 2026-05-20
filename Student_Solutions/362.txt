@@ -1,0 +1,70 @@
+1)
+Request 1: 
+1. Project name: Coi Cafe - your local nostalgic coffee shop.
+2. Justification:
+- Purrpose & reason: implementing an expansion project into 5 Central provinces (Da Nang, Hue, Quang Ngai, Binh Dinh), with 1 flagship store in each province.
+
+3. Project constrains:
+- Scope: surveying and selectiong premies, designing and constructing interiors consistent with the brand, recruiting and training local personel, bulding a raw material supply chain from Central region suppliers, and launching campaigns for each store.
+- Time: 12 months
+- Cost/budget: VND 8.5 billion (approximate VND 1.7 billion/store) from equity and bank loans.
+- Quality: each store must reach the break-even point within 8 months after opening.
+
+Request 2: Five main cost/budget items:
+1. Estimation: 1.2 billion (600 million/store)
+Name: Designs and Constructions
+Description: must be consistent to the brand itself (nostalgic, traditional)
+How to estimate: coordinating with the the interior design team, brief the idea, provide key visual of the brand.
+Person in charge: interior design team
+
+2. Estimation: 500 million (100 million/store)
+Name: Seasonal Campaigns
+Description: the campaigns must be aligned with the Coi Cafe's expression, be changed each season to engage more audiences
+How to estimate: each season, the flagship stores might use an additional menu with new drinks only being used in that month/season to gain curiousility -> get more customer
+Person in charge: Marketing Team
+
+3. Estimation: 500 million (100 million/store)
+Name: Recruiting and Training
+Description: 
+Way to estimate: 
+Person in charge: HR team
+2)
+Request 3: Project risks:
+1. D
+- Nam/title: Delay in break-even point
+- Description: Break-even point can not be reached within 8 months after opening.
+- Possible impacts: can't achive the given quality in the given time, consume more budget as the break-even point is delayed.
+- Relevant risk response plans
+
+2. 
+- Name/title: lack of consistency in designs and constructs
+- Description: the flagship store' constructions or relevant designs are irrelevant/ with Coi Cafe's expression
+- Possible impact: confusion among audiences, wasting time and budget but still can not gain more awareness
+- Relevant risk response plan: follow the brief carefully, use the existed elements of the brand, avoid creating new elements or color
+
+3. 
+- Name: Differences between stores
+- Description: each store has different drinks/services quality
+- Possible impacts: customers have different impressions and experiences about the brand
+- Relevant risk response plan: be carefull in recruiting and traning.
+
+Request 4: 
+1. Project roles: Market Development Director also known as PM, interior design team, HR team, marketing team
+
+2. Ten tasks, activities or deliverables:
+2.1. Surveying and Selecting premises.
+2.2. Researching market.
+2.3. Constructing and Designing.
+2.4. Create new recipes for new drinks each season.
+2.5. Hiring, training new employees for each store.
+2.6. Manage budget.
+2.7. Building supply chain.
+2.8 . Run ads on social media
+2.9. Hire KOLs KOCs to share the experiences of new flagship store.
+
+
+3. 
+For 2.3: Interior Design Team responsibility is to make sure everything align with the brand expression: nostalgic, traditional
+Responsible for 2.5: HR team find suitable and responsible, willing to learn employees.
+Responsible for 2.1 & 2.2: PM makes sure that the market is suitable for brand's direction
+Responsible for 2.8, 2.9: Marketing team base on the descriptions of store/brand campaigns to create suitable script.

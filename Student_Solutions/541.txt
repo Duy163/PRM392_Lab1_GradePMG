@@ -1,0 +1,43 @@
+1)
+Request 1:
+1)
+- Project name: Coi Cafe
+2) Justifications:
+- Purpose: Coi's management decided to implement an expansion project into 5 Central provinces ( Da Nang, Hue, Qunag Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 months
+- Reasons: Coi Cafe is a pure Vietnames coffee brand with 12 stores in Ha Noi and Ho Chi Minh city, famous for its nostalgic space, traditional drink menu, and sustainale business models (using reusable cups, purchasing coffee directly from Dak Lak farmers)
+3)  Project constraints:
+- Scope: This project includes: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain fromm Central region sippliers, and launching campaigns for each store
+-Time: within 12 months
+- Cost/budget: The total budget is VND 8.5 billion (approximately VND 1.7 billion/store)
+- Quality: each store must reach the break even point within 8 months after opening, must selecting premises good, completed with flagship store in each province before 12 months, designing and constructing interiors consistent with brand good build a raw material supply chain from Central region suppliers
+
+Request 2:
+ 1) Name:Software information
+   -Description: building a raw material Developer to do system Coi Cafe management help manage manual and efficiently
+-  Cost/ budget: VND 200 million
+- Person in charger: project management
+2) -Name:Team desinger
+- Description: buy and build team desing good, improve quality project make to image project good and customer know more, designing constructing interior connsistent with the brand
+- Cost/ budget: VND 300 million
+- Person in charger: project management
+3) Name:Team marketing:
+- Description: training member and apply team marketing good to bring many suppliers and customer. Team always post, runs seedinng on the social media
+- Cost/ budget: VND 500 million
+- Person in charger: team marketing management
+4) Name: Team HR
+- Description; buy and build team HR and apply members good quanlity can search menbers quanlity help to system good and develop and can each complete projecg before plan
+- Cost/ budget: VND 300 million 
+- Person in charger: project management
+Request 3: 
+1) - Name: lack cost budget 
+ - Description: The total budget is VND 8.5 billion, but team marketing or team desinger cost increase make to budget high VND 8.5 billion 
+-Possible impacts: time delay, and can not complete project, will impact quality product when buying customers and each store can not reach the break even point within 8 months after opening 
+2)  Name : the members lack and different mindset make complict
+- Despcription: Training not good, lack coordinating, least activities and not complete task, the members not mindset
+- Possible impacts: impacts to system timeline delay and quality to work increase impact on the process building project and can not complete and can not sustainable business model 
+3) Name: lack product and suppliers 
+- Description: In the process lack product need to more product make complete project before timline but lack product or delay will impact quality and time plan and can not build project complete
+- Possiable impacts : will impacts time each store can not reach the break- even point within 8 months after opening, impact to quanlity system amd not sustainable business model and not constructing interiors cosistent with the brand and impact scope can not building a raw material supply chain from Central region suppliers.
+ 
+
+2)

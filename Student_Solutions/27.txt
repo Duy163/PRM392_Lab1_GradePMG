@@ -1,0 +1,44 @@
+1)
+Request 1:
+- Project name: "Coi Cafe" trending in Vietnam by using reusable cups, purchasing coffee directly from Dak Lak farmers and implement an expansion project into 5 Central provinces campaign.
+- Justification: This campaign aims to surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store and get everyone to know about the famous coffee brands for its nostalgic space, traditional drink menu and sustainable business model.
+- Project constraints:
+ + Scope constraints: the project include a pure Vietnamese coffee brand with 12 stores in Hanoi and Ho Chi Minh City, 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 months.
+ + Time constraints: the project will be province within 12 months. All deliverables must be completed within this timeframe with no extension.
+ + Cost constraints: Total budget is VND 8.5 Billion (approximately VND 1.7 billion/store). All activitives must remain within this fixed budget with strict financial control.
+ + Quality constraints: Campaign success is measured by engagement metric including 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh).
+
+Request 2: SMART objectives
+- Objective 1: Achieve at least 10 million total video views about training local personnel:" How to make a Cup of Coi Cafe" in social media platforms within 12 months.
+ + Measurement: Platform analytics dashboard.
+
+- Objective 2: Engage at least 5 Central provinces (Da Nang, Hue, Quang Nam. Quang Ngai, Binh Dinh), with in 1 flagship store.
+ + Measurement: Official participation records or views of the video in every social media platform.
+
+- Objective 3: Increase average implement an expansion project and break-event point after opening, among participant by at least 20%.
+ + Measurement: Pre and post campaign surveys. 
+2)
+Request 3: Communication Plan:
+- Stakeholder - Information - Purpose - Frequency - Method - Responsible.
+
+ + Project teams - Task/Process - Coordination - Weekly - Meeting - PM.
+ + Ministry - Budgets, KPIs - Approval - Mothly - Report - PM.
+ + Sponsor (Equity and Commercial bank loans) - Campaign Details - Participation - Bi -Weekly - Email - Coordination.
+ + KOLs - Content guidelines - Aligment - Weekly - Online - Marketing Lead.
+
+Request 4: Project Milestone and Dependencies
+- Milestone 1: Campaign Planning Completed (Month 1 - Month 2).
+- Milestone 2: Content production and Launch (Month 3 - Month 10 ).
+- Milestone 3: Campaign excution and engagement (Month 11 - Month 12).
+
+Activitives:
+1. Research and Draft (Start)
+2. Internal Review ( FS with "Research and Draft")
+3. Final Revision ( FS with "Internal Review")
+4. Resource Allocation (SS with "Research and Draft" - Start together)
+5. Quality Testing (FS with "Final Revision")
+6. Content Production (SS with "Quality Testing")
+7. Approval Sign-off (FS with "Content Production")
+8. Marketing Campaign (FS with "Approval Sign-off")
+9. Feedback Collection (FF with "Marketing Campaign" - Finish "Marketing Campaign" to Finish "Feedback Collection")
+10. Final Deployment (FS with Feedback Collection.

@@ -1,0 +1,152 @@
+1)
+REQUEST 1:
+1.1. Coi Cafe Flagship 
+
+1.2.1. Purpose: implement an expansion project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) with 1 flagship store for each within 12 months
+
+1.2.2. Reasons: To make Coi Cafe become more popular.
+
+1.3.1. Constraints:
++ Resources: Design Team, HR Team, Marketing Team and lead by Market Development Director (Project manager)
+
+1.3.2. Cost
++ total budget 8.5 billion VND (1.7 billion/store)
+
+1.3.3. Time:
++ Open 5 stores for each province within 12 months
++ each must reach the break-event point within 8 months after opening
+
+1.3.4. Scope:
++ Survey and select premises
++ Design and construct interiors consistent with the Coi Cafe Brand
++ Recruit and train new local employees. 
++ Build a raw material supply chain from Central region supplier.
++ Lauch campaigns for each store
+
+REQUEST 2:
+2.1. Rescruit and train local personnel
++ Description: Hire and train new people from the local area to work for each store
++ Person in charged: HR Team Manager
++ Estimate: 2 months
+
+ 2.2 Marketing campaigns
++ Description: Lauching a marketing campaign for each store
++ person in charged: Marketing Team Manager
++ Estimate: 1 month after opening
+
+2.3 Design Banner
++ Description: Design the banner for marketing campaigns (consistent with Coi Cafe)
++ Person in charged: Design Team Manager
++ Estimate: 3 months
+
+2.4 Survey local people
++ Description: survey and make a report including local peoples' ideas and hobbies for the marketing plan.
++ Person in charged: HR Team Manager
++ Estimate: 1 month (from the start)
+
+2.5 Building supply chain
++ Description: Contact and sign contract with a raw material suppler from Central region for each store.
++ Person in charged: Market Development Director.
++ Estimate: 8 months
+2)
+REQUEST 3:
+3.1. Fail to sign contract to supplier
++ Possible/Impact: Low/High
++ Description: Fail to sign contract to the supplier or the raw material is not suitable for the brand products
++ Impact: This may increase Time and cost or even can reduce the quality
++ Mitigation: Prepare a sustain amount of raw material to back up
++ Contingency: Find at least 2-3 suppliers in local area/Central region 
+
+3.2. Lacks of employees
++ Possible/Impact: Low/High
++ Description: Can't find enough people for a store
++ Impact: Make the store's performance reduce
++ Mitigation: HR Team would work overtime
++ Contigency: Recuit Part-time workers
+
+3.3. Over budget 
++ Possible/Impact: Medium/High
++ Description: All the cost or marketing plans are over budget of a store (over 1.7 billion VND)
++ Impact: increase the time for store to reach to break-event within 8 months
++ Mitigation: Inform to Coi Cafe owner about the situation. Find others store that under budget to back-up to this store.
++ Contigency: Reduce the store's scope and re-planing the marketing campaignss
+
+REQUEST 4:
+4.1. Roles
++ Design Team
++ HR Team
++ Marketing Team
++ Market Development Director (PM)
+
+4.2 Tasks
++ A: Recuit and Train local personnel
++ B: Survey and selecting premises
++ C: Building supply chain
++ D: Design Banner
++ E: Lauch Marketing Campaigns
++ F: Booking Influencers for marketing
++ G: Lauching local Opening-Event
++ H: Make a work schedule for employee
++ I: Design recuiting full-time/part-time employees banner
++ J: Make short viral clip for marketing every week
+
+4.3 Responsibilities
+Task A:
++ Design Team: I
++ HR Team: R
++ Marketing Team: I
++ PM: I
+
+ Task B:
++ Design Team: I
++ HR Team: R
++ Marketing Team: C 
++ PM: I
+
+Task C:
++ Design Team: I
++ HR Team: I
++ Marketing Team: I
++ PM: R
+
+Task D:
++ Design Team: R
++ HR Team: I
++ Marketing Team: I
++ PM: I
+
+Task E:
++ Design Team:I
++ HR Team: R
++ Marketing Team: R
++ PM: A
+
+Task F:
++ Design Team: I
++ HR Team: I
++ Marketing Team: R
++ PM: A
+
+Task G:
++ Design Team: C
++ HR Team: R
++ Marketing Team: R
++ PM: A
+
+Task H:
++ Design Team: I
++ HR Team: R
++ Marketing Team: I
++ PM: I
+
+Task I:
++ Design Team: R
++ HR Team: C
++ Marketing Team: I
++ PM: I
+
+Task J:
++ Design Team: R
++ HR Team: I
++ Marketing Team: R
++ PM: A

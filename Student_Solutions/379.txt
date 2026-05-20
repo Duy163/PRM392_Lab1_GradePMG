@@ -1,0 +1,144 @@
+1)
+Request 1 
+1. project name : "Coi Coffe compain"
+2. Justification
+- purpose: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and lauching campains for each store.
+- reasons :
++  training local personel into platform
++ the brand want to surveying find out trend, customer's meet, statisfied,...
++ recruiting employee for store
++ markerting the coffe brand into 5 central 
+3. Project constraints
+- interm of scope
+  + the project expansion into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai. Binh Dinh)  
+- time : 12 months
+- cost: the total is 8.5 billion VND
+- quantity :
+  + each store must reach the break-even point within 8 months after opening
+
+
+Request 2
+1  marketing cost 
+-   maketing project into facebook, tiktok for each store, rent KOL promote into social media to promote bussiness model : using reusable cups, purcahsing coffe form Dak Lak
+-  estimate : 300 million VND
+-  base on cost of KOL's  booking and cost package social media of facebook, tiktok  
+- person on charged : marketing development  director
+2 design cost
+- include desige UI/UI and design poster advertize bussiness model using reusable
+- estimate 200 million VND
+- Anologous : using cost design report from old project   
+ - person on charged : Market Development Director
+3 reverse cost
+- reverse cost for risk    
+- estimate 200 million VND 
+- base on risk about behind schudule or cost marketing over budget or design cost over estimate
+- person on charged : Marketing development director
+4 employee salary
+-  salary for each member into team
+- estimate 20 millon VND
+- bottom up ; devide task estimate cost for employee
+5 training personel cost
+- open course traning personel
+- estimate 100 milion VND
+- Anologous base on report of old project
+ 
+Request 3
+ risk 1: KOL change decide 
+         + Stopping maketing of KOLt
+      + cost : 100 million VND
+     + time : after opening project
+        + mitigation : using contract with KOL if stoping connect return booking fee
+      + contingecy : book new KOL for markerting
+risk 2 : stop markerting into socail media
+         + stop markerting into tiktok due to VietNam ban tiktok 
+    + cost : 100 million VND
+    + time : after implement project finish 
+   + Mitigation: plan marketing into 2 social mdeia 
+     + contingecy : using new social media
+risk 3 : stopping of member key into team
+    + one member key into team stop work impart proccess
+   + time : during proccess implement project
+  + cost :  20 million VND 
+   mitigation: write document guid for  member into team  can do and understand
+  contingency: recruilt new menber for team   
+
+
+Request 4
+1  project role: 
++ HR team
+ + marketing team
++ Marketing Development Director
++ interior desinge team 
+2 . task of role
+   Task 1: Get Requirement 
+   Task 2 : Design UI/UI for project
+   Task 3:   Design poster
+  Task 4: plaining milistonse 
+  Task 5: tracking schedule project
+  Task 6: create content marketing into social media
+  Task 7 create report cost 
+  Task 8 training personel
+  Task 9  marketing into social media 
+  Task 10 recruiting local personel 
+
+3 responsibilities
+ task1 
+ - R : marketing team  
+- A : maketing development director
+- C : Maketing development director
+- I : Maketing development director, marketing team
+
+task2
+R : design team
+A : maketing  develpment director
+C : Maketing development director
+I : Maketing development director
+
+Task 3
+R: desige team
+A Maketing development Director
+C Marketing development Director
+I : Maketing development Director
+
+Task 4
+R Maketing development Director
+A Maketing development Director
+C HR team
+I  Design team, maketing team
+
+Task 5 
+R:  Maketing Development Director
+A Maketing Development Director
+C : HR team
+I Design team , Maketing Team
+
+Task 6 
+R Maketing Team
+A Maketing development Director
+C Maketing development Director
+I Maketing development Director
+
+Task 7
+R HR team
+A Maketing Development Director
+C Maketing Development Director
+I Maketing Development
+
+Task 8 
+R HR team
+A Maketing Development Director
+C Maketing Development Director
+I Maketing Development Director
+
+Task 9
+R Maketing Team
+A Maketing Development Director
+C Maketing Development Director
+I Maketing Development Director
+ 
+Task 10
+R HR team 
+A Maketing Development Director
+C Maketing Development Director
+I Maketing Development Director
+2)

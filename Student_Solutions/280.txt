@@ -1,0 +1,94 @@
+1)
+REQUEST 1:
+-Project Name: Coi Cafe
+-Justification:
+          -Purpose:Surveying and selecting premises, designig and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw meaterial supply chain from Central region suppliers, and lauching campaigns for each store
+          -Ofjective: increase Coicafe's revenue by 30% within1 year after opening.
+-Constraints:
++Scope: 
+Implement an expansion project into 5 Central provinces(Da Nang,Quang Nam,Quang Ngai, Binh Dinh)
+Operate with the core team of PM,design team,marketing team
++Time: Each store must reach the break-even point within 8 months after opening
++Cost/Budget: 8.5B VND(1.7B for each store)
++Quality:Each store must be the same quality of products
+
+
+
+REQUEST 2: 
+
+-Labor cost:
++Description:Salarys and benefits for the projrct teams.
++Estimate Cost:1B
++Estimate Method : Bottom up(Salary x Headcounts x Month)
+
+
+-Infrastuctue:
++Description:AWS, software license,hosting
++Estimate Cost: 200M
++Estimate Method: Analougs(Base on past projct or vendor quotes)
+
+-Equipment : 
++Description: furniture,design device,..
++Estimate Cost: 200M
++Estimate Method: Parametric(Unit price x Quantity)
+
+
+-Marketing and Training: 
++Description: Ads campaign and staff skills training
++Estimate Cost : 100M
++Estimate Method : Expert judgement (base on project plan/goal)
+
+
+-Contigency reverse:
++Description: for identifiy risk and minor change request
++Estimate Cost: 800M
++Estimate Method: Percentage(10% of total budget base on risk level)
+ 
+
+
+
+REQUEST 3:
+-Scope Creep:Probability(High),Impact(high),Level PxI(High) 
++Response straegy: Mitigate:Implement a strict request chane process for all modiication
+
+-Key developer resignation:P(Medium),Impact(High),Level PxI(High)
++Response straegy:Mitigae: Enforce detail information and use pair programming for knowledge transfer
+
+-Third party API downtime: P(low),I(Medium),Level PxI(Medium)
++Response Sraegy: Accept:Create data caching and allocate a contigency reverse for back up
+
+
+
+
+REQUEST 4: 
+Three role:
+Project Manager (PM)
+Business Analysis (BA)
+Software Developer(SE)
+
+
+-Gather and analysis business requirement:PM(I),BA(R,A),SE(C)
+-Develop project plan and budget:PM(R,A),BA(C),SE(C)
+-Design system architecture:PM(I),BA(C),SE(R,A)
+-Ads campaign:PM(I),BA(R,A),SE(C)
+-Design UI/UX :PM(I),BA(C),SE(R,A)
+-Trainning local personnel:PM(I),BA(R,A),SE(C)
+-Design interiors:PM(I),BA(R,A),SE(C)
+-Equipment Purchase:PM(R,A),BA(C),SE(C)
+-Writer user mannual document:PM(R,A),BA(C),SE(C)
+-Project closer and report:PM(R,A),BA(C),SE(C) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2)

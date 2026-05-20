@@ -1,0 +1,101 @@
+1)
+Request 1:
+1. Project name: Coi Cafe Business Expansion
+2. Justification:
+     2.1 Purpose: The Coi Cafe is going to expand their business from Hanoi/Ho Chi Minh city into 5 Central provinces( Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+     2.2 Reasons: Due to the growing recognition from the customers. Coi Cafe is planing to expand there business to even further reach out to more potential customers, which may lead to significant higher business revenue.
+3. Constrain
+     3.1 Scope constrain: Surveying and selecting premises, designing and constructing interiors, recruiting and training local personel, building raw material supply chain, launching campaigns
+     3.2 Time constrain: The project must be able to establish 1 flagship store in each province within 12 months.
+     3.3 Cost constrain: The total budget is 8.5 billion VND. In addition, Each store must reach the break-even point within 8 months after opening
+     3.4 Quality constrain: In each store of the Cafe chain, they must: facilitate a sense of nostalga, have traditional drink menu and sustainable business model( reusable cups, coffee from Dak Lak farmers)
+
+
+
+
+
+Request 2:
+I will only take into account the cost budget relating to the new stores in 5 central provinces
+Cost item 1: Labor cost
+     1.1 Desciption: This cost will cover the wage for employees each month
+     1.2 Estimation: Bottom-up Estimation
+                  Each store will have 10 employees, Each hour, a person get 50.000 VND. They will work for 8h/day, 20day/month. This happens in all 5 stores
+                   That means: 10 * 50.000 * 8 * 20 *5 *12 = 4.8 billion VND.
+     1.3 Person in charge: PM/ HR
+
+Cost item 2: Training cost
+     1.1 Desciption: This will cover the training cost for the local personel
+     1.2 Estimation: Expert judgement
+                    According to the trainer. they will be training local for 3 sessions/week, last for 5 months. Each session last for 3 hours, at 200.000/h
+                    That means: 3 *5 * 3 * 200.000 * 5= 45 million VND.
+     1.3 Person in charge: PM/HR
+
+Cost item 3: Advertizing cost
+     1,1 Description: This cost will cover the marketing activities of the stores, including campiagns, social media, etc
+     1.2 Estimation: Analogous Esitmation:
+                   Base on the success of the 12-stores in Hanoi and Ho Chi Minh. They ran many campaigns, inviting many KOLs
+                    That means: 300 million VND( 
+     1.3 Person in charge: PM and marketing team
+
+Cost item 4: Facility cost
+     1.1 Description: This will cover the fees needed for building, constructing, equiment, interior.
+     1.2 Estimation: Analogous Estimation
+                  Base on the cost of the construnction of the previous store. But this time, the scale is slightly smaller.
+                   That means: 3 billion VND
+     1.3 Person in charge: PM/interior desgin team
+Cost item 5: Contigency cost
+      1.1 Description: This budget will be used for maintainance, equiment relacement, security and other unexpected occation
+     1.2 Estimation: Contigency Reserve
+                 Use 5% of the total budget for each store
+                  That means: 17 million VND
+After estimating all the costs, there is still some budget left, but not much. Which means, according to the estimation, the cost is managable
+2)
+Request 3: 
+Risk 1: Low customer service
+     1.1 Description: The stores fail to establsih the feeling of nostalga, poorly designed menu and unsistanable business model
+     1.2 Impact: High
+                  Scope: Fail to maintain the impression of a high quality, sustainable coffee chain
+                  Time: Wasting time without creating any valuable merits for the coffe chain
+                   Cost: Budget is wastely used for bad quality services
+     1.3 Response: Mitigate: Conduct intensive training for local personel in order to increase the performance of employees
+
+Risk 2: Cannot reach break-even point in 8 months
+     1.1 Description: After 8 months, this business model at 5 central provinces cannot create enuogh profit to make up for the original cost
+     1.2 Impact: Mediun
+                 Scope: fail to achive the goal of reaching break-even point
+                  Time: After 8 months of business, the 5-store cannot make any good progress, wating precious time 
+                  Cost: Directly impact the budget of the coffee chain
+     1.3 Response: Mitigate: Increase the overall performance of the store by trying new plans such as increased training session, more attractive interior space, increase the quality of service, to further boost the revenue
+
+Risk 3: Disruptive coffee source
+     1.1 Description; Due to uncontrollable factors, the coffee supply from Dak Lak cannot meet the requirement of the store, leading to worse coffee quality
+     1.2 Impact: High
+             Scope: Directly worsen the quality of coffee and service, making customers less willing to buy coffee at the stores
+              Time: Delayed distribution of Dak Lak's coffee makes the supply chain takes longer to operate properly
+              Cost: 
+     1,3: Response: Contigency; Establish coffee storage(inventory) to store a large amount of Dak Lak coffee, in case of emergency. During this time, the whole system must find a way to resolve this matter
+
+
+
+Request 4:
+1. Project roles: PM, HR, interior design team, marketing team, store manager
+2. 
+Initiate project: PM(R), PM(A), HR(I), interior team/marketing team/store manager(I)
+
+Define stakeholders: PM(R), PM/HR(A), HR(C), interior team/marketing team/store mangaer(I)
+
+Designing interior: Interior team(R), interior team(A), PM(C), HR/marketing team/store manager(I)
+
+Training local personel: Store manager(R), store manager(A), HR(C), marketing team/interior team/PM(I)
+
+Recruiting local personel: Store manage(R), store manager(A), HR(C), marketing team/interior team/PM(I)
+
+Building supply chain: HR/store manager(R), HR(A), PM(C), marketing team/interior team(I)
+
+Marketing: Marketing team(R), marketing team/HR(A), PM(C), interior team/store manager(I)
+
+Bartendering: Store manager(R), store manager(A), PM(C), marketing team/interior team/HR(I)
+
+Closing the project: PM/HR(R), PM/HR(A), marketing team/interior team/store manager(I)
+
+Maintaining(managing) the stores: Store manager(R), store manager/HR(A), PM(C), marketing team/interior team(I)

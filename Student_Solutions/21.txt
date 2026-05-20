@@ -1,0 +1,71 @@
+1)
+Request 1 
+Project name: Coi Cafe Vietnam
+Justification: 
+Purpose: Open a chain of a coffe store in 5 provinces with fully functional for training and running for Coi Cafe Vietnam.
+Reasons: Extend the store into 5 provinces 
+Success Criteria: Achieving target within a specific timeframe:
+(1) The Coi's management decided to implement an expansion project into 5 Central provinces with in 1 flagship store in each province within 12 months.
+(2) The project is completed within client's approved budget VND 8.5 billion.
+(3)The project must achieve successfully open in 5 provinces 
+(4) Each store mush reach the break-even point within 8 months after opening.
+
+Request 2
+
+Cost 1: Team Salary
+Description: Payment for all team members working on the project.
+Estimation: VND 400 milion 
+Way to estimate & Person in charge: Bottom - up method ( Calculate by multiplying average monthly salary by the number of working months). Handled by Project Manager
+
+Cost 2: Services  
+Description: Cost to rent or buy neccessary workspace, campaigns for the project.
+Estimation: VND 500 milion
+Way to estimate & Person in charge: Analogous method ( Based on the real cost of similar past projects). Handled by Project Manager
+
+Cost 3: Equipment 
+Description: Buying physical items need to do the work like, funiture, reusable cups, cofffee.
+Estimation: VND 500 milion
+Way to estimate & person in charge: Parametric method ( Price of one item multiplied by the total number of items needed). Handled by HR teams. 
+
+Cost 4: Marketing and Training
+Description: Cost for running ads to finds customers, and basic training for the employer in stores.
+Estimation: VND 100 milion
+Way to estimate & Person in charge: Expert Judgment ( Asking experts to guess the cost based on the marketing plan). Handled by the marketing team
+
+Cost 5: Contingency Reserve 
+Description: Extra backup money saved for unexpected risks, problems, or changes. 
+Estimation: VND 200 milion 
+Way to estimate & Person in charge: Percentage method ( Calculated as 10% of the total project budget). Handled by Project Manager
+2)
+Request 3: 
+
+Return campaigns
+Descriptions: The owner want to get back the campaigns for their own buisiness.
+Possible impacts: High
+Mitigation: Talk to the owner to fit hiring the campaigns till HR can find another places
+Contigency: Make a document to ensure that the campaigns can not be return before the return time
+
+Out of coffee
+Description: With bad weather, the coffee may be can not have enogh for the store
+Possible impacts: High
+Mitigation: Imediately contact to another farm with the same quality coffee and fill the missing 
+Contigency: Buying more than requirement coffee to store it in stores or have a supportive farm 
+
+Bad jugdement
+Description: Bad jugdement from the customer in service and have bad description on app 
+Possible impacts: Medium
+Mitigation: Have a appologize to customer and have a gift or discount for next service
+Contigency: Always make sure the servicing in good condition, with unexpected situation, need to contact to the store managers or higher position. 
+
+Request 4: 
+Project roles: Project manager (PM), HR, BA, Designer, store manager (SM), marketer, store employee (SE) .
+1. Gather User Requirements: PM (I), BA (R,A).
+2. Surveying and selecting premises: Marketer (R, A), PM (C), BA (C).
+3. Rebranding and designing: PM (C), BA (C), Designer (R,A) .
+4. Recruits employee: HR (R,A), PM ( C )
+5. Training the store employee: SM (R,A)
+6. Contact to the third person: BA (R, A), PM ( C )
+7 Lauching campaigns: PM(R, A), HR ( I ), BA ( I ) 
+8. Prepare project Status Report: PM (R,A), BA(I)
+9. Advertising store: Marketer (R,A)
+10. Run the store: SM (R,A), SE ( R ) 

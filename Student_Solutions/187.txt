@@ -1,0 +1,90 @@
+1)
+Request 1: 
+1, Project name : Coi Cafe
+2. Justifications: 
+Coi's management want to implement an expansion project in to 5 central provinces( Da Nang, Hue, Quang Nam,Quang Ngai, Binh Dinh) with flagship store .
+3. Contraints: 
+ + Scope: The project includes Surveying and selecting preeses, designing and constructing interiors consistent with the brand, recruiting and training local personnel,building a material subbl chain form Central region supplier, and launching campaigns for each store. The project led by the Market Development Director as PM, HR team, design Team and marketing team.
+ + Cost : The total budget is VND 8.5 billion ( approximately VND 1.7 billion/store).
+ +Time : Within 12 months.
+ + Quality: Each store reach the beak-even point within 8 months after opening.
+Request 2: 
+Five Cost /budget items for 1 store:
+1. Name: HR( Human resouce)
+    Description: Cost for development payroll number of member or work hour.
+    Cost: VND  500.000.000 
+    Person in charged: Project Manager.
+2. Name: Venue 
+    Descripion: Cost place and ratie spent 
+    Cost: VND 120.000.000
+    Person in charged: Project Manager.
+3. Name: Monitor 
+    Description: Cost for hardware and software
+    Cost: VND 570.000.000
+    Person in charged: Technical Lead
+4. Name: Marketing
+    Description: Cost for banner, marketing team, social media
+    Cost: VND 130.000.000
+    Person in charged: Marketing Lead.
+5. Name: Design team
+     Descripition: Design DB schema, Desige FE, Desigv.... 
+     Cost: VND 380.000.000
+    Person in charge:Project manag
+2)
+Request 3: 
+Three project risks:
++ Scrope creep
++ Delay project
++ Over budget
+Risk 1: Scope creep
+The project very big so PM and Coi's manager change scope  so that scope is big big
+Risk 2: Delay project 
+Dev team has issue when coding so delay launching
+Relevant: To do BE and FE  at same time
+Risk 3: Over budget
+
+ 
+Request 4: 
+1.  Three project role:
++ Project Manger(PM)
++ Dev team
++ Coi's management
++ QA/Tester
++ Custommer
+2.
+A1. Identify stakeholder: Start
+A2. Define objection : FS    A1
+A3. Conduct feasibility study: FS A2
+A4.  Draft desgin  FS A3
+A5. Create WBS : SS A4
+A6 .Define project charter: FS A5
+A7. Develop  FS  A5,A6
+A8. Finalize allwocation   FS A4,A7 
+A9. Finalize project charter: FS A8
+A10. Otain Offical management FS A9 
+3.         
+1.Requiremen analsys:
+R:Project manager, Coi's management,
+A: Project manager
+C: Dev team,
+I : Coi's management ,QA and tester.
+2 Design code 
+R:Dev team,
+A: PM
+C:Coi's management, project manager, QA and tester
+I: Coi's management, project manager
+3.implement code
+R: Dev team
+A:PM
+C: PM
+I:  Coi's management
+4. Test Plan
+R: QA and tester
+A: QA
+C: Dev team, project manager
+I: Coi's management
+5. Deployment.
+R: Dev team
+A: Dev team
+C:Project management
+I:Coi's management, Custommer

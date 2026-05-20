@@ -1,0 +1,59 @@
+1)
+Request 1:
+1. Project Name:
+Coi Cafe Regional Flagship Store Implementation Project
+
+2. Justifications:
+- Purpose:
+The purpose of this project is to implement 5 flagship stores in the Central region and support Coi Cafe’s controlled regional expansion. The project turns the company’s growth decision into clear stores, teams, suppliers, and campaigns.
+
+- Reason:
+Coi Cafe has a distinctive brand because it combines Vietnamese coffee, nostalgic design, sustainable practices, and direct farmer sourcing. Opening stores in the Central region helps the company reach new customers, improve brand coverage, and create more revenue opportunities.
+
+3. Project Constraints:
+- Scope:
+The project includes selecting premises, designing and building interiors, hiring and training local staff, developing Central supplier sources, and launching store campaigns.
+- Time:
+The full project must be completed within 12 months. Each store must reach break-even within 8 months after opening.
+- Cost/Budget:
+The total budget is VND 8.5 billion and must cover all 5 flagship stores.
+- Quality:
+Store space, drink menu, service process, staff training, and sustainable image must be consistent with Coi Cafe’s current standard.
+
+Request 2:
+1.
++ Name:
+Premise Research and Setup
++ Description:
+This item covers province research, customer traffic observation, premise visits, lease comparison, and rental deposit support.
++ Estimation:
+VND 1.05 billion. The way to estimate is to calculate research cost, travel cost, lease support, and deposit for each store location. Person in charge: Project Manager.
+
+2.
++ Name:
+Interior Design and Construction Package
++ Description:
+This item covers store layout, construction, lighting, decoration, customer seating, counter area, and brand-style finishing.
++ Estimation:
+VND 3.25 billion. The way to estimate is to use contractor quotations, design price, material cost, and estimated labor cost for 5 stores. Person in charge: Interior Design Lead.
+
+3.
++ Name:
+Store Equipment and Furniture
++ Description:
+This item includes coffee tools, refrigerators, POS devices, furniture, reusable cups, display shelves, and cleaning equipment.
++ Estimation:
+VND 1.35 billion. The way to estimate is to define one store equipment standard, check supplier prices, and multiply by 5 stores. Person in charge: Store Development Lead.
+
+4.
++ Name:
+Staff Recruitment and Service Training
++ Description:
+This item covers job advertising, interviews, staff selection, training, onboarding, service practice, and hygiene practice.
++ Estimation:
+VND 850 million. The way to estimate is to calculate recruitment channels, trainer hours, materials, and trial salary for each store. Person in charge: HR Lead.
+
+5.
++ Name:
+Supply C
+2)

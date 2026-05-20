@@ -1,0 +1,88 @@
+1)
+Request 1:
+- Project name: building plagship store in 5 central provinces.
+- Justifications:Management decided to implement an expansion project into 5 Central provinces ( Da Nang, Hue, Quang Nam, Quang Ngai, Quang Binh).  The reason is Coi Cafe want brings traditional drink menu, nostalgic space and sustainable business model ( using reusable cups, purchasing coffee directly from Dak Lak farmers).
+- Project constraints: 
+    - Cost: Total project budget is 8.5 billion VND ( approximately 1.7 billion VND/ store). from equity and commercial bank loans.
+     - Scope: The project imolement an expansion into 5 central provinces with 1 flagship store in each province.
+     - Time: The project must complete within 12 months and each store must reach the break-even point within 8 months after opening.
+     - Quality: The project must have designing and constructing interios consistent with the brand, recruting and training local personnel, building a raw material supply chain from Central region suppliers and launching campaigns for each store.
+
+Request 2:
+Main cost: 
+- Rent building: payment for good area
+- Building: fix, buy devices...
+- Marketing: ADs, lauching campaing,...
+- Salary: pay for PM, design team, HR team, marketing team, staff.
+- Cost for drink: coffee,reusable cup, traditional drink...
+2)
+Request 3:
+Risk 1: Budget overruns( cost):
+   Description: Building raw merterial cost exceed 1.7 billion/store budget due to unexpected technical complexcity, or higher-than - estimated third party service fees(e.g bulding, rent,furniter,..)
+    - Possibility: Medium
+    - Impact: high - project may be suspended or key features descoped, delay time.
+    - Mitigation: Conduct both bottom-up cost estimate  in planning phases. allocate 10% contigency reserve trak CPI weekly via EVM.
+     - Contingency: If cost exceed baselinr by >10%, escalate to Managerment  immediatly; evaluate descoping lower-priority featureto stay within buget
+
+Risk 2: Schedule delay (time)
+     -Description: Key milestones 
+     - Possibility: high
+     - Impact: high - a delay pshes back UAT and the public launch, conflicting directly with Coi Cafe's planned marketing campaign.
+     - Mitigation: Use Agile/ Scrum with bi-weekly sprints and milestones review; identify long-ahead dependence early, build a 2-week schedule buffer before UAT
+     - Contingency: If a milestone slips >1 week, fast track by PM or crash the schedule by temporarity rellocating teammember from lower- priority task.
+
+Request 4:
+- Project roles: Project manager(PM), HR team(HR), Marketing team(MKT), Design team( DS)
+- Activity: 
+    - Selecting premises:
+          PM: A
+          HR: I
+          MKT: R
+          DS: I
+    - Design building
+           PM: A
+           HR: I
+           MKT: C
+           DS: R
+     - Check perform building a material:
+           PM: A
+           HR: C
+           MKT: I
+           DS: R
+     - Constructing interiors:
+           PM: A
+           HR: I
+           MKT: C
+           DS: R
+     - Buy new devices;
+           PM: A
+           HR: R
+           MKT: I
+           DS: I
+     - Launching campaigns
+            PM: A
+            HR: I
+            MKT: R
+            DS: C
+     - Advertising(ads) 
+            PM: A
+            HR: I
+            MKT: R
+            DS: I
+     - Find new staff
+            PM: A
+            HR: R
+             MKT: I
+             DS: I 
+     - Training staff
+            PM: A
+             HR: R
+            MKT: I
+            DS: I
+      - Estimate perform index:
+            PM: A, R
+            HR: I
+            MKT: I
+            DS: I
+       
+    

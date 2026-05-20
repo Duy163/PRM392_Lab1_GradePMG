@@ -1,0 +1,90 @@
+1)
+Request 1:
+1. Project Name: 
+-Coi Cafe expansion project
+
+2. Justification:
+-The purpose of this project aim to make Vietnamese coffe more popular in VietName dual to nowadays development of other nation drink brands such as "Star Buck, Mc'donal,...".
+-The reason of this project is to make VietNamese'people and orther national friend travel to VietName in 5 central Da Nang, Hue, Quang Name, Quang Ngai, Binh Dinh know more about VietNamese coffe and other traditional drink.
+
+3. Project Constraints :
+-Scope :
++ This project will mak surveying and selecting premises.
++Designing and construcing interiors consistent with the brand.
++Recruiting and training local personnel.
++Make a deal with local suppliers from Central region to provide a raw material supply chain such as raw coffee beans, milk, sugar ,...
++Create and lauching campaigns for each store.
+-Time : The project duration is in 12 mouths , all the activities will complited in this timeframe.
+-Cost/budget : The total budget of this project is 8.5 billion VND , approximately 1.7 billion VND for each store.
+-Quality : 
++Each store reach the break-even point in 8 months after opening.
++Coi Cafe Vietnamese coffe brand more popular compare to other brand in 5 Central provinces.
++Customer satifaction about service quality is 90%( using survey)
+Request 2:
+1.Name : Marketing Brand.
+Description : Create and launching Coi Cafe coffee
+brand for each store.
+Person in charged: design team and markting team.
+
+2. Name: Recuriting local personnel.
+Description : Make poster , announcement on social media flatfrom such as FaceBook,... to hiring local personnel in each 5 Central provinces.
+Person in charged : HR team and markting team.
+
+3.Name : Training local personnel
+Description : Traing local personnel to become emplyees in on months.
+Person in charged : HR team.
+
+4.Name : Material supply
+Description : Make a chain local supply from Central region suppliers for each store.
+Person in charged: PM and marketing team.
+
+5.Name : Store loan fee
+Description : Finding and loan local store where have a lot of local people live like near apartment, school,... or near local market for easy to find supplier.
+Person in charged : PM and HR team.
+2)
+
+Request 3:
+
+1,Name: Schedule delay
+Description : Schedule delas such as after opening for 6 months but not close reash the break-even point, trainning personnel to become employees more than 1 months,...
+Possible: low
+Impact : High
+Response: checking all the stask remaning and then send it to other free hand team, add more time.
+
+2.Name: Scope creep
+Description : some scope have issues or not done.
+Possible: low
+Impact : Medium
+Response: apply more strict control process, create backup plan.  
+
+3.Name: store operational issues
+Description: Store operation not efficiency because of don't have enought employees or supply chain don't provide enought material,....
+Possible : medium
+Impact : Hight
+Response: Have a backup strorage of material for each store.Lauching hiring announcement again to increase number of employees.
+
+Request 4: 
+1.Project roles : Market Development Director as PM
+Tasks:
++Create task base on project constraints.
++Select task for each team.
++Selecting place to open store.
++Checking budget below or over base budget.
++Checking quality of the project.
++Contact with local suppilers to make chain material supply chain.
++Hold connect with Coi's management 
++Create backup plan
++Checking project duration
++Control team
+
+2.Project roles: HR team
+Tasks:
++Testing local personnel
++Training local personnel
++Try to help local personnel match all the quality to cover work in store
+
+
+3.Project roles: design team and marketing team
+Tasks:
++Design banner , poster for the launching campaigns
++

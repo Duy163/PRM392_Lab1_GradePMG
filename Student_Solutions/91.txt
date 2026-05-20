@@ -1,0 +1,48 @@
+1)
+Request 1:
+  - Project name: "Coi's Vietnamese Coffee Even - Coffee directly from Dak Lak
+  - Purpose: This project include 12 store in Hanoi and Ho Chi Minh City, famous for its nosstalgic space, traditional menu and sustainable business model  with using reusable cups, purchasing coffee directly from DakLak famers 
+  - Project constraints: Coi's management decided to implement an expansion project into 5 Central provinces, with 1 flagship store in each province within 12 months
+  -In term of scope: The project includes: Surveying and selecting premises, designing and constructing interiors consistent with the brand, recuiting and training local personnel, building a raw material supply chain from Cental region suppliers, and lauching campaigns for each store.
+- Time: Organizing 1 flagship store in each province within 12 months and with VND 8.5 billion (approximate VND 1.7 billion/store) which must reach break-even point within 8 months after opening
+ - Cost/budget: the total budget is VND 8.5 billion (approximately VND 1.7 billion/store) from equity and commercial bank loans
+  - Quality: Each store must reach the break-even point within 8 months after opening
+
+Request 2:
+- Cost 1: 
+    + Name: Design poster/banner for even
+    + Description: Design poster/banner to promotion even and decorate for each even
+    + Estimation: Design 1 poster/banner for each store organize even. Total 12 poster/banner from start to finish even. Person in charged is Designer team
+- Cost 2:
+   + Name: Training local personnel
+   + Description: Trainning staff about all of things need attention during occuring even
+   + Estimation: Organizing 2 online meeting for all staff of all of store together and each store also has 1 offline meeting for staff in physical store at each store. After that, staffs in each store will have a test to conform knowledge before occuring even. Person in charge is HR team
+
+- Cost 3:
+   + Name: Launching campaign in each store
+   + Description: Create and run campaign for even include run ads and other physical promotion
+   + Estimation: Promtion content about time and more information of even on social media platform and physical promotion in place organize even. Person in charge: Marketing team
+
+- Cost 4: 
+   + Name: Buiding a raw material supply chain 
+   + Description: Connect with supply chain to build material for even
+   + Estimation: Find and purchase raw material, check and managel supply chain. Person in charge: Logistic team
+
+- Cost 5: 
+    + Name: Cost for policy when organize even
+    + Description: Cost to resign with local policy to create even with right rule of Government
+    + Estimation: List all contracts have to be done before even. Person in charge is Policy Team
+
+2)
+Request 3: 
+- Risk 1: 
+    + Name: Even maybe not engage to paticipant
+    + Discription: Marketing campaing maybe not reach to people which may be interested by even
+    + Possible impact: Cost because of not enough paticipants who can pay money during even occur
+    _ Mitigation plan: Research before create marketing campaign to understand market and customer before running
+
+- Risk 2 
+   + Name: Lacking of staffs when occur event
+   + Discription: Staffs are not profestional when fix situation
+   + Possible impact: Negative effect to brand 
+   + Mitigation: Make sure staff know all things before o

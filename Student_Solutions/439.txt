@@ -1,0 +1,76 @@
+1)
+1.
+Project Name: Coi Cafe Expansion Project
+Justifications: In order to provide more people with a nostalgic space with traditional drink menu and its progressive uses of reusable cups and coffee straight from the sources, this project help to bring about that changes by expanding Coi Cafe operation into 5 Central provinces with at least one flagship store in each provinces.
+Constraints:
++ Scope: The stores will only be set up in those 5 Central provinces only and the stores must be consistent with its interiors design
++ Time: The project must be completed within 12 months, approximately 2 months for each province's flagship store
++ Cost: The total budget will be limited to VND 8.5 billion, approximately VND 1.7 billion for each store
++ Quality: Each store must reach the break-even point within 8 months after opening and ensure the store is popular enough for a smooth daily operation
+
+2.
+1. Name: Premises selection
++ Description: Survey and select the approriate premises for the stores in each province
++ Estimation: VND 45 million  
++ Method: Analogous Estimation
++ Responsible: Project manager
+2. Name: Interiors design
++ Description: Design and construct interiors consistent with the brand
++ Estimation: VND 35 million
++ Method: Bottom-up Estimation
++ Resposible: Interior design team
+3. Name: Personnel training
++ Description: Recruiting and training local personnel
++ Estimation: VND 30 million
++ Method: Paralogous estimation
++ Responsible: HR team
+4. Name: Building supply chain
++ Description: Building a raw supply chain from Central region suppliers
++ Estimation: VND 45 million
++ Method:  Bottom-up Estimation
++ Responsible: Project manager
+5. Name: Marketing campaigns
++ Description: Launching a marketing campaigns to promote the stores
++ Estimation:  VND 10 million
++ Method: Analogous Estimation
++ Responsible: Marketing team
+2)
+3.
+1. Name: Store running out of fund
++ Description: Running out of allocated fund for the store
++ Impact: Delay the store establishment operation due to lack of funding which leads to unable to provide the quality needed with its interiors or employees
++ Response: Set up a contingency reserve for each store
+
+2. Name: Campaigns not reaching the expected feedbacks
++ Description: The marketing campaigns not reaching enough people
++ Impact: Reduce the popularity of the store which leads to not reaching the break-even point within 8 months
++ Response: Provide engaging marketing schemes like free trials or bonus from buying, set up multiple online events with small prizes
+
+3. Name: Poor quality employees training
++ Description: Employees for the store is not proficient enough to handle customers during peak hours
++ Impact: Reduce the efficiency of the store which leads to less income for the store resulting in not breaking even
++ Response: Provide more thorough training programs for personnel as well as implementing a cohesive guidelines
+
+4.
+Roles:
+- Marketing Team 
+- Interior Design Team
+- HR Team
+- Project Manager
+- Market Experts
+Tasks: 
+- Marketing Team Responsibilities & Accountabilities - Inform PM:
+1. Launching marketing campaigns 
+2. Designing promotional banners, events on social media
+- Interior Design Team Responsibilities & Accountabilities - Inform PM: 
+3.  Constructing and designing interiors
+4.  Getting equipments for constructing the interiors
+- Project Manager Responsibilities & Accountabilities - Consult Market Experts: 
+5. Surveying and selecting premises
+6. Building a raw supply chain
+7. Consulting market experts for advice
+8. Set up schedules for meeting with suppliers
+- HR Team Responsibilities & Accountabilities - Inform PM: 
+9. Recruiting and training personnel
+10. Scheduling personnel work hours
+

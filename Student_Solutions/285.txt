@@ -1,0 +1,138 @@
+1)
+Request 1:
+Charter statement:
+1. Project name: Coi Cafe expansion project
+
+2. Purpose: to expand into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) with 1 flagship store in each province within 12 months
+
+3.Project constraints:
+Scope: 5 Central provinces: Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh
+Time: 12 months
+Budget: 8.5 billion VND (approximately VND 1.7 billion/store)
+Quality: each store must reach the break-even point within 8 months after opening.
+
+
+Request 2:
+BUDGET ITEMS:
+1. Surveying and Selecting premises
+- Description: Surveying the local business market in each of the five Central provinces and selecting suitable venues to implement the flagship store 
+- Estimation:
++Method: Assess the development of the local market: fast/slow consumption of Dak Lak coffee (especially robusta coffee beans); choose venues that capture much attention from customers during both peak and normal seasons
++Responsible: PM (Market Development Director)
+
+2.Designing and constructing interiors consistent with the brand
+-Description: Designing similar furniture and cafe theme inside all flagship stores so that Coi Cafe signature is emphasized and professional in all 5 provinces  
+-Estimation:
++Method: Building brands and furniture that use the same color, texture and theme based on the signature of Coi Cafe, using local craftworkers in each province to design and implement such features
++Responsible: interior desgin team
+
+3. Recruiting and training local personnel
+-Description: recruit local workforce and train them to  make delicious beverages 
+-Estimation:
++Method: Post a recruitment form on both social media and newspaper platform; then allocate a bartender trainer to teach newbie employees how to make good beverages, especially cafe (coffee) 
++Responsible: HR team
+
+4. Building a raw material supply chain from Central Region Suppliers
+-Description: Connecting all the five flagship stores in 5 provinces to exploit the cafe supply chain and provide raw coffee beans to all adjacent provinces in the Central region
+-Estimation:
++Method: Allow flagship stores to import raw coffee beans from Dak Lak farmers directly and deliver such raw material to other personnel in each province and other neighboring provinces
++Responsible: PM, HR Team
+ 
+5. Launching campaigns for each store
+-Description: developing marketing campaigns to expand the brand recognition for each flagship store in 5 provinces to capture more attention from the public
+-Estimation:
++Method: Building social media channel and on-premise events on discounting first purchase and impressive sale-off
++Responsible: marketing team
+
+
+Request 3: 
+PROJECT RISKS:
+1. No suitable premises
+-Description: Venues in some provinces are not in crowded areas or not big enough to implement the expansion project
+-Possible impacts: 
++Scope: reduction in flagship stores
++Quality: adverse impact on the supply chain
++Time:  extension of project time-span 
++Cost: increase in cost 
+-Response plans:
++Mitigation: Allocating HR team to this mission: researching and finding suitable venues in main citites of each provinces
++Contingency: renting availble venues for a temporary short time before choosing the official premise
+
+2. Reduction in consumption of coffee
+-Description: coffee beverages are often expensive, affecting customers' tendency to purchase coffee
+-Possible impacts:
++Scope: break in the supply chain of raw material if at least one province does not witness any rise in coffee consumption
++Time: expansion of time-span to a few months more
++Cost: cannot reach break-even point within 8 months after opening
+-Response Plans:
++Mitigation: build more campaigns for discounts and coupons in order to allure more customers 
++Contingency: Choosing another province as the subsidiary in the same region, such as Phu Yen since it is next to Dak Lak - the main suppy, to promote the purchase of coffee beans
+  
+3. Shortage of coffee resource
+-Description: Lack of coffee supply sources due to the over-consumption of coffee but just only Dak Lak remains responsible
+-Possible impacts:
++Scope: resulting in the fall of flagship stores due to lack of coffee beans, adversely affecting the whole supply chain
++ Time: extension of time-span to al least 6 months more to collect coffee beans
++ Cost: loss of 1.7 billion VND of a flagship store
+-Response plans:
++Mitigation: Searching for another province in Highland region to collect coffee thanks to the fertile bazan red earth
++Contingency: building new flagship stores in Highland provinces where coffee beans are abundant to pave way for moderate consumption of coffee
+ 
+
+Request 4: RACI CHART
+I. Project roles:
+-PM (project manager)
+-Human resource manager
+-Marketing manager 
+
+II. 10  activities
+1. Launching reuseable cups campaign 
+2. Implementing flagship stores
+3. Constructing interior design of Coi Cafe
+4. Training bartenders 
+5. Building raw cafe beans chain 
+6. Surveying customers' interest of coffee types
+7. Recruiting local people 
+8. Holding coffee festivals in Da Nang 
+9. Holding trips to explore coffee in Dak Lak
+10. Holding a 50% sale-off day in each flagship store 
+
+3. Responsibilities
+Activity 1: 
+-Marketing manager: managing the process of launching online media campaign about reusable cups
+-Human resource manager: allocating people to be accountable for the campaign at the venue
+-PM: manage the process of the campaign
+
+Activity 2:
+-Marketing manager: maketing the store
+-Human resource manager: recruit employees for the stores
+-PM: assess the process of opening each store
+
+Activity 3
+-Marketing manager: marketing the design of the stores on social media
+-Human resource manager: call for craftworkers to build the design
+-PM: assess the design whether it is consistent with the brand Coi Cafe
+
+Activity 4:
+-Marketing manager: marketing the benefits of being a bartender at Coi Cafe
+-Human resource manager: recruit people for being trained as a bartender with enough skills
+-PM: assess the skills and professions of the bartenders
+
+Activity 5:
+-Marketing manager: marketing the quality of raw beans
+-Human resource manager: connect human resources from all 5 provinces to allow smooth transportation of beans
+-PM: assess the smooth flow of the coffee chain in central provinces 
+
+Activity 6;
+-Marketing manager: posting forms onto social media for surveying customers' interest 
+-Human resource manager: assigning tasks to marketing agency and responsible people
+-PM: assess the interest types of the whole customer segments
+
+Activity 7:
+-Marketing manager: posting recruitment forms onto social media
+_Human resource manager: set up the questions and assessment process for assessing the quality of recruitees
+-PM: assess the professions of recruitees
+
+Activity 8:
+
+2)

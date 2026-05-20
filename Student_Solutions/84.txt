@@ -1,0 +1,91 @@
+1)
+Request 1:
+- Project name: Coi Cafe project
+- Justifications (purpose & reasons): The project decided to implement an expansion project into 5 Central provinces, with 1 flagship store ineach province within 12 months
+- Project constraints:
++ Scope: 5 central provinces have 1 flagship store in each province
++ Time: 12 months
++ Cost/Budget: the total budget is VND 8.5 billion (approximately VND 1.7 billion/store)
++ Quality: each store must the break-even point within 8 months after opening
+
+Request 2: five main cost/budget items:
+- Item 1:
++ Name: Employee salary
++ Description: the project need to paid salary for employee, who working in store
++ Estimation: 1 employee: VND 25,000/hour, working 8 hours/day, 24 days/month. So VND 4,800,000/month. We have 10 employee/store => 5 store is VND 240,000,000
+- Item 2:
++ Name: Design cost
++ Description: It is a fee for designing a store, Designer woking and give bill is VND 100,000,000/store
++ Estimation: the project have 1 style for eachl store so we have VND 100,000,000 * 5 = VND 500,000,000
+- Item 3:
++ Name: Training cost
++ Description: We need to have a professor for training employee in a store, and paid training cost for them
++ Estimation: training cost VND 3,000,000/day, we have 5 days, so it is 3,000,000 * 5 = VND 15,000,000
+- Item 4: 
++ Name: wifi internet cost
++ Description: In a vietnamese store need to have 2-3 modem wifi in a store
++ Estimation: the cost for 1 wifi/month is VND 1,000,000, we have 3 wifi so it is VND 3,000,000
+- Item 5:
++ Name: future budget
++ Description: the budget for a situation unknown in the future
++ Estimation: usually is 10% of total budget => VND 850,000,000
+
+Request 3: three project risks
+- The first risk:
++ Name: the budget overrun
++ Description: the budget maybe not enough for complete all task
++ Impact: the project quality is maybe not match with SRS, time is over time, and cost is not enough
++ Response plans: 
+      mitigation: add more budget for project if want project continue  
+     contingency: budget recalculation
+
+- The second risk:
++ Name: time schedule risk
++ Description: project time is not enough for complete all task
++ Impacts: if team project want to complete project in time contraint then the quality maybe so bad, time is not enough, cost is more than budget
++ Response plans:
+      mitigation: add more member to do project, member maybe working overtime
+      contingency: PM must be recalculate schedule
+
+- The final risk:
++ Name: PM have poor experiance for this project
++ Description: PM not have experiance for this project before and this is the first time working it
++ Impacts: quality not good, time and cost not accuracy
++ Response: 
+      mitigation: PM need to traning again
+      contingency: replace other PM for this task 
+
+Resquest 4: 
+Three project roles:
+- Market Development Director (PM): sharing tasks for team project, do SRS,...
+- Design team: design image for project,...
+- HR team (HR): humans reseach, find employee,..
+- Marketing team: marketing for project
+
+Ten tasks, activities, or deliverables:
+- Requirement gathering: PM: R,A; Design team: I; HR: I; Marketing team: I 
+- Planing: PM: R,A; Design team: C; HR: C; Marketing team: C
+- Design logo: PM: A; Design team: R; HR: I; Marketing team: C
+- Design shirt for employee: PM: A; Design team: R; HR: I; Marketing team: C
+- Design store: PM: A; Design team: R; HR: I; Marketing team: C
+- Research employee: PM: A; Design team: I; HR: A; Marketing team: I
+- Research position for store: PM: A; Design team: I; HR: I; Marketing team: R
+- Build social page for store: PM: A; Design team: C; HR: I; Marketing team: R
+- Write content for page: PM: A; Design team: C; HR: I; Marketing team: R
+- Launching compaign: PM: A: Design team C; HR: I; Marketing team: R
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2)

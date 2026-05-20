@@ -1,0 +1,99 @@
+1)
+REQUEST 1
+1. Project Name
+Coi Cafe Central Region Expansion Project
+2. Justification
+Coi Cafe has successfully built a strong brand identity in Hanoi and Ho Chi Minh City through its nostalgic design, traditional Vietnamese coffee menu, and sustainable business practices. However, the Central region of Vietnam remains an untapped market with high tourism potential, growing urban populations, and increasing demand for unique café experiences.
+This project aims to expand Coi Cafe’s presence into five Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh) by establishing one flagship store in each location. The expansion will strengthen brand recognition nationwide, diversify revenue streams, and reduce dependency on existing markets. In addition, sourcing raw materials from Central suppliers supports sustainability goals and strengthens local partnerships. The project also serves as a strategic step toward scaling the brand across Vietnam.
+3. Project Constraints
+Scope constraints:
+ The project includes site surveying and selection, store design and construction, recruitment and training of local staff, supply chain setup with Central suppliers, and marketing campaigns for each store. It excludes future franchising and international expansion.
+Time constraints:
+ All five flagship stores must be completed and operational within 12 months.
+Cost/Budget constraints:
+ The total budget is limited to VND 8.5 billion (approximately VND 1.7 billion per store), funded by equity and bank loans.
+Quality constraints:
+ Each store must maintain consistent brand identity (nostalgic design, product quality, sustainability practices) and achieve break-even within 8 months after opening.
+
+REQUEST 2
+1. Site Rental and Deposit Costs
+Description: Costs for renting and securing premises in five provinces.
+ Estimation: Based on average rental price per m^2 in each city × store size + 3–6 months deposit.
+ Method: Market research and real estate quotations.
+ Responsible: Project Manager + Finance Team.
+2. Interior Design and Construction
+Description: Store design, renovation, furniture, and decoration aligned with Coi’s nostalgic concept.
+ Estimation: Estimated per store based on previous projects (VND 700–900 million/store).
+ Method: Contractor quotations + historical cost data.
+ Responsible: Interior Design Team.
+3. Equipment and Tools
+Description: Coffee machines, grinders, refrigerators, POS systems, reusable cup systems.
+ Estimation: Unit cost × quantity per store.
+ Method: Supplier quotations and standard equipment list.
+ Responsible: Operations Team.
+4. Recruitment and Training Costs
+Description: Hiring local staff, onboarding, and training programs.
+ Estimation: Number of employees × salary during training + training material costs.
+ Method: HR planning and salary benchmarking.
+ Responsible: HR Team.
+5. Marketing and Launch Campaigns
+Description: Opening campaigns, local promotions, social media marketing.
+ Estimation: Fixed budget per store (VND 100–150 million/store).
+ Method: Marketing budget allocation and past campaign comparison.
+ Responsible: Marketing Team.
+6. Raw Material Supply Setup 
+Description: Building supply chain with Central region suppliers.
+ Estimation: Initial procurement + logistics setup costs.
+ Method: Supplier contracts and logistics estimation.
+ Responsible: Supply Chain Team.
+
+REQUEST 3
+Risk 1: Difficulty in Securing Suitable Locations
+Description: Prime locations may be unavailable or too expensive.
+ Impact:
+Scope/Quality: Poor location affects brand positioning
+Time: Delays store opening
+Cost: Higher rental or relocation cost
+Response:
+Mitigation: Early site scouting and multiple options
+Contingency: Adjust store size or choose secondary locations with strong marketing support
+Risk 2: Inconsistent Brand Experience Across Stores
+Description: Differences in design, service, or product quality across provinces.
+ Impact:
+Quality: Damages brand identity
+Time: Requires rework and retraining
+Cost: Additional training and redesign costs
+Response:
+Mitigation: Standardized design guidelines and training manuals
+Contingency: Conduct regular audits and deploy experienced staff to support new stores
+Risk 3: Failure to Reach Break-even in 8 Months
+Description: Low customer demand or ineffective operations.
+ Impact:
+Cost: Financial loss
+Time: Extended recovery period
+Scope: May delay further expansion
+Response:
+Mitigation: Strong pre-launch marketing and location analysis
+Contingency: Adjust pricing, promotions, and reduce operational costs.
+
+REQUEST 4
+1. Project Roles
+Project Manager
+Interior Design Lead
+HR Manager
+Marketing Manager
+Operations Manager
+2. Tasks, Activities, Deliverables (Full RACI)
+Project planning and timeline – PM (R), All (A), Others (C/I)
+Site survey and selection – PM (R), Operations (A), Marketing (C), Others (I)
+Lease negotiation – PM (R), Operations (A), Finance (C), Others (I)
+Store design concept – Design Lead (R), PM (A), Marketing (C), Others (I)
+Construction and renovation – Design Lead (R), PM (A), Operations (C), Others (I)
+Equipment procurement – Operations (R), PM (A), Finance (C), Others (I)
+Recruitment planning – HR (R), PM (A), Operations (C), Others (I)
+Staff training – HR (R), Operations (A), PM (C), Others (I)
+Supply chain setup – Operations (R), PM (A), Finance (C), Others (I)
+Marketing campaign planning – Marketing (R), PM (A), Others (C), Others (I)
+Store launch execution – Marketing (R), PM (A), All (C), Others (I)
+Performance monitoring – PM (R), Operations (A), Finance (C), Others (I)
+2)

@@ -1,0 +1,147 @@
+1)
+Request 1 (20%) – Project Charter
+Project Name:
+Coi Cafe Central Market Penetration Project 2026
+Justification (Purpose & Reasons)
+This project is initiated to introduce Coi Cafe into five Central provinces: Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh. These markets are currently experiencing growth in urban lifestyle trends, especially among young consumers who prefer modern café environments.
+Expanding into these regions will help Coi Cafe build a stronger nationwide footprint, attract new customer segments, and increase overall business resilience by reducing reliance on existing major cities. In addition, the project supports sustainable development by promoting local sourcing and efficient resource utilization.
+Project Constraints
+Scope:
+ The project involves launching 5 new stores across selected provinces, ensuring all locations follow unified branding, standardized operations, and high service quality. It also includes staff hiring, training, and supplier coordination.
+Time:
+ The project must be completed within 12 months. Each store is expected to reach operational break-even within 8 months of launch.
+Cost/Budget:
+ The total allocated budget is VND 8.5 billion, averaging approximately VND 1.7 billion per store, financed through internal funds and external borrowing.
+Quality:
+ Each store must maintain consistent standards in design, product quality, customer service, and environmental practices. All employees must be trained before opening.
+Request 2 (20%) – Cost/Budget Items
+1. Store Construction & Fit-out
+Description: Building and finishing store interiors based on company standards
+Estimation: ~730–790 million/store
+Method: Analogous estimation
+Responsible: Interior Design Team
+2. Equipment & Operational Assets
+Description: Procurement of machines, POS systems, and furniture
+Estimation: ~270–310 million/store
+Method: Supplier quotations
+Responsible: Operations Team
+3. Hiring & Training Expenses
+Description: Recruiting employees and providing operational training
+Estimation: ~120–140 million/store
+Method: Bottom-up estimation
+Responsible: HR Team
+4. Advertising & Launch Programs
+Description: Marketing activities, online promotions, and opening events
+Estimation: ~170–200 million/store
+Method: Percentage-based estimation
+Responsible: Marketing Team
+5. Supply Chain & Distribution Setup
+Description: Establishing supplier systems and logistics
+Estimation: ~90–110 million/store
+Method: Expert judgment
+Responsible: Operations Team 
+2)
+Request 3 (30%) – Risk Management
+Risk 1: Construction Delays
+Description: Delays due to contractor performance or external factors
+Impact: Increased project duration and additional costs
+Mitigation: Careful contractor selection and strict supervision
+Contingency: Add buffer time and adjust scheduling
+
+Risk 2: Insufficient Customer Demand
+Description: New stores may not attract enough customers initially
+Impact: Low revenue and delayed break-even
+Mitigation: Conduct feasibility studies and target suitable locations
+Contingency: Increase promotional campaigns and adjust pricing
+
+Risk 3: Supply Disruptions
+Description: Issues with supplier delivery or quality inconsistency
+Impact: Operational interruptions and reduced service quality
+Mitigation: Work with multiple suppliers and monitor performance
+Contingency: Activate backup suppliers and maintain inventory buffer
+
+
+Request 4 (30%) – RACI Chart
+Project Roles:
+PM: Project Manager
+ID: Interior Design Team
+HR: Human Resources Team
+MKT: Marketing Team
+OPS: Operations Team
+Task 1: Market Investigation
+PM: A
+MKT: R
+ID: C
+HR: C
+OPS: I
+Task 2: Location Planning
+PM: A
+OPS: R
+MKT: C
+ID: C
+HR: I
+Task 3: Lease Contracting
+PM: A
+OPS: R
+MKT: I
+ID: I
+HR: I
+Task 4: Store Layout Design
+ID: A/R
+PM: C
+OPS: C
+MKT: I
+HR: I
+Task 5: Store Construction
+PM: A
+ID: R
+OPS: C
+MKT: I
+HR: I
+Task 6: Equipment Procurement
+OPS: A/R
+PM: C
+MKT: I
+ID: I
+HR: I
+Task 7: Supplier Coordination
+OPS: A/R
+PM: C
+MKT: I
+ID: I
+HR: I
+Task 8: Recruitment Process
+HR: A/R
+PM: I
+OPS: C
+MKT: I
+ID: I
+Task 9: Training Activities
+HR: A/R
+PM: C
+OPS: C
+MKT: I
+ID: I
+Task 10: Marketing Execution
+MKT: A/R
+PM: C
+OPS: I
+ID: I
+HR: I
+Task 11: Grand Opening
+PM: A
+MKT: R
+OPS: R
+ID: C
+HR: C
+Task 12: Performance Review
+PM: A
+OPS: R
+HR: C
+MKT: C
+ID: I
+Legend:
+R: Responsible
+A: Accountable
+C: Consulted
+I: Informed

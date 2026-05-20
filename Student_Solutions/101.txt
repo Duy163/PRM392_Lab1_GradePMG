@@ -1,0 +1,68 @@
+1)
+Request 1: 
+1.1 Project name: Campaign and Plan to Expansion Coi Cafe into 5 Central provinces 
+1.2 Justifications: 
+   + Purpose and reason: Coi's management dcided to implement an expansion project into 5 Central provinces Da Nang, Quang Nam, Quang Ngai, binh Dinh, Hue
+1.3 Project constraints 
+   - In term of cope: surveying and selecting premises, designing and constructing interiors consistent with brand, recruiting and training local personel, bulding a raw material supply chain from central region suppliers and launching campaigns for each store
+   - Time: 12 months
+  -  Cost/budget: VND 8.5 billion (approximately VND 1.7 billion/store)
+    - Quality: 
+        + Launching campaigns for each store. 
+        + Selecting premises 
+        + Recruiting and training local personel 
+        + Bulding a raw material supply chain from                   central region suppliers. 
+        + Each store reach the break-even point within          8 months after opening
+   
+
+Request 2: 
+ 2.1. Run advertising in social media 
+  - Description: because Coi Cafe is a new brand in this 5 central convinces, so we should run add in social media (Facebook, Tiktok) to increase attractive customers in area. 
+ - Marketing team to do it and set the KPIs
+ 2.2 Rent suitable space 
+- Description: Choose place suitable is most important and need to invest. Because it can acttractive many people and easy remember 
+- Market Development Director need choose carefully
+2.3 Design menu, poster, contest and decor space 
+- Description: choose equipment consistent with 12 store in hanoi and Ho Chi Minh.  
+- Design team will aims this 
+2.4 Recruit and training staffs 
+ - Description: Post recuirtment in job flatforms (Linked, TopCV, VietNamWork). Need a training program for everyone. 
+- HR team responsible this task
+2.5 Cost to buy gift or promotion when store opening
+- Description: We need prepare some gift or cost for buy1get1 when launching campaigns to attractive customer come to experience. 
+
+Request 3: 
+3.1 Not enough Cost/budget
+ - Description: During project, maybe stores have another cost 
+  - Possible impacts to in term of scope and time
+3.2 Can't rent suitable space 
+ - Description: Cost for rent space higher than budget. If choose cheaper place, it far center and low quality customers
+  - Possible impacts: Cost
+  - Impact Level: High
+  - Revelant risk response plans: Mitigation
+3.3 Quality not consistent for each store
+ - Description: with Poor training so staff can't remember  how to create this drink, product
+ - Possible impacts to quality 
+ - Revelant risk response plans: Contingency
+
+Request 4: 
+4.1 Consuit: ensure plan start on time, check launching campaigns before to use
+,     Informed: measure plan start on time, check launching campaigns before to use, 
+      Responsiblle: ensure plan start on time, contact with sponsor, 
+      Account: ensure plan start on time, check the budget, 
+ 
+4.2 - Survey market in 5 convinces 
+       - Complete marketing plan
+      - Look for space adapt several request ( cheap,       large customer, near center, ...)
+      - Complete SRS and send to Coi's management
+      - Set KPIs 
+      - Post recruitment employers in the job flatforms. 
+      - Look for suppliers 
+     - Training local personel 
+     - Prepare equipments 
+     - Design poster and menu 
+     - Check all campaign before launching 
+     - Prepare the draff campaign for each store 
+      - Check the budget 
+4.3 
+2)

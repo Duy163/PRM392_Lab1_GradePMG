@@ -1,0 +1,83 @@
+1)
+Request 1:
+1. Project Name: Coi Cafe
+
+2. 
+Problem: Coi's management decided to imlement an expansion project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 months.
+
+Need: The project includes: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, buidling a raw material supply chain from Central region suppliers, and launching campaigns for each store.
+
+Solution: Each store must reach the break-even point within 8 months after opening.
+
+3. 
+Scope: implement an expansion project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+
+Time: 12 months
+
+Cost: VND 8.5 billion (approximately VND 1.7 Billion/store) from equity and commercial bank loans.
+
+Quality: 1 flagship store in each province within 12 months.
+
+Request 2: 
+1. 
+- Name: Coffee
+- Description: The store can sold the coffee from DakLak
+
+2.
+- Name: Trip to experience
+- Description: The store can sold the trip in the province have Coi Cafe
+
+3. 
+- Name: For rent clothes 
+- Description: In province have a diffirent curtural so that the store can for rent the clothes to take a picture
+
+4. 
+- Name: Workshop Coffee
+- Description: Workshop to make a coffee for young people, they will smell many coffee in Vietnam
+
+5
+- Name: Membership
+- Description: Customeer can sign to menber of Coi Cafe, they will pay 1 million to become the member and in 1 month they can drink 30 cup of drink
+2)
+Request 3:
+1. 
+- Title: Coi Cafe Come Central
+- Description: 4C - Coi Cafe Come Central that will the project for everyone live in that province know Coi Cafe in there. In this project Coi Cafe will discount by age. If you 22 yearsold you will discount 22%. It very funny for the young people
+- Scope: in area province
+- Quality: About 10000 people in there will know Coi Cafe
+- Time: 1 week then opening 
+- Cost: VND 70 million
+
+2. 
+- Title: Buy one get 2
+- Description: When the customer check in and post in Social Media the can buy random 1 drink in store, the store will for the customer choose 1 drink they like with size Small
+- Scope: for all customer
+- Quality: 2000 customer can experience the event 
+- Time: first week in summer (1-6/06/2026)
+- Cost: VND 30 million
+
+3. 
+- Title: Coi together
+- Description: When the custom buy drink they will have a ticket to take score, when they buy 1 drink they will have 1 score, when they have 10 score they can take a free drink.
+- Scope: for all customer
+- Quality: 1000 drink free for customer
+- Time: when the final exam come, the student will learn in store
+- Cost: VND 50 million
+
+Request 4:
+
+- Market Development Director: PM
+- HR team: HR
+- Marketing team : MKT
+- Design team: GD
+
+1. Get idea for new store have special curtural in province: PM(R), HR(R,I), MKT(A), GD(A, C)
+2. Take ceftificate for activiti: PM(A), HR(I), MKT(R), GD(I)
+3. Take survey a smell of people in province: PM(I), HR(R, C),  MKT(A), GD(A)
+4. Design the store: PM(R), HR(C,I), MKT(R), GD(A) 
+5. Training local personnel: PM(R), HR(A), MKT(R), GD(R,C)
+6. Find to buy cup, table, chair,...: PM(R), HR(R), MTK(A), GD(C)
+7. Decor the store: PM(R), HR(C), MKT(A), GD(C)
+8. Event Opening: PM(R), HR(C), MKT(A), GD(C)
+9. PR for the store: PM(R), HR(C), MKT(A), GD(C)
+10. Book KOLs for have viral clips about store: PM(R), HR(C), MKT(A), GD(C).

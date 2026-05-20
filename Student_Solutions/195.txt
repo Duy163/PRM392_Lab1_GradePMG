@@ -1,0 +1,94 @@
+1)
+Request 1:
+
+1. Project name: Coi Cafe expansion Plan
+2. Purpose:
+- Nuture Cafe culture such as nostalgic space in Viet Nam .
+Introduce traditional style of Viet Nam persons to visitors ( using resuable cups, and using coffee directly from Dak Lak where is famous about standarded coffee in Viet Nam), Because these 5 Central provinces has the number of the highest visitors in Viet Nam following to Agoda Articles.
+3. Project constraints:
+- Scope constraints: the project includes implement explain campaign objectives; define target audience; research market; create scripts and methods, contacting to suppliers; create a google form to collect customer feedback and assess customer satisfaction rate by using 5 - Likerts; preparing a Responsible assignment table that assigned tasks based on their skills; provide a sales template to training local personnel; implement competitors analysic based on avalible list. It excludes expansion strategy beyond the 12 months the project implementation timeframe.  
+- Time constraints: The project duration is fixed at 12 months. All deliverables are completed within this timeframe with no extension. 
+- Cost constraints: Total budget is VND 8.5 billion. All activities remain in a fixed budget with strict financial control.
+- Quality constraints: The success project is measured by engagement metric including expand Coi Cafe to 5 Central provinces ( Da Nang, Hue, Quang Nam, quang Ngai, Binh Dinh), build successfully a raw supply chain from Central region suppliers, launch a campaign to promote Coi Cafe to new customers, recruiting and training local personnel.
+
+Request 2: 
+1. Prevent cost: Training local personnel
+- Decription: organise training session to ensure 
+- Purpose: employee implements taks smoothly and efficient excution to avoid meet mistakes in the project.
+- Estimation: 4 members x 5 sessions x 3 hours per session.
+- Total effort: 60 man-hours
+- Person in charge: HR team lead
+2. Appraisal cost: Marketing campaign Testing and Review
+- Description: implement IMC plan including channels ( Tiktok, Facebook, Out-door advertising, flyers, Google map advertising), allocate budget for each channel, timeline, responsibility.
+- Purpose: to ensure consistent messing for the entire project.
+- Estimation: 6 members x 5 plans x 16 hours per plan
+- Total effort:480 man-hours
+- Person in charge: Marketing team lead 
+
+3. Prevent cost: Supplier Qualification
+- Decription: organize workshops to introduce standards coordination to the  Supplier Institutions from Central region suppliers. 
+- Purposes: recieving quality products what will deliver a seeamless customer experience.
+- Estimation: 2 members x 1 session x 5 hours per session.
+- Total effort:  10 man-hours
+- Person in charge: PM ( Market Development Director)
+4. Prevent cost: Recruting Process Scripts. 
+- Decription: creating detailed sricpts follow to STAR recruiting format and a sheet to note information of the candidates (who is suitable, Ressons for choice, timeline, estimated wage, bonuses, personal information.)
+- Purposes: the recruiting process are smoothly performed and quickly achieved sufficient staffs for new store in % Central provinces.
+- Estimation: 5 members x  2 scripts x 4 hours per script
+- Total effort: 40 man-hours 
+- Person in Charge: HR team lead
+5. External failure cost: support after customers purchase products.
+- Purpose: strong impact on customer satisfactory
+- Estimation: 2 members 
+
+
+2)
+Request 3: 
+Risk 1: low customer turnout
+- Decription: visitors go to the 5 Central provices in not peak session such as months: 8,9,10). This decreases sales targets ( the break-even point within 8 months) and campaign objects 
+- Impact: 3
++ Time: invest time for labors and 
++ Cost: directly effect on fixed budget and campaign objectives.
+- Probability: 4
+- Risk exposure: 12 ( high exposure)
+- Response plan:
++ Mitigation plan: 
+  >> Creating a detaild plan to customer funnel to define customer touchpoints to approch to the correct strategy.
+  >> Creating responsibility assignment table that assigned based on member skills, avoid activities in parallel lead to reowror if the earlier work change.
++ Contingency plan:
+   >> Providing attractive activities such as vouchers, minigames to attract to new customers.
+Risk 2: low conversion rate 
+- Decription: marketing content that are uploaded on social media not bring high conversion rate such as shared, likes, commends due to poor content, unattractive design, misalignment with customer targets, consistent messaging.
+- Impact: 4
++ Time: wasted time for re - advertising on social media 
++ Cost: spend more cost for run advertising
++ Quality: cannot achieved overall campaign objectives, thereby not meets customer demands.
+- Probability: 3
+- Risk exposure: 12 (high exposure)
+- Respnse plan:
++ mitigation plan: 
+    >> creating a detailed plan based on market research and competitor analysis.
+    >> using A/B testing method ( upload 1 video with different content on the same platform before deciding one direction to promotion.)
++ contingency plan:
+    >> performing stop advertising on social media and focusing on google map advertsing which visitors has the habits of finding feedback form previous customers)
+
+Risk 3: 
+
+
+Request 4: 
+1. Roles:
+- Market Development Director (PM)
+- Design team (DT)
+- HR team (HR)
+- Marketing team (MT)
+2-3: Tasks/ Activities:
+- Define campaign objectives, and target customer: PM: R/A, DT: I, HR: I, MT: C
+- Planning and role assignment: PM: R/A, DT: I, HR: C, MT:C
+- Research market: PM: A, DT: I, HR: I, MT: R
+- Recruiting Employee: PM: A, DT:I, HR: R, MT: I
+- Training local personnel: PM: A, DT: I, HR: R, MT: I
+- Scriptwriting for advertising activities: PM: A, DT: C, HR: I, MT: R
+- Shooting video and create posters: PM: A, DT: R, HR: I, MT: C
+- Campaign execution ( upload video teasers, video, access to position on Google map): PM: A, DT: I, HR: I, MT: R
+- Collect customer feedback: PM: A, DT: I, HR: I, MT: R
+- Analysic measurement metric ( engagement metric/ quality metric) and figure out new strategy to improve: PM: R/A, DT: I, HR: I, MT: R

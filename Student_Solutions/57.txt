@@ -1,0 +1,109 @@
+1)
+Request 1
+ 1. Project name: Coi Cafe expansion project
+ 2. Justifications: 1 flagship store in each province in 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+ 3. Project constraints:
+     - Scope: 5 Central province (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+     - Time: Within 12 months
+     - Cost: Total budget is VND 8.5 billion (approximately VND 1.7 billion/store) from equity and commercial bank loans.
+     - Quality: Each store must reach break-even point within 8 months after opening.
+
+
+Request 2
+ Every cost items below is for 1 store only, not for the whole project.
+  1. Name: Designing and contructing interiors
+      Description: Design team make a interiors consistent blueprint for the store and hired contruction team to do the contructing
+      Estimation: Approximately VND 800 million 
+      How to estimate: base on average salary of an interior team (about VND 100 million) + cost of building material (about 300 million) + labor ( about 400 million for 1 whole store)
+      Person in charge: Interior design team
+
+  2. Name: Recruiting and trainning employees
+      Description: Recruiting and trainning local personnel to be the employee of that store
+      Estimation: Approximately VND 50 million
+      How to estimate: base of average cost to hire a trainning coach (40 million) and cost for material for employees to train with (10 million)
+      Person in charge: HR Team
+
+  3. Name: Connect with raw material supply chain
+      Description: Building a raw material suppy chain from Central region suppliers
+      Estimation: approximately VND 100 million
+      How to estimate: base on average local raw supply chain in the area  (80-100 million for all the supplies)
+      Person in charge: HR team
+
+   4. Name: Lauching campaigns
+       Description: Lauching campaigns for each store to draw in customers
+       Estimation: VND 50 million
+       How to estimate: base on price for digital ads (VND 20 million for Youtube, Facebook. Instagram, Google, VND 30 million for at store campaign like gifts and sourvernirs)
+       Person in charge: Marketing team
+
+   5. Name: Renting location
+       Description: Find a location that allow long-term renting to open the store
+       Estimation: Approximately VND 500 million
+       How to estimate: base on the average price of local cafe's rent ( VND 300-500 million)
+       Person in charge: PM
+
+Total fixed cost: VND 1.5 billion/store
+Out of scope budget: VND 200 million/store
+2)
+Request 3
+   1. Title: No availiable rent in the designated location/the rent location fee is out of budget.
+       Likelihood: High
+       Scope: At every location
+       Time: At the beginning of the project
+       Cost: High if not resolve properly
+       Mitigation: Use all resources to find the proper designated place to rent on all kind of platform before beginning carry out the project.
+       Contingency: - If high rent fee then use the out of scope budger or/and out of scope budget from other store if needed
+                             - If not availiable rent n the designated location then must choose other location further from the first location
+    2. Title: Building material not consistent with the brand
+         Likelihood: High
+         Scope: At every location, especially location that far from Hanoi and Ho Chi Minh City
+         Time: During contruction process
+         Cost: High
+         Mitigation: Prepare all the material before contruction process
+         Contingency: Send the materials from Hanoi or Ho Chi Minh city store's source to the location
+
+    3. Title: Supply chain suddenly stop providing raw material
+        Likelihood : High
+        Scope: At every location
+        Time: During operation
+        Cost: Mid-High
+        Mitigation: Have back-up suppliers, restock when on have about 30% of the raw material left
+        Contingency: Find new local supply as soon as possible, temporarily stop serving the product that have raw material shortage until have the new supplier that have the same quality.
+
+
+Request 4
+1. PM (Project Manager): the person with the highest authority in this project, giving approval to actions and report back to sponsors and investors.
+    HR (Human Resources): the person which manage the employess.
+    ID (Interior design team): the team designing the store's interior.
+    MT (Marketing team): the team that put out marketing campaign to advertise the store.
+
+2. Find the rent location for the store
+    Sign the rent contract
+    Design the interior
+    Recruit local employee
+    Trainning local employee
+    Launching promotion campaigns
+    Find suppliers
+    Building a raw material supply chain
+    Surveying and selecting premises
+    Reporting to sponsors and investors the progress of the project
+
+3. - Find the rent location for the store:
+PM: R     HR: I        ID: C       MT: I
+    - Sign the rent contract;
+PM:R      HR: I        ID: I        MT: I
+    - Design the interior:
+PM: A     HR: I        ID: R       MT: I
+    - Recruit local employee:
+PM: A     HR: R      ID: I         MT: I
+    - Training local employee:
+PM: A     HR: R      ID: I         MT: I
+    - Lauching promotion campaigns:
+PM: A     HR: I        ID: I         MT: R
+    - Find suppliers:
+PM: A     HR: R       ID: I        MT: I
+    - Building a raw material supply chain
+PM: A     HR: R       ID: I        MT: I
+    - Surveying and selecting premises
+PM: R     HR: I        ID: I        MT: I
+    - Reporting to sponsors and investors the progress of the project
+PM: R    HR: I         ID: I         MT: I

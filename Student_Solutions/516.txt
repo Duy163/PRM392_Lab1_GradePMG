@@ -1,0 +1,102 @@
+1)
+Request 1
+1.1. Project name: Coi cafe's Expansion Project
+
+1.2. 
+Purpose : Expand Coi cafe brand into 5 central provinces (Da Nang, Hue , Quang Nam, Quang Ngai, Binh Dinh).
+
+Reason: Coi's management decided the expansion with 1 flagship store at each mentioned province within 12 months.
+
+1.3.
+Project Contrainsts
+Scope: 
+- Survey and select premises.
+- Design and construct interiors.
+- Recuit and train local personnel.
+- Build raw material supply chain from the Central region suppliers.
+- Lauch campaign at each store.
+
+Time: 12 months
+
+Cost: 8,5 billion VND
+
+Quality: Each store must reach break-even point within 8 months after the opening.
+
+Request 2
+Five main cost items
+
+1. Rent 
+Description: To open a store, it is needed a place to be built on or to be rented. Thus, a monthly must be considered.
+Estimate : Around 10 to 20 million VND per month. This is vary based on the Estate Market Place.
+Person in charge: Market Development Director.
+
+2. Construction Cost
+Description: For each store to be built consistent with the brand's theme, a certain amount of budget must be invested.
+Estimate : Around 500 million VND. This will be affected by building material cost.
+Person in charge: Design Team Lead
+
+3. Staff insurrance Cost
+Description: Every store need an insurrance for their staffs as the law dictated and each one must follow.
+Estimate: Around 20 million VND per month. This number will be affected by staff's role and salary.
+Person in charge : HR Team Lead
+
+4. Campaign Cost
+Description: At the openning of each store, there must be some discounts or events that customers can participate.
+Estimate: 100 million VND per store. This will be decided after the surveys finished.
+Person in charge : Marketing Team Lead
+
+5. Advertisement Cost
+Description: Before the openning of each store, there must be some posts or adds running on social medias.
+Estimate: 50 million VND. This cost will be affected by external providers if needed.
+Person in charge: Marketing Team Lead
+
+2)
+Request 3
+Three project risks
+
+1. Construction Inconsistent Theme
+Description: Design team have mislead communication with the construction team which lead to building the wrong cafe theme.
+Impacts: 
+- Quality: the store may not have the consistent theme with Coi cafe brand.
+- Time: need to spend more time to construct than normal.
+- Cost : unexpected cost to re-decorate the store.
+Mitigation: Double check the store's buleprint with both construction team and design team.
+Contingency: Expand the construction time .
+
+2. Raw material suppliers cut off
+Description: Suppliers no longer provide material for the store's food and drinks due to some unexpected reasons.
+Impacts:
+- Quality: Reduce in customers as the drinks not taste the same.
+- Time: Need time to find new suppliers.
+- Cost: New material cost can be increased.
+Mitigation: Prepare some spare suppliers that in stand by mode.
+Contingency: Each store must have around 30 to 40% of spare raw material which kept in storage.
+
+3. Lack of experience staffs
+Description: Newly trained staff work for 3 to 4 weeks then quit.
+Impacts:
+- Quality: Lack of staff, increase in time preparing drinks
+- Time: Repeat training time with new employees
+- Cost: Monthly payment yet uncertain for long term
+Mitigation: Implement formula system on computers, less time to train as the new staff can do as the guideline on the system.
+Contingency: Back up 1 to 2 employees from other shifts to cover up the lack of staffs.
+
+Request 4
+1. Project roles
+- Design Team Lead
+- HR Team Lead
+- Marketing Team Lead 
+- Market Development Director
+
+2. Ten task, activities or deliverables
+
+A. Searching for places on Estate Market
+B. Rent the place
+C. Design the store
+D. Constructing the store
+E. Online Ads on social medias
+F. Posting Hiring News
+G. Interview new employees
+H. Manage Staffs
+I. Monthly Report
+J. Improve Services 

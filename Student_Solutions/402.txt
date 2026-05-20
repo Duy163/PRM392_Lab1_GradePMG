@@ -1,0 +1,54 @@
+1)
+Request 1  
+  1. Project name: Coi Cafe Project
+  2. Justification: The purpose is Coi Cafe is a pure Vietnamese coffee brand with 12 stores in Hanoi and Ho Chi Minh City, famous for its nostalgic space, traditional drink menu, and sustainable business model. Coi's management decided to implement this project for an expansion into 5 Central provinces(Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+  3.
+     - In terms of scope: surveying, selecting premises, designing and constructing interiors consistent with brand, recruiting and trainning local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store
+     - Time: 12 months
+     - Budget: The total budget is VND 8.5 billion
+     - Quality: Each store must reach the break-even point within 8 months after opening
+
+Request 2:
+    1.
+    - Name: Adsvertising
+    - Description: Contact to KOLs, upload ads post on social media
+    - Estimate cost: VND 50 million
+    2.
+    - Name: 
+Request 3:
+   Risk 1:
+     - Title: Sick member
+     - Description: The key member out when get sick
+     - Possible impact: Delayed project
+     - Response plans:
+       + Mitigation; Each member must list all their work  into document then everyone can easy to know
+       + Contingency: Immediately hired the local worker
+    Risk 2:
+      - Title: Out of budget
+      - Description: Some unexpected cost burn out the budget
+      - Possible impact; Not enough money to completed implement the project
+      - Response plans:
+        + Mitigation: The PM must check carefully the every cost
+        + Contingency: Use the extra backup cost for the unexpected cost
+    Risk 3:
+      - Title: Out of Coffee supply
+      - Description; Not have enough supply from Central region
+      - Possible impact: Delayed project
+      - Response plans:
+        + Mitigation: Must check carefully supply chain
+        + Contingency: Immediately import supplies from local area
+
+Request 4
+1. Project roles: project manager, designer, maketing team, HR
+2. Activities:
+  + Do the survey: project manager (C), maketing team (R)
+  + Selecting premises: project manager (C), maketing team (R)
+  + Designing with the brand: project manager (C), designer (R)
+  + Constructing interiors consistent with brand: project manager (C), designer (R)
+  + Recruiting local personnel: HR (R)
+  + Training local personnel: HR (R)
+  + Run ads for store: maketing team (R)
+  + Contact to KOLs: maketing team (R)
+  + 
+  + 
+2)

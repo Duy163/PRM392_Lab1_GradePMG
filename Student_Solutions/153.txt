@@ -1,0 +1,79 @@
+1)
+Request 1:
+
+1) Project Name: CoiCafe - Extenal Coffee Campaign
+2) Justifications: Coi's management want to implement an expansion project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province with 12 months.
+3) Project Constraints:
+    - Scope: The project must be implementing 5 Central Province and each province will have 1 flagship store within 12 months 
+    - Time: The project duration is limited within 12 months
+    - Budget: The total budget is strictly limited to VND 8.5 billion (approximately VND 1.7 billion/store) from equity and commercial bank loans
+    - Quality: This project must ensure high-quality, engaging, and age-propriate content which aligns with surveyed groups 
+
+Request 2:
+
+1. Preparation & Setup Cost:
+    - Description: Purchasing necessary equipments and materials
+    - Estimate: 700,000,000 VND/store
+    - Method: Supplier quotation
+    - Responsible: Project Manager
+2. Designing Cost:
+    - Description: Designing brand banners 
+    - Estimate: 150,000,000 VND/store
+    - Method: Supplier quotation
+    - Responsible: Design Team
+3. Marketing & Advertising:
+    - Description: Social media boosting and printing poster
+    - Estimate: 250,000,000 VND/store
+    - Method: Expert Judgement
+    - Responsible: Marketing Team
+4. Training Team Members:
+    - Description: Enhancing Soft and Specialized Skills for Staffs
+    - Estimate: 100,000,000 VND/store
+    - Method: Market Price
+    - Responsible: HR Team
+5. Operation Cost:
+    - Description: Staff Salary and maintaining store operations
+    - Estimate:500,000,000 VN/store
+    - Method: Market Price
+    - Responsible: Operation Teams
+2)
+Request 3:
+
+Risk 1: 
+- Name: Budget Usage
+- Description: Fail to use budget on the project
+- Impacts: Influence work performance and make the project delay
+- Response: 
+    + Mitigation: track budget usage every day and report detail to sponsor
+    + Contingency: Negotiate with sponsor to deliver task to the next phase
+
+Risk 2:
+- Name: Fail to achieve the goal of the project
+- Description: Fail to achieve the break-even point within 8 months 
+- Impacts: Make the project fail or fail expectation opening
+- Response:
+      + Contingency: Boost resourse for the project, such as budget, staff 
+
+Risk 3:
+- Name: Traning team members
+- Description: Fail to train specialized knowledge
+- Impacts: Have negative effects on product quality
+- Response: 
+        + Mitigation: Invite expert to train skills for staff
+Request 4:
+
+Project Manager (PM)
+Design Team (DST)
+Marketing Team (MKT)
+
+Tasks & Activities:
+1. Define project scope: PM (R,A), DST (I), MKT (I)
+2. Conduct market research: PM (I), DST (I), MKT (R)
+3. Collect research results: PM (I), DST (I), MKT (R,A)
+4. Buy Equipments and Materials: PM (A,R), DST (I), MKT (I)
+5. Training team members: PM (A,R) , DST (I), MKT (I)
+6. Design brand banner: PM (C), DST (A,R), MKT (I)
+7. Marketing and Advertising: PM (C), DST (I), MKT (R,A)
+8. Report budget usage; PM (R,A), DST (I), MKT (I)  
+9. Collect final results: PM (R,A), DST (I), MKT (I)
+10. Close Project: PM (R,A), DST (I), MKT (I)

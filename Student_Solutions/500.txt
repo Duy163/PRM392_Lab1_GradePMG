@@ -1,0 +1,33 @@
+1)
+
+2)
+RQ1
+The project is named “Coi Cafe Central Hub Development Project”. The objective of this project is to establish a strong operational presence in Central Vietnam by opening five flagship stores in strategic provinces. This project helps the company expand its geographic coverage, increase brand visibility, and access new customer segments. It also aims to optimize supply chain efficiency by sourciwng materials closer to the Central region, which supports sustainability and reduces logistics costs.
+The project is limited by several constraints. In terms of scope, it must deliver five fully functional stores with complete operations including construction, staffing, supply chain, and markewting launch. In terms of time, all stores must be completed and opened within 12 months, requiring strict schedule management. In terms of cost, the project budget is fixed at VND 8.5 billion, which requires careful allocation and monitoring. In terms of quality,l stores must maintain consistent brand identity, operational efficiency, and achieve break-even within 8 months.
+RQ2
+The first cost item is Land andw Lease Cost. This includes rental deposits, lease payments, and legal processing fees. The estimation is based on market comparison and negotiation data collected by the procurement team and approved by the PM.
+The second cost item is Construction and Decoration Cost. This includes building, interior finishing, and decoration materials. The estimation uses bottom-up estimation based on design specifications, prepared by the design team.
+The third cost item is Machinery and Tools Cost. This includes coffee machines, kitchen equipment, and operational tools. The estimation is based on supplier quotations and historical cost data, managed by procwurement.
+The fourth cost item is Employee Cost. This includes recruitment expenses, salaries during training, and onboarding costs. The estimation is based on staffing plans and average salary levels, calculated by HR.
+The fifth cost item is Branding and Promotion Cost. This includes online marketing, offline events, and promotional campaigns. The estimation is based on previous campaign budgets and expected market size, handled by the marketing team.
+RQ3
+Risk 1w:w Poor Brand Awareness in New Region
+Description: Customers in Central provinces may not be familiar with the brand, leading to low initial intewrest.
+Impact:
+wScope/Quality: Brand positiwoning may not be effectively established
+Time: Revenue growth may be slower, delaying break-even by 2–3 months
+Cost: Additional wpromotion cost may increase by 10–18%
+Mitigation: Increase pre-launch marketing and local engagement activities.
+ Contingency: Intensify promotional campaigns and collaborate with local influencers.
+Risk 2: Inefficient Project Coordination
+Description: Poor coordination between teams may lead to miscommunication and delays.
+Impact:
+Scope/Quality: Work quality may be inconsistent across stwores
+Time: Project wschedule may be delayed by 1–2 months
+Cost: Additional management and correction cost may increase by 5–10%
+Mitigation: Establish clear communication plans and regular progress meetings.
+RQ4
+The RACI chart where define at least three project roles: 
+Project Manager: To management about the project, and planning content, and the timeline in event,...
+Media Team: To management about the timeline media, content pillar, content direction,...
+External Relationship: To communication about the stakeholders, and sponsor, 

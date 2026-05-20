@@ -1,0 +1,87 @@
+1)
+Request 1:
+  1. Project name: Coi's Management System
+  2. Purpose and reasons: Coi Cafe have 12 stores in Hanoi and Ho Chi Minh City,famous for its nostalgic space, traditional drink menu, and sustainable business model. Coi's management decided to implement an expansion project into 5 Central provinces. So that they will servey and select premises, design and construct interiors consistent with the brand, recruit and train local personnel, etc..
+  3. Project constrains:
+        - Scope: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store.
+        - Time: 1 flagship store in each provine within 12 months.
+        - Cost/ budget: VND 8.5 billion (approximately VND 1.7 billion/ store)
+        - Quality: Each store must reach the break-even point within 8 months after opening.
+
+Request 2:
+
+1. Name: salary of staff in coffee
+Description: salary of staff and bonus if they archive with high KPI
+Cost: 20.000 VND/h, 50.000VND/ overal KPI
+Estimate: hours working + the number KPI of the staff overal.
+Person in charged: HR team.
+
+2. Social Media Platform
+Description: Using social media platform to advertise the coffee brand by the way rent some platform TikTok, Youtube, FaceBook, etc...
+Cost: 50 millions VND
+Estimate: 5 millions/content in each platform
+Person in charged: marketing team
+
+3. Organizing event
+Description: each store must organized event in last month.
+Cost: 120 millions VND
+Estimate: decorating backround + advertise + material of drink in menu when sale for customer.
+Person in charged: marketing team
+
+4. Applycation for order coffee
+Description: rent a development team to write an order system for customer online and ofline.
+Cost: 500 millions VND
+Estimate: cloud to save database + deployment service + security
+Personal in charge: PM
+
+
+Request 3:
+
+1. Building coffee brand at  local is failured
+Description: introduction about menu of cafe with local personnel not intersted
+Impact: content to advertise with people is boring and budget to spend it is high
+Mitigation: creating content by following hot trend viral on social media.
+Contingency: marketing team
+
+2.  The coffee have bad impress with customer
+Description: Customer comment a coffee in google review about attitude of staff and service is not good.
+Impact: The progress of training personnel is not successful.
+Mitigration: Updating the lesson of training and ban a staff who have bad service and attitude.
+Contingecy: HR team
+
+3. Coi Cafe is not enough famous in local
+Description: designing and constructing interiors consistent with the brand are not pay attention with local personnel
+Impact: the color of design is not suitable with favourite's people.
+Mitigration: Using light color and comic image 
+Contigency: design team.
+
+
+Request 4:
+
+ Project Manager - PM
+ Business Analysis - BA
+ UI/ UX design
+ Development
+
+ Requirement Gathering: PM(I), BA (R,A), UI/UX Design(I), Development(i)
+ UI/ UX  Design: PM(I), BA(C), UI/UX Design(R,A), Development (I)
+ System Architecture Design: PM(I), BA(C), UI/UX Design(C), Development(R,A)
+ Database Development: PM(I), BA(C), UI/UX Design(I), Development(R,A)
+ Frontend Development: PM(I), BA(C), UI/UX Design(C), Development(R,A)
+ Backend Development: PM(I), BA(I), UI/UX Design(I), Development (R,A)
+ Social Feature Integration: PM(I), BA(A), UI/UX Design(I), Development(R) 
+ System Testing and Bug Fixing: PM(I), BA(C), UI/UX Design(I), Development(R)
+ User Acceptance Testing: PM(C), BA(A), UI/UX Design (I), Development(R)
+ System Deployment: PM(A), BA(I), UI/UX Design (I), Development(R)
+ 
+
+
+
+
+
+
+
+
+
+
+2)

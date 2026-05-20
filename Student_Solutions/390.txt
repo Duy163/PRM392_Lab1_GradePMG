@@ -1,0 +1,116 @@
+1)
+Request 1:
+1. Project name: Coi Cafe Vietnamese brand.
+2. Purpose & reasons: To implement an expansion project intro 5 Central provinces because of nostagic space, traditional drink menu and sustainable business model.
+3. Project constraints:
+- Scope: 
+   + Surveying and selecting premises.
+   + Designing and constructing interiors consistent with the brand.
+   + Recruiting and training local personnel.
+   + Building a raw material supply chain from Central region suppliers.
+   + Launching campaigns for each store.
+- Time: 1 flagship store must finished in 12 months.
+- Cost/budget: The total budget is VND 8.5 bilion, 1 store has VND 1.7 bilion.
+- Quality: Each store must reach the break-even point within 8 months after opening.
+
+Request 2:
+- Item 1:
+  + Name: Building supply chain from Central region suppiers.
+  + Description: purchasing coffee directly from Dak Lak farmers.
+  + How to estimate: 
+  + Person in charged: PM
+
+- Item 2:
+  + Name: Designing and constructing interiors consistent.
+  + Description: 
+  + How to estimate:
+  + Person in charged: Team member
+
+- Item 3:
+  + Name: Launching campaigns for each store.
+  + Description: After customers buy coffee, shop can gift them a card. 1 cup of coffee = 1 sticker, 5 sticker can change 1 cup of coffee free.
+  + How to estimate:
+  + Person in charged: PM
+
+- Item 4:
+  + Name: Survey and selecting premises.
+  + Description:
+  + How to estimate:
+  + Person in charged: Team member
+
+- Item 5:
+  + Name: Recruiting and training local personnel
+  + Description:
+  + How to estimate:
+  + Person in charged: PM
+
+Request 3:
+
+Request 4:
+1. Three project roles:
+- PM: Market Development Director
+- Team member: Design team, HR team and marketing team.
+- Sponsor
+
+2.
+Task 1: Make plan
+R: PM
+A: Sponsor
+C: Team member
+I: none
+
+Task 2: Surveying premises
+R: Team member
+A: PM
+C: none
+I: none
+
+Task 3: Selecting premises
+R: Team member
+A: PM
+C: none
+I: none
+
+Task 4: Designing brand
+R: Team member
+A: PM
+C: none
+I: none
+
+Task 5: Constructing interiors consistent
+R: Team member
+A: PM
+C: none
+I: none
+
+Task 6: Recruiting person
+R: Team member
+A: PM
+C: none
+I: none
+
+Task 7: Training
+R: PM
+A: Team member
+C: none
+I: none
+
+Task 8: Building supply chain from Central region suppliers
+R: PM
+A: Sponsor
+C: none
+I: none
+
+Task 9: Launching campaigns for each store
+R: PM
+A: Sponsor
+C: Team member
+I: none
+
+Task 10: Project complete
+R: PM
+A: Sponsor
+C: Team member
+I: none
+
+2)

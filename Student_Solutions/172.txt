@@ -1,0 +1,87 @@
+1)
+Request 1:  
+ 1. Project name: Coi Cafe
+ 2. Purpose&Reasons : the purpose of this porject is to nostalgic space, traditional drink menu, and sustainable business models( using reusable cups,purchasing coffee directly from Dak Lak farmers)
+  3.Constraints : 
+      + Scope: 12 stores in HaNoi and Ho Chi Minh city, and 5 central provinces with 1 flagship store in each province.
+      + Time : 12 months. 
+      +  Cost : VND 1.7 billion/store.
+      +  Quality : surveying and slecting premises, designing and constructing  interiors consistent wih the brand , recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and launching campains for each store.
+
+Request 2:
+  1. Develop website brand coffee:
+ + Description: build website coffee
+ + Estimation: $4000 
+ +Method: base on time 
+ +Person in charge: project manager
+  2. Desgin website brand coffee:
+ +Description: make UI brand coffee
+ +Estimation: $1000
+ +Method: fixed cost
+ +Person in charge: designer
+  3.Hosting:
+ +Description: server and domain 
+ +Estimation: $1000
+ +Method: monthly cost
+ +Person in charge: DevOps
+  4.Creation content brand coffee 
+ +Description: provide infomation about coffee correctly
+ +Estimation: $1000
+ +Method: base on work
+ +Person in charge: QA
+  5. Testing system brand coffee
+ +Description: check system coffee before launch
+ +Estimation: $1000
+ +Method: base on work
+ +Person in charge: QA
+
+Request 3: 
+  1.  Risk 1: 
+ +Title: Cost overrun 
+ +Description: cost may be higher than planned
+ +Impact: increase cost project.
+ +Mitigation: control spending and review cost weekly. 
+ +Contingency: reduce non- essential cost.
+   2. Risk 2 : 
+ +Title:Quality problems:
+ +Description: product/service may not meet customer needs.
+ +Impact: low quality and customer complaints.
+ +Mitigation: checking , test quality
+ +Contingency: fix issues quickly and improve process.
+   3. Risk 3 :
+ +Title: Time
+ +Description: delay work
+ +Impact: increase cost and time 
+ +Mitigation:  meeting team and review  process weekly
+ +Contingency: add staff and extend deadline
+
+Request 4 : 
+  1. Three project roles:
+ +Design Team
+ +HR team
+ +Maketing team
+  2. 
+ +Define requirement (1)
+ +Plan project (2)
+ +Write content brand coffee scripts (3)
+ +Select KOLs/influences (4)
+ +Design website coffee (5)
+ +Host (6)
+ +Train system (7)
+ +Check system (8)
+ +Test website (9)
+ + Deloy website coffee (10)
+  3. 
+ +Define requirement : PM(R), BA(I), Dev(R).
+ +Plan project : PM(I), BA(C), Dev(R)
+ +Write content coffee scripts : PM(I), BA(I), Dev(R).
+ +Select KOLs: PM(I), BA(A), Dev(I).
+ +Design website coffee: PM(A), BA(I), Dev(R).
+ +Host: PM(C), BA(I), Dev(R).
+ +Train system : PM(A), BA(I), Dev(R).
+ +Check system: PM(A), BA(I), Dev(R).
+ +Test website: PM(A), BA(I), Dev(R).
+ +Deloy website coffee: PM(I), BA(A), Dev(R).
+
+  
+2)

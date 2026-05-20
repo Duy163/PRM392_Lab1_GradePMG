@@ -1,0 +1,88 @@
+1)
+Request 1:
+1.Project name: Coi cafe expansion.
+
+2.Justifications:The leadership of Coi Cafe decided to implement an expansion project into 5 Central provinces includes Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh. They want 1 flagship store for each province within 1 year.
+
+3.Project constraints
+-Scope:  1 store in each province above. Successfully survey and selected premises, designed and constructed interiors consistent with the brand,recruited and trained local personnel, build the raw material supply chain from those region suppliers and launched campaigns for each store.
+
+-Time:12 months
+-Cost:8.5 billion total
+-Quality:Each store must reach the break-even point within 8 months after opening.
+
+Request 2:
+This is 5 main cost/budget items for each store:
+
+1.Store direction
+Description:Purschase for the space to open Coi Cafe,the space must have a good position and view.
+Estimate:240 millions VND for 8 months
+How to estimate: Local pricing
+
+2.Designing and constructing
+Description:Purschase for specific flagship store includes: Building and decorating, table,chair,bar product, Coi fish...
+Estimate:700 millions VND
+How to estimate: vendor pricing
+
+3.Salaries
+Description: Pay for people to work and manage store
+Estimate;400 millions VND for 8 months
+How to estimate: market price
+
+4.Marketing
+Description:Purschase for marketing team to make region people know and support, sale...
+Estimate: 150 millions VND
+How to estimate: vendor pricing
+
+5.Material
+Description:Material to make drinks, foods, monthly electricity and water.
+Estimate:200 millions for 8 months.
+How to estimate: vendor pricing
+
+Total:approximately 1.7 billion VND 
+so 5 store is 8.5 billion VND
+
+Request 3 :
+This is 3 risks i thinks it could happen
+
+1.Over Budget
+Description:Have a high chance happen because the specific of each province, vendor pricing may be  higher 
+Impacts:Not enough money for other budget so quality will be affected.
+Response:
+-Mitigation: PM must be survering the price carefully before launch and review every week.
+Contingency:Decrease budget at design or request more budget form Coi Cafe's management.
+
+2.Delay Schedule
+Description: Also posibility happen because 5 store in 1 year is too much for only 1 PM and design,HR,marketing team.
+Impact:Time can be over 12 months and lead to another risk like over budget.
+Response:
+-Mitigation:PM review project schedule every week, have a move if see anything not working well
+-Contingency:In the middle of the time bound PM can use more  budget to decrease building and designing time,marketing time also launch ahead schedule of designing and building time.
+
+3.Coi's management not supportive at some store
+Description:During designing phase and in meeting the head of Coi Cafe may not have a good look at some store because low interest.
+Impact:That store can be stop building and choose another province. That could cause another risk like over budget or over schedule
+Response:
+-Mitigation:PM meeting with the head more time and ask their opinion for every move.
+-Contingency: Focus on other store and findout what they want , which store have high interest and fix the current store.
+
+Request 4:
+
+Below is my RACI chart
+PM: Project Manager
+HR: HR team
+MKT: Marketing team
+DES: Interior design team
+
+Activity\Roles   :PM , HR , MKT , DES               
+1.Develop Project charter : R , C , I , I .
+2.Training local personnel : C  , R , I , I .
+3.Selecting premises         : A  , I , I , R .
+4.Design and construct     : A  , I , C , R .
+5.Review project monthly  : A , R , I , I .
+6.Build material supply chain: C , A , I , R .
+7.Marketing                        : A , I , R , C .
+8.Provide budgets              : A , R , I , I .
+9.Mitigation risk                  : R , C , I , I .
+10.QA,QC control               : A , C , I , R .
+2)

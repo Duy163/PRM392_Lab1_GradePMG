@@ -1,0 +1,49 @@
+1)
+Request 1:
+1.1: Name of the project is "Bring Coi Closer To More Customer"
+1.2: See the success of 12 stores in Hanoi and Ho Chi Minh City, Coi Cafe want to scale up, have more store at the Central provinces. There by, growth up and make more money
+1.3: The project will open one flagship store in each province within 12 months. That mean the total of store project will open are five. One at Da Nang, one at Hue, one at Quang Nam, one at Quang Ngai and the last one at Binh Dinh. The budget for 5 flagship store is VND 8.5 billion (approximately VND 1.7 billion/store).
+Each store must reach the break-event point within 8 months after opening
+-------------------------------------------
+Request 2: 
+- Place to buid store, find and deal the cost of the place to buy or pay for each month
+- Cost for marketing, pay for marketing activities like ad on social (Facebook,Youtube, TikTok, Intagram, Threads,...)
+- Salary, salary for employee who work for project.
+- Uniform, buy uniform for employee
+- Material, buy mateial to ready for sales
+- Electric and water cost, pay for EVN and service sale water 
+------------------------------------------
+Request 3:
+- Under of schedule, the weather, time to find place,.. may affect on the time complete project
+- Don't have ok place to start project
+- Over budget, because expansion project into Central province and the time to do the project so far with the day open stores in Hanoi and Ho Chi Minh City so may the budget is not enough.
+
+
+-------------------------------------------
+Request 4:
+4.1: 
+- Market Development Director (PM)
+- Interior design team
+- HR team
+- Marketing team
+4.2:
+- Do market research
+- Surveying and selecting premises 
+- Designing and constructing interiors consisten with the brand
+- Recruiting and training local personnel
+- Building a raw material supply chain form Central region suppliers
+- Launching campaigns
+- Import material
+- Marketing 
+- 
+4.3
+- Do market research:
+PM (R,A)/ Interior design team (I)/HR team (I)Marketing team (R)
+- Recruiting and training local personnel:
+PM (A), HR team (R)
+- Designing and constructing interiors consisten with the brand: 
+PM(A), Interior design team (R)
+- Maketing:
+PM(A,I), Maketing team (R)
+
+2)

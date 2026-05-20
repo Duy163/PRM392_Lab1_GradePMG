@@ -1,0 +1,114 @@
+1)
+Request 1: 
+1. Project name: The 5 new Coi Cafe shops in Central provinces(Da Nang, Hue, Quang Nam, Quang Ngai, Quang Binh, Binh Dinh)
+2 Justification: 
+- Purpose: Expanding new branches in the Central of Vietnam where Coi Cafe have not opened. Enhancing the profit of Coi Cafe, and also repond to the demand of visitors, and the local.  
+- Reason to implement: Coi Cafe is likely to introduce the special traditional cafe from Dak Lak, a nostalgic space, and a sustainable business model with the professional services. Coi Cafe also wants to attract more visitors to those places.
+3 Project constraints: 
+- Scope: Coi Cafef wants to open 5 new cafe shops in 5 central provinces. This project includes: serveying and selecting premises, designning and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Center region suppliers, and launch campains for each store.
+- Time: Each store must be done within 12 months
+- Cost/budget: The total budget is VND 8.5 billion (approximately VND 1.7 billion per store) from equity and commercial bank loans.
+- Quality: Each store must reach the break-even point within 8 months after opening.
+Request 2: 
+1. Permission price:
+- Description: a fixed fee will be applied to these bussiness stores because of permitting policy.
+- Estimating: VND 0.5 billion (VND 100 million/store)
+- Way to estimate: expert estimation.
+- Person in charged: Market Development Director (PM)
+2. Place hiring cost
+- Description: each store needs a benefical position in short-term for bussiness
+- Estimating: VND 1 billion (VND 200 million/store)
+- Way to estimate: expert estimation
+- Person in charged: PM
+3. Drink (Coffee, tea,...) and other stuffs (cups, straws...)
+- Description: To operate smoothly and uniquely, Coi Cafe requires a high-level cafe from Dak Lak, and special cups,...
+- Estimating: VND 3,5 billion (VND 700 million/store)
+- Way to estimate: Bottom-up estimation (Listing out all needed products and count the total price)
+- Person in charged: PM and the interior design team
+4. Staff wages
+- Description: a monthly fixed payment for each staff
+- Estimating: VND 2 billion (VND 400 million/store)
+- Way to estimate: Parametric estimation (wage/person x numbers of staff x 12 months x 5 stores + additional fee) 
+- Person in charged: PM
+5. Coffee shop decoration cost:
+- Description: include many items such as banners, LEDs, tables, chair,...
+- Estimating: VND 1.5 billion (VND 300 million/store)
+- Way to estimate (Listing out all items, and count the total price)
+- Person in charged: Design team leader
+-> The total cost/budget is approximately VND 8.5 billion
+Request 3: 
+1, Cost/budget exceding over time
+- Description: Uncontrol in utilizing can lead to none useful items purchased, make the expenses over allowing points.
+- Possibility: Medium
+- Impact: Break the project plan, need additional fee to continue project, lead to an insuffcient project and time-wasting.
+- Mitigation: Strictly manage budget, make the finance report ervery week.
+- Contigency: consider to reduce other expenses to maintain project.
+2. Late in reaching break-even point
+- Description: Reach break-even point lately because of reasons like postions, weather,...
+- Possibility:High
+- Impact: Affect directly to return all expenses, lead to the lack of budget to maintain stores.
+- Mitigation: Optimize all expenses
+- Contingency: raise more budget from a good operation store to the ineffection ones.
+3. Inbeneficial from marketing
+- Description: ineffective of marketing plans.
+- Possibility: Low
+- Impact: It can lead to the loss of revenue of store, not influence on market places, loss reputation.
+- Mitigation: renew marketing plans to attract more guests
+- Contingency: Distribute to market places with coupons to encourage drink purchasing.
+Request 4: 
+1. Project role: PM, design team, HR team, marketing team.
+
+
+
+2)
+2&3.
+Activity 1: Survey for a new place 
+- PM: R
+- HR team: I
+- Marketing team: I
+- Designing team: I
+Activity 2: Design banners
+- PM: C
+- HR team: I
+- Marketing team: C 
+- Designing teeam: R
+Activity 3: Raise fund 
+- PM: R
+- HR team: I
+- Marketing team: C
+- Designing team:
+Activity 4: Purchase cafe
+- PM: R
+- HR team:I 
+- Marketing team: I
+- Desigining team: I
+Activity 5: Design cups
+- PM: C
+- HR team: I
+- Marketing team: C
+- Designing team: R
+Activity 6: Buy tables, chairs,...
+- PM: A
+- HR team: I 
+- Marketing team: C
+- Designing team: R 
+Activity 7: Promote online
+- PM: C
+- HR team: I 
+- Marketing team: R
+- Designing team: I
+Activity 8: Recruit staff
+- PM: C
+- HR team: R
+- Marketing team: I
+- Designing team: I
+Activity 9: Train staff
+- PM: C
+- HR team: R 
+- Marketing team: I
+- Designing team: I
+Activity 10: Pay monthly fee
+- PM: R
+- HR team: I 
+- Marketing team: I 
+- Designing team: I

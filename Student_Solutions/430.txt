@@ -1,0 +1,171 @@
+1)
+Request 1:
+Project name: Coi Cafe brand
+
+Cost/bubget: 8.5 billion VND
+
+Open five Coi Cafe flagship stores in the Central region of Vietnam within 12 months, with one store located in each target province: Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh.
+
+Specific: The objective is to complete store setup and launch one flagship store in each selected province.
+
+Measurable: The result can be measured by the number of stores officially opened and operating.
+
+Achievable: This target is reasonable because Coi Cafe already has experience managing 12 stores in Hanoi and Ho Chi Minh City.
+
+Relevant: The objective matches the company’s expansion plan and helps the brand reach new customers outside its current markets.
+
+Time-bound: The full expansion should be completed within 12 months.
+
+
+Recruit and train enough local employees for all five new stores before the official opening of each location.
+
+Specific: The project needs to hire and train baristas, cashiers, service staff, and store supervisors for each new branch.
+
+Measurable: This can be measured by the number of employees hired, trained, and approved for work.
+
+Achievable: It is achievable if the HR team starts recruitment early and uses Coi’s existing training materials.
+
+Relevant: Well-trained staff are necessary to maintain service quality and brand consistency.
+
+Time-bound: Staff preparation should be completed before each store’s launch date.
+
+
+Request 2:
+
+
+Researching the market conditions in the five Central provinces.
+
+
+Selecting suitable premises for each new flagship store.
+
+
+Preparing rental agreements and basic site requirements.
+
+
+Designing store interiors based on Coi Cafe’s traditional and nostalgic concept.
+
+
+Managing construction, decoration, and equipment installation.
+
+
+Recruiting local employees for store operations.
+
+
+Training employees on drinks, service standards, and daily procedures.
+
+
+Finding and working with Central region suppliers.
+
+
+Preparing marketing campaigns for the opening of each store.
+
+
+Tracking store performance during the first few months after launch.
+
+
+Out-of-Scope Items:
+
+
+Opening stores in other provinces not listed in the project.
+
+
+Rebranding Coi Cafe or changing the company’s core identity.
+
+
+Creating a new product menu that is completely different from current offerings.
+
+
+Developing an online ordering app or advanced technology system.
+
+
+Launching a franchise program.
+
+
+Upgrading or renovating existing stores in Hanoi and Ho Chi Minh City.
+
+
+Key Deliverables:
+
+
+Five new Coi Cafe flagship stores opened in Central Vietnam.
+
+
+Finalized location selection reports.
+
+
+Approved store design plans.
+
+
+Completed construction and equipment setup.
+
+
+Trained local staff for all new stores.
+
+
+Supplier agreements or supplier contact lists.
+
+
+Marketing materials and launch plans for each province.
+
+
+Post-opening performance reports for management review.
+
+
+
+Request 3:
+1. Site Evaluation Review (QA):
+Before choosing a store location, the project team should review customer traffic, rental cost, accessibility, nearby competitors, and local customer behavior. This helps the team avoid locations that look attractive at first but may not bring enough customers later.
+2. Supplier Qualification Check (QA):
+The team should evaluate potential suppliers before signing agreements. They need to check product quality, delivery reliability, price stability, and whether the supplier can support all five stores. This is important because unstable supply can directly affect store operations.
+3. Design Standard Review (QA):
+Before construction begins, the interior design should be reviewed by the project manager and design team. The review makes sure that each store still keeps Coi’s nostalgic atmosphere while also fitting the local space and customer expectations.
+4. Construction and Installation Inspection (QC):
+During construction, regular inspections should be done to check materials, furniture, lighting, safety, and equipment installation. If the team finds problems early, they can fix them before the store enters the final preparation stage.
+5. Employee Training Assessment (QC):
+After training, staff should be tested through practical tasks such as preparing drinks, serving customers, using the POS system, and handling customer complaints. This ensures that new employees can work properly before opening day.
+6. Pre-launch Quality Check (QC):
+A final checklist should be completed before the official opening. The team should check store cleanliness, menu availability, equipment function, staff readiness, and customer service flow. This reduces the chance of mistakes during the first launch days.
+
+Request 4: RACI Chart
+
+1. Project Roles:
+
+Market Development Director (PM)
+Interior Design Team
+HR Team
+Marketing Team
+Construction Team
+
+2. Tasks/Activities:
+
+Market Development Director (PM):
+Oversee the entire project to ensure it stays on schedule and within budget.
+Coordinate between all teams (Interior Design, HR, Marketing, and Construction) to ensure smooth operations.
+Provide regular progress reports to stakeholders.
+Interior Design Team:
+Design and plan the store interiors to match Coi Cafe’s brand image.
+Ensure all designs comply with the company’s aesthetic and quality standards.
+HR Team:
+Recruit and hire staff for each store.
+Provide training to ensure all employees meet customer service and operational standards.
+Monitor and evaluate employee performance after store openings.
+Marketing Team:
+Develop and execute marketing campaigns to raise awareness for the new stores.
+Coordinate local promotions, advertisements, and events to attract customers.
+Construction Team:
+Oversee the physical construction of the stores and ensure the work is completed on time and according to design specifications.
+Manage relationships with suppliers and subcontractors to ensure materials and labor are available as needed.
+
+3. Responsibilities of Project Roles:
+
+Market Development Director (PM):
+Responsible for the overall success of the project, ensuring coordination between teams, managing timelines, and staying within budget.
+Interior Design Team:
+Responsible for creating the store designs and ensuring that they align with Coi Cafe’s brand image and quality standards.
+HR Team:
+Responsible for recruiting, training, and managing staff to meet Coi Cafe’s high standards.
+Marketing Team:
+Responsible for driving awareness and customer engagement through various marketing channels, including local promotions and advertisements.
+Construction Team:
+Responsible for the physical construction of the stores, ensuring that they are built according to the approved design plan and within the specified timeline
+2)

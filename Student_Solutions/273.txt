@@ -1,0 +1,80 @@
+1)
+Request 1: 
+1. Project name: Coi Cafe expansion project.
+2. Justifications: 
+- Purpose: to establish stores of  the Coi Cafe brand into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh).
+- Reasons: to make the Coi Cafe brand expanding more to the outside areas of Hanoi and Ho Chi Minh City.
+3. 
+- Project constraints: 
+- Terms of scope: make a survey to choosing premises, building the store (both design and interiors aspects) consistent to the brand, hiring and training staff within area, building the material supply chain from Central region suppliers, launching campaign for each store.
+- Time: total 20 months.
+- Budget: total VND 8,5 billion, approximately VND 1,7 billion for each store. 
+- Quality: Each store must reach to the break-point within 8 months after opening. 
+
+Request 2:  Provide 5 main cost in the project.
+1. Surveying cost:
+- This item is budget for Agency to do a surveying to selecting premises. - Estimate by 3% total budget: VND 255 million, VND 51 million/store. 
+- In charged for this item is PM. 
+2. Store constructing cost:
+- This item is budget for buitding the store consist to the brand. The interior design team and construction team have this budget for to design, make plan and buiding stores. - Estiamte by 50% total budget: VND 4,25 billion, VND 850 million/store. 
+- In charged for this item is the interior design team, PM.
+3. Staff cost:
+- This item is budget for HR team to hire and train people consistent to brand identity. 
+- Estimate by 2% total budget: VND 170 million, VND 34 million/store. 
+- In charged for this item is HR team.
+4. Marketing cost:
+- This item is budget for Marketing team to launching a Marketing campaign within the project to attract people to come to new stores of Coi Cafe.
+- Estimate by 40% total budget. VND 3,4 billion, VND 640 million/store.  
+- In charged for this item is the marketing team.
+5. Cogtinency cost.
+- This last one item is for risk management in the project.
+- Estimate by 10% total budget: VND 850 million.
+- In charged for this item is PM.
+
+Request 3: Identify 3 project risk
+1. Construction risk:
+- This is all of risks within constructing stores: labor accidents, materials losses, the design not consist to the brand.
+- Possible impacts: Could slow the project process, losses in brand image, upting the Actual Cost.
+- Response/mitigation plans: design following the Brand Guidelines, buy insurances for constructions, make sure the labors are working with safety conditions. 
+2: Marketing risk:
+- This is risks on Marketing campaign including: not consistent to the brand, not reach to the right target,..
+- Possible impacts: Could affect on project quality, people may not understand right about the brand identity/brand image.
+- Response/mitigation plans: The marketing campaign must go with the Brand Guidelines. The target of the campaign must focus on a specific groups of people. The main output of the campaign must adapt with the project. 
+3. Human Resource risk:
+- This is risks which HR team have to deal within project: staffs could not be get used with works even after training, staff may not consist with brand image,..
+- Possible impacts: Store lauching could be fail in customers mind, affect on project quality. 
+- Response/mitigation plans: Hiring people must fit-in with brand request in Outlooks, ages, Learning levels. Sub-training for staffs who have not get used to work after working hours.
+
+Request 4: 
+1. Define at least 3 project roles: 
+- Project Manager - Market Development Director, the final decision maker for the project. Working with other leader and other acgencys to ensure project quality.
+- Leader Marketing team: Leading marketing team to lauch the marketing campaign within the project. 
+- Leader Design interior team: Leading Design interior team and Construction team to building stores consist to the brand.
+- Leader HR: Leading HR team to hiring and training people.
+- Coi Cafe brand manager: to be informed by PM. 
+2. Listing 10 tasks: 
+- 1. Surveying and selecting permises.
+- 2. Design interiors
+- 3: Constructing store
+- 4: Recruit and train staff
+- 5: Opening event for new stores.
+- 6: Monitoring opening events performance.
+- 7: Report Marketing campaign performance.
+- 8: Monitoring stores performances after 3 months opening.
+- 9: Report stores performances for Coi Cafe brand manager.
+- 10: Evaluation and report project quality for Coi Cafe brand manager. 
+3. List out the responsibilities of project role for each task:
+(RACI - Responsible - Accountable - Consult - 
+- 1: Responsible: Survey agency; Accountable: PM; Consultance: Agency leader; Informed: Brand Manager.
+- 2: Responsible: Design interior team; Accountable: Leader Design interior team; Consultance: Leader Design interior team; Informed: PM.
+- 3: Responsible: Constructing team, Accountable: Leader Construcion team; Consultance: Leader Design interior team; Informed: PM.
+- 4: Responsible: HR team; Accountable: HR leader; Consultance: HR leader, PM. Informed: PM.
+- 5: R: Marketing team; A: Marketing leader; C: Marketing leader, PM; I: PM.
+- 6: R: Marketing team; A: Marketing leader; C: Marketing leader, I: PM.
+- 7: R: Marketing leader; A: Marketing leader; C: Marketing leader; I: PM.
+- 8: R: PM teams, A: PM, C: Marketing leader, HR leader; I: PM.
+9: R: PM teams, A: PM, C: PM; I: Brand manager.
+10: R: PM teams, A: PM; C: PM, Marketing leader, HR leader; I: Brand management.  
+  
+
+2)

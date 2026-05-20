@@ -1,0 +1,91 @@
+1)
+Request 1:
+1. Coi Cafe
+
+2. Reason: Pure Vietnamese coffee brand with 12 store in Hanoi and Ho Chi Minh City
+    Purpose: Famous for its nostalgic sapce, traditional drink menu, and sustainable business model ( Using reuable cups, purchasing coffee directly from Dak Lak farmers)
+
+3. Scope: Coi's management decied to implement ax expansion project into 5 Central provinces ( Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+     Time: 1 flaship store in each province within 12 months
+     Cost/ Budget: The total budget is VND 8.5 billion ( approximately VND 1.7 billion/ store from equity and commercial bank loans
+     Quality: The project includes: serveying  and selecting premises, desgning and contructing interiors consistent with the brand, recruiting and training local personnel, building a raw meterial supply chain form Central region supplies, and launching campains for each store. And each store must reach the break-even point within 8 months after opening
+
+
+
+Request 2:
+Five main cost/ budget:
+1. Staff cost
+Description: Money to pay the project team members
+Estimation: VND 2 billion
+Way to estimation: VND 10 million per person x 200 persons
+Person in charged: Project Manager (PM)
+
+2. Marketing cost
+Description: Money to buy social media ads to get more customers
+Estimation: VND 250 million
+Way to estimation: Based on TikTok/ Facebook/ Youtube ad prices
+Person in charged: Marketing lead
+
+3. Contingency fund
+Description: Extra prices for unexpected problems during the project
+Estimation: VND 850 million
+Way to estimation: 10% to total budget
+Person in charged: Project Manager (PM)
+
+4 Administrative fees
+Description: Legal permiss and office fees
+Estimation: VND 400 million
+Way to estimation: Fixed price from the local office or providers
+Person in charged: Project Manager (PM)
+
+5 Build the store
+Description: Money to build coffee store
+Estimation: VND 5 billion
+Way to estimation: VND 1 billion/ strore x 5 store
+Person in charged: Project Manager (PM)
+
+=> total budget: VND 8.5 billion
+
+2)
+Request 3: 
+Three project risks:
+1. Budget overrun
+Description: The cost higher than budget
+Impacts: Not enough price for the project
+Response:
+       Mitigation: Compare items before buying
+       Contingency: Reallocate fund form Marketing 
+
+2. Schedule delay
+Description: Tasks take loger than planned
+Impacts: Miss the project deadline
+Response:
+       Mitigation: Track progress every day
+       Contingency: Ask the employee to work overtime
+
+3. Items issues
+Description: Items break down
+Impacts: Waste time and increase cost
+Response:
+       Mitigation: Check all items before use
+       Contingency: Prepare backup items
+
+
+Request 4:
+1. Three project role:
+Project Manage (PM): manages the whole project, timeline and budet
+Marketing (M) : responsible for promotion and reaching the customers
+Design Lead (DL): responsible for disign store
+
+2. RACI ( R: Responsible, A: Accountable, C: Consulted, I: Informed)
+
+Define goals: PM(A), M(R), DL(C)
+Market research: PM(A), M(R)
+Survery: PM(A), M(R)
+Store design: PM(A), DL(R)
+Build the project: PM(A), DL(R)
+Check quality and progress: PM(A), DL(R) 
+Final project review: PM(R/ A), M(C), DL(C)
+Run markering campaigns: PM(A), M(R)
+Track project KPIs: PM(A), M(R)
+Project closing: PM(R), DL(I), M(I)

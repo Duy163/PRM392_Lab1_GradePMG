@@ -1,0 +1,79 @@
+1)
+Request 1: 
+Project Name: Coi Cafe Central Region Expansion Project
+Justifications (Purpose & Reasons to Implement): 
+Purpose: To successfully launch and establish 5 new Coi Cafe flagship stores in the Central region of Vietnam (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh).
+Reasons: To capitalize on the brand's success in Hanoi and Ho Chi Minh City, expand market share into the growing Central region, and introduce Coi Cafe's unique sustainable business model and nostalgic space to a new customer base, ultimately increasing overall corporate revenue.
+Project Constraints:
+Scope: Exactly 5 flagship stores must be opened (one in each specified province). The scope strictly includes premises selection, brand-consistent interior design/construction, local HR recruitment/training, establishing a localized supply chain, and launch campaigns.
+Time: The entire expansion project must be completed within a 12-month timeframe.
+Cost/Budget: The total project budget is strictly capped at VND 8.5 billion (averaging approximately VND 1.7 billion per store), funded through a mix of equity and commercial bank loans.
+Quality: All stores must maintain the brand's "nostalgic space" aesthetic and sustainable operations (reusable cups, direct farmer sourcing). Furthermore, each store must achieve financial viability by reaching the break-even point within 8 months after opening.
+Request 2: 
+1. Premises Lease & Deposit
+Description: Costs to secure prime flagship locations in the 5 provinces, including upfront rent and security deposits.
+Estimation: VND 300,000,000 per store (VND 1.5 billion total).
+Way to Estimate: Analogous estimation based on current commercial real estate market rates in the Central provinces. Person in charge: Market Development Director (PM).
+2. Interior Design & Construction
+Description: Renovation, materials, and labor to transform the premises into Coi Cafe's signature "nostalgic space."
+Estimation: VND 800,000,000 per store (VND 4.0 billion total).
+Way to Estimate: Bottom-up estimation utilizing contractor quotes and historical data from previous store builds in Hanoi/HCMC. Person in charge: Interior Design Team.
+3. Equipment & Machinery
+Description: Procurement of espresso machines, grinders, POS systems, refrigerators, and initial sustainable packaging inventory.
+Estimation: VND 350,000,000 per store (VND 1.75 billion total).
+Way to Estimate: Parametric estimation (Standard cost per unit x quantity required per standard flagship layout). Person in charge: PM / Procurement.
+4. Recruitment & Training
+Description: Costs associated with job postings, hiring, and comprehensively training local staff on operations and brand standards.
+Estimation: VND 150,000,000 per store (VND 0.75 billion total).
+Way to Estimate: Resource cost rate estimation (Estimated training hours x trainer hourly rate + hiring portal fees). Person in charge: HR Team.
+5. Marketing & Launch Campaigns
+Description: Pre-opening hype marketing, grand opening events, and localized promotions to ensure immediate foot traffic.
+Estimation: VND 100,000,000 per store (VND 0.5 billion total).
+Way to Estimate: Fixed budget allocation based on standard launch campaign packages utilized by the company. Person in charge: Marketing Team.
+Request 3: 
+1. Risk: Construction and Handover Delays
+Description: Local contractors in the Central provinces may fail to complete interior construction within the agreed timeline due to labor shortages or supply chain issues with building materials.
+Possible Impacts:
+Time: Delays the store opening, jeopardizing the strict 12-month project deadline.
+Cost: Increases overhead holding costs (paying rent without generating revenue).
+Scope/Quality: Rushing the final stages of construction to meet deadlines could result in poor workmanship that fails to meet the brand's "nostalgic" quality standards.
+Risk Response Plans:
+Mitigation: Conduct rigorous background checks on local contractors, utilize milestone-based payments, and include strict penalty clauses for delays in the contracts.
+Contingency: Maintain a list of backup contractors and build a 2-week schedule buffer into the timeline for each store's construction phase.
+2. Risk: Local Supply Chain Sourcing Failure
+Description: Difficulty establishing a reliable raw material supply chain with Central region suppliers that meets Coi Cafe's strict quality and sustainability requirements.
+Possible Impacts:
+Cost: May force the project to rely on long-distance logistics from existing suppliers, increasing transportation and operational costs.
+Scope/Quality: Subpar local ingredients could alter the traditional drink menu's taste, damaging brand reputation in a new market.
+Risk Response Plans:
+Mitigation: Initiate the supplier scouting and quality vetting process immediately at project kickoff, rather than waiting for stores to be built.
+Contingency: Temporarily extend the existing Dak Lak supply chain network to supply the Central stores until viable local partners are fully integrated.
+3. Risk: Failure to Achieve 8-Month Break-Even Target
+Description: Newly opened flagship stores may not generate sufficient sales volume to reach the break-even point within the mandated 8 months post-opening.
+Possible Impacts:
+Cost: Drains company equity, reduces overall cash flow, and creates high financial risk regarding the repayment of commercial bank loans.
+Time/Scope: May force management to dedicate unexpected time to restructuring the failing stores rather than focusing on broader operations.
+Risk Response Plans:
+Mitigation: Conduct thorough demographic and foot-traffic analysis before selecting premises; execute highly targeted, data-driven local marketing campaigns.
+Contingency: Reallocate a portion of the project's contingency budget to fund aggressive promotional discounts and loyalty programs specific to underperforming stores to boost immediate foot traffic.
+Request 4: 
+Defined Project Roles:
+PM: Project Manager (Market Development Director)
+IDT: Interior Design Team
+HR: Human Resources Team
+MKT: Marketing Team
+Task / Deliverable                                          PM      IDT     HR      MKT
+1. Define project charter, timeline, and master budget      A/R     C       I       I
+2. Survey and select store premises in 5 provinces          A/R     C       I       C
+3. Finalize and sign premises lease agreements              A/R     I       I       I
+4. Develop interior design blueprints for stores            A       R       I       C
+5. Execute interior construction and setup                  A       R       I       I
+6. Scout and establish local supply chain partners          A/R     I       I       I
+7. Draft job descriptions and post local hiring ads         A       I       R       I
+8. Interview and hire local store staff and managers        A/C     I       R       I
+9. Conduct brand, operational, and barista training         A       I       R       I
+10. Develop local marketing & launch campaign strategy      A       I       I       R
+11. Execute grand opening marketing campaigns               A       I       C       R
+12. Monitor financial performance for break-even target     A/R     I       I       C
+
+2)

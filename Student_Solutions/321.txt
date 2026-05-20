@@ -1,0 +1,93 @@
+1)
+Request 1:
+1. Project name: Store in Central province.
+2. The purpose of this project is implement an expansion project in to 5 Central provinces, with 1 flagship store in each procince within 12 months. Recently, store ussualy use plactic for everything they sales. So that the project aim to make the using reusable cup and building a draw materual supply chain from Central region suppliers and launching the campaigns for each stores
+3. 
+- Project cocnstrains: Expansion the project in 5 Central provinces.
+- In terms of scope: The project need to make survey, make a supply chain and launching the project finish intime and on budget.
+- Time: 60 months for 5 store.
+- Cost: VND 8.5 billion(VND 1.7 bilion/store)
+- Quality: Each store must reach the break-even point within 8 months after opening.
+Request 2:
+1. 
+- Name: Design
+- Description; Surveying and selecting premises, designing and constructing interiors consistent with the brand.
+- Estimation: VND 300.000.000.
+- Estimation method: Parametric
+- Person in charged: PM, design team.
+2
+- Name: Labor cost
+- Decription: Recruiting and training local personnel.
+- Estimation: VND 120.000.000
+- Estimation method; Bottom-up
+- Person in charged: PM, HR.
+3 
+- Name: Equipment.
+- Decription: Find and building a raw material supply chain form Central region suppliews. Make a plan and create a store.
+- Estimation:  VND 500.000.000
+- Estimation method: anallys
+- Person in charged: PM, HR.
+4. 
+- Name: Maintain
+- Description: The amount to help the project balance when the bugget is overheat.
+- Estimation: VND 200.000.000.
+- Estimation method: Parameric.
+- Person in charged: PM.
+5.
+- Name: Maketing
+- Description: The amount of money they need to make a social media to make the ampaigns to populate.
+- Estimate: VND 120.000.000
+- Estimation;  Parametric
+- Person in charged: MKT
+Request 3:
+Risk 1: 
+- Name: Scope explore.
+- Description: CoiCafe want to change the number of store to 10.
+- Impact: quality(lower), time(delay), cost(over budget).
+- Mitigation: make a metting each weak and all change need to allow by PM.
+- Contingency: Hire more team member to reduce the time, make more task inthe same time.
+Risk 2:
+- Name: The main member unavalible
+- Description: The PM cant not join the communication because sick or leave the project.
+- Impact: quality(lower), time(delay to find the orther PM), cost(high).
+- Minigation: cross-train a PM as HR leader and make a document about project to easier for the other understand the project.
+- Contingency: Hire a temporate PM with higher cost to reduce the delay time and increase the project perfoment.
+Risk3:
+- Name: Lost the social media channel.
+- Decription: The channel with 100000 follower on tiktok was viral with the campaigns using reusable cup lost.
+- Impact: quality(medium), time ( lost time to rebuild a channel if can rollback it), cost ( waste a budget.
+- Minigation; use 2FA to security the account and need higher 2 people have a key of this.
+- Contingency: Write a ticket for meta or tiktok to recover this account or they have to create a new social media channel.
+Request 4:
+1. 
+-PM: Market Developement Director who management the project, funding and the last person complete the report document.
+- HR; The team who hire and training the candidate.
+- MKT: Marketting team make the project populate with ads and survey on social media.
+2. 
+10 task
+- Project charter
+- Design survey.
+- Design interiors consistent
+- Select premises.
+- Select interiors consistent.
+- Training
+- Make a raw material supply chain
+- Lauching campaigns.
+- Start project
+- Make report document
+3. 
+- Project charter: PM(R, I), HR(C),MKT(A)
+- Design survey: PM(I), HR(A), MKT(R)
+- Design interipus consistent: PM(R,I), HR(C), MKT(A).
+- Select premises: PM(R,I), HR(C), MKT(A).
+- Select interiors consistent: PM(R,I), HR(C), MKT(A).
+- Training; PM(I), HR(R), MKT(A).
+- Make a raw material supply chain: PM(I, C), HR(R), MKT(A).
+- Lauching campaigns: PM(I), HR(A, C), MKT(R).
+- Start project: PM(R, I), HR( A), MKT(A).
+- Make report: PM(R, I) HR (A), MKT(A).
+
+
+
+
+2)

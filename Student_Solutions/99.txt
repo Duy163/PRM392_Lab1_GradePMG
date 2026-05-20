@@ -1,0 +1,51 @@
+1)
+Request 1:
+1. Project name: The Vietnamese coffee brand "Coi Cafe"
+
+2. Purpose: build the place for nostalgic space, traditional drink and business model.
+
+3. Project constraints:
+- Scope: 
++ Survey and select premises
++ Design and construct consistent with the brand.
++ Training and building material supply from Central region suppliers.
+- Time: 
++ 12 months to implement an expansion project into 5 Central provinces with a flagship store in each province.
++ 8 months after opening
+- Cost/budget: The total budget is VND 8.5 billion (1.7 billion for each store) from equity and commerical bank loans.
+- Quality: Coi Cafe implemented an expansion to 5 provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) for customers from cities/provinces around Vietnam
+
+
+Request 2:
+5 main cost/budget items:
+1. Venue rental and set-up
+2. Marketing and promoting
+3. App development
+4. Catering and hospitality
+5. Contingency reserve
+2)
+Request 3:
+Risk 1: Low customer foot traffic
++ Description: Fewer visitors than expected due to location or bad weather
++ Possible impacts: Cost
++ Mitigation plan: Increase digital advertising 2 days before the launch
++ Contingency plan: Distribute flyers in high-traffic areas nearby to pull in costumers
+ 
+Risk 2: High product shrinkage
++ Description: Lack or damage of products exceeding 2% limit
++ Possible impacts: Quality (loss of stocks) and cost (financial loss)
++ Mitigation plan: Train staff on loss prevention and secure the display overnight
++ Contingency plan: Conduct daily stock counts to detect and address loss immediately
+
+Risk 3: Staff shortage
++ Description: Staff is absent due to illness or busy
++ Possible impacts: Time (delayed serving) and quality (poor customer service)
++ Mitigation plan: Put advertising for more staff members
++ Contingency plan: The shop owner or managers will cover roles if necessary
+
+
+Request 4:
+- Project roles:
+1. Project Manager: Oversee budget and quality control
+2. Marketing team: Manages VND 8.5 billion for commerical loans
+3. HR team: Manages the store in each province

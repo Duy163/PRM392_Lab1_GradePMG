@@ -1,0 +1,68 @@
+1)
+Question 1:
+1.Project name : Coi Cafe
+
+2.Justifications:
+Coi's management decided to implement an expansion project into 5 Central provinces(Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+
+The project includes: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store.
+
+3.Project constraints:
+- Each store must reach the break-event point within 8 months after opening
+Scope:
+-surveying and selecting premises
+-designing and constructing interiors consistent with the brand
+-recruiting and training local personnel
+-building a raw material supply chain from Central  region suppliers
+-launching campaigns for each store
+Time:
+-1 flagship store in each province within 12 months
+Cost/budget:
+-VND 8.5 billion (approximately VND 1.7 billion/store) from equity and commercial bank loans
+Quality:
+-Have a 5 store into 5 central provinces within 12 months
+-Break-even point within 8 months after opening
+
+Question 2:
+Main 1: Cost for designing and building
+description: set up the store include:table, chair, design the store
+estimation:VND 700 million/store from equity
+Main 2: Cost for maketing 
+decription : Maketing include run adversions, make clip youtube , tiktok , instagram for new store 
+estimation: VND 400 million/store from equity
+Main 3 : cost for implement an expansion survey and selecting premises
+decription:expansion into 5 new store at 5 central provices, coi will lead to expansion and pay for it 
+estimation:VND 200.000 milion/ month with 5 store  commercial bank loans
+Main 4 : cost for employer , staff recruiting and training personnel
+decription : lead to employer , 10 employer for each store and training them 
+estimation: VND 100 milion for each store from quility
+Main 5: Cost for matirial drink menu and purchasing coffee
+estimation: VND 300 million /store 
+
+Request 3:
+Risk 1: don't have surveying and seclecting premises or it so expensive
+-description: reach surveying and seclecting so difficult because Central so expensive and low survey , need time for survey so much
+-relevent risk: lead for local persion research for survey and low estimate
+Risk 2: customer don't know new store  -description: adversion video youtube, tiktok... flop 
+-relevant risk: put target for view and adversion for local presonnel know
+Risk 3:don't have  a employee
+-decription: lead to employee have to difficult, and training local personnel need time so much. This make employee so weak don't have experience.
+-relevent risk: use employee have experience 
+Request 4:
+1. 
+PM
+design team 
+HR team 
+maketing team 
+2.
+-surveying and selecting premises (PM)
+- designing the brand at new store(design team)
+- training local personnel , employee(HR team)
+-building a raw material supply chain from Central region suppliers(design team)
+-launching campaigns for each store(PM)
+-make a video youtube tiktok(maketing team)
+-make a adverdsion for new store (maketing team)
+-recruiting employee for new store (HR team)
+- contructing interiors consistent with the brand (design team)
+
+2)

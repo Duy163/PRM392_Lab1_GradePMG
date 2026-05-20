@@ -1,0 +1,82 @@
+1)
+Request 1 - Project chart 
+   -Project name: Coi's management
+  - Justifications:
+      +  Coi cafe have much store device in Vietname need to management and have many service provice for customer using.
+      +  Surveying and selecting premises, designing and constructing interiors consisten with the brand, recruiting and training local personnel, building a raw material  supply chain, lauching compaigns.
+  - Project constraints : 
+        + Terms of scope: 8 months after opening each store
+        + Budget : 8.5 billion VND (approximately VND 1.7 billion/store)
+        + Quality: Support for large of customer will entry. Provide information and marketing good in the social.
+2)
+
+Request 3: 
+ - Risk1: 
+ +  Title : Budget project will over come targe
+  + Description: Coi's cafe have to much store so have more employment need to open environment luxy and comfortable so cost design will increase
+  +  Possible impacts :   Time need to increase 2 week and  in termns of scope make for people avaible.
+  +Mitigation: Makeing loose of  more fee each part of project
+ + Contingency: Do not can bonus cost right time making project finish to slow      
+
+- Risk 2: 
+   + Title: Requirment  do not same task in document approach
+    + Description: The time near to finish but in report have to  
+   + Possible impacts : Time need to increase 1 months and scope fix task to same document
+   + Mitigration: After time will have error do can not tracking information and can not fix error is correct
+   - Contingency: Do not have member accountable for this task and make some people influent.  
+   
+- Risk 3:
+   + Title : Design and Implement do not contact
+   + Description: Process design first but when time doing project have some error make for project do not finish correct target in handlle over project.
+    + Mitigation : Intructor design will accept idea customer but in time implement action have flow do make people unrate
+    + Contigency : Making performance increasing and in long time if have error fix to more time.
+    
+Request 4: 
+   In this project have 5 role :  Project Managements is led Market Developement Director, Design Team, HR and marketing, Customer
+  
+ These poject have Task : 
+  - Task 1:  Analysic and complement requirement of project. 
+    + This task have entry 3 role: PM is led Market Developement Director, HR team, Marketing team,
+    + Deliveriable: 
+           HR team tracking static employment and survery action function  (R)
+            Marketing team desgin notifcation for everyone knowledge to survery (R)
+            PM approach static and report document project. (A)
+
+ - Task 2 : Design overview for the project
+    + This task entry 3 role : PM, design team, marketing
+     + Deliveriable: 
+           Design team draw interface project (R) 
+           PM checking status and accept to contructor from design team (A)
+
+-  Task 3: Training local personal  
+      + This task entry 4 role : PM, HR, marketing, customer
+      + Deliveriable :
+              HR: create tuturial training for new personal (R) 
+              Marketing: create social networking and intructor new person action  (R)
+             Customer:  (employment ) take information to entry project (I)
+            PM:  approach task and management activity in this task (A) 
+           
+- Task 4:  Solving ands tracking task each week
+     + This task entry 4 role: PM, HR, marketing, design
+     + Deliveriable:
+         HR, marketing, design:   complement each task a week, report to document (R)  
+           PM : Tracking task and accept task for next week (A)
+  
+- Task 5: Lauching compaign for each store
+      + This task entry 3 role: PM, Marketing. Design.
+     + Deliveriable: 
+             Design: design interface space of compaign  (R)
+            Marketing: social medial compaign for store (R)
+             PM : Checking status task and choose compaign (A)
+
+- Task 6: Socical media for project Coi's cafe to new Center
+      + This task entry 2 role: PM, marketing
+             Marketing: running social media on the platform network. (R)
+            PM: Checking status aciton team marketing.  (A) 
+
+- Task 7: Testing action project before demo to customer
+     + This task entry role: PM, design, HR
+           Design: Checking again instructor project and test case will have problem (R)
+          HR: Checking employemnt doing in project (R)
+          PM: Write document for customer before approach (A)
+

@@ -1,0 +1,93 @@
+1)
+Request 1 : 
+1.1 Project name : Coi Cafe Campaign
+1.2 Justification : Coi's manangement decided to implement an expansion project into 5 Central provincesc, with 1 flagship store in each province within 12 months. The project building a raw material supply chain form Central region suppliers, and launching campaigns for each store. The reason of the project is attract more customer came to Coi Cafe 
+1.3 Project constraint
+   Scope : 
+    -The project expand into 5 Central (Da Nang,            Hue, Quang Nam, Quang Ngai, Binh Dinh), with        1 flagship store in each province
+    -The project includes: surveying and selecting             premises, designing and constructing iteriors             consistent with the brand, recuiting and training         local personal, building a raw material supply              chain from Central region suppliers and             launching campaigns for each store. 
+  
+   Time :
+    - Expanding project into 5 province with 1 flagship       store in each store within 12 months
+    - Each store must reach the break-even point             within 8 months after opening 
+
+   Cost/Budget : 
+    - The total budget is VND 8.5 billion              (approximately VND 1.7 billion/store).
+ 
+   Quality : 
+    - The project is led by the Market Development            Director as PM, coordinating with the interior              design team, HR team and marketing team.
+
+2)
+Request 2 : 
+ Five cost/budget items
+ 1. Preparation and Setup costs 
+     -Description : Purchasing coffe directly form Dak         Lak farmers and basic setup for each store into 5       province 
+     -Extimation : 450 million
+     -Method : Supplier quotation 
+     -Responsible : Project Manager
+
+ 2. Marketing and Advertising 
+     -Description : Social media boosting and design           poster and website , printing  flag for each store 
+     -Extimation : 250 million 
+     -Method : Based on previous campaigns
+     -Responsible : Marketing team and design team
+
+ 3. Operation/Production costs
+     -Description : Direct cost for run campaign for             each store into 5 province 
+     -Extimation : 600 million 
+     -Method : Market price research 
+     -Responsible: Operations team / Market             Development Director
+
+ 4. Training staff and Admin costs
+     -Description: Training team member and                   paperwork  
+     -Extimation : 400 million 
+     -Method : Expert judgment  
+     -Responsible : HR team 
+
+ 5. Contingency Reserve 
+     -Description : Backup funds for unexpected risks 
+     -Extimation : 6.8 billion  
+     -Method : Reserve calculation 
+     -Responsible : Project Manager
+
+Request 3 : 
+ Three project risks 
+  Risk 1 : Marketing plan not clearly.
+     -Description: Marketing plan not stability so       campaign does not attract customer. 
+     -Impact: Waste time/budget.
+     -Response :
+            +Mitigation: Push strong marketing early
+            +Contingency: Expand promotion time if                                             allowed.
+  Risk 2: Staff training 
+     -Description: In each province, does not enough       staff to apply for store and training
+     -Impact: fails scope
+     -Response: 
+            +Mitigation:Enhance post information on               more platform (etc. Tiktok, Facebook,..)
+            +Contingency: Deliverable staff from Central               to the store does not enough staff. 
+  Risk 3 : Budget for campaign 
+     -Description: The total budget does not enough       for project 
+     -Impact: fails cost/budget  
+     -Response:
+            +Mitigation: Attract sponsors for campaigns
+            +Contingency: Use the Contigency Reserve 
+
+Request 4 : 
+  4.1) Three project roles : 
+          - Project Manager (PM)
+          - Operation lead (OL)
+          - Marketing team (MKT)
+  4.2) & 4.3) Activities and relationship 
+         1. Define project plan and budget: PM :(A,R),                 OL: (C), MKT: (I) 
+         2. Conduct market/ audience research : PM:                  (A) ,OL:(C), MKT: (R) 
+         3 . Prepare material and equiment : PM:(I) ,                     OL:(R), MKT:(C) 
+         4. Training team: PM:(A,R), OL:(I), MKT:(I) 
+         5. Excute core project task (Phase 1): PM:(A),               OL:(R), MKT:(C)
+         6. Excute core project task (Phase 2 ) :
+             PM: (A), OL:(R), MKT:(I) 
+         7. Run marketing campaign: PM:(I), OL:(I),                     MKT:(R)
+         8. Quality check & Testing : PM:(C), OL:(I),                     MKT: (R)
+         9. Collect results and analystics: PM:(A) , 
+             OL: (C), MKT:(R)
+         10. Offical launch store : PM:(A,R) , OL: (I),                      MKT: (I)
+     
+  

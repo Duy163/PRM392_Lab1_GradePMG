@@ -1,0 +1,82 @@
+1)
+1)
+-Project name: Coi Cafe Management
+- Justifications:
++ Purpose: The Coi's project managemet decided to implement an expansion proect into 5 Central provinces ( Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 month
++ Reason: The project have includes surrveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliesrs, and launching campaigns for each strore
+-Project contraints:
+ + Scope: Coi's management decided to implement an expansion project into 5 Central province with 1 flagship store in each province
+ + Time: 12 months
+ + Cost/Budget: The total budget is VND 8.5 billion (approximately VND 1.7 billion/store) from equity and commercial bank loans
+ + Quality: Store province must reach the break-even point within 8 months after opening
+2)
+Cost/Budget:
+- Trade and research premises:
++Description: surveying customers and selecting premises
++ PM
+
+- Get idea and template design
++ Description: designing and constructing interiors consistent with the brand
++ Design team 
+
+- Find and traning personel:
++ Description: recruiting and training local personnel
++ HR team
+
+- Material supply
++ Description: building a raw material supply chain from Central region suppliers
++ HR team 
+- Launch campaigns:
++ Description: launching campaigns for each store
++ Marketing team
+2)
+3) 
+Risk 1:
+- Respone survey low
++Description: the number of survey give to lower 
++ Scope:  check format survey improve format lead to give more reply possible to select premises
++ Time: 1 month
++ Cost: 100 million VND
++ Mitigation: reduce cost, trade more with customer and complete selecting premises
++ Contingency: focus sponsor project, apcept their requirment and manage cost
+
+Risk 2:
+- Low quality training:
++ Description: Training team do not have more expensive for tranining
++ Scope: improve quality for training
++ Time: 1 time/3 month
++ Cost: 2 million VND
++ Mitigation: check quality 1 time for 5 month, and create some event for everyone connect together and relaxing
++ Contingency: Increase number for check quality staff, focus control personnel
+
+Risk 3: 
+- Supply and storyteling materials are delayed
++ Description: open inventory, reusable cups, storyteling visuals or supplies documents may arrive late impacts
++ Scope: Store launch may loading uncomplete or inconsitent with the cups concept
++ Time: 3 month
++ Mitigation: development loading complete
++ Contingency: improve launch may loading to faster and result is complete with the cups concept
+4)
+ Project roles:
+- PM: project manager
+- LD: Lead Design
+-LM: Lead Marketing
+ Task 1:
+- Survey customer and sponsor about premises: PM(R/A), LM( C )
+ Task 2:
+- Selecting premises: PM ( R/A ), LM ( C ), LD ( I )
+ Task 3:
+- Find idea and select design: PM ( C ), LM ( I ), LD (R/A)
+ Task 4:
+- Design and constructing: PM ( C ), LM ( I ), LD (R/A)
+ Task 5:
+- Trainning local personnel; PM ( A ), LM ( R ), LD ( C/I )
+ Task 6: Building a raw material supply chain: PM ( R/A ), LM ( I ), LD ( C )
+ Task 7: 
+- Launching campaigns for each stroe: PM ( I ), LM ( R/A ), LD ( N/A )
+ Task 8: 
+- Create content and record video upload to trending platfrom like TikTok, Youtube, Facebook: PM ( C ), LM (R/A ), LD ( I ) 
+ Task 9: 
+- Check rating and report of customer about project store: PM ( C/A ), LM ( R ), LD ( I )
+ Task 10:
+-  Check quality of team launching campaigns: PM ( C ), LM ( R/A ), LD ( I )

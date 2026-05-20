@@ -1,0 +1,123 @@
+1)
+Question1:
+1. Project name: Expansion of Coi Cafe's store  in VietNam Market 
+2. Justifications:
+- The purpose of this project is aim to expand and develope the cafe's brand across VietNam instead of just in Hanoi an Ho Chi Minh City. This project also brings all of the signature, styles and bussiness model of the brand in consistent way for  advertising their brand's image and improving their profits.
+- This project is justified because:
+ 1> It can make Coi Cafe brand more popular with special signature which can attract more customes
+ 2> Enrich branh's image through special design and sustainale bussiness model
+ 3>  Increase the number of coffee stores in VietName which can help improve the profit and bussiness scale
+3.Project Constraints:
+- Scope: 
+1> Expand the number of Coi Cafe store into 5 Central provinces(Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+2> Survey market and select premises
+3> Design and construct interiors consistent with the brand
+4> Recruit and train local personel
+5> Build a raw material supply chain from Central region suppliers
+6> Launch campaings for each stores
+- Cost/budget: Total budget is VND 8.5 billion (approximately VND 1.7 billion per store) from equity and commercial bank loans
+- Time: Build 1 flagship store in each province within 12 months
+Quality: Each store must reach the break-even point within 8 months after opening 
+Question 2:
+- Labor cost:
+1> Description: this cost is spend for hiring human resources including PM, interior design team, HR team and marketing team.
+2> Estimation: Parametric Estimation
+- Marketing cost:
+1> Description: this cosr is used to advertise the Coi Cafe brand to social through some of channels such as social media (facebook, zalo,..) or hiring KOLs, KOCs for reviewing the Coi cafe so that it can attract more local customers.
+2> Estimation: Top-down Estimation
+- Training Cost:
+1> Description: this cost is used to training the staff service in coffee store by teaching them the way to talk with customer, manage the operation of stores and work skills.
+2> Estimation; Top-down estimaition
+
+-Interior design and construction cost:
+1> Description: This cost is used to buy some important stuffs for construct the exterior and interior of the store such as lights, tables, coffee machines and also the cost of interior design by architector
+2> Estimation: Bottom-up Estimation
+- Supply chain cost:
+1> Description: the cost is used to build a raw material from Central region suppliers including logistic cost, fuels cost,..
+2> Estimation: Bottom-up estimation
+
+
+
+
+2)
+ Question 4:
+1. 
+1>Project Manger: define project charter, project management plan, manage risk/budget/scope/quality, monitoring the project and ensuring the project meet the requirements
+2> HR teams: recruit the coffee service staff for manage store and serving coffee to customers
+3> Marketing team: researching the market to understand the customer's beahvior ,advertising the image of brand and buiding campainge through several channels to attract more customers
+4> Interiors design team: develope and draw the design of coffee store to keep consistent with the brands
+2 and 3:  
+10 tasks and responsibilities of project roles:
+1> Create project charter documents
+PM: A
+HR team: C
+Marketing Team:C
+Interioir design team:C
+2> Creare project management plans
+PM: A
+HR team: I
+Marketing team: R
+Interior design team: I
+3> Create requirement packages(BRS,SRS)
+PM: A
+HR Team: R
+Marketing team: R
+Interior design team: I
+4> Recruiting Staff
+PM: A
+HR team: R
+Marketing team: I
+Interior design team: I
+5>Training personel:
+PM: A
+HR team: R
+Marketing team: I
+Interior design team: I
+6> Buiding supply chain:
+PM: A
+HR team: I
+Marketing team:I
+Interior design team:I
+7> Designing and Constructing interiors
+PM:A
+HR team: I
+Marketing team: C
+Interior design team: R
+8> Market research:
+PM: A
+HR team: I
+Marketing team: R
+Interior design team: I
+9> Monitoring and create status reports
+PM: A
+HR team: C
+Marketing team: C
+Interior design team: C
+10> Create final report, lesson learned
+PM: A
+HR team: C/R
+Marketing team: C/R
+Interior design team: C/R
+Question 3:
+1> Name: Over budget and behind the shedule:
+Description: this is cause when the budget which spend for project is not enough because of scope creep so that it can not meet the requirement and lead to delay 
+Possibility: Low
+Impact: High
+Mitigation plan: add small buffer to budget, give high prioty to experiment team to solve first,
+Contingency plan: apply crash tracks or fast track to spend more cost or complete simutinously intead of sequently
+2>Name: The quality of design of interior in coffee store is not meet requirement
+Description: the interior design do not keep the consistent signature of the brand so that it can decrease the customer satisfaction and ablity of branding.
+Possibility: medium
+Impact: medium
+Mitigation plan: The PM carefully check and evaluate the design before construction step
+Contingency plan: Prepare a contingency budget to repair the design by minimum cost as much or build a backup design
+3>Name: The ineffective of supply chain
+Description: Some of suppliers is stuck and logistic transportaion work ineffectively so that the completement of the project can be delay 
+Possibility: High
+Impact: High 
+Mitigation plan: The PM and Supply chain team should research carefully, create many backup logistic plan when one them is stuck, coordinate many supplier when building supply chain plan.
+Contingency plan: Spend more cost to increase transportation and connect to another supplier
+
+
+
+

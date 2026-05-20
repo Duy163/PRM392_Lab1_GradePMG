@@ -1,0 +1,86 @@
+1)
+Request 1: Narrative charter
+1. Project name: Coi Cafe - Vietnamese coffee brand
+2. Justifications:
+    Nowadays, coffee plays an important role for people in real life. So that the requirement of people for using coffee increase very high. However, people do not know how to believe into some stores due to the bad quality of coffee.
+    This project is created to:
+     - Help people have many choices for buying and drinking real coffee.
+     - Advertise images of Dak Lak's coffee to everyone to know, and encourage people to use resuable cup to protect environment.
+     - Open more stores in other provinces of North and Middle of Vietnam.
+3. Project constraints
+   In terms of scope:
+      - Survey and select premises
+      - Design and construct interiors consistent with the brand
+      - Recruit and train local people
+      - Build a raw material supply from Central region 
+      - Launch campaigns for each store.
+   => Too many activities, need to work quickly
+    
+    Time
+       - Duration: 12 months with 1 flagship store in each province and 8 months after opening for each store
+    => Time is very short, must do it quickly
+
+     Cost/budget
+        - Duration: 8.5 billion VND(approximately 1.7 billion on one store)
+    => Limited cost for each store, must spend carefully for activites
+ 
+      Quality:
+         - Ensure the progress is completed about 70%
+         -  Quality of products must be checked before input to coffee store
+
+Request 2: Five main cost/budget items
+1. Product item
+   - Name: Coffee of Dak Lak
+   - Description: Export and input into coffee store 
+   - How to estimate:
+     + 
+     +
+
+2. Design item
+   - Name:  Coffee store brand
+   - Description: Design brand for each coffee store related to this project
+   - Estimation along:
+     + Each people in design team need to decor and design interested and beautifull about brand of this coffee store
+3. Employee item
+    - Name: 
+
+
+
+2)
+Request 3: Project risks
+Three project risks
+1. Not enough amount of product
+  - Name: Reusable cup
+  - Description : A lot of stores need to have products to active fastly
+  - Possible impact: The time of opening will be delayed 
+
+
+
+2. Quality of product
+   - Name : Coffee
+   - Description: Many stores do not check carefully about product, especially main product is coffee
+   - Possible impact: Quality of product will less than more
+
+3. Late progress
+   - Name : Working project
+   - Description: Too many activities and limited time 
+   - Possible impact: Project will not finish done after 12 months
+Request 4:
+1. Four project roles:
+- PM
+- Design team
+- Marketing team
+- HR team
+
+Ten tasks/activites/deliverables
+  1. Design brand: PM(A), Design team(C), Marketing team(I), HR team(R)
+  2. Survey product: PM(I), Design team(R), Marketing team(C), HR team(A)
+  3. Build raw material supply chain: PM(I), Design team(C), Marketing team(R), HR team(A)
+  4. Train local people: HR team(R), Design team(A), Marketing team(C), PM(I)
+  5. Check CV of new employee: HR team(A), Design team(C), Marketing team(R), PM(I)
+  6. Calculate total fee in one month: Marketing team(C), HR team(A), Marketing team(I), PM(R)
+  7. Run advertisement: PM(A), HR team(C), Marketing team(I), Design team(R)
+  8. Follow progress: PM(R), HR team(I), Marketing team(C), Design team(A)
+  9. Check design brand: PM(I), Design team(C), HR team(A), Marketing team(R)
+ 10. End progress: PM(I), Design team(A), HR team(C)
+  

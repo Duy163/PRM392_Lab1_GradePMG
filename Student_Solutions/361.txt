@@ -1,0 +1,188 @@
+1)
+REQUEST 1 :
+Project Name:
+- Coi Cafe Expansion Project
+Justifications :
+- To further extend the reach of Coi Cafe to more customers across Da Nang,Hue Quang Nam, Quang Ngai and Binh Dinh provinces of Vietnam.
+- Reasons to Implement:
+- There is a grow demand for sustainable as well as locally sourced products.
+- Due to an overcrow retailer environment in Hanoi and Ho Chi Minh city.
+- We will seek to build new customer bases and brand awareness in the central provinces.
+- The operational model of our business is based on the use of reusable cups, as well as the direct purchase of goods from local farmers and suppliers.
+
+Project Constraints :
+- Scope:
+- Survey and select new new store location.
+- Design and construct the store interiors.
+- Recruit and train local personnel.
+- Development of new supply chains for procurement of raw and roasted coffee materials.
+- Launch marketing campaigns for each new store.
+- Time:
+- Project Completion: 12 months. Between each retail store opening: 2 months.
+- Break-even in 8 months.
+- Cost/Budget:
+- Total budget for the project are VND 8.5 billion. The budget for each store are VND 1.7 billion , which will be funded by equity and commercial bank loans.
+- Quality:
+- The concept stores must comply with the brand’s design, offer high quality coffee and consistency across all locations.
+
+REQUEST 2 :
+Provide at least five main cost/budget items:
+1. Premise Survey & Site Selection:
+- These costs relate to surveying potential properties and identifying sites that are suitable for the brand.
+- Estimation: VND 500 million per store.
+- How to Estimate Consultant services for selection of premises with real estate agent.
+2. Construction & Design:
+- The cost of the construction of the store, of the fittings and the interior.
+- Estimation: VND 3 billion per store.
+- How to Estimate Cost to Build (Resale): Get quotes from builders and interior designers to have the best estimate for the bottom line.
+
+3. Marketing & Branding Campaign:
+- Stores Promo Cost: This category tracks and captures all expenses, investments or costs the retailer incurs in promoting his/her store(s) including Advertising Spend, Content spent on social media and Costs of Store Promotional Materials etc.
+- Estimation: VND 300 million per store.
+- How to Estimate with the marketing team for estimates on digital ads, print materials, and campaigns.
+
+4. Recruitment & Training:
+- These are the costs associated with recruiting and training local staff for each store.
+- Estimation: VND 100 million per store.
+- How to sell: Set clear price points for your content based on how it will add value to your customers. Determine what the content will deliver in terms of ROI. Determine whether you intend to deliver live training or whether recorded training will be sufficient.
+
+5. Inventory & Supply Chain Setup:
+- Setup cost for initial stock and local supply chain.
+- Estimation: VND 400 million per store.
+- How to Estimate with local suppliers for stock and shipping costs.
+
+REQUEST 3 :
+List 3 project risks including risk title/name, description of the risk, possible positive and negative impacts of the risk on the project and the corresponding project risk management plan, i.e. risk response plans - mitigation plans and contingency plans.
+
+1. Risk: Delay in Store Opening
+- Opening of Stores subject to delay due to Building or Supply chain related reasons.
+- Potential Consequences: Reduced Revenue, Delay of Customer Interactions, Missed Break-Even Point.
+- Mitigation: Incorporate delay time into plan, update for weekly progress review, and engage in early dialogue with supplier.
+- Contingency: Be prepared to postpone the date of opening the store and to inform the customers of any changes.
+
+2. Risk: Supply Chain Disruptions
+- Sourcing : Delays associated with the sourcing of coffee beans as well as local construction materials.
+- Uncertainty: Inconsistent quality of delivered products, and potentially serious effects on normal business operations.
+- Mitigation: Sourcing from multiple vendors and/or developing long-term agreements can help mitigate this risk.
+- Keep watch of contingency: Respond rapidly to any disruptions by finding alternative suppliers and keeping customers informed of any shortages.
+
+3. Risk: Low Consumer Demand in New Locations
+- This new format of stores may not attract sufficient customers in certain locations.
+- Slow sales. - Bad reviews. - Low revenue.
+- Mitigation: More in-depth market research and local marketing efforts.
+- Contingency Level 1 (LLI - Low Low Intensity): Introduce marketing adjustments, loyalty programs and promotion initiatives in order to draw customers.
+
+REQUEST 4 :
+Describe the RACI Chart where:
+1. Define at least three project roles:
+- Executive Producer: This is the overall producer of the project, making sure everyone completes their roles successfully.
+- Editorial Chief: Creates content. Must follow site Content and Journalism standards.
+- Technical Manager: Responsibility for technical aspects of the job, like equipment setup and production logistical organisation.
+- Audience Growth Lead (AGL): Develop and execute global marketing strategies and optimize distribution for growth of The New York Times audience.
+- Content Creation Team: Write, create and script content, managing and analyzing reports.
+
+2. List out at least ten tasks, activities, or deliverables for a typical day that demonstrate your work habits and capacity for handling responsibility, which will help you evaluate your efficacy.
+- Weekly topic planning
+- Budget tracking
+- Source interviews
+- Content scripting
+- Recording sessions
+- Post-production editing
+- Quality review
+- Platform uploading
+- Marketing campaigns
+- Analytics monitoring
+- Equipment management
+- Complaint resolution
+
+3. For each task/activity/deliverable list out the responsibilities of the project roles. This can often uncover ambiguities or gaps in the project scope and enable a more clear definition of roles and responsibilities early on.
+
+Task 1: Weekly topic planning
+- Executive Producer: A (Accountable)
+- Editorial Chief: R (Responsible)
+- Technical Manager: C (Consulted)
+- Audience Lead: I (Informed)
+- Content Team: C (Consulted)
+
+Task 2: Budget tracking
+- Executive Producer: R/A (Responsible/Accountable)
+- Editorial Chief: I (Informed)
+- Technical Manager: C (Consulted)
+- Audience Lead: C (Consulted)
+- Content Team: I (Informed)
+
+Task 3: Source interviews
+- Executive Producer: C (Consulted)
+- Editorial Chief: A (Accountable)
+- Technical Manager: I (Informed)
+- Audience Lead: I (Informed)
+- Content Team: R (Responsible)
+
+Task 4: Content scripting
+- Executive Producer: C (Consulted)
+- Editorial Chief: R (Responsible)
+- Technical Manager: I (Informed)
+- Audience Lead: I (Informed)
+- Content Team: A (Accountable)
+
+Task 5: Recording sessions
+- Executive Producer: C (Consulted)
+- Editorial Chief: C (Consulted)
+- Technical Manager: R (Responsible)
+- Audience Lead: I (Informed)
+- Content Team: A (Accountable)
+
+Task 6: Post-production editing
+- Executive Producer: C (Consulted)
+- Editorial Chief: C (Consulted)
+- Technical Manager: R/A (Responsible/Accountable)
+- Audience Lead: I (Informed)
+- Content Team: C (Consulted)
+
+Task 7: Quality review
+- Executive Producer: R/A (Responsible/Accountable)
+- Editorial Chief: R (Responsible)
+- Technical Manager: C (Consulted)
+- Audience Lead: I (Informed)
+- Content Team: I (Informed)
+
+Task 8: Platform uploading
+- Executive Producer: C (Consulted)
+- Editorial Chief: I (Informed)
+- Technical Manager: R (Responsible)
+- Audience Lead: A (Accountable)
+- Content Team: I (Informed)
+
+Task 9: Marketing campaigns
+- Executive Producer: A (Accountable)
+- Editorial Chief: I (Informed)
+- Technical Manager: C (Consulted)
+- Audience Lead: R (Responsible)
+- Content Team: C (Consulted)
+
+Task 10: Analytics monitoring
+- Executive Producer: A (Accountable)
+- Editorial Chief: C (Consulted)
+- Technical Manager: C (Consulted)
+- Audience Lead: R (Responsible)
+- Content Team: I (Informed)
+
+Task 11: Equipment management
+- Executive Producer: C (Consulted)
+- Editorial Chief: I (Informed)
+- Technical Manager: R/A (Responsible/Accountable)
+- Audience Lead: I (Informed)
+- Content Team: I (Informed)
+
+Task 12: Complaint resolution
+- Executive Producer: R/A (Responsible/Accountable)
+- Editorial Chief: R (Responsible)
+- Technical Manager: I (Informed)
+- Audience Lead: C (Consulted)
+- Content Team: I (Informed)
+
+R = Responsible (does work)
+A = Accountable (final decision)
+C = Consulted (input provided)
+I = Informed (kept updated)
+2)

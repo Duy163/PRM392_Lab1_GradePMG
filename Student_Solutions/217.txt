@@ -1,0 +1,111 @@
+1)
+request 1:
+ project name : coi cafe
+description: coi cafe is a pure vietnamese coffee brand with 12 stores in hanoi and ho chi minh city, famous for its nostalgic space, traditional drink menu, and sustainable business model ( using reusable cups, purchasing coffee directly from dak lak farmers).
+
+purpose: coi's management decided to implement an expansion project into 5 central provinces ( da nang, hue, quang nam, quang ngai, binh dinh ), with 1 flagship store in each province within 12 months.
+reason: 
+
+scope: 5 central provinces ( da nang, hue, quang nam, quang ngai, binh dinh ), with 1 flagship store in each province within 12 months. the project includes: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and lauching campaigns for each store.
+
+time: 12 months
+
+budget: the total budget is vnd 8.5 billion ( approximately vnd 1.7 billion/store) from equity and commercial bank loans.
+
+quality: each store must reach the break-even point within 8 months after opening.
+
+
+
+2)
+request 2:
+1. buy fligh ticket or move fee to 5 central provinces
+
+description: the money to buy the fligh ticket or move fees for coi's management and some core members to da nang, hue, quang nam, quang ngai, binh dinh.
+
+coi's management and core team members can use this to book fligh ticket to each province anf they can book grab to move around in each province for work.
+
+person in charged: coi's manager or project manager
+
+2. purchasing coffee
+
+description: purchasing coffe directly from dak lak framers to da nang, hue, quang ngai, quang nam, binh dinh
+
+coi cafe can purchasing direct the coffee form dak lak to each store in each province weekly or monthly
+
+person in charged: coi's manager or project manager
+
+3. kios fees
+
+description: the money for rent kios in each province, electric fee, water fee
+
+coi cafe pay for each kios in da nang, hue, quang nam, quang ngai, binh dinh within 12 months.
+
+person in charged : coi's managers or project manager
+
+4. design and print
+
+description: the fee for print banner, standee, posters and the salary for designers.
+
+coi cafe pay for designer to design poster, standee, banner,..after that they pay print poster, standee, banner,..for each store.
+
+person in charged: lead design team, lead marketing team
+
+5. salary for staff
+
+description: the salary for staff team of each store in da nang, hue, quang nam, quang ngai, binh dinh.
+
+coi cafe pay salary for staff who woking in each store mothly
+
+person in charged: lead hr team or store manager
+
+
+request 3:
+3 project risks:
+- the cost or budget overrun planned ( cost )
+- delay the progress setup the srote ( time )
+- each store cannot reach the beak-even point within 8 months after opening ( quality )
+
+1. the cost or budget overrun planned ( cost )
+description: the budget for each store is vnd 1.7 billion but something will have some problem out of plan can take more money to slove.
+possible impact: high
+impact: high
+mitigation: list more as possible the problem out of plan and find the solution dont take much money to slove
+contingency: choses the way take leaset money as possible
+
+2. delay the progress setup the store ( time )
+description: during the plan setup store can have some problem need more time to do like dont have the core staff for each store, staff can tranning 1 week 2 weeks or 1 month but they quit or some problem need more time to solve like dont have suitable kios for coi cafe model,...
+possible impact: medium
+impact: medium
+mitigation: list more as possible the problem out of plan, use the core staff or members from core team in ha noi or ho chi minh to work in each province still can find suitable staff.
+contingency: use the core members from core team in ha noi or ho chi minh backup, for rent the kios suitable around 50% backup,...
+
+3. each store cannot reach the break-even point within 8 months after opening ( quality )
+description: each store cannot reach the break-even point within 8 months after opening
+possible impact: medium
+impact: high
+mitigation: find the way more as possible can solve that problem to decrease the risk
+contingency: review the problem and use the backup plan.
+
+
+request 4:
+ project role:
+- market development director as pm
+- design team
+- hr team
+- marketing team
+
+ tasks, activities, deliverable:
+- manage the project ( pm )
+- meeting ( all )
+- training ( pm or leader team or manager )
+- design poster ( design team )
+- build campain ( pm )
+- build backup plan ( pm or leader or manager )
+- list the list of risks ( pm or leader or manager )
+- monitor ( pm )
+- leading ( pm or manager or leader )
+- print the standee, poster, banner ( design team )
+- control the quality ( pm or leader or manager )
+- create new drink, new menu ( leader or manager )
+- check the quality of material ( pm or manager )
+- control the reach on social media ( marketing team )

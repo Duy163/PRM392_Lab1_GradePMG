@@ -1,0 +1,108 @@
+1)
+Request 1:
+Project name: The expansion project of Coi Cafe 
+Purpose: Coi Cafe want to expand store into 5 Central provinces including: Da Nang, Hue, Quang Nam and Binh Dinh within 12 months. They want to increase their brand visibility through flagship strore in each province that can bring the comfortable experience for their customer. They also wan to popular the tradition cultural and coffee taste from Dak Lak farmers to the their clients.
+Scope: implement an expansion project into 5 Central provinces including: Da Nang, Quang Nam, Quang Ngai, Binh Dinh
+Time: Within 12 months
+Cost/Budget: VND 8.5 billion (about 1.7 billion per store)
+Quality: Each store must reach the break-even point within 8 months after opening
+Request 2: Five main cost/budget items:
+1. Surveying and selecting premises
+- Description: observating, surveying to determine where do the place in this Central have the highest demand, select the suitable location (high average income of the citizen, have the high office employees,...).
+-  Cost: VND 500 millions
+- Estimate the cost base on the living cost in this place for the researcher team to collect survey, the tools expense to analyze the data.
+- Person in charged: researcher from the marketing team 
+2. Designing and constructing interiors consistend with the brand
+- Description: design the nostalgic space of the store (in-store, out-store, relax corners,...), constructing interiors fit with the subject of the flagship strore, fit with the each location ( traditional, vintage style,...) 
+- Cost: VND 2 billions
+- I estimate this cost base on the price of material on the market and the previous design of the our store.
+- Person in charged: team lead of the interior design team.
+3. Recruiting and training local personnel
+- Description: look for the new staff for the store, provide the training program for the new hire.
+- Cost: VND 500 millions
+- I estimate this cost base on the the cost of advertising on the social media for recruiment, the program to train that have to spend time and money for the experience employees observe and feedback for the new hires .
+- Charged: HR Team
+4. Building a raw material supply chain from Central region suppliers
+- Description: Look for the new distributor  in inventory the  in the Central region that help save a lot of money due to do not transportation for a long distance.
+- Cost: 2.5 billions
+- I estimate this cost base on the cost of product, servey expense to find the suitable supplier,
+5. Launching campaigns for each store
+- Description: prepare for the advertising campaign, promotion campaign, booking KOLs, Influencers.
+- Cost: 3 billions
+- Estimate this cost base on the scope of the campaign, organize within first week when open the store, the cost of booking influencers, campaign discount for the new customer.
+Person in charged: Project manager, lead of the marketing team
+The total budget/cost do not exceed 8.5 billions.
+2)
+Request 3: three project risk:
+1. Do not enough the budget
+- Desription: Spend the money exceed the budget plan for the each store.
+- Possible impact; high
+- Mitigation: prepare the detail plan, take a list of the total cost carefully to avoid use over the permit money.
+- Contingency: scope reduction and cut down the non-essential cost.
+2. Miunderstanding between team members
+- Description: the team members do not catch up others idea due to lack of communication. This can lead to the internal confilict.
+- Possible impact: High
+- Mitigation: Project manager need to increase the meet ratio such as the meeting weekly to update the progress of each orthers or organize the team building.
+- Contingency: Need to face to face meeting to take the best solution. Design the general schedule to arrange brief meeting (face to face, online, email, zalo,...) to avoid repeat this mistake.
+3. Behind the progress
+- Description: Due to something reason lead to do not complete the progress on time. This make the disruption of the workflow, deacrease the income, miss the potential customer, decline productivity of the store.
+- Possible impact: high
+- Mitigation: update the progress daily. have the detail the schedule to do on this date, need to report the progress for the project manager anf give the feesback if have
+- Contingency: Increase the working time, increase the labor to boost the project go right progress.
+Question 4
+3 project roles:
+- Project manager
+- HR Management
+- Marketing Management
+- Operation management
+ Ten activities in the project
+1. Create the fanpage, account of the store each Central
+Project manager: A
+- Marketing management: R
+- HR Management: C
+- Operation management: I
+2. Prepare the content to upload on the social media  platforms
+- Project Manager: A
+- Marketing Management: R
+- HR Management: I
+- Operation management: C
+3. Prepare the recruit information to looking for the new employees for the store
+- Project manager: A
+- HR Management: R
+- Marketing management: C
+- Operational Management: I
+4. Select the suitable employees
+- Project manager: A
+- HR Management: R
+- Marketing managerment: C
+- Operation management: I
+5. Training for the new hires
+- Project manager: A
+- Operation management: R
+- HR managemnet: C
+- Marketing management: I
+6. Do the marketging plan within 12 months for the stores
+- Project manager: A
+- Marketing management: R
+- HR management: I
+- Operation management: C
+7. Take the rules, guilde for the employees ( be on time, respect the customer, working time,...)
+- Project manager: R
+- Operation management: A
+- HR management: I
+- Marketing management: C
+8. Do the plan to contingency risk and risk management 
+- Project manager: R
+- Operational management: A
+- Marketing management: C
+- HR management: I
+9. Buiding the customer relationship
+- Project manager: A
+- Marketing management: R
+- Operational management: C
+- HR management: I
+10. Tracking the progress of the project (timeline, budget,...)
+- Project manager: R
+- Operation management: A
+- Marketing mangement: C
+- HR management: I

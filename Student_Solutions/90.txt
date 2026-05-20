@@ -1,0 +1,141 @@
+1)
+Request 1:
+Project name: Coi Cafe's expandsion project
+
+Justification:
+Coi Cafe is a famous sustainable business model due to its nostalgic space and traditional drink with 12 stores in Hanoi and Ho Chi Minh City. Due to the need of this coffee brand's expandsion into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), this project aimed to expand the business, reconstruct interiors with the brand and build a raw meterial supply chain from Central region suppliers.
+The expandsion project is implemented to reach to central customers who are live in 5 central provinces via doing surveying and selecting premises, interiors design and construction, local personnel recruitment and training, build a raw material supply chain from Central region suppliers and launching campaigns for each store.
+
+Project constraints:
+ Scope:
+  - Premises surveys and selection
+  - Interior design and construction
+  - Local personnel recruitment and training
+  - Raw material supply chain impelementation from Central region suppliers
+  - Campaigns launching programs for each store
+
+ Time: Durantion of 12 months, starting from January 2025 to December 2025
+
+ Cost/Budget: The total budget is VND 8.5 billion (approximately VND 1.7 billion/store)
+
+ Quality:
+  - 5 flagship stores is implemented in 5 Central provinces
+  - A raw material supply chain is built
+  - Local personnel recruitment and training process is finished
+  - The break-event point must be reached with 8 months after opening for each store
+
+Request 2:
+Budget item 1: Interiors design
+ - Description: The estimated the fee of interiors design for each store which consistent with the brand
+ - How to estimate: Finalize an ideation theme, the proposal of decorations, interiors including the number of furnitures and decorations, the color pallate and the material for each flagship store 
+ - Person in charged: The interior design team
+
+Budget item 2: Interiors construction
+ - Description: The estimated budget for interiors construction should be calculated before starting building flaship stores.
+ - How to estimate: After the interiors and theme approval, the design team should estimate the number and classify types of furnitures and decorations via its function or the implemented area and building materials to expect the cost for the construction.
+ - Person in charged: The interior construction team
+
+Budget item 3: Rental cost
+ - Description: One of the main cost for this expandsion project is the rental cost, where the flaship store will be implemented.
+ - How to estimate: The rental cost depends on where the flagship store is placed. The project team should assess the location based on its traffic flow and customer behaviors.
+ - Person in charged: Rental owner
+
+Budget item 4: Furnitures and interiors cost
+ - Description: One of the primary cost is interiors and furnitures expenses.  - How to estimate: The project team should finalize the amount, the actual size, and the supplier for all of interiors, decoration and furnitures
+ - Person in charged: The interior supplier
+
+Budget item 5: Employee wages
+ - Description: The average wage for each employee should be calculated exactly. This wage may effect on the recruitment and training process.
+ - How to estimate: HR team should do research about the average wage in the central province and do adjustment base on the regulation and the acceptable wage for the hire.
+ -
+
+Request 3:
+Risk 1:
+ - Title: Lack of local workforce due to lower salary
+ - Description: Lower average salary may lead to lack of local workforce and delay the recruitment and training processes, which lengthen the duration of project
+ - Impacts: 
+   + Quality: The recruitment and training process cannot be finished on time which lead to bad service quality
+  + Time: The lack of workforce will cause to expand the duration time of project
+  + Cost: Higher cost must be spent for to fix the temporary shortage of local workforce
+ - Mitigation: Define the average and acceptable salary for the local workforce base on the regulation and the average number in this province, create the cost change implementation and recruitment plan
+ - Contigency: Immediately adjust and increase the salary for recruitment and produce media contents to promote the recruitment.
+
+Risk 2:
+ - Titlte: Failure of the break-even reaching within 8 months after opening for each store
+ - Description: The expected break-even reaching is unachievable within 8 months after opening for each store may lead to financial issues when the budget is from equity and commercial bank loans.
+ - Impact:
+   + Quality: Get trouble in maintaining the quality of services and products. 
+   + Time: The project cannot be continued due to the financial issues which forced it to finish earlier.
+   + Cost: It can cause bankrupt and effected negatively on 12 existed stores in Hanoi and Ho Chi Minh City
+ - Mitigation: Define the cost estimation and change plan if the target break-even is unachievable.
+ - Contigency: Immediately change the cheaper material suppliers, cutdown unessential cost, adjust employee's salary and delivery cost
+
+Risk 3: 
+ - Title: Less attractive to local customers
+ - Description: Even though the success of 12 stores in Hanoi and Ho Chi Minh City, the taste and buy motivation of the local customers may differ from the North and the South of Vietnam.
+ - Impact:
+   + Quality: The project hardly achieves the expected amount of customers, it might lead to the competition with other brand in the Central provinces and lead to failure of the break-even reaching
+  + Time: The project is forced to expand the duration of time to gain the attraction from the local customers
+  + Cost: Spend more on promotion and exclusive to attract the customers and increase their motivations
+ - Mitigation: Define the media plan to boost the attraction, gain the motivation and create monthly discount to achieve the customer sastification
+ - Contigency: Exclusive gift for new customer, voucher give away and promotion code should be implemented if this risk occurs.
+
+Request 4:
+1. 
+
+Market Development Director (PM) - Organization-internal
+  - Description: This role is responsible for project charter approval, key decision-making and project updates monitoring
+ 
+
+Project team - Project-internal
+ - Description: The project team including (the interior design team, HR team, marketing team) is responsible for media contents producing, human resources recruiting and training, interior designing and marketing plan implementation
+
+Local authorities - External
+ - Description: This role is responsible for the event, construction approval
+
+2. 
+Task 1: Surveying and selecting premises
+- Responsible: The project team (Marketing team)
+- Accountable: PM
+
+Task2: Finalize the flaship store location
+- Responsible: PM
+- Accountable: PM
+- Informed: Local authorities
+
+Task 3: Interior designing and constructing
+- Responsible: The project team (the interior design team)
+- Accountable: PM
+- Informed: Local authorities
+
+Task 4: Workforce recruitment
+- Responsible: The project team (HR team)
+- Accountable: PM
+
+Task 5: Local personnel training 
+- Responsible: The project  team (HR team)
+- Accountable: PM
+
+Task 6: Produce project media content
+- Responsible: The project team (marketing team)
+- Accountable: PM
+
+Task 7: Raw material supply chain construction
+- Responsible: The project team (Interior design team)
+- Accountable: PM
+- Consulted: Local authorities
+
+Task 8: Promotion sale at marketplace
+- Responsible: The project team (Marketing team)
+- Accountable: PM
+- Informed: Local authorities
+
+Task 9: Finalize financial report
+- Responsible: PM
+- Accountable: PM
+
+Task 10: Lession learn documents
+- Responsible: PM
+- Accountable: PM
+
+2)

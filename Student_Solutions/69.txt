@@ -1,0 +1,87 @@
+1)
+Request 1:
+1.1) Project name:
+ Coi's management
+1.2) Justifications (purpose and reason):
+ To implement an expansion project into 5 Central provinces ( Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province.
+1.3) Project constraints:
+ -Scope: expansion project into 5 Central provinces, with 1 flagship store in each province within 12 months. As well as surveying and selectting premises, designing and constructing interiors with brand. Recruiting and training local personnel, building a raw meterial supply chain from Central region suppliers, and launching campaingns for each store.
+ -Time: 12 months.
+-Cost/budget: total budget is VND 8.5 billion( approximately VND 1.7 billion/store)
+-Quality: each store must reach the break-even point within 8 months after opening.
+
+Request 2:
+-Cost/budget item 1:
+name: reusable cups
+description: one time purchase equiment but have to purchase new one when cups are out of date or broken.
+estimations: buy the new one depen on life cycle, for example once a year. person on charged: staff.
+
+
+-Cost/budget item 2:
+name: run online advs.
+description: create and post advs on social media.
+estimate: person in charged: Marketing team.
+
+-Cost/budget item 3:
+name: recruiting and training local personnel.
+description: recruit local staff and train them to launch stores.
+estimate: recruit staff for launch store. person in charged: HR team.
+
+-Cost/budget item 4:
+name: staff's salary.
+description: have to pay amount of salary for staff to launch each store.
+person in charged: sponsors.
+
+-Cost/budget item 5:
+name: purchase coffee from Dak Lak farmers.
+Description: coffee from farm have to be purchased and dilivery to each stores.
+estimate: person in charged: PM.
+
+2)
+Request 3:
+Project risk 1:
+-title/name: cost overrun (cost)
+-discription: budget is not enough to run many stores at once.
+-possibility: medium.
+-impact: it can intterup the flow of the system.
+-mitigation: planed buget in details. prepare a bit higher budget if possible.
+-contingency: use backup bugget, loans from banks.
+
+Project risk 2:
+-title/name: fail to reach the break-even point (scope)
+-discription: some stores can reach the break-even point but others might not able to in the short amount of time.
+-possibiliry: medium.
+-impact: one store can not to reach the break-even can make income much lower.
+-mitigation: carefully manage each store and make reports every week to change statergi or more adv if need.
+-contigency: post more adv on social medial, sale off to customers come in and purchase products.
+
+Project risk 3:
+-title/name: time overrun (time)
+-discription: can not open all of the stores within 12 months.
+-possibility: medium
+-impact: slow and make negative effect on other task suck as reach the break-even point.
+-mitigation: planed space, area to open stores early in project.
+-contingency: can be loan or buy area if needed, find others space a bit further urban area.
+
+
+Request 4:
+4.1:
+-Role 1: Market Development Director as PM.
+-Role 2: HR team.
+-Role 3: Marketing team.
+4.2:
+a. plan the project.
+b. decide task for each team.
+c. find suitble space to open store.
+d. recruit staff.
+e. training staff.
+f. team building activities.
+g. marketing the store in the local.
+h. post advs on social media.
+i. sell off program.
+k. create discount tickets.
+4.3:
+ Role 1: PM respon for tasks: a, b, c.
+ Role 2: HR team respon for tasks: d, e, f.
+ Role 3: Marketing team respon for tasks: g, h, i, k.
+

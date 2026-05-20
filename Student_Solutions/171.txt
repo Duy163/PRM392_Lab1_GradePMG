@@ -1,0 +1,94 @@
+1)
+REQUEST 1:
+1 project name: Coi cafe in  Vietnamese
+
+2 Purpose and reasons to implement is an expansion project into 5 Central province ( Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), wwith 1 flagship store in each province within 12 months
+
+3 Constraints:
+ + scope : 5 cental( Da Nang , Hue, Quang Binh, Quang Ngai, Binh Dinh) with 1 flagship store in each province 
++ time : 12 months
++ cosr/ budget: VND 8.5 billion( approximately VND 1.7 billion/store)
++ Quality each store must reach the break-even  point within 8 months after opening
+
+
+REQUEST2:
+1 Name:  Surveying and selecting premises 
+ Description:Maketing team surveying more people to have abot information and selecting premises 
+Cost :VND 0.5 billion 
+How : Maketing team will run ads tiktok and facebook to survey 
+2  Name : designing and constructing interiors consistent with the brand 
+  Description: coordinating with the interior design team  will design logo and poster for this brand and constructing interios consistent
+Cost : VND 1 billion
+How : Lead team designer will start with team to design 
+3 Recruiting and tranning local personel
+ Description:HR team find to people and training  skill and knowldege  about dring menu, business model, ..
+Cost : VND 3 billion
+ How: HR team will have 3 day to trainning personal abot busines.
+4 Name: Buiding a raw material supply chain from Central region suppliers
+Description: PM can lead to buill material support for cantral resigon supplies
+Cost: VND 2 billion
+
+5 Name : Launching campaigns for each store 
+Description : Go to maket to launching and get more envet to ech store to more people go this store 
+Cost: 2 billion
+
+
+REQUEST 3
+Rick 1:  Infomation survey is not good
+Description: When run ads for survey more people tick randome then infomation is not good
+Impacts : low (scope)
+Mitigation: marketing team can  get event survey in this provine for voucher when open 
+Contigency: clean  infomation in survey by data sience .
+Rick 2: designer  submid delay to deadline
+impacts : mid ( time)
+Mitigation: Lead design can check deadline one a week and support team  memer to design
+Contigency: Using more designer to designing if designer delay submid 
+ 
+Rick 3: People after training cannot remember to business model and dring menu coffee.
+Impacts mid( time)
+Mitigation: After trainning Hr team will get testing personel about knowdlege.
+Contigency: retraining for people can not remember.
+
+
+REQUES 4:
+1
+Project inclues: Survey and selecting premises
+R: Marketing team
+A: PM (Market development Director)
+C : team maketing
+I design team
+Project inclues: Desinning and contructing interioes consiten with the brain
+R Design Team
+A lead team design
+C PM
+I marketing team
+Project inclues: Training local personel
+ R: Hr team
+A: PM
+
+2
+Survey and selecting pemises
+Tast:
+A:Get idea to survey    
+B:Team marketing create 5 survery  
+C:One a good survet approve about lead marketing 
+D:Run ads for this survey
+E: Clean data after survey
+F: Team maketing meting to total infomation and repos 
+G:Meating with PM to sucsess survet
+H:PM selecting premiese
+I: constrain with premiese
+K go to run buiding
+A-B : FS
+B-C:FS
+C-D: FS
+D-E: FS
+E-F; FS
+F-G:FS
+G-H: FS
+H-I :FS
+I-K: FS
+
+
+
+2)

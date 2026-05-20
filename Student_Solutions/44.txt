@@ -1,0 +1,146 @@
+1)
+Request 1:
+Project name:
+Coi Cafe Central Feedback-Driven Expansion Project
+Justifications:
+Coi Cafe expands into Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh with one flagship store in each province.
+The project uses customer feedback as the main management tool to improve store design, launch campaigns, service quality, and post-opening operations.
+This helps Coi Cafe enter new markets more carefully instead of assuming all Central provinces have the same customer needs.
+The project still maintains Coi Cafe’s core strengths: nostalgic Vietnamese space, traditional drink menu, reusable cups, and direct sourcing from Dak Lak farmers.
+Customer feedback will help reduce market risk and improve local acceptance.
+A Central region supply chain and trained local staff will be developed to support stable operation.
+The project aims to create new revenue and ensure each store reaches break-even within eight months after opening.
+Project constraints:
+Scope:
+The project opens only five flagship stores, one in each selected province.
+The project scope includes: customer research, premises selection, lease agreement, store design, construction, equipment setup, staff recruitment, training, supplier setup, feedback collection, launch campaign, and break-even tracking.
+The project does not include franchising, extra stores, unrelated digital platforms, or major new product development.
+Time:
+Project duration is 12 months.
+All five stores must be opened within the approved timeline.
+Feedback collection must support decision-making but cannot delay the full project timeline.
+Each store must reach break-even within eight months after opening.
+Cost / Budget:
+Total budget is VND 8.5 billion.
+Average budget is around VND 1.7 billion per store.
+Funding comes from equity and commercial bank loans.
+Spending must be controlled across all major activities.
+Quality:
+All stores must follow Coi Cafe’s brand standards.
+Drink quality, service, hygiene, sustainable practices, and interior design must remain consistent.
+Customer feedback may guide minor improvements but cannot change the core brand identity.
+
+
+Request 2:
+Budget Package One:
+Name: Customer feedback and market research
+Description: Cost for surveys, interviews, competitor visits, customer preference testing, local demand analysis, and feedback collection before launch.
+Estimation: VND 700 million total, around VND 140 million per store.
+Way to estimate: Based on survey cost, interview incentives, travel expenses, competitor visits, data collection, and analysis time.
+Person in charge: Project Manager and Marketing Team.
+Budget Package Two:
+Name: Premises selection and lease setup
+Description: Cost for searching suitable locations, checking traffic, legal review, lease negotiation, deposit payment, and first rental payment.
+Estimation: VND 1.5 billion total, around VND 300 million per store.
+Way to estimate: Based on local rental prices, deposit requirements, legal checking, broker fee, and first rent.
+Person in charge: Project Manager and Finance Team.
+Budget Package Three:
+Name: Store design and construction
+Description: Cost for layout design, construction, lighting, furniture, seating area, counter, decoration, signage, and nostalgic brand finishing.
+Estimation: VND 3.05 billion total, around VND 610 million per store.
+Way to estimate: Based on store size, contractor quotation, material price, design drawings, furniture list, and brand design requirements.
+Person in charge: Interior Design and Construction Team.
+Budget Package Four:
+Name: Operations preparation and staff training
+Description: Cost for coffee machines, grinders, refrigerators, POS system, reusable cups, kitchen tools, staff hiring, uniforms, training, trial operation, and pre-opening salary.
+Estimation: VND 2.15 billion total, around VND 430 million per store.
+Way to estimate: Based on equipment checklist, supplier quotations, number of staff, training duration, uniform cost, trainer cost, and salary support.
+Person in charge: HR Team, Procurement Team, and Operations Team.
+Budget Package Five:
+Name: Supply chain, launch, and feedback system
+Description: Cost for supplier setup, first inventory, delivery planning, safety stock, quality checking, launch campaign, opening vouchers, feedback cards, QR survey, and customer response review.
+Estimation: VND 1.1 billion total, around VND 220 million per store.
+Way to estimate: Based on first-month inventory needs, supplier prices, transport cost, campaign budget, feedback tool cost, event cost, and promotion value.
+Person in charge: Procurement and Supply Chain Team, and Marketing Team. 
+2)
+Request 3:
+Risk 1:
+Risk name:edback is collected but not used effectively.
+Description: The team may collect customer feedback but fail to analyze or apply it to improve operations.
+Possible impacts:
+Scope / quality: Customer problems may continue after launch.
+Time: More time may be needed to correct issues later.
+Cost: Extra service recovery and marketing correction costs may occur.
+Mitigation plan: Assign clear responsibility for feedback review and hold weekly feedback meetings during the first month.
+Contingency plan: Prioritize the top three repeated customer issues and solve them immediately.
+Risk 2:
+Risk name: Too much feedback causes unclear decisions.
+Description: Different customers may give conflicting suggestions about design, menu, price, or service.
+Possible impacts:
+Scope / quality: The project may lose focus and weaken brand consistency.
+Time: Decision-making may become slower.
+Cost: Unnecessary changes may increase spending.
+Mitigation plan: Accept only feedback that matches Coi Cafe’s brand, budget, and break-even goals.
+Contingency plan: Freeze major decisions after approval and move minor suggestions to post-opening improvement.
+Risk 3:
+Risk name: Negative feedback affects brand image after opening.
+Description: Early customer complaints may spread on social media if service, drink quality, or waiting time is not managed well.
+Possible impacts:
+Scope / quality: Brand reputation in new provinces may decline.
+Time: More time may be needed to rebuild trust.
+Cost: Extra promotion, customer recovery, and retraining costs may increase.
+Mitigation plan: Monitor customer comments daiy respond quickly to valid complaints.
+Contingency plan: Provide service recovery vouchers, fix root causes, and assign store supervisors to monitor service closely.
+Request 4:
+Project roles:
+Role 1: Project Manager
+Responsible for overall planning, approvals, timeline, budget, risk control, and break-even monitoring.
+Role 2: Store Design and Construction Team
+Responsible for store layout, construction, decoration, furniture, signage, and store readiness.
+Role 3: Operations and Feedback Team
+Responsible for recruitment, training, equipment, suppliers, inventory, launch campaign, feedback collection, and performance improvement.
+RACI responsibilities:
+R = Responsible
+A = Accountable
+C = Consulted
+I = Informed
+Deliverable 1: Project charter and feedback-driven plan
+Project Manager: A/R
+Store Design and Construction Team: C
+Operations and Feedback Team: C
+Deliverable 2: Customer research and feedback report
+Project Manager: A
+Store Design and Construction Team: I
+Operations and Feedback Team: R
+Deliverable 3: Approved store premises
+Project Manager: A/R
+Store Design and Construction Team: C
+Operations and Feedback Team: C
+Deliverable 4: Signed lease agreements
+Project Manager: A/R
+Store Design and Construction Team: I
+Operations and Feedback Team: C
+Deliverable 5: Completed store design and construction
+Project Manager: A
+Store Design and Construction Team: R
+Operations and Feedback Team: C
+Deliverable 6: Equipment and opening inventory ready
+Project Manager: A
+Store Design and Construction Team: C
+Operations and Feedback Team: R
+Deliverable 7: Trained local store team
+Project Manager: A
+Store Design and Construction Team: I
+Operations and Feedback Team: R
+Deliverable 8: Supplier and delivery process ready
+Project Manager: A
+Store Design and Construction Team: I
+Operations and Feedback Team: R
+Deliverable 9: Launch campaign and grand opening completed
+Project Manager: A
+Store Design and Construction Team: C
+Operations and Feedback Team: R
+Deliverable 10: Customer feedback and break-even report
+Project Manager: A/R
+Store Design and Construction Team: I
+Operations and Feedback Team: C

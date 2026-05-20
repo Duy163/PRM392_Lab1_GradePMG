@@ -1,0 +1,64 @@
+1)
+Request 1
+1. Project name : University Student Management System 
+2. Purpose
+To help the student rigeter for school early and help to system starter 
+3. Project constraints 
+- Project schudule and notificaton system 
+- Designing and constructing interiosr with the management 
+Request 2
+1. Softwave Development 
+Buil app $ 200
+Estimattion: Developter house
+PIC : IT Team Leader 
+
+2. System Hosting 
+Run system online $ 300
+Estimation: Hosting Free
+PIC: The management 
+
+3. Testing 
+Try testing $350
+Estimation: Testing Free
+PIC: Team Project 
+
+4. Tranning & Support 
+Tranning the plan & the managent $400
+Estimation : 
+PIC: Team Project 
+
+5. UI/UX designing 
+Designing app $400
+Estimation: Designing team 
+PIC The management 
+
+
+
+2)
+Request 3
+The project includer: surving ans selecting premises, designing and constructing interiosr with the management, recruiting and tranining local personnel, building a raw material supply chain central region suppliers and launching campaigns for each store. 
+
+Stakeholder 1: The project 
+Title : The Project the unnisity 
+Desciption: Metting online 
+Freely: weely
+Contingency 
+
+Stakeholder 2. Student
+Freely: When needs 
+Contingency: mail 
+
+Stakeholder 3 System 
+Freely: Monthly 
+Contingency : mail 
+
+Request 4 
+- The Project is led by the University , coordinating with the interior design team, HR team , and markerting team. Each Planing must reach the break - even point within 4 months after when run start. The project roles to hepl the student rigeter for school early and to hepl system development starter. 
+- Each managent must responsibilities of the project roles. 
+
+
+
+ 
+
+
+

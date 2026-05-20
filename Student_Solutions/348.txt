@@ -1,0 +1,58 @@
+1)
+Request 1:
+1.1 Project name is: "Coi Cafe for Everyone in Middle Viet Nam".
+1.2 Purpose: Make everyone in 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) know more about Coi Cafe. Not only know about Coi Cafe but also use Coi Cafe like a drink which them use everyday. Make Viet Nam coffee more popular because Coi Cafe purchsaing coffe directly from Dak Lak farmers.
+1.3 
+Constraints:  
+- The project includes: surveying and selecting permises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, build a raw material supply chain from Central region supplier, and launching campains for each store.
+- The project is led by the Market Development Director as PM, coordinating with the interior design team, HR team and marketing team.
+Scope: Implement an expansion project in 5 Central provinc, with 1 flagship store in each province. 
+Time: 1 Flagship store in each province (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) within 12 months. Each store must reach the breack-even point within 8 months after opening.
+Cost/Budget: The total budget is VND 8.5 billion (approximately VN 1.7 billion/store) from equity and commercial bank loans.
+Quality: Store  need to same 12 stores in Hanoi and Ho Chi Minh but that this to have traditional space in 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh).
+
+Request 2:
+ 2.1 Space for flagships/store
+- Description: You need to pay money for that space to sell project (You can buy all year or each month)
+- Estimation: 30.000.000 VND/month,  Market Development will pay at first time and lead of store will have resonslity to pay after first time.
+2.2 Money for who do in each store
+- Description: Pay money for each people do in each store 
+- Estimation: 7.000.000 VND/person/month, Lead on each Store will pay.
+2.3 Makerting product
+- Description: You need to make more everyone know about this project or this store so you need pay money for marketing to do that.
+- Estimation: 100.000.000 VND/once time marketing (outside) or pay money for Marketing team 12.000.000VND/person/month, Market Development Director will pay. 
+2.4 Money for move something to make coffe to there
+- Description: Need to pay for someone who bring coffe, tee and milk etc. to there Because in 5 Central provinces we do not make sure who provide them for we so we need make sure we have them form outside. (Coffe directly from Dak Lak farmers, Tee form Thai Nguyen or Milk form Tay Nguyen, etc.)
+- Estimationn: 30.000.000 VND/store/once time, Lead of store will pay.
+2.5 Building a store
+- Desciption: Build a flagship store in 5 Central provinces so we need money for 3rd to build team
+- Estimation: 500.000.000 VND/store and The Market Development Director wil pay.
+
+Request 3:
+3.1 Overtime to build brand in 5 Central provinces
+- Description: You brand want to have 1 flaship store in each province within 12 months but still have chance you can not sure will done in 12 month and will make project overtime.
+- Just always have a people who have repsonsibility in there to look everything make sure everything done before or at time deadline or you can build 5 flagships at one time.
+3.2 Quality about product
+- Description: We need quality like 12 stores in Hanoi and Ho Chi Minh City because there is new store, we do not make sure quality like Hanoi and Ho Chi Minh city. 
+- You need to train your people who do in store to make good quality because this is your brand. Make your brands be population.
+3.3 Lost a lot of Money 
+- Description: The project maybe lost a lot of money because you take overtime. Or some money will lost because something broken and you need to add more money for this moment.
+- You need pay for a people who will managent your money to make sure that money will use right.
+
+Request 4:
+4.1
+-  PM (Project Manager)
+-  Design Team, HR Team, Markeing Team
+-  People who provide you Coffe from Dak Lak Farmers (PF), People who help you build store and you will pay for them (PB).
+4.2 and 4.3
+- Build store - PB
+- Find space to build store - PM
+- Discuss about price for space - PM
+- Build a project for marketing Marketing Team
+- Design space inside store - Design Team
+- Find people who do in store - HR Team
+- Training people who do in store - HR Team
+- Get coffee from outside to make drink - PF
+- Make plan for buisiness - Marketing Team
+- Make plan for All project - PM
+2)

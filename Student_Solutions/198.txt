@@ -1,0 +1,133 @@
+1)
+Request 1: 
+a) Project name: Coi Cafe's Expansion
+
+b) Justification: This project help the Coi Coffe brand grow more, increase brand awareness and attract new customer base by make an expansion into 5 Central provinces ( Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship sotre in each province.
+
+c) Project Constraints:
+- Scope constraints: 
+     + Expand only in 5 provinces
+     + Only 1 flagship store in each province
+- Time: 
+      + The project only last within 12 months
+- Cost/budget: 
+      + Total budget for this project is VND 8.5 billion
+      + Limitited budged per store ( VND 1.7 billion/store)
+- Quality: 
+       +  Must reach the break-even point within 8 months after opening.
+
+Request 2:
+
+a) Name: Marketing campaigns cost
+- Description: a marketing activity to attract customers
+- Estimate cost: VND 300 million
+- Person in charged: Marketing team
+
+b) Name: Employees recruiting
+- Description: recruiting and training staff
+- Estimate cost: VND 150 million
+- Person in charged: HR team
+
+c) Name: Design store
+- Description: constructing interiors cosistent with the brand 
+- Estimate cost: VND 400 miliion
+- Person in charged: Interior design team
+
+d) Name: Building supply chain: 
+- Description: building a raw material supply chain form Central region suppliers
+- Estimate cost: VND 200 million
+- Person in charged: Market Development Director ( PM)
+
+e) Name: Rent store's fee
+- Description: fee from renting a store
+- Estimate cost: VND 300 million
+- Person in charged: Market Development Director ( PM)
+  
+2)
+Request 3: 
+
+a) Risk 1: 
++ Name: Over budget ( Cost)
++ Description: the cost to expand exceed the total budged.
++ Possible impact: Low
++ Mitigation: Control the cashflow, carefully research before decide.
++ Contingency: reduce labor cost and supply cost.
+
+b) Risk 2:
++ Name: Fail to reach the break-even point ( Quality)
++ Description: can not reach the break-even point after opening 
++ Possible impact: High
++ Mitigation: make a detail plan for any action, push marketing harder and keep up with the market trend
++ Contingency: Do a promotion to attract new customers, increase sales
+
+c) Risk 3: 
++ Name: Not enough time to build flagship store in each provinces ( Time)
++ Description: can not build 1 flagship store in each 5 Central provinces within 12 months
++ Possible impact: low
++ Mitigation: Make a deep research in each provinces, have discussion daily with the constructors.
++ Contingency: Hire more constructors and remake plan.
+
+
+
+
+Request 4:
+
+a) Project roles:
++ PM ( Market Development Director)
++ Interior design team
++ HR team 
++ Marketing team
+
+b) Activities/tasks.
+1) Survey
+- PM: A
+- Interior design team: I
+- HR team: I
+- Marketing team: R
+2) Select premises
+- PM: A
+- Interior design team: I
+- HR team: I
+- Marketing team: R
+3) Design
+- PM: A
+- Interior design team: R
+- HR team: I
+- Marketing team: I
+4) Construct
+- PM: a
+- Interior design team: R
+- HR team: C
+- Marketing team: I
+5) Recrute
+- PM: A
+- Interior design team: I
+- HR team: R
+- Marketing team: I
+6) Training
+- PM: A
+- Interior design team: I
+- HR team: R
+- Marketing team: I
+7) Building supply chain
+- PM: AR
+- Interior design team: I
+- HR team: C
+- Marketing team: I
+8) Make a marketing plan
+- PM: A
+- Interior design team: I
+- HR team: I
+- Marketing team: R
+9) Rent place
+- PM: AR
+- Interior design team: I
+- HR team: C
+- Marketing team: I
+10) Launch campaigns
+- PM: A
+- Interior design team: I
+- HR team: I
+- Marketing team: R
+
+

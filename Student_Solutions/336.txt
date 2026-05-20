@@ -1,0 +1,84 @@
+1)
+request 1:
+project name is coi cafe. coi's management would like to implement an expansion project into 5 central provinces (da nang, hue, quang nam, quang ngai, binh dinh) and open 1 flagship store in each province within 12 months
+
+justification: the purpose to implement this project is to expand this project into 5 central provinces which is da nang, hue, quang nam, quang ngai, binh dinh with 1 flagship in each province within 12 months 
+
+project constraints: 
+time: 
+- expand project into 5 central provinces (da nang, hue, quang nam, quang ngai, binh dinh) and  open 1 flagship in each these province within 12 months in da nang, hue, quang nam, quang ngai, binh dinh 
+project scope:
+- surveying and selecting premises
+- designing interiors consistent with the brand
+- constructing interiors with the brand
+- recruiting and trainning local personnel 
+- building a raw material supply chain from central region supply
+- lauching campaign in each store
+budget: 
+- the total budget in 8.5 billion (approximately vnd 1.7 billion/store) from equity and commercial bank loans 
+quality: 
+- using reusable cups in every store to protect the environment
+- purchasing the coffee directly from dak lak to keep the tradition and flavor of the coffee in vietnam 
+
+
+request 2:
+1. the first budget items: 
+name: keep the consistent of the interiors in every store of coi cafe
+description: designing and constructing interiors consistent with all the brand store
+estimation: estimate by the analogous base on the deisgn and constructing store that open before. the interior design team could estimate for others stores
+
+2. the 2nd budget items: 
+name: purchasing coffee from dak lak farmers
+description: purchasing coffee directly from dak lak to consistent the taste and tradition of the vietnam's coffee
+estimation: estimate by the parametric and use the formula  (price of 1 pack coffee x pack of coffee need to purchase for 1 store in each month), pm will be in charge this budget items
+
+3. the 3rd budget item:
+name: hiring and training local personnel
+description: to keep the flavor consistent in every store. hr team need to hiring and training carefully for the local personnel
+estimation: hr team will estimate for each staff by man month
+
+4. the 4th budget items:
+name: buying reusable cups for each store
+description: find the supplier and purchase the reusable with the unexpensive reusable cup
+estimation: estimate by the parametric. using the formula (price of 1 cup x cup need to purchase for 1 store in each month). this budget items will be in charged by the pm
+
+5. the 5th budget item:
+name: launching campaign for each store 
+description: launching campaign for 5 store within 12 months and need to organize the engagement campaign to attract customer 
+estimation: this budget item will by in charged by the marketing team 
+
+
+
+
+
+
+
+
+
+2)
+request 3:
+1, the 1st risk: 
+description: bad communication of the market developement director as pm 
+impacts: there is no cohesion of the project's team and could't interactive well with the team lead to the low project, couldn't open 5 flagships store wwithin 12 months. 
+mitigation: give a project manangement course on cousera to pm
+contigency: organizing a meeting with only project team to confess with each other 
+
+2, the 2nd risk
+description: couldn't purchase the coffee directly from the dak lak  farmers due to the taste of the coffee they made has changed
+impacts: couldn't keep consistent the flavor of traditional coffee and we will lose the customer
+mitigation: choose options of the raw suppliers team has prepared and contact to them immidiately to result the risk
+contigency: find 3-4 options incase during planning of the raw suppllier within the similar flavor
+
+3. the 3rd risk: 
+description: there is not enough budget for the project
+impacts: the project will be use too much money and out of budget 8.5 billion vnd
+mitigation: double check with all category of the  cost mangagement and try to scale small the category which team could scale
+contigency: create a contigency reserve in planning phase 
+
+request 4:
+1. 3 projects roles: give the childhood memories with the nostalgic space and enhance the traditional coffee to all customer including foreigners, each central provinces customers (da nang, quang nam, quang ngai, binh dinh) will have a chance to buy coffee from dak lak farmers by building a raw materials supply chain, enhance brand awareness and engagement to the customer in 5 central provinces 
+
+2. create project charter documment, stakeholder analysis, cost benefits, planning to finding areas to open flagship store, risk management, open 5 flagships stores in 5 central province, planning to survey premises, hiring local premises, create demo designing of interiors, create cost management and contigency reserve, project archive, report performance of lauching campaign for each store
+
+
+

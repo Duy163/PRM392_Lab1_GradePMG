@@ -1,0 +1,132 @@
+1)
+Request 1:
+1.1 Project name: "Coi Cafe"
+
+1.2. Purpose: Coi's managerment decided to implement an expansion into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 months.
+Reason: Coi Cafe wants their products become more famous at everywhere in country and 
+
+1.3. Scope:
+- Surveying and selecting permises.
+- Designing and constructing interiors consistent with the brand.
+- Recruiting and training local personel.
+- Building a raw material supply chain from Central region suppliers.
+- Launching campaigns for each store.
+
+Time: 12 months 
+
+Budget: VND 8.5 billion
+
+Quality: Each store must reach the break-even point within 8 months after opening.
+
+Request 2:
+- Name: Surveying and selecting permises
+- Description: Surveying 5000 peoples at 5 Central provices about coffe.
+- Marketing team 
+
+-Name: Designing and constructing interiors consistent
+- Description: Designing flagship store in 5 central provices 
+- Interior design team
+
+- Name: Recruiting and training local personnel
+- Description: 
+- HR team 
+
+- Name: Building a raw material supply chain from Central region suppliers, 
+- Description: 
+- PM
+
+- Name: Lauching campaigns for each store
+- Description: Lauching activities for campaigns at 5 store in 5 Central provices
+- The Market Development Director
+
+
+
+
+
+
+
+
+
+
+
+2)
+Request 3:
+- The project doesn't interest anyone 
+- Description: the project is not good enough to impress customers
+- Mitigation: Using trendy content, simple and easy to understand 
+- Contigency: Fixing and changing content early
+
+- Late for deadly
+- Description: any team in project do not complete task before deadly 
+- Mitigation: need to training and daily check task
+- Contingency: Try to finish task quickly.
+
+Request 4:
+1. 4 project roles 
+- PM (the Market Development Director)
+- Design team
+- Marketing team
+- HR team
+
+2. 
+- Create content for survey 
+- Organizing survey at stores
+- Designing 
+- Constructing interior consistent
+- Recruiting 
+- Training local personels 
+- Building a raw material supply chain 
+- lauching campaigns 
+
+3. 
+Create content for survey
+- Marketing team R
+- PM  A
+- HR team C
+- Design team  I
+
+Organizing survey ar stores 
+- Marketing team R
+- PM  A
+- HR team C
+- Design team I
+
+Designing
+- Design team  R
+- PM  A
+- Marketing team  C
+- HR team  I
+
+Constructing interior consistent
+- Design team R
+- PM  A
+- Marketing team C
+- HR team I
+
+Recruiting
+- HR team  R
+- PM  A
+- Marketing team  I
+- Design team  I
+
+Training local personels
+- HR team  R
+- PM  A
+- Marketing team  I
+- Design team  I
+
+Building raw material supply chain
+
+- PM  R
+- Marketing team  I
+- Design team  I
+- HR team  I
+
+Lauching campaigns 
+
+- PM  R
+- Marketing team  I
+- Design team  I
+- HR team  I
+
+

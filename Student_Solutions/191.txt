@@ -1,0 +1,183 @@
+1)
+ Request 1:
+
+Project name:
+Coi Cafe Central Lean Startup Expansion Project
+
+Justifications:
+Expand Coi Cafe into five Central provinces: Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh.
+Apply a lean startup approach by testing store assumptions, customer demand, menu preference, and launch messages before full operation.
+Reduce unnecessary spending by validating market demand before finalizing store layout, promotion, and operating plan.
+Introduce Coi Cafe’s nostalgic Vietnamese coffee space, traditional drink menu, reusable cups, and direct coffee sourcing from Dak Lak farmers to Central Vietnam.
+Use customer feedback from early testing and soft activities to improve store readiness.
+Build a practical Central expansion model that can be reused for future markets.
+Increase revenue from five new stores and support the break-even target within eight months after opening.
+
+Project constraints:
+Scope:
+Open five flagship stores only, one store in each selected province.
+Project scope includes: lean market testing, premises selection, lease agreement, store design, construction, equipment setup, recruitment, training, supplier setup, launch campaign, customer feedback review, and break-even tracking.
+The project does not include franchising, extra stores, online-only business, or product lines outside Coi Cafe’s main menu.
+Time:
+The project duration is 12 months.
+All five flagship stores must be opened within the approved timeline.
+Market testing and feedback review must not delay the 12-month completion target.
+Each store must reach break-even within eight months after opening.
+Cost / Budget:
+Total budget is VND 8.5 billion.
+Average budget is approximately VND 1.7 billion per store.
+Funding comes from equity and commercial bank loans.
+Budget must be released carefully based on validated needs and approved project stages.
+Quality:
+All stores must follow Coi Cafe’s core brand standards.
+Interior design must remain nostalgic and consistent with the brand.
+Drink quality, service, hygiene, and sustainability practices must be controlled.
+Feedback-based adjustments must not damage brand consistency or flagship quality.
+
+Request 2:
+
+Line 1: Lean market testing
+Name: Customer demand and concept testing
+Description: Cost for testing customer interest, preferred locations, drink preferences, price acceptance, and launch messages before major spending decisions.
+Estimation: VND 750 million total, around VND 150 million per store.
+Way to estimate: Based on survey cost, customer interviews, small testing activities, competitor visits, travel expenses, and feedback analysis.
+Person in charge: Project Manager and Marketing Team.
+
+Line 2: Premises and lease arrangement
+Name: Location selection and lease arrangement
+Description: Cost for site search, traffic observation, legal review, lease negotiation, rental deposit, first rent, and lease documentation.
+Estimation: VND 1.45 billion total, around VND 290 million per store.
+Way to estimate: Based on local rental prices, required deposit, broker fee, legal review cost, and first-month rent.
+Person in charge: Project Manager and Finance Team.
+
+Line 3: Store construction and core design
+Name: Core flagship construction and interior design
+Description: Cost for construction, basic nostalgic decoration, furniture, lighting, counter, seating area, signage, and essential brand elements.
+Estimation: VND 3.0 billion total, around VND 600 million per store.
+Way to estimate: Based on standard design package, contractor quotations, store size, material prices, and required furniture list.
+Person in charge: Interior Design and Construction Team.
+
+Line 4: Operating setup
+Name: Equipment, staff, and training setup
+Description: Cost for coffee machines, grinders, refrigerators, POS system, water filters, reusable cups, kitchen tools, local staff recruitment, uniforms, training, and pre-opening salary.
+Estimation: VND 2.2 billion total, around VND 440 million per store.
+Way to estimate: Based on equipment checklist, supplier quotations, number of employees, training schedule, trainer cost, uniform price, and salary support.
+Person in charge: HR Team, Procurement Team, and Operations Team.
+
+Line 5: Supply chain and validated launch
+Name: Supply preparation and validated launch campaign
+Description: Cost for supplier selection, first inventory, safety stock, delivery planning, quality checks, social media ads, grand opening event, trial vouchers, and customer feedback collection.
+Estimation: VND 1.1 billion total, around VND 220 million per store.
+Way to estimate: Based on first-month inventory plan, supplier price list, transport cost, campaign budget, voucher value, event cost, and feedback tools.
+Person in charge: Procurement and Supply Chain Team, and Marketing Team.
+
+Request 3:
+
+Risk 1: Testing results are misleading
+Risk name: Early market testing does not reflect real demand.
+Description: Survey participants or early testers may show interest, but actual paying customers may behave differently after store opening.
+Impacts:
+Scope / quality: Store concept or campaign may not match real customer behavior.
+Time: More time may be needed to adjust after launch.
+Cost: Extra marketing, menu communication, or service correction may occur.
+Mitigation plan: Combine surveys with real competitor observation, location traffic checks, and small paid trial activities.
+Contingency plan: Adjust campaign messages, product bundles, and customer targeting based on actual sales data after launch.
+
+Risk 2: Lean approach causes underinvestment
+Risk name: Cost-saving decisions reduce flagship quality.
+Description: Trying to reduce unnecessary spending may lead the team to cut important design, training, or launch activities.
+Impacts:
+Scope / quality: Store quality may not meet Coi Cafe’s flagship standards.
+Time: Rework may be required before opening.
+Cost: Correction cost may be higher than initial savings.
+Mitigation plan: Define non-negotiable brand and quality standards before applying cost-saving decisions.
+Contingency plan: Restore critical quality items using approved reserve and delay only non-essential activities.
+
+Risk 3: Feedback changes create scope creep
+Risk name: Too many customer feedback changes.
+Description: The team may receive many suggestions during testing and try to adjust store design, menu communication, or launch plan too often.
+Impacts:
+Scope / quality: The project scope may become unclear.
+Time: Revisions may delay construction or launch preparation.
+Cost: Additional design, training, and marketing changes may increase cost.
+Mitigation plan: Set a clear approval process for feedback-based changes and accept only changes that support break-even and brand standards.
+Contingency plan: Freeze design and launch plan after a defined deadline and move other suggestions to post-opening improvement.
+
+Request 4:
+
+Project roles:
+Role 1: Project Manager / Market Development Director
+Responsible for overall planning, decision approval, scope, budget, timeline, risk control, and break-even monitoring.
+
+Role 2: Store Build Team
+Responsible for premises support, store design, construction, decoration, equipment coordination, signage, and physical store readiness.
+
+Role 3: Lean Operations Team
+Responsible for market testing, recruitment, training, suppliers, inventory, launch campaign, customer feedback, and post-opening adjustment.
+
+RACI responsibilities:
+R = Responsible
+A = Accountable
+C = Consulted
+I = Informed
+
+Activity 1: Approve project charter and lean expansion approach
+Project Manager: A/R
+Store Build Team: C
+Lean Operations Team: C
+
+Activity 2: Conduct customer demand and concept testing
+Project Manager: A
+Store Build Team: I
+Lean Operations Team: R
+
+Activity 3: Review testing results and confirm launch assumptions
+Project Manager: A/R
+Store Build Team: C
+Lean Operations Team: R
+
+Activity 4: Select and approve store premises
+Project Manager: A/R
+Store Build Team: C
+Lean Operations Team: C
+
+Activity 5: Complete store design and construction plan
+Project Manager: A
+Store Build Team: R
+Lean Operations Team: C
+
+Activity 6: Execute construction and interior setup
+Project Manager: A
+Store Build Team: R
+Lean Operations Team: I
+
+Activity 7: Purchase equipment and prepare inventory
+Project Manager: A
+Store Build Team: C
+Lean Operations Team: R
+
+Activity 8: Recruit and train local staff
+Project Manager: A
+Store Build Team: I
+Lean Operations Team: R
+
+Activity 9: Set up suppliers and delivery process
+Project Manager: A
+Store Build Team: I
+Lean Operations Team: R
+
+Activity 10: Execute validated launch campaign
+Project Manager: A
+Store Build Team: C
+Lean Operations Team: R
+
+Activity 11: Collect customer feedback after opening
+Project Manager: A
+Store Build Team: I
+Lean Operations Team: R
+
+Activity 12: Monitor sales and break-even progress
+Project Manager: A/R
+Store Build Team: I
+Lean Operations Team: C
+2)

@@ -1,0 +1,192 @@
+1)
+Request 1:
+
+Project name:
+Coi Cafe Central Farm-to-Cup Expansion Project
+
+Justifications:
+Expand Coi Cafe into five Central provinces: Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh.
+Use the “farm-to-cup” story as the main expansion concept by connecting Dak Lak coffee farmers, Vietnamese coffee culture, and customers in Central Vietnam.
+Strengthen Coi Cafe’s sustainable brand image through direct coffee purchasing, reusable cups, and responsible store operations.
+Differentiate Coi Cafe from other coffee chains by showing the origin, quality, and cultural value of Vietnamese coffee.
+Open one flagship store in each province to increase customer reach and brand visibility.
+Build a Central region supply network that supports stable store operations.
+Create new revenue outside Hanoi and Ho Chi Minh City and help each store reach break-even within eight months after opening.
+
+Project constraints:
+Scope:
+Open five flagship stores only, one store in each selected province.
+Project scope includes: market survey, premises selection, lease agreement, farm-to-cup interior concept, construction, equipment setup, recruitment, training, supplier setup, launch campaign, and break-even tracking.
+The project does not include franchising, extra stores, new product lines, or expansion outside the five assigned provinces.
+Time:
+The total project duration is 12 months.
+All five flagship stores must be opened within the approved timeline.
+Each store must reach break-even within eight months after opening.
+Cost / Budget:
+Total budget is VND 8.5 billion.
+Average budget is approximately VND 1.7 billion per store.
+Funding comes from company equity and commercial bank loans.
+Budget must be controlled across rental, construction, equipment, staffing, supply chain, and marketing.
+Quality:
+All stores must follow Coi Cafe’s brand standards.
+Interior design must reflect the nostalgic Vietnamese coffee concept and the farm-to-cup story.
+Drink quality, service quality, hygiene, and reusable cup practice must be consistent.
+Coffee and raw materials must meet Coi Cafe’s quality standards before store opening.
+
+Request 2:
+
+Budget Category 1: Market and farm-to-cup concept research
+Name: Market and farm-to-cup concept research
+Description: Cost for studying customer demand, competitor stores, suitable locations, customer interest in Vietnamese coffee origin stories, and local market potential.
+Estimation: VND 700 million total, around VND 140 million per store.
+Way to estimate: Based on field survey cost, customer interviews, competitor visits, travel expenses, and concept testing.
+Person in charge: Project Manager and Marketing Team.
+
+Budget Category 2: Premises leasing and preparation
+Name: Store premises selection and lease setup
+Description: Cost for site search, traffic checking, legal review, lease negotiation, rental deposit, first rent payment, and basic premises preparation.
+Estimation: VND 1.5 billion total, around VND 300 million per store.
+Way to estimate: Based on rental prices, deposit requirements, broker fees, legal checking cost, and first rental payment in each province.
+Person in charge: Project Manager and Finance Team.
+
+Budget Category 3: Farm-to-cup store design and construction
+Name: Farm-to-cup interior and construction package
+Description: Cost for construction, furniture, lighting, service counter, seating area, signage, nostalgic decoration, and design elements showing Vietnamese coffee origin and sustainability.
+Estimation: VND 3.1 billion total, around VND 620 million per store.
+Way to estimate: Based on store area, contractor quotations, design drawings, material price, furniture list, and approved brand storytelling elements.
+Person in charge: Interior Design and Construction Team.
+
+Budget Category 4: Equipment and workforce preparation
+Name: Equipment and staff readiness
+Description: Cost for coffee machines, grinders, refrigerators, POS system, water filters, reusable cups, kitchen tools, staff recruitment, uniforms, training, and pre-opening salary support.
+Estimation: VND 2.15 billion total, around VND 430 million per store.
+Way to estimate: Based on standard equipment checklist, supplier quotations, number of staff, training duration, trainer cost, uniform cost, and salary support.
+Person in charge: Procurement Team, HR Team, and Operations Team.
+
+Budget Category 5: Supply chain and brand story launch
+Name: Opening inventory and farm-to-cup launch campaign
+Description: Cost for supplier setup, first inventory, delivery planning, safety stock, quality checking, launch event, social media ads, customer trial vouchers, and brand storytelling content.
+Estimation: VND 1.05 billion total, around VND 210 million per store.
+Way to estimate: Based on first-month inventory needs, supplier quotations, transportation cost, campaign scale, event cost, media price, and content production cost.
+Person in charge: Procurement and Supply Chain Team, and Marketing Team.
+
+Request 3:
+
+Risk 1: Farm-to-cup story is not clearly understood
+Risk name: Weak customer understanding of the brand story.
+Description: Customers may not understand or care about the direct coffee sourcing story if the message is too technical or poorly communicated.
+Impacts:
+Scope / quality: The flagship stores may fail to create a strong brand differentiation.
+Time: More time may be needed to revise communication and store storytelling.
+Cost: Extra marketing content and customer education cost may occur.
+Mitigation plan: Use simple messages, visual storytelling inside the store, staff explanation, and social media content before launch.
+Contingency plan: Simplify campaign messages and focus on clear benefits such as Vietnamese coffee quality, farmer support, and sustainable cups.
+
+Risk 2: Coffee quality inconsistency
+Risk name: Coffee taste does not remain consistent across stores.
+Description: Different staff skills, equipment setup, or storage conditions may affect drink taste and product quality.
+Impacts:
+Scope / quality: Drink quality may not match Coi Cafe standards.
+Time: Additional testing and retraining may be required.
+Cost: Extra training, quality inspection, and product replacement cost may increase.
+Mitigation plan: Use standard recipes, equipment calibration, staff drink tests, and quality control before opening.
+Contingency plan: Send experienced baristas from current stores to retrain local staff and inspect drink quality after launch.
+
+Risk 3: Supply and storytelling materials are delayed
+Risk name: Launch materials and supply setup are not ready on time.
+Description: Opening inventory, reusable cups, signage, storytelling visuals, or supplier documents may arrive late.
+Impacts:
+Scope / quality: Store launch may look incomplete or inconsistent with the farm-to-cup concept.
+Time: Soft opening or grand opening may be delayed.
+Cost: Urgent delivery or replacement materials may increase cost.
+Mitigation plan: Prepare procurement schedule early, confirm suppliers in advance, and track delivery status weekly.
+Contingency plan: Launch with essential materials first and add non-critical storytelling elements after opening without affecting core operations.
+
+Request 4:
+
+Project roles:
+Role 1: Project Manager / Market Development Director
+Responsible for overall project planning, scope, timeline, budget, risk control, approval, and break-even monitoring.
+
+Role 2: Brand Store Development Team
+Responsible for premises support, interior design, construction, decoration, signage, storytelling visuals, and physical store readiness.
+
+Role 3: Farm-to-Cup Operations Team
+Responsible for recruitment, training, coffee quality, supplier setup, opening inventory, reusable cup process, launch campaign, and customer feedback.
+
+RACI responsibilities:
+R = Responsible
+A = Accountable
+C = Consulted
+I = Informed
+
+Activity 1: Approve project charter and farm-to-cup concept
+Project Manager: A/R
+Brand Store Development Team: C
+Farm-to-Cup Operations Team: C
+
+Activity 2: Conduct market and customer insight research
+Project Manager: A
+Brand Store Development Team: I
+Farm-to-Cup Operations Team: R
+
+Activity 3: Select and approve store premises
+Project Manager: A/R
+Brand Store Development Team: C
+Farm-to-Cup Operations Team: C
+
+Activity 4: Negotiate lease and confirm premises
+Project Manager: A/R
+Brand Store Development Team: C
+Farm-to-Cup Operations Team: I
+
+Activity 5: Design farm-to-cup interior concept
+Project Manager: A
+Brand Store Development Team: R
+Farm-to-Cup Operations Team: C
+
+Activity 6: Complete construction and decoration
+Project Manager: A
+Brand Store Development Team: R
+Farm-to-Cup Operations Team: I
+
+Activity 7: Purchase equipment and reusable cup assets
+Project Manager: A
+Brand Store Development Team: C
+Farm-to-Cup Operations Team: R
+
+Activity 8: Recruit local store employees
+Project Manager: A
+Brand Store Development Team: I
+Farm-to-Cup Operations Team: R
+
+Activity 9: Train staff on product quality and brand story
+Project Manager: A
+Brand Store Development Team: C
+Farm-to-Cup Operations Team: R
+
+Activity 10: Set up suppliers and opening inventory
+Project Manager: A
+Brand Store Development Team: I
+Farm-to-Cup Operations Team: R
+
+Activity 11: Prepare launch content and in-store storytelling materials
+Project Manager: A
+Brand Store Development Team: C
+Farm-to-Cup Operations Team: R
+
+Activity 12: Execute grand opening and customer trial campaign
+Project Manager: A
+Brand Store Development Team: C
+Farm-to-Cup Operations Team: R
+
+Activity 13: Monitor coffee quality and customer feedback
+Project Manager: A/R
+Brand Store Development Team: C
+Farm-to-Cup Operations Team: R
+
+Activity 14: Track sales and break-even progress
+Project Manager: A/R
+Brand Store Development Team: I
+Farm-to-Cup Operations Team: C
+2)

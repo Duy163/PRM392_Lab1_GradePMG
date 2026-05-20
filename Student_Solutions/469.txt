@@ -1,0 +1,90 @@
+1)
+Request 1:
+ 1: Project name: Coi Cafe
+
+ 2:  - Purpose: Implement an expansion project into 5       Central provinces (Da Nang, Hue, Quang Nam,         Quang Ngai, Binh Dinh), with 1 flagship strore in        each province within 12 month.
+     - Reasons: to bring coffee from Coi Cafe to other city, make brand more famous and building a raw material supply chain from Central region suppliers.
+
+3:  - Project constraints:1 flagship strore in each provinces within 12 months.
+     - Scope : 
+       +Surveying and selecting permises.
+       +Designing and constructing interious consistent with the brand
+       +Recruiting and training local personnel
+       +Building a raw material supply chain from Central region suppiers.
+       +Launching campaigns for each store.
+     - Time : 12 month.
+     -  Budget : VND 8.5 billion (approximately VND      1.7 billion/store) .
+     - Quality: Each store reach the break-even point      within 8 months after opening
+
+Request 2:  5 main cost budget.
+1. -Name:Labor cost.
+-Description: 
+-Estimation:VND 100 milion/month 
+-Person in charge: PM, maketing team, design team, HR team.
+
+2.-Name: Training cost
+  -Description: Training local personnel
+  -Estimation: VND 100 milion/strore
+  
+3.-Name: infrastructure and space cost
+   -Description: infrastructure and hire space cost.
+   -Estimation: VND 100 milion
+
+4.-Name:Maketing cost
+  -Description: maketing coi brand, and surveying local personnel. 
+  -Estimation:VND 100 milion 
+5.-Name: Equipment cost 
+   -Description: buy new equipment cost
+   -Estimation: VND 200 milion/store 
+  
+
+Request 3: Three project risks 
+1.Name: Project reach over budget.
+   -Decription: 
+   -Impact:
+   -mitigation: contigency reserve
+  contingency: use contigency reserve. 
+2.Name: Scope creep
+   -Descripton: the project have new requirement not include in scope 
+   -Impact: no reserve to run the project 
+   -mitigation: 
+   contigency: 
+3.Name: Project run over time
+  -impact: 
+  -mitigation
+  -contingency:  
+
+
+
+
+
+
+
+
+
+2)
+Request 4: 
+1. 4 project roles.
+ - Hr team
+ - Market Development Director (PM)
+ - Design team 
+ - Maketing team
+ - Coi Cafe Brand
+2. Ten tasks:
+   2.1: Name:Prepare  list questions of survey.
+         -Responsibilities: PM (A), Marketing team (R)    
+   2.2: Name:Surveying local 
+         -Responsibilities: PM (A), Marketing team (R) 
+   2.3: Name: designing and constructing interios consistent with the brand.
+         -Responsibilities: design team (R) 
+   2.4: Name: Building a raw material supply chain. 
+  
+   2.5: Name: Hiring labor.
+         -Responsibillities: HR team (R), PM (A)
+   2.6 :Report to Coi Cafe
+        -Responsibilities: PM (R)
+   2.7: Report revenue
+        -Responsibilities: PM (R)
+   2.8: Report campain
+       - Responsibilies : PM (R)
+   2.9:

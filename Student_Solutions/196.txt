@@ -1,0 +1,146 @@
+1)
+Request 1: 
+1. Project name: Coi Cafe expansion
+2. Justification: 
+- Purpose: Expansion project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 months.
+- Reason: Bringing Coi Cafe to other famous province (which has many tourism per year). Increasing influence.
+3. Project constraints: 
+- Scope: 
++ Surveying and selecting premises
++ Designing and constructing interiors consistent with the brand
++ Recruiting and training local personnel
++ Building a raw material supply chain from Central region suppliers
++ Lanching campaigns for each store
+- Time: 12 months
+- Cost/ budget: VND 8.5 billion (approximately VND 1.7 billion/store) from equity and commercial bank loans
+- Quality: Each store must reach the break-even point within 8 months after opening.
+
+2)
+Request 2: 
+1. Name: Surveying and hiring/ selecting position to build Coi Cafe
+- Description: Surveying, contacting with local land sales in each provice. 
+- Estimated cost: VND 600 million in total - (VND 120 million/ each store (include VND 50 million to deposit, 60 million for first month. 10 million for survey and contact salers))
+- How to estimate: Analogous estimate - Refer to land price of that province
+- Person in charge: PM  (Market Development Director)
+
+2. Name: Designing and constructing interiors
+- Description: Conducting design strategy and constructing interiors consistent with brand
+- Estimated cost: VND 700 million
+- How to estimate: Parametric estimate - Refer to previous 12 stores designing and constructing in Hanoi and Ho Chi Minh City
+- Person in charge: Interior design team
+
+3. Name: Recruiting and training local personnel
+- Description: Preparing recruiting form, conducting online interview, training in-person. Each store must has 6 staffs
+- Cost: VND 200 million 
+- How to estimate: Analogous estimate - Refer to previous recruiting and training sections
+- Person in charge: HR team
+
+4. Name: Building a raw material supply chain from Central region suppliers
+- Description: Surveying suppliers with their products. Contacting and visit their supply stores/ chains. Sign contract with them.
+- Cost: VND 100 million
+- How to estimate: Bottom-up estimate - Break into small activities and evaluate the whole.
+- Person in charge: PM
+
+5. Name: Launching marketing pre-opeing campaign for each store. 
+- Description: Marketing strategy, social media contents.
+- Cost: VND 100 million
+- How to estimate: Analogous estimate - Refer to previous marketing campaign
+- Person in charge: Marketing team
+---------------------------------------------
+Request 3: 
+1. Name: Over budget of hiring Cafe's position
+- Description: Good position's price are pushed by salers.
+- Impact: Cost, Time
+- Mitigation: Survey list of legit local salers and contact them to verify price.
+- Contingency: Preparing plan for contingency reverse.
+2. Name: Doesn't figure out suitable suppliers
+- Description: After surveying and contacting suppliers. We can't find good, high quality material
+- Impact
++ Time: Need more time to investigate other suppliers
+- Mitigation: Ask local people of that province for good suppliers
+- Contingency: Bringing raw material from exist suppliers to new store.
+3. Name: Each store doesn't reach the break-even point within 8 months after opening
+- Description:  Each store doesn't reach the break-even point within 8 months after opening
+- Impact
++ Cost: Handling under high bank loans
+- Mitigation: Lanching grand opening marketing campaign and collaborating with local KOLs to promote Coi Cafe on TikTok
+- Contingency: Launching fast-sale/ promting, buy 1 get 1 for some fixed time. 
+4. Name: Hiring low-quality employee
+- Description: After hiring, some employee are lack of responsibility
+- Impact: Cost: Decreasing revenue due to bad customer experience. 
+- Mitigation: Contract with 1 month pre-employee and building high-quality training section
+- Contingency: Evaluate and estimate employee's performance each month and give them feedback. If too much violations, consider to break the contract. 
+--------------------------------------------
+4. Request 4: 
+1. Project roles: PM, HR team, marketing team, Coi Cafe's CEO
+2. 
+- Deliverable 1: Project charter 
++ R: PM
++ A: PM
++ C: HR team, marketing team
++ I: Coi Cafe's CEO
+
+- Deliverable 2: Project plan
++ R: PM
++ A: PM
++ C: HR team, marketing team
++ I: Coi Cafe's CEO
+
+- Deliverable 3: Design plan/ strategy
+Task 3.1: Design strategy
++ R: Design Member
++ A: Design Team Lead
++ C: Design Team, PM, Marketing team
++ I: PM
+
+Task 3.2: Wireframe/ prototype
++ R: Design member
++ A: Design Team lead
++ C: PM, Design team, marketing team
++ I: PM
+
+Task 3.3: Design conducting
++ R: Desginer member
++ A: Designer team lead
++ C: PM, Designer team, marketing team
++ I: PM
+
+- Deliverable 4: Supplier chains documentation
+Task 4.1: Necessary raw materials document
++ R: PM, marketing team
++ A: CEO
++ C: HR Team
++ I: CEO
+
+Task 4.2: List of potential suppliers with detail informations 
++ R: PM, HR team, marketing team
++ A: PM
++ C: HR team, marketing team
++ I: CEO
+
+Task 4.3: Contact and visit those suppliers
++ R: marketing team, PM
++ A: CEO
++ C: marketing team
++ I: CEO
+
+Task 4.4: Evaluate suppliers document
++ R: marketing team, PM
++ A: PM
++ C: marketing team
++ I: CEO
+
+Task 4.5: Contracts for each suppliers
++ R: PM, HR team
++ A: CEO
++ C: marketing team, HR team
++ I: CEO
+
+
+
+
+
+
+
+
+

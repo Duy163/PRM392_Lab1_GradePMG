@@ -1,0 +1,60 @@
+1)
+Request 1:
+Project name: 
+The project is called: The campaign develop to project into 5 Central 
+Justifications:
+The purpose of this project is to lack aweraness the customer and develop from Central region improve system coffee brand store 
+This project is necessery because increase a number of store and profit the Coi cafe
+Constraints:
+The project is constrained by several factors
+In terms of scope: The project includes surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers and launching campaigns for each store.
+In terms of time: The project must be completed within 12 months.
+In terms of cost: The total budgetis limited to VND 8.5 billion
+In terms of quality: The project must completed all task
+Request 2: 
+Cost 1: Designing with the brand
+Description: designing and constructing system the brand store
+Estimation: VND 200 million
+How to estimate, person in charged: ,managed by design team
+Cost 2: Training local personnel
+Description: traning the employment
+Estimation: VND 400 million
+How to estimate, person in charged: ,managed by HR team
+Cost 3: Surveying the customer
+Description: servey and selecting customer 
+Estimation: VND 200 million
+How to estimate, person in charged: , managed by marketing team
+Cost 4: building a supply chain 
+Description: building each store for sytem the coi cafe
+Estination: VND 500 million
+How to estimate, person in charged: ,managed by project management
+Cost 5: launching campaigns
+Description:
+Estimation: VND 300 million
+How to estimate, person in charged: ,managed by the PM 
+
+
+2)
+Request 3:
+Risk 1: Limited budget
+Description: cost of the campaign high limited project 
+Possible impacts: 
+Cost:not enough budget for the number of task 
+time:
+quality:
+Mitigation:
+contingency:
+Risk 2: low customer engagement the survey
+Risk 3; slow timline the campaign 
+Request 4: 
+The project involes sevaral keys roles, including:the Market development Director as PM, design team, HR team and marketing team.
+For Surveying and selecting premises, The marketing team is resposible, the PM is accountable, The marketing team is consulted, The PM is informed 
+For designing and constructing interiors, the design team is resposible, the PM is accountable, the marketing team is consulted, the PM is informed
+For recruiting and training local personal, the HR team is resposible, the PM is accountable, the PM is consulted, the PM is informed
+For building a raw material supply chain , the marketing is resposible, the PM is accountable, the PM is consulted, the PM is informed
+For launching campaigns, the PM is responsible, the PM is accountable, the PM is consulted, the PM is informed.
+For project developing all task, 
+For short video on tiktok   
+For 
+For
+For

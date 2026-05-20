@@ -1,0 +1,119 @@
+1)
+Request 1: 
+1. Project name: Expansion Coi Cafe into 5 Central province. 
+
+2.
+Purpose: The purpose is to implement an expansion project into 5 Central province (Da Nang, Quang Nam, Quang Ngai, Binh Dinh, Hue) and with 1 flagship store in each province. Because Coi Cafe finded 5 central province had more development travel. Coi Cafe want to open more store to make more benefitcial. 
+
+3. 
+Scope: 
+- Surveying and selecting premises 
+- Designing and constructing interiors consistent with the brand 
+- Recruiting and training local personnel
+- Building a raw material supply chain from Central region suppliers
+- Launching campaigns for each store.
+
+Time: Within 12 months
+
+Cost/Budget: The total budget is VND 8.5 billion (approximately VND 1.7 billion/store)
+
+Quality: Reach the break-even point within 8 months after opening. 
+
+Request 2:
+Five main Cost/Budget Items
+1. Store fees to sell Cafe (Store Cost)
+- Description: Finding where business in each provin to selling coffe.
+- Estimation: From VND 30 - 100 thousion. 
+2. Building Cost 
+- Description: This is cost about building a house or store. 
+- Estimation: Form VND 700 - 800 thoursion. 
+3. Wage cost 
+- Desciption: Cost pay for staff and worker 
+- Estimation: VND 200 thoursion for 12 months 
+4. Cost Material 
+- Description: to buy ingredien like cafe... for the production in store. 
+- Estimation: About VND 500 thoursion 
+5. Design store
+- Descripsion: inclusion hire designer and decoration store. 
+- Estimation: VND 100 thoursion. 
+
+The total cost is VND 1.7 billion for a store. 
+
+2)
+Request 3: 
+Risk: 
+
+1. Over more Budget (Cost)
+- Description: During in progree make more cost in open store or business in local bad, wages. 
+- Possibility: Medium 
+- Impact: High 
+- Mitigation: Make a detailed budget plan, check and control to optimal to  spend money for store. 
+Contingency: Using backup budget, reduce Ads, or decoration for the official in store. 
+
+2. Delay time opening store 
+- Description: Delay building store, or rent for business police problem. 
+- Possibility: Medium
+- Impact: High 
+- Mitigation: preparing early cantact with the province for build or open store 
+- Contingency: Trying to contact with the human in the local or province help. 
+
+3. Difirent in manage material 
+- Description: Material can break, lose or reduce in the business.
+- Posibility: Medium 
+- Impact: Medium
+- Mitigation: Building Inventory for material
+- Contigency: Find issue to fix and check material each week and take note. 
+
+Request 4: RACI 
+
+1. Open Store 
+- Director store: A
+- Manager store; R
+- Marketing & PR: I
+- Human Resource: C
+2. Store Activity
+- Director store: A
+- Manager store: R
+- Marketing & PR: R
+- Human Resource: I  
+3. Manage Store
+- Director Store: A
+- Manager Store: R
+- Marketing & PR: I
+- Human Resource: I
+4. Business Activity
+- Director store: A
+- Manager store: R
+- Marketing&PR store: C
+- Human Resource: I 
+5. Design store
+- Director store: A
+- Manager store: R
+- Marketing&PR: I
+- Human Resource: I
+6. Manager Material
+- Director store: A
+- Manager store: R
+- Marketing&PR: I
+- Human Resource: C
+7. Manager staff
+- Director store: A
+- Manager Store: R
+- Marketing&PR: I
+- Human Resource: R
+8. Wages 
+- Director store: A
+- Manager store: R
+- Markting &PR: C
+- HR: R
+9. Report Business
+- Director: A
+- Manager: R
+- Marketing: R
+- HR: R
+10. Travel
+- Director: A
+- Manager: I
+- Marketing & PR: I
+- HR: R
+ 

@@ -1,0 +1,93 @@
+1)
+Request 1: Project Charter
+- Project name: Coi Cafe expansion into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) 
+- Justifications: 
++ surveying and selecting premises
++ designing and constructing interiors consistent with the brand
++ recruiting and training local personel; building a raw material supply chain form Central region suppliers; launching campaigns for each store
+-project constraints: 
+in terms of scope: each store must reach the break-even point within 8 months after opening
+time: 1 flagship store in each provinces within 12 months
+cost: the total budget is VND 8.5 billion (approximately VND 1.7 billion/ store)
+quality: to  ensure consistent with the brand, give the customer good quality and accquire the break- even point within 8 months after opening
+
+
+2)
+-request 2
+1.marketing and user accquision cost
+description: social media campagins, influencer collaboration, and promotional activities to attract users
+estimate: plan marketing channels, cost per click (cpc) and target user accquisition number
+cost: VND 5.000.000 for each store
+person in charged: marketing lead
+
+2. maintenance cost:
+description: including the fees maintain such as: fix product or small  infrastructure, break or loss product or materials,.
+estimate: as minimal operational cost using 
+cost: VND 5.000.000 for each store
+personal in charged: project manager
+
+3. training staff cost
+description: including training system forr internal staff, content management, to ensure smooth project
+estimate: shorten training 1-2 weeks conducted by internal experts, including materials and basic training
+cost: VND 6.000.000 for each store
+personal in charged: Project Manager, HR lead
+
+4. inititial like restructure cost
+description: buy the materials such as tables, charts, decorating around the store, redesign for the store how to fix the customer' habits
+estimate: start before 3 months the store grand opening
+cost: VND 300.000.000
+personal in charged: Project Manager
+
+5. Lease or Hirer land cost
+description: hirer this postition which is center of these city. to ensure effiency place to customer come here. 
+estimate: the land have the large- yard and near by the large store
+cost: VND 25.000.000store - 35.000,000 / month/ each 
+
+Request 3:  risks:
+1. content of social media not viral
+description: up load the video/ post but not attrac more viewer
+impact:medium
+mitigation: give the post for  marketing lead before posting/ apply multiple step contant review
+contingency: find out the competitor, the ways that they can acchieve high views in social media. Know that the target customer to give the suitable contents with them.
+
+2. achieving low customer
+description: customer dont have information about the store or customer just go 1 time and not comeback
+impact: high
+mitigation: give the promotion buy 1 get 1 to attract user 
+contingency: finding out real reason why customer not comback (drink menu, asmostphere, staff attitude,.) and give suitable strategy (adjust menu,.)
+3. low start review/ feedback by customer 
+description: customers are not feel happy and have a bad expierences  because the drink not tasty or bad attitude of staff  
+impact: high
+mitigation: test the drink before give customer or manager observe clearly and give the sorry or invite other a drink for customer
+contingency: ask about the expierence of customer before they go out the store. Training staff stricly such as attitude,. 
+
+Request 4:
+1. project roles:
+project manager: PM
+marketing team: MT
+HR team: HT
+design team: DT
+
+2. ten activities:
+A. designing the store
+B. building fanpage, account in social media
+C. writing the content to attract customers
+D. giving the strategy to increase revenue
+E. purchasing materials like coffee,.
+F. Hirer land for opening the store
+G. buiding a raw material supply chain 
+H. training the staff
+I. designing menu drink 
+J. survey customer, place,. after opening the store
+
+3. List out the responsibilities
+A. R: DT ; A: PM ; C: MK; I: HT
+B. R: MT; A: PM:  C: HT; I: DT
+C. R. MK; A: PM :  C ; HT;  I: DT
+D. R: PM; A: PM ; C: MT; HT  I: DT
+E. R: PM; A: HT; C: MT; I: DT
+F. R: DT; A: PM; C: HT;  I: DT
+G. R: MT; A: PM; C: DT; I: HT
+H. R: HT; A: PM; C: MK; I: DT
+I. R:DT; A: PM ;  C: MK ; I: HT
+J. R: MT; A: PM; C: DT; I: HT

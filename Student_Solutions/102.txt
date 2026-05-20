@@ -1,0 +1,116 @@
+1)
+Request 1:
+1. Project name: Coi Cafe Managerment
+2. 
+- Purpose & reason: Coi's management decided to implement an expansion project into 5 central province (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh
+
+3. 
+- Contrains: Each store must reach the break-event point within 8 months after opening
+- Scope: 5 central, province (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh).  Surveying and selecting premises, design and contructing interiors consitent, recruiting and training local personnel
+- Time: 1 flagship store in each province within 12 months. 
+- Cost/buget: The total budget is VND 8,5 billion ( approximately VND 1,7 billion/store ) and commecrical bank loans
+- Quality: Building a raw material suppy chain form central regiom suppliers, and lanceching campaigns for each store.
+
+
+Request 2:
+1. Training local personnel:
+- Training staff for each store: barista, staff oder, security,.... by HR team
+2. Design brand
+- Design and constructing interriors consistent with the brand
+3. Checking cafe
+-  Team will check quality cofe or not for all, random store in each month 
+4. Maketing in social media
+- Maketing team will be make user social media know about Store, best seller, drink menu and caffee from Dak Lack farmers
+5. Contact KOL
+-  Contact KOL will be make people know more about store, design or famous 
+
+
+Request 3:
+1. Delay the project
+Description: not enought staff
+Impact: Delay timeline
+Miligation: Plan resourecs  well
+Contingecy: Extend deadline or reduce feartures
+2.Budget over run:
+Description: Plan budget is over because cost in market increace
+Impact: do not enought money for done 
+Miligation: Find and chance cost lower
+Contigecy: save money for any somthing not important
+3. Scope creep
+Description: the target active any project in the same time, but difficult for managerment
+Impact: quality will be low and this the same time do not enought staff and budget
+Miligation: Planing for each project for time, do not doing all project for the same time
+Contingecy: HR find more staff ( but increaces budget)
+
+
+
+Request 4:
+- Project manager (PM): as Market Development Director, manages and leader project, check and give task for teams, survey and    selecting  premises
+- Interior design team: Designing and Contructing interiors consitent with the brand, 
+- HR team: recruitin and training local personnel 
+- Maketing team:   building a raw material  supply chan for Central region suppliers.
+
+1. Survey and select premises: 
+PM: R/A
+HR team:  I
+Design Team: I
+Maketing Team: I
+
+2: Planing Desing
+PM: A
+HR team: I
+Design Team: R/C
+Marketing Team: I
+
+3: Designing and contructing 
+PM: I 
+HR team: I
+Design Team: R
+Markeing team: I
+
+4: Check design after finish
+PM: A
+HR team: I
+Design team: R/C
+Marketing team: I
+
+5: Planing recruiting and training local personnel
+PM: A
+HR team: R/C
+Design team: I
+Markerting team: I
+
+6: Find a staff local person
+PM: I
+HR team:  R
+Design team: I
+Marketing team: I
+
+7: Training local persionne
+PM: A
+HR team: R
+Design team: I
+Marketing team: I
+
+
+8: Planing PR for 5 central in social media
+PM: A
+HR team: I
+Design team: C
+Marketing team: R/C
+
+9: Start PR planing
+PM: I
+HR: I
+Design team: R
+Marketing team: R
+
+10: Report break-event point
+PM: R
+HR team: I
+Design team: I
+Marketing team: I
+
+
+
+2)

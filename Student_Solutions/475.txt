@@ -1,0 +1,85 @@
+1)
+Request1:
+Project name: Coi Cafe Project
+Justifications:
+- Purpose: implement an expansion project into 5 central provinces, with 1 flagship store in each province
+- Reasons: Coi's management want to that, help manage eaiser
+Time: within 12 months
+In Terms of Scope:
+- Surveying and selecting premises
+- Designing and constructing interiors consistent with the brand
+- Recruiting and training local personnel
+- Buidling a raw material supply chain from CEntral region suppliers
+- Launching campagins for each store
+Quality: led by the Market Development Director as PM, coordinating with the interior design team, HR team, marketing team
+Cost/Budget: total budget is VND 8.5 billion (approximately VND 1.7 billion/store)
+Constraints: each store must reach the break-even within 8 months after opening
+
+
+Request 2:
+name: Surveying and selecting premises
+description: Surveying and selectiong premises to get data
+estimate: VND 500 millions
+person in charged: marketing team
+
+name: designing 
+description: designing and constructing interiors consistent with the brand
+estimate: VND 500 millions/store
+person in charged: design team
+
+name: recruiting and training staff
+desciptiong: HR team will recruit and train local personnel for staff
+estimate: VND 500 millions/store
+person in charged: HR team
+
+name: building a raw material supply chain
+description: building a raw material supply chain from Central region suppliers
+estimate: VND 500 millions/store
+person in charged: Marketing team
+
+name: Launch campagin
+description: lauching campagins for each store
+estimate: VND 100 millions/store
+person in charged: PM
+
+The total budget: VND 8.5 billion
+2)
+Request 3:
+Risk title: Not enough survey
+Description: Marketing team do not enough survey and can not select premises
+Risk probability: Medium
+Possible impacts: do not done tasks in term of scope, wasting time of next task in to do list, increase cost
+mitigation: Marketing team should improve, take note of task high oppoturnity and do first
+contingency: recruit form third party but that will incease cost
+
+Risk title: Out of budget
+Description: Budget/cost of project inceasing in each term of scope
+Risk probabillity: High
+Possible impacts: high impact timeline project, quality and increase cost
+mitigation: PM should plan carefully, make details requirment specifics and improve project plan
+contigency: cut of scope to decrease cost
+
+Risk title: do no reach the break-event point
+Description: each store cant reach the break-event point within 8 months after opening
+Risk probabillity: High
+Possible impacts: fail of scope and project constraints
+mitigation: Marketing team should carefully planing, improve service,...
+contigency: Marketing team should make special things, improve marketing, runing ads, booking KOL,...
+
+Request 4:
+Market Development Director as PM
+Design team as DS
+HR team as HR
+Marketing team as MK
+
+Tasks: 
+Surveying and selecting premises: PM (A), DS(I), HR(I), MK(R)
+Designing project: PM (A), DS (R), HR (I), MK (I/C)
+Marketing project: PM (A), DS (I/C), HR (I/C), MK (R)
+Renting place for store: PM (A), DS (I), HR (C), MK (R)
+Recruiting and training local personnel: PM (A/I), DS (I), HR (R), MK (I)
+Building store: PM (A), DS (R), HR (I), MK (C)
+Runing ADS and booking commercials: PM (A), DS (I), HR (I/C), MK (R)
+Making events: PM (A), DS (C), HR (I), MK (R)
+Lisence approve: PM (A/R), DS (I), HR (C), MK (I)
+Launching campagins: PM (I), DS (C), HR (I), MK (A/R)

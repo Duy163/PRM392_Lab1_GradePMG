@@ -1,0 +1,115 @@
+1)
+Request 1:
+
+1. The Coi Cafe Expansion
+2.
+- Purpose: Expand brand name Coi Cafe. To surveying and selecting permises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and last launching campaigns for each store.
+- Reason: To expand branding name over 5 Central provinces like Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh.
+3.
+- Project constraints: Must have 1 flagship store in each province within 12 months.
+- In term of scope: Project includes surveying and selecting premises, designing and constructing interiors consistent with brand, recruit and training local personnel, building raw material supply chain from Central region, launch campaign for each store.
+- Cost and Budget: VND 8.5 billion with approximately VND 1.7 billion per store. This equity and commercial bank loans.
+- Quality: Each store must reach the break-even point within 8 months after opening.
+
+Request 2:
+
+1.
+- Name: Area for opening a cafe store
+- Description: Budget for hire or buy a place for open a cafe store.
+- Estimate: Find a good place like close to the city center or near any travel destination, may affects travellers and local personnel.
+- Estimate person in charged: PM
+2.
+- Name: Set up store.
+- Description: Design store space like table, chair, shelves, how can align it right.
+- Estimate: Based on stores in Hanoi and Ho Chi Minh City, do exactly like the store design.
+- Estimate person in charged: Interior design team.
+3.
+- Name: Ingredients
+- Description: Budget for buy ingredients for drinks.
+- Estimate: Purchasing coffee directly from Dak Lak farmers. Buy ingredients from marketplace based on the baseline of ingredients have defined before.
+- Estimate person in charged: PM
+4.
+- Name: Recruit and training
+- Description: Budget for hiring and training employee, barista, cashier, and table served.
+- Estimate: Publish recruit information on social media like Facebook, Tiktok. Put an announcement board in front of the store.
+- Estimate person in charged: HR Team
+5.
+- Name: Marketing
+- Description: Budget for marketing for shout out brand name in local.
+- Estimate: Buy advertisements on social media, Facebook, Tiktok, Youtube. Print out information about menu, discount and hands it for customers.
+- Estimate person in charged: Marketing team.
+
+Request 3:
+
+1.
+- Name: Low reputation.
+- Description: Local people tent to drink their well-known drinks at their local place but not a new brand name they never heard of, so customers very low.
+- Scope: Low customers may affected the revenue of the store and cannot reach the break-even point within 8 months after opening.
+- Time: One to three first week of opening store.
+- Cost: About 50 million.
+- Response plans: Put more focus in marketing plans run many advertisment about discount, run campaign "Buy 1 Get 1".
+
+2.
+- Name: Out budget
+- Description: Using too much and out of base budget from the start.
+- Scope: Store will not have enough budget for opening and may cut out from others.
+- Time: Planning
+- Response plans: Request for more budget or cut out from another store for fills in the missing budget.
+
+3.
+- Name: Cannot reach the break-even point
+- Description: Store works correctly but cannot reach the break-even point within 8 months after opening,
+- Scope: Cannot work right with bank loans deadline. Bank may take the store and store goes bankrupt.
+- Time: After 8 months of opening.
+- Response plans: Can request for more budget or cut out some budget.
+
+Request 4
+
+1. Project roles:
+- Market Development Director as PM (Project Manager)
+- Store manager: Representative.
+- Interior design team, HR Team, Marketing team: Project team member.
+
+2.
+A1: Market reasearch each province.
+A2: Planning area for open store.
+A3: Design store space.
+A4: Hire employee for store
+A5: Design pakaging for cup.
+A6: Launch campaigns for store.
+A7: Keep up with revenue analytics.
+A8: Report revenue for each week.
+A9: Build raw material supply chain from Central.
+A10: Operate store work correctly after 8 months.
+
+3.
+A1
+- PM: Mainly do market research.
+- Project team member: Support.
+A2
+- PM: Mainly do the plan for open store.
+- Project team member: Support.
+A3
+- PM: Make final decision for the design.
+- Project team member: Interior design team mainly handle the design for store.
+A4
+- PM: Watch out the recruitment.
+- Project team member: HR team mainly handle recruit for store.
+A5
+- PM: Make final decision for the desgin.
+- Project team member: Interior design team mainly handle the design for pakaging.
+A6
+- PM: Handle the campaign, make sure everything run smoothly.
+- Representative: Support
+- Project team member: Mainly onboard for the campaign.
+A7
+- PM: Make sure revenue can keep up with purpose within 8 months.
+- Representative: Analyze the revenue and report for PM.
+A8
+- PM: Make sure revenue can keep up with purpose within 8 months.
+- Representative: Make a revenue report and report for PM each week.
+A9
+- PM: Handle the supply chain from Central.
+A10
+- PM: Wrap up project.
+2)

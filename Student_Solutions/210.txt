@@ -1,0 +1,142 @@
+1)
+Request 1 (20%) – Project Charter
+Project Name: Coi Cafe Central Region Expansion Project 2026
+Justification (Purpose & Reasons)
+The project aims to expand Coi Cafe’s presence into five key Central provinces: Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh. This expansion is driven by the increasing coffee consumption trend in Central Vietnam and the opportunity to tap into underserved premium café markets.
+By entering these locations, Coi Cafe can strengthen its national brand recognition, diversify revenue streams, and reduce dependency on existing markets in Hanoi and Ho Chi Minh City. Additionally, the project aligns with the company’s long-term strategy of promoting a sustainable café model using local sourcing and eco-friendly practices.
+Project Constraints
+Scope:
+The project includes opening 5 flagship stores (one per province), ensuring consistent brand identity, standardized interior design, high-quality beverages, and excellent customer service. It also includes recruitment, training, and supply chain establishment.
+Time:
+The project duration is 12 months. Each store is required to achieve break-even within 8 months after opening.
+Cost/Budget:
+The total project budget is VND 8.5 billion (approximately VND 1.7 billion per store), financed through a mix of company equity and bank loans.
+Quality:
+All stores must comply with Coi Cafe’s standards regarding store design, product consistency, service quality, and sustainability practices. Employees must be fully trained before store launch.
+
+Request 2 (20%) – Cost/Budget Items
+1. Store Construction & Interior Setup
+•	Description: Designing and constructing store interiors aligned with brand identity. 
+•	Estimation: ~750–800 million/store 
+•	Method: Analogous estimation based on previous store projects 
+•	Responsible: Interior Design Team 
+2. Equipment & Furniture Procurement
+•	Description: Purchase of coffee machines, POS systems, furniture, and decorations 
+•	Estimation: ~280–320 million/store 
+•	Method: Vendor quotation 
+•	Responsible: Supply Chain Team 
+3. Recruitment & Staff Training
+•	Description: Hiring baristas, store managers, and conducting training programs 
+•	Estimation: ~120–150 million/store 
+•	Method: Bottom-up estimation 
+•	Responsible: HR Team 
+4. Marketing & Grand Opening Campaign
+•	Description: Branding, advertising, social media promotion, and opening events 
+•	Estimation: ~180–220 million/store 
+•	Method: Percentage-based estimation (based on expected revenue) 
+•	Responsible: Marketing Team 
+5. Supply Chain Development
+•	Description: Establishing supplier network, logistics, and inventory systems 
+•	Estimation: ~90–120 million/store 
+•	Method: Expert judgment 
+
+2)
+Request 3 (30%) – Risk Management
+Risk 1: Delay in Store Construction
+•	Description: Delays caused by contractor issues, weather conditions, or material shortages 
+•	Impact: Project timeline delays, increased labor and operational costs 
+•	Mitigation: Select experienced contractors and conduct regular progress monitoring 
+•	Contingency: Allocate buffer time of 2–3 weeks and prepare backup contractors 
+
+Risk 2: Low Sales Performance (Fail to Break-even)
+•	Description: Stores may not generate expected revenue due to poor location or weak demand 
+•	Impact: Financial losses and delayed ROI 
+•	Mitigation: Conduct thorough market research and choose strategic locations 
+•	Contingency: Adjust pricing, introduce promotions, and optimize product offerings 
+
+Risk 3: Supply Chain Disruptions
+•	Description: Suppliers may fail to deliver materials or meet quality standards 
+•	Impact: Inventory shortages, reduced service quality, increased costs 
+•	Mitigation: Develop relationships with multiple suppliers and sign long-term contracts 
+•	Contingency: Use backup suppliers and alternative sourcing strategies
+
+Request 4 (30%) – RACI Chart
+Project Roles:
+•	PM: Project Manager 
+•	ID: Interior Design Team 
+•	HR: Human Resources Team 
+•	MKT: Marketing Team 
+•	OPS: Operations Team 
+
+Task 1: Market Research
+•	PM: A 
+•	MKT: R 
+•	ID: C 
+•	HR: C 
+•	OPS: I 
+Task 2: Location Selection
+•	PM: A 
+•	OPS: R 
+•	MKT: C 
+•	ID: C 
+•	HR: I 
+Task 3: Lease Negotiation
+•	PM: A 
+•	OPS: R 
+•	MKT: I 
+•	ID: I 
+•	HR: I 
+Task 4: Store Design
+•	ID: A/R 
+•	PM: C 
+•	OPS: C 
+•	MKT: I 
+•	HR: I 
+Task 5: Construction
+•	PM: A 
+•	ID: R 
+•	OPS: C 
+•	MKT: I 
+•	HR: I 
+Task 6: Equipment Procurement
+•	OPS: A/R 
+•	PM: C 
+•	MKT: I 
+•	ID: I 
+•	HR: I 
+Task 7: Supplier Setup
+•	OPS: A/R 
+•	PM: C 
+•	MKT: I 
+•	ID: I 
+•	HR: I 
+Task 8: Staff Recruitment
+•	HR: A/R 
+•	PM: I 
+•	OPS: C 
+•	MKT: I 
+•	ID: I 
+Task 9: Staff Training
+•	HR: A/R 
+•	PM: C 
+•	OPS: C 
+•	MKT: I 
+•	ID: I 
+Task 10: Marketing Campaign
+•	MKT: A/R 
+•	PM: C 
+•	OPS: I 
+•	ID: I 
+•	HR: I 
+Task 11: Store Launch
+•	PM: A 
+•	MKT: R 
+•	OPS: R 
+•	ID: C 
+•	HR: C 
+Task 12: Performance Monitoring
+•	PM: A 
+•	OPS: R 
+•	HR: C 
+•	MKT: C 
+•	ID: I

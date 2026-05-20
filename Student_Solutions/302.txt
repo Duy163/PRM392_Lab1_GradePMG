@@ -1,0 +1,120 @@
+1)
+Request 1: Project Charter
+1. Project Name
+
+Coi Café – Central Vietnam Expansion Strategy (2026)
+
+2. Project Justification
+Expand Coi Café’s footprint into Central Vietnam to achieve broader market coverage.
+Meet increasing demand for authentic Vietnamese coffee combined with environmentally conscious business practices.
+Strengthen brand equity through the development of flagship stores in strategically selected provinces.
+Diversify sourcing channels by incorporating suppliers from Central Vietnam.
+Enhance long-term profitability and reduce reliance on existing core markets.
+3. Project Constraints
+
+Scope
+
+Establish five flagship stores in Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh.
+Scope includes site selection, design and construction, recruitment and training, supply chain development, and marketing rollout.
+
+Time
+
+Total project duration: 12 months maximum.
+Each store must reach break-even within 8 months after opening.
+
+Budget
+
+Total investment: VND 8.5 billion (~VND 1.7 billion per store).
+Funding sources include equity capital and bank loans.
+
+Quality
+
+Maintain consistent brand identity with nostalgic café ambiance and traditional menu offerings.
+Ensure sustainable operations through eco-friendly materials and ethical sourcing.
+Guarantee service consistency through structured employee training.
+Request 2: Cost Structure Overview
+1. Leasing and Store Setup
+Description: Rental deposits, lease payments, interior construction, and decoration.
+Estimated Cost: ~VND 700 million per store
+Estimation Method: Based on historical benchmarking and contractor quotations
+Responsible: Project Manager & Design Team
+2. Equipment and Furnishings
+Description: Coffee machines, brewing equipment, refrigeration units, and furniture.
+Estimated Cost: ~VND 300 million per store
+Estimation Method: Bottom-up costing using supplier price data
+Responsible: Procurement & Operations
+3. Human Resource Costs
+Description: Recruitment, salaries, onboarding, and training programs.
+Estimated Cost: ~VND 200 million per store
+Estimation Method: Parametric estimation based on staffing structure and wage levels
+Responsible: HR Department
+4. Marketing and Launch Activities
+Description: Advertising campaigns, promotional activities, and opening events.
+Estimated Cost: ~VND 150 million per store
+Estimation Method: Based on previous campaign performance and revenue projections
+Responsible: Marketing Department
+5. Supply Chain Setup
+Description: Supplier onboarding, logistics coordination, and initial inventory procurement.
+Estimated Cost: ~VND 150 million per store
+Estimation Method: Supplier quotations and pilot sourcing agreements
+Responsible: Supply Chain Management
+Request 3: Risk Analysis and Response Plan
+Risk 1: Construction Delays
+Description: Delays caused by permitting issues, contractor inefficiency, or material shortages.
+Impacts:
+Time: Schedule extension
+Cost: Increased expenses
+Quality: Risk of reduced construction quality
+Response:
+Mitigation: Strict contractor selection and progress tracking
+Contingency: Buffer time of 2–3 weeks per store
+Risk 2: Revenue Underperformance
+Description: Stores may not reach expected revenue targets within the planned timeframe.
+Impacts:
+Cost: Lower profitability
+Time: Delayed break-even point
+Response:
+Mitigation: Market research and strong pre-opening marketing
+Contingency: Pricing adjustments and increased promotions
+Risk 3: Supply Chain Disruption
+Description: Unstable supply quality or delivery delays from suppliers.
+Impacts:
+Quality: Inconsistent products
+Cost: Higher procurement costs
+Time: Operational interruptions
+Response:
+Mitigation: Multiple suppliers and quality control system
+Contingency: Backup suppliers in Dak Lak
+Request 4: RACI Matrix
+1. Project Roles
+Project Manager (PM): Oversees planning, coordination, and final approval
+Interior Design Team (ID): Responsible for store design and construction execution
+Human Resources Team (HR): Handles recruitment and training activities
+Marketing Team (MKT): Manages branding and launch execution
+2. Task Responsibility Allocation
+Project planning
+PM: A | ID: C | HR: C | MKT: C
+Site selection
+PM: A | ID: C | HR: I | MKT: C
+Lease negotiation
+PM: A | ID: I | HR: I | MKT: I
+Store design
+PM: C | ID: R | HR: I | MKT: C
+Construction
+PM: A | ID: R | HR: I | MKT: I
+Supplier selection
+PM: A | ID: C | HR: I | MKT: R
+Recruitment
+PM: C | ID: I | HR: R | MKT: C
+Training
+PM: C | ID: C | HR: R | MKT: I
+Marketing execution
+PM: C | ID: I | HR: I | MKT: R
+Store opening
+PM: A | ID: C | HR: C | MKT: R
+3. RACI Definitions
+R (Responsible): Executes the work
+A (Accountable): Holds final ownership
+C (Consulted): Provides input and expertise
+I (Informed): Kept updated on progress
+2)

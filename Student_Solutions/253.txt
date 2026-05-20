@@ -1,0 +1,126 @@
+1)
+Request 1:
+
+Name: Expand Coi Cafe's influence into 5 central provinces.
+
+Purpose: To expand Coi Cafe's influence into 5 central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) by building a store in each location and building a raw material supply chain from Central region suppliers. This project's purpose is to capture the local coffee market of the 5 aformentioned provinces by adapting to local tastes and using advertisements.
+
+Scope:
+1. Select a suitable premise in each of the 5 central provinces.
+2. Design and construct store interiors consistent with the Coi Cafe brand.
+3. Recruit and train local personnel.
+4. Build a raw material supply chain from Central region suppliers.
+5. Research local preferences in coffee.
+6. Adapt to local preferences in cofee.
+7. Design and launch openning campaigns for each store.
+
+Constraints:
+1. There must be 5 functional stores, 1 in each of the 5 central provinces, within 12 months.
+2. Budget is 8.5 billion VND, around 1.7 billion VND for each store.
+3. Each store must reach the break-even point, around 1.7 biilion VND, within 8 months after openning.
+
+Assumptions:
+1. Local coffe stores cannot significantly compete with Coi Cafe.
+2. The 8.5 billion VND budget is enough.
+3. There're suitable premises in each central provinces.
+4. Material cost, both store construction cost and coffee ingredient cost, are not too expensive compared to the costs of current Coi Cafe stores in Hanoi and HCM city.
+
+Request 2:
+Item 1:
+ -Name: Buying raw materials.
+ -Description: Estimating the cost of buying raw materials from Central region suppliers.
+ -Way to estimate: Parametric estimation using the cost of coffe from stores that also buy materials from Central region suppliers and local taste in coffee as data.
+ -Person in charged: Project manager.
+
+Item 2:
+ -Name: Training employees.
+ -Description: Estimating the cost of training local personnel.
+ -Way to estimate: Analogous estimation using the training cost of Coi Cafe's personnel as data.
+ -Person in charged: HR team.
+
+Item 3:
+ -Name: Store designs and constructions.
+ -Description: Estimating the cost of designing and construction of store interiors that are consistent with the Coi Cafe brand.
+ -Way to estimate: Parametric estimation using the construction cost of current Coi Cafe stores and the material cost from Central region suppliers as data.
+ -Person in charged: Interior design team.
+
+Item 4:
+ -Name: Opening campaign.
+ -Description: An opening campaign for each store to attract customers.
+ -Way to estimate: Parametric estimation using the cost of previous opening campaigns and current market prices as data.
+ -Person in charged: Markerting team.
+
+Item 5:
+ -Name: Surveying and selecting premises for stores.
+ -Description: Estimating the cost of surveying and buying the suitable premises for 5 different stores in 5 different Central provinces.
+ -Way to estimate: Parametric estimation using land costs in the 5 provinces and the land survey cost of 12 existing Coi Cafe stores as data.
+ -Person in charged: Project manager.
+2)
+Request 3:
+Risk 1:
+-Name: Coi Cafe's coffee fails to attract customers.
+-Description: Coi Cafe's coffee does not satisfy local preferences.
+-Impacts: Increase in material and time cost to research and brew coffee that satisfy local tastes.
+-Mitigation: Thorough research into local tastes in coffe (what people usually order, how coffee are prepared by locals, etc.).
+-Contingency: Reduce scope, imitate the coffee of local competitors.
+
+Risk 2:
+-Name: Budget overrun.
+-Description: Costs exceed budget.
+-Impacts: Reduced coffee quality, reduced personnel training level, less effective opening campaigns.
+-Mitigation: Compare expenses with budget, track expenses weekly, search for cheap suppliers.
+-Contingency: Reduce scope.
+
+Risk 3:
+-Name: Opening campaigns fail to attract customers.
+-Description: Opening campaigns fail to attract customers.
+-Impacts: Low customer numbers, less profit, more time needed to break-even.
+-Mitigation: Thorough research into local preferences in coffee.
+-Contingency: Issues clarification of campaign messages, rapid adjustment of coffee and campaign messages.
+
+
+Request 4:
+Roles: Project manager, HR team, interior design team, marketing team, external construction contractors.
+
+Tasks and responsibilities:
+-Survey for suitable premises to build stores:
+ +Project manager: R
+ +External construction contractors: C
+ +Interior design team: C
+ +HR team: I
+
+-Build stores:
+ +External construction contractors: R
+ +Project manager: A
+
+-Recruit and train local personnel:
+ +HR team: R
+ +Project manager: I
+
+-Establish raw material supply chain with Central region suppliers:
+ +Project manager: R
+
+-Design store interiors:
+ +Interior design team: R
+ +External construction contractors: C
+ +Project manager: I
+
+-Research local tastes and preferences in coffee:
+ +Marketing team: R
+ +Project manager: I
+
+-Adapt Coi Cafe's coffee to satisfy local preferences in coffee:
+ +HR team: R
+ +Marketing team: A
+ +Project manager: I
+
+-Design opening campaigns for stores:
+ +Marketing team: R
+ +Project manager: I
+
+-Manage effectiveness of opening campaigns for stores:
+ +Marketing team: R
+ +Project manager: I
+
+-Communicate with key stakeholders:
+ +Project manager: R

@@ -1,0 +1,125 @@
+1)
+Request 1: 
+1. Project name: Coi Cafe
+Description: The project Coi Cafe is a pure Vietnamese coffee brand with 12 stores in Hanoi and Ho Chi Minh City, famous for its nostagic space, traditional drink menu, and sustainable business model (using reusable cups, purchasing coffee directly from Dak Lak farmers).
+2. Purpose and Reasons to implement this project: Coi's management decided to implement an expansion project into 5 Central provinces (Da Nang, Quang Nam, Hue, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 months.
+3.
+- Project constraints: The project includes: surveying and selecting premises, designing an constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and launching campaign for each store.
+- Scope: The project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) with 1 flagship store in each province with 12 months.
+- Time: The project implement within 12 months.
+- Cost/ Budget: The total budget is VND 8.5 billion (approximately VND 1.7 billion/store) from equity and commercial bank loans.
+- Quality: Each store must reach the break-even point within 8 months after opening.
+
+Request 2: 
+The five main cost/budget items:
+- Cost/ budget item 1: Collecting data for surveying and selecting premises.
+   +Description: The project need pay for paticipation when their join surveying and giving their information for many questions from survey. This cost pay for some gif like candy, promotion code from partnership/ Coi's Store or merchandies from project. The tool for analysis data after collecting information from paticipation also a must pay for. 
+   + How to estimate: Format survey by Google Form and paticipation when done survey, 1 promotion code sent their or 1 candy for their. 
+  + Cost/ budget: VND 100.000.000
+  + Person in charged: Marketing team leader.
+=> Total cost: VND 100.000.000
+
+
+- Cost/ budget item 2: Resources and profestional tool for designing and constructing interious consistent with the brand.
+   + Description: Resources for designing from profestional websites or third external often have fees and the project should be use this resources from this to ensure quality interiors consistent with the brand. The profestional tool like Adobe must be pay account to use this tool.
+   + How to estimate: Use 1 account from that website for team design and implement sheet data need to each interiors from design team leader. Buy Adobe account and resources from Adobe for each designer when join this project. 
+   + Cost/ budget: VND 100.000.000
+    + Person in charged: Design team leader.
+   => Total cost: VND 100.000.000
+
+- Cost/ budget item 3: Fees for organizing recruiting and training local personnel. 
+   + Description: Fees for profestional trainner have more knowleage from pure Vietnamese coffee and cost for organizing recruiting team.
+    + How to estimate: Base on medium fees from insdustry coffee trainner for give cost and base on before project to ogranizing.
+    + Cost/budget: VND 50.000.000
+     + Person in charged: HR team leader.
+ => Total cost: VND 50.000.000
+
+-  Cost/ Budget item 4: Building a raw material supply chain from Central region suppliers.
+   + Description: To ensure project have 1 flagship store in each province within 12 months, team supply chain must be investor many resources material from nation tool from region suppliers.
+   + How to estimate: For 1 flagship store in each province open with 1 region suppliers or more.
+   + Cost/ budget: VND 200.000.000
+   + Person in charge: Marketing team leader.
+=> Total cost: VND 200.000.000
+
+- Cost/ budget item 5: Launching campaign for 5 store.
+   + Description: To ensure each store must reach the break-event point with 8 months after opening, the event launching campaign must be prepare and have profestional agency to organization.
+   + How to estimate: setting any each activities for this event and meeting agency to present plan.
+  + Cost/budget: VND 500.000.000 for 5 store.
+   + Person in charge: PM
+=> Total cost: VND 500.000.000 for 5 store in 5 central province.
+
+
+
+
+
+ 
+
+  
+
+2)
+Request 3: Three project risks:
+- Risk 1: Budget overrun (Cost)
+  + Description: Implement an expansion project into 5 central provinces may use more than the budget VND 8.5 billion.
+   + Impact: High
+    + Posibility: High
+   + Mitigation: Make a detailed budget plan, neogotiate launching event early, and control spending weekly.
+   + Contingency: Use reserve budget, reduce the number sponsor for each local.
+
+- Risk 2: Delay in expansion project in 5 Central provices (time)
+  + Description: Coordinating with 1 flagship store in each provices might face adminstrative delay, pushing the project past its 12 months limit.
+  + Impact: High
+  + Posibility: High 
+  + Mitigation: Plan schedule early, sent letters for profestional trainner coffee immediately.
+  + Contingency: Organizing each provices in phase, starting with big cities first.
+
+- Risk 3: The contraints each store must reach the break-event point over 8 months after opening.
+  + Description: the contraints each store can make some mistake when after opening because the staff have least knowleage and flow work in new store.
+  + Impact: High
+   + Posibility: High
+   + Mitigation: Organizing early and trainning more detail for each staff.
+   + Contingency: The profestional staff training again for the staff and report each week about staff in store.
+
+Request 4:
+1. Three project roles:
+ - Project management
+ - Coordination and Design team leader (DL)
+- HR team leader (HR)
+
+2. Ten task:
+
+1. Planning an expansion project into Da Nang
+2. Planning an expansion project into Hue
+3. Planning an expansion project into Quang Nam
+4. Planning an expansion project into Quang Ngai
+5. Planning an expansion project into Binh Dinh
+6. Launching campaign in Da Nang store
+7. Launching campaign in Hue Store
+8. Launching campaign in Quang Nam store
+9. Launching campaign in Quang Ngai store
+10. Launching campaign in Binh Dinh store.
+
+3. 
+
+1. Planning an expansion project into Da Nang
++ PM: A, R
++ DL: C
++ HR: C
+
+2. Planning an expansion project into Hue
++ PM: A,R
++ DL: C
++ HR: C
+
+3. 
++ PM: A,R
++ DL: C
++ HR: C
+
+4. 
++ PM: A,R
++ DL: C
++ HR: C
+
+5, 6,7,8,9,10 same as
+
+ 

@@ -1,0 +1,112 @@
+1)
+Request 1: Project Charter Statement
+Project Name: Coi Cafe Central Region Market Entry Project
+
+Justifications:
+Purpose: To bring Coi Cafe's brand into five new Central Vietnamese markets - Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh - by establishing one fully operational flagship store in each province, all within a 12-month.
+Reasons:
+-Growth necessity: With 12 stores concentrated in just two cities, Coi Cafe has limited room for domestic growth in its current markets. Entering Central Vietnam is the logical next step to sustain business momentum.
+-Market opportunity: Central Vietnam is one of the country's fastest-growing tourism corridors. Rising visitor numbers and an increasingly coffee-literate local population create favorable conditions for a premium Vietnamese coffee brand.
+-National brand positioning: A presence across North, Central, and South Vietnam elevates Coi Cafe from a regional player to a credible national brand, improving its standing with investors, partners, and franchise candidates.
+
+Project Constraints:
+-Scope: The project delivers exactly five stores - one per province - with no scope for additional locations during the project period.Each store must faithfully replicate the Coi Cafe experience: hand-crafted Vietnamese interior, classic coffee and beverage menu, reusable cup system, and ingredients sourced directly from farmers.
+-Time: All five stores must be open and serving customers within 12 months of the project start date.
+-Cost: The project operates under a fixed envelope of VND 8.5 billion, with an indicative per-store ceiling of VND 1.7 billion.
+-Quality: Interior design, beverage recipes, and service delivery must be indistinguishable in standard from Coi's existing stores. Every employee must hold a valid Coi Cafe training certificate before the store opens its doors. Regulatory compliance - business registration, food safety permit, fire clearance - must be in place before opening day in each province.
+
+Request 2: 
+Cost/Budget Items
+-Item 1: Premises Lease and Deposit
+Description: Rental payments and upfront security deposits for five commercial premises across the Central provinces. Costs differ by location - Da Nang carries the highest rates while Quang Ngai and Binh Dinh are more affordable.
+How to estimate: The PM commissions property agents in all five provinces at the same time to gather a minimum of three rental quotes per site. Monthly rent is projected at VND 25-35 million per store. Adding a three-month deposit, total lease-related expenditure per store runs approximately VND 400-440 million across the project period.
+Total: approximately VND 2.1 billion
+Person in charge: Project Manager
+
+-Item 2: Store Build-Out and Interior Works
+Description: Full renovation of raw commercial spaces into Coi Cafe's signature environment - including structural modifications, vintage-style furnishings, branded wall treatments, ambient lighting, and counter construction.
+How to estimate: After each lease is signed, the Interior Design Team visits the site and produces a room-by-room Bill of Quantities. Labor and material unit rates are drawn from completed projects at Hanoi and HCM stores, then adjusted downward to reflect lower Central Vietnam construction costs. Estimated at VND 400-500 million per store.
+Total: approximately VND 2.2 billion 
+Person in charge: Interior Design Team Lead
+
+-Item 3: Operational Equipment and Furnishings
+Description: Professional coffee machines, grinders, refrigerators, blenders, serving counters, seating, storage units, POS terminals, and all branded exterior and interior signage.
+How to estimate: A standardized equipment schedule is compiled jointly by the design and operations teams. Competitive quotes are obtained from at least two suppliers per equipment category, and cross-store bulk ordering is used to secure volume pricing. Estimated at VND 200-250 million per store.
+Total: approximately VND 1.1 billion
+Person in charge: Interior Design Team Lead and Operations Manager
+
+-Item 4: Workforce Acquisition and Development
+Description: End-to-end people costs covering job advertising, candidate interviews, employment contracts, onboarding materials, and a structured two-week Coi Cafe barista and service training program. Each store requires eight to ten staff members.
+How to estimate: HR Team maps out the exact headcount and role mix per store, then applies prevailing local wage rates and estimated agency or platform advertising fees. Where trainers must travel from other cities, accommodation and transport are included. Estimated at VND 80-100 million per store.
+Total: approximately VND 450 million
+Person in charge: HR Team Lead
+
+-Item 5: Raw Material Supply Chain and Opening Inventory
+Description: Costs associated with locating, evaluating, and formalizing agreements with Central region suppliers of coffee beans, fresh milk, syrups, packaging, and consumables, along with the purchase of four weeks of stock for each store's launch.
+How to estimate: The procurement team runs a structured supplier discovery process in each province, collects price lists and product samples, and models initial inventory volumes against projected daily sales from comparable existing stores. Estimated at VND 90-110 million per store.
+Total: approximately VND 500 million
+Person in charge: Project Manager and Procurement Team
+
+Request 3: Project Risks
+Risk 1: Failure to Secure Viable Store Locations
+-Title: Premises Availability Risk
+-Description: Commercial real estate meeting Coi Cafe's location, size, and condition requirements may be in short supply in less developed provinces such as Quang Ngai and Binh Dinh. Protracted landlord negotiations or landlords unfamiliar with formal lease structures could add weeks to the acquisition timeline.
+-Possible impacts:
+Scope/Quality: Accepting a location that falls below the required standards - such as poor pedestrian visibility or insufficient floor space - can permanently cap revenue potential and make the 8-month break-even target unrealistic.
+Time: A delayed site sign-off holds up every subsequent phase - design, construction, recruitment, and launch - for that store, threatening the overall 12-month deadline.
+Cost: Above-market rents or prolonged agency search fees eat into the per-store budget. Idle salary costs accumulate if staff are hired before premises are confirmed.
+Mitigation: Activate property searches across all five provinces on the first day of the project, using contracted local agents rather than a sequential city-by-city approach. Develop a standardized site evaluation scorecard so all candidates are assessed quickly against the same criteria.
+Contingency: Should the six-week window pass without a confirmed site, the PM is empowered to waive secondary requirements and approve a rental overspend of up to 15% for that store, with the Board informed within 48 hours.
+
+Risk 2: Interior Works Fall Behind Schedule
+-Title: Construction Overrun Risk
+-Description: Fit-out timelines in Central provinces may slip due to a thinner pool of qualified tradespeople, extended delivery times for bespoke furniture and fittings sourced from Hanoi or HCM, adverse weather during the October-to-December rainy season, or bureaucratic delays in permit processing.
+-Possible impacts:
+Scope/Quality: Pressure to open on an unchanged date despite construction delays may lead the team to accept incomplete or below-standard work, undermining the brand experience from day one.
+Time: Every week a store's opening is deferred is a week's worth of lost revenue and a tighter window to achieve break-even within eight months of opening.
+Cost: Pre-opening overheads - rent, utilities, and employee wages during extended training - continue to accumulate
+Mitigation: Embed a three-week contingency buffer in each store's construction schedule from the outset. Engage and vet two local contractors per province before construction starts so a backup is ready if the primary contractor underperforms. Order all non-standard items four weeks before works begin.
+Contingency: If a construction delay exceeds two weeks, the PM authorizes overtime working and, if needed, additional sub-contractor crews, drawing up to VND 50 million per store from the contingency reserve. All impacted team leads receive a revised milestone schedule within 24 hours of the decision.
+
+Risk 3: Central Region Talent Pool Is Too Shallow
+-Title: Workforce Shortage Risk
+-Description: Finding people with specialty coffee knowledge, hospitality service mindset, and alignment with Coi's brand culture is considerably harder in smaller Central cities than in the major metros.
+-Possible impacts:
+Scope/Quality: A store that opens with undertrained or incomplete staffing will deliver an inconsistent customer experience, generating negative word-of-mouth at precisely the moment first impressions matter most.
+Time: Recruitment that drags beyond the planned window delays training, which delays opening, which compresses the store's revenue window within the project period.
+Cost: Competing on salary to attract scarce local talent raises the per-store people cost above budget and sending experienced staff.
+Mitigation: Open recruitment in each province ten weeks before the target opening date, giving four weeks of buffer beyond what the training calendar strictly requires. Forge relationships with hospitality and tourism colleges in Da Nang and Hue to create a candidate pipeline of motivated graduates.
+Contingency: If the store manager or head barista position remains vacant four weeks before the opening date, the PM approves a short-term secondment of one or two senior staff members from Hanoi or HCM stores for up to three months, with relocation and housing costs met from the contingency fund.
+
+Request 4: RACI Chart
+Project Roles:
+PM - Project Manager (Market Development Director): Carries final accountability for the entire project. Sets direction, resolves cross-team conflicts, manages stakeholder relationships, and reports progress to the Board.
+IDT - Interior Design Team Lead: Leads all design decisions, oversees construction contractors, and manages procurement of all physical store assets
+HRT - HR Team Lead: Accountable for filling all store positions on schedule and ensuring every hire completes the required training before opening.
+MKT - Marketing Team Lead: Drives all brand communication, campaign execution, and opening event activities across the five provinces.
+FIN - Finance Manager: Controls the project budget, approves vendor payments, flags cost variances, and tracks each store's post-opening financial performance.
+RACI Key:
+R = Responsible - carries out the task
+A = Accountable - single point of ownership for the outcome
+C = Consulted - asked for input before or during the task
+I = Informed - receives updates on progress and decisions
+Tasks and Responsibilities:
+Task 1: Write and gain sign-off on the Project Charter
+PM: A/R, IDT: C, HRT: C, MKT: C, FIN: C
+Task 2: Scout locations and evaluate potential premises
+PM: A/R, IDT: C, HRT: I, MKT: C, FIN: C
+Task 3: Finalise lease terms and execute rental agreements
+PM: A/R, IDT: I, HRT: I, MKT: I, FIN: C
+Task 4: Produce interior design drawings and construction schedule
+PM: A, IDT: R, HRT: I, MKT: C, FIN: I
+Task 5: Manage store construction and fit-out works
+PM: A, IDT: R, HRT: I, MKT: I, FIN: C
+Task 6: Purchase and commission all equipment and furnishings
+PM: A, IDT: R, HRT: I, MKT: I, FIN: C
+Task 7: Advertise roles and select local store staff
+PM: A, IDT: I, HRT: R, MKT: I, FIN: C
+Task 8: Deliver Coi Cafe training and issue staff certification
+PM: A, IDT: I, HRT: R, MKT: I, FIN: I
+Task 9: Qualify and contract Central region ingredient suppliers
+PM: A/R, IDT: I, HRT: I, MKT: I, FIN: C
+2)

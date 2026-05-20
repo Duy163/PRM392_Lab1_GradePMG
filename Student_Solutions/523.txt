@@ -1,0 +1,84 @@
+1)
+1.Project name: Coi Cafe- Vietnamese coffee brand
+2.Justtifications: 
+ - Coi's management want enhance the fame of brand all around the country ( from Hanoi to Ho Chi MInh)
+ -It will survey and select premies, designing and constructuring interiors with the brand, recurting and training local personnel, bulding a raw material supple chain from Central region supplier.
+3.Project constraints:
+ -Scope: This project implement an expansion project into 5 Central provinces ( Da Nang, Hue, Quang Ngai, Quang Nam, Binh Dinh)
+ -Time: 1 flagship store in each province within 12 months
+ -Cost/ Budget: The total budget is VND 8.5 billion ( approximately VND 1.7 billion/store)
+ -Quality: Each store must reach the break-even point within 8 months after opeining.
+2)
+Question 2:
+
+1.
+- Name:Rent the place 
+- Description: Pay the money for rent the place for 1 years in each store.
+- Cost/ Budget: VND 300 million/store( 300* 5= VND 1.5 billion for total budget)
+-Estismation: Bot-up estismation
+- Person in charged: Own the place
+2. 
+- Name:Training employees
+- Description: Recruiting and training local personal.
+- Cost/ Budget: VND 40 million/store( VND 200 million for total budget)
+-Estismation: Agnouslog estiation
+-Person in charged: Trainer
+3.
+- Name: PR the shop
+-Description: survey and marketing for each store
+- Cost/Budget: VND 200 million/store( VND 1 billion for total budget)
+-Estismation: Bot-up estimation
+- Person in chagred: HR team, marketing team
+4.
+- Name: Buy the material
+- Description: building a raw material supply chain from Central region supplier
+- Cost/Budget: VND 400 million/store( VND 2 billion for total budget)
+- Estismation: Top-down estismation
+-Person in charged: supllier
+5.
+-Name: Design shop
+- Description: Design the store with style nostalgic space, print the menu, ...
+- Cost/Budget: VND 300 million/store( total VND 1.5 billion of budget)
+-Estimaton: Bot-up estimation
+-Person in charged: design team
+
+Question 3:
+1.Overrun the budget( Estimate can be not true 100% )
+Mitigation: cost management plus 10% for each section
+Contingency: save money for the cost design, ...., it reduce waste the budget
+2.It can not reach a aim revenue ( each store must reach the break- event point within 8 months after opening)
+Mitigation: sale off or make more event help increase income for the shop
+Contingency: Hot deal attrative customer use the service, keep up with trending make a lot of drink 
+3. Have a issuse for material
+Mitigation: Back up the supplier supply the material
+Contingency: Sold out the product needs their material.
+
+Question 4:
+
+1. Market Development Director - PM
+    Sponsor: Coi Cafe
+    Makerting, Design team ( BA)
+   
+2. List the tasks:
+ - Planing the project
+ - Set up goal
+ - Scope management
+ - Recuite and training 
+ - Design store
+ - PR store
+ - Buy materail
+ - Survey the saticfiaction of customer
+ - Resoucre Management
+ - Cost management
+3.
+ -Planing the projcet: PM(A/R), Sponsor(I),BA(C)
+- Set up goal: PM(A), Sponsor(I), BA(R/C)
+-Scope Management: PM(R/A), Sponsor(I),BA(C)
+-Recuite and training: PM(I), BA(A/R),Sponsor(I)
+-Design store : PM(I), BA(A/R), Sponsor(I/C)
+-PR store: PM(I) , BA(A/R), sponsor(I/C)
+- Buy material: PM(A), BA(R/C), sponsor(I)
+- Survey customer: PM(I/C), BA( R), sponsor(I)
+-Resource Management: PM(A/R), BA(R), sponsor(I/C)
+-Cost management : PM(A), BA(R),Sponsoer(I/C)
+

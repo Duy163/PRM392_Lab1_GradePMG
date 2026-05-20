@@ -1,0 +1,240 @@
+1)
+Request 1: Narrative Charter Statement
+Project Name:
+Coi Cafe Central Region Expansion Project
+Project Purpose / Justification:
+The purpose of this project is to expand Coi Cafe’s business from Hanoi and Ho Chi Minh City to five provinces in Central Vietnam, including Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh. The project aims to open one flagship store in each province within 12 months.
+This project is necessary because Coi Cafe already has a clear brand identity as a Vietnamese coffee brand with nostalgic store design, traditional drinks, and a sustainable operating model. Expanding to Central Vietnam will help the company reach new customers, increase brand recognition, and create new revenue streams outside its current main markets.
+The project also supports the company’s long-term growth strategy. By opening flagship stores in key Central provinces, Coi Cafe can test customer demand, build local brand presence, and prepare for future expansion. In addition, using reusable cups and sourcing coffee directly from farmers helps strengthen the company’s sustainable image.
+Project Constraints:
+Scope Constraint:
+The project scope includes selecting suitable premises, designing and building interiors based on the Coi Cafe brand concept, recruiting and training local employees, developing a raw material supply chain in Central Vietnam, and running marketing campaigns for all five stores.
+The scope is limited to five flagship stores in Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh. The project does not include opening stores in other provinces, changing the main brand concept, or developing a franchise system during this phase.
+Time Constraint:
+The project must be completed within 12 months. All five flagship stores must be opened within this period. After opening, each store is expected to reach the break-even point within 8 months.
+Cost / Budget Constraint:
+The approved budget for the project is VND 8.5 billion. This budget comes from company equity and commercial bank loans. The project team must manage the budget carefully and control spending on rental deposits, interior construction, equipment, staff, supply chain, marketing, and project management.
+Quality Constraint:
+Each store must maintain the same Coi Cafe brand identity, including nostalgic interior design, traditional Vietnamese drinks, sustainable operation, and consistent customer service. The stores must also meet food safety, hygiene, construction, and local business operation standards.
+Request 2: Main Cost / Budget Items
+Cost Item 1: Store Location Survey and Rental Deposit
+Description:
+This cost covers the process of searching for suitable store locations in the five Central provinces. It includes site visits, market checking, rental negotiation, broker fees if needed, and rental deposits for each selected flagship store.
+Estimation:
+The cost can be estimated by calculating the expected rental deposit for each store and adding survey and broker costs.
+Formula:
+Estimated cost = Average monthly rent x number of deposit months x 5 stores + site survey cost + broker fee
+Person in Charge:
+Market Development Director and Finance Manager
+Cost Item 2: Interior Design and Construction Cost
+Description:
+This cost is used to design and build store interiors that match Coi Cafe’s nostalgic Vietnamese coffee style. It includes design service, construction materials, decoration, lighting, furniture arrangement, and labor cost.
+Estimation:
+The cost can be estimated based on the expected area of each store and the average design and construction cost per square meter.
+Formula:
+Estimated cost = Average store area x construction cost per square meter x 5 stores + contingency amount
+Person in Charge:
+Interior Design Manager
+Cost Item 3: Store Equipment and Furniture Cost
+Description:
+This cost includes coffee machines, grinders, refrigerators, POS systems, tables, chairs, shelves, kitchen tools, reusable cups, and other store equipment needed for daily operation.
+Estimation:
+The cost can be estimated by preparing a standard equipment list for one store, calculating the total cost for one store, and multiplying it by five stores.
+Formula:
+Estimated cost = Equipment and furniture cost per store x 5 stores
+Person in Charge:
+Procurement Manager and Operations Manager
+Cost Item 4: Recruitment and Training Cost
+Description:
+This cost is used to recruit and train local employees, including store managers, baristas, service staff, and supervisors. Training includes drink preparation, customer service, brand culture, sustainability standards, and store operating procedures.
+Estimation:
+The cost can be estimated by calculating recruitment cost per employee and training cost based on number of training days.
+Formula:
+Estimated cost = Number of employees x recruitment cost per employee + training days x training cost per day
+Person in Charge:
+HR Manager
+Cost Item 5: Raw Material Supply Chain and Initial Inventory Cost
+Description:
+This cost is used to establish a raw material supply chain in Central Vietnam. It includes supplier searching, supplier evaluation, product sample testing, transportation setup, and initial inventory for coffee, milk, tea, ingredients, packaging, and reusable cup support materials.
+Estimation:
+The cost can be estimated by adding supplier setup cost, product testing cost, transportation setup cost, and initial inventory cost for all five stores.
+Formula:
+Estimated cost = Supplier setup cost + testing cost + initial inventory cost per store x 5 stores
+Person in Charge:
+Supply Chain Manager
+Cost Item 6: Store Opening Marketing Campaign Cost
+Description:
+This cost is used for marketing campaigns before and during the launch of each store. It includes social media ads, local KOL promotion, opening events, banners, posters, discount campaigns, loyalty programs, and local community activities.
+Estimation:
+The cost can be estimated by setting a standard marketing budget for each store and multiplying it by five stores.
+Formula:
+Estimated cost = Marketing budget per store x 5 stores
+Person in Charge:
+Marketing Manager
+Request 3: Project Risks and Response Plans
+Risk 1: Delay in Store Location Selection and Construction
+Description:
+The project may be delayed if the team cannot find suitable store locations on time. Construction may also take longer than expected due to contractor delays, permit issues, design changes, or material shortages.
+Possible Impacts:
+Scope / Quality:
+The company may not be able to open all five stores as planned. Store design quality may also be reduced if the team tries to finish construction too quickly.
+Time:
+The 12-month expansion timeline may be delayed.
+Cost:
+The project may need to pay extra rental cost, contractor overtime, or additional project management cost.
+Risk Response Plans:
+Mitigation:
+The project team should create clear location selection criteria, prepare backup locations in each province, and choose reliable contractors before construction starts. The team should also monitor construction progress every week.
+Contingency:
+If one store location or contractor causes serious delay, the team should switch to a backup location or backup contractor. The team can also fast-track some activities, such as recruitment and marketing preparation, while construction is still being completed.
+Risk 2: Budget Overrun
+Description:
+The project may exceed the approved VND 8.5 billion budget because of higher rental prices, increasing construction costs, equipment price changes, or unexpected marketing expenses.
+Possible Impacts:
+Scope / Quality:
+Some store decoration items or non-essential features may need to be reduced. The quality of furniture or design may also be affected.
+Time:
+The project may be delayed if additional budget approval is required.
+Cost:
+The company may spend more than planned and face higher financial pressure from commercial bank loans.
+Risk Response Plans:
+Mitigation:
+The Finance Manager and Project Manager should create a clear budget baseline and monitor actual spending every month. The team should use competitive bidding for contractors and suppliers and control all changes through an approval process.
+Contingency:
+If the project exceeds budget, the team should reduce non-critical decoration items, negotiate better payment terms with suppliers, reallocate money from lower-priority activities, or request additional budget only when necessary.
+Risk 3: Low Customer Demand and Late Break-even
+Description:
+Customers in the new provinces may not accept Coi Cafe quickly. The store location, price, menu, or promotion strategy may not fit local customer behavior. As a result, some stores may need more time to reach break-even.
+Possible Impacts:
+Scope / Quality:
+The expansion may not achieve its expected business results.
+Time:
+Each store may take longer than 8 months to reach the break-even point.
+Cost:
+Low sales may increase operating losses, marketing spending, and cash flow pressure.
+Risk Response Plans:
+Mitigation:
+The Marketing Manager should conduct local market research before launching each store. The company should adjust marketing messages to fit each local market while keeping the main Coi Cafe brand identity. Opening promotions, loyalty programs, and local community campaigns should be prepared carefully.
+Contingency:
+If a store has low sales after opening, the team should review pricing, adjust promotions, optimize staff schedules, reduce operating costs, and add suitable local drink options without changing the core brand concept.
+Request 4: RACI Chart
+RACI Legend:
+R means Responsible.
+A means Accountable.
+C means Consulted.
+I means Informed.
+Project Roles:
+1)Project Manager / Market Development Director:
+The Project Manager is accountable for the overall expansion project. This role manages scope, schedule, budget, risks, and coordination among all departments.
+2)Finance Manager:
+The Finance Manager is responsible for budget planning, cost tracking, loan and equity management, payment control, and financial reporting.
+3)Interior Design Manager:
+The Interior Design Manager is responsible for store design, layout planning, construction supervision, and ensuring that all stores follow the Coi Cafe brand concept.
+4)HR Manager:
+The HR Manager is responsible for recruiting local staff, organizing training programs, and making sure employees understand service standards and store operations.
+5)Supply Chain Manager:
+The Supply Chain Manager is responsible for finding local suppliers, checking raw material quality, negotiating supply terms, and building the Central region supply chain.
+6)Marketing Manager:
+The Marketing Manager is responsible for market research, launch campaigns, local promotion, customer acquisition, and brand communication.
+Tasks / Activities / Deliverables and RACI Responsibilities:
+Task 1: Prepare Project Charter and Expansion Plan
+Project Manager: A/R
+Finance Manager: C
+Interior Design Manager: I
+HR Manager: I
+Supply Chain Manager: C
+Marketing Manager: C
+Task 2: Build Budget Baseline and Funding Plan
+Project Manager: A
+Finance Manager: R
+Interior Design Manager: C
+HR Manager: C
+Supply Chain Manager: C
+Marketing Manager: C
+Task 3: Survey Store Locations in Five Provinces
+Project Manager: A
+Finance Manager: C
+Interior Design Manager: C
+HR Manager: I
+Supply Chain Manager: I
+Marketing Manager: R
+Task 4: Select Final Premises and Complete Lease Agreements
+Project Manager: A
+Finance Manager: C
+Interior Design Manager: C
+HR Manager: I
+Supply Chain Manager: I
+Marketing Manager: R
+Task 5: Design Store Concept and Interior Layout
+Project Manager: C
+Finance Manager: C
+Interior Design Manager: A/R
+HR Manager: I
+Supply Chain Manager: I
+Marketing Manager: C
+Task 6: Manage Store Construction and Renovation
+Project Manager: A
+Finance Manager: C
+Interior Design Manager: R
+HR Manager: I
+Supply Chain Manager: I
+Marketing Manager: I
+Task 7: Purchase Equipment, Furniture, and Reusable Cups
+Project Manager: A
+Finance Manager: C
+Interior Design Manager: C
+HR Manager: I
+Supply Chain Manager: R
+Marketing Manager: I
+Task 8: Recruit Local Employees
+Project Manager: C
+Finance Manager: C
+Interior Design Manager: I
+HR Manager: A/R
+Supply Chain Manager: I
+Marketing Manager: I
+Task 9: Train Staff on Service and Store Operation
+Project Manager: C
+Finance Manager: I
+Interior Design Manager: I
+HR Manager: A/R
+Supply Chain Manager: C
+Marketing Manager: C
+Task 10: Establish Central Region Supplier Network
+Project Manager: A
+Finance Manager: C
+Interior Design Manager: I
+HR Manager: I
+Supply Chain Manager: R
+Marketing Manager: I
+Task 11: Prepare Launch Marketing Campaigns
+Project Manager: A
+Finance Manager: C
+Interior Design Manager: I
+HR Manager: I
+Supply Chain Manager: I
+Marketing Manager: R
+Task 12: Conduct Pre-opening Store Inspection
+Project Manager: A
+Finance Manager: I
+Interior Design Manager: C
+HR Manager: C
+Supply Chain Manager: C
+Marketing Manager: C
+Task 13: Launch Five Flagship Stores
+Project Manager: A
+Finance Manager: I
+Interior Design Manager: C
+HR Manager: C
+Supply Chain Manager: C
+Marketing Manager: R
+Task 14: Track Store Performance and Break-even Progress
+Project Manager: A
+Finance Manager: R
+Interior Design Manager: I
+HR Manager: C
+Supply Chain Manager: C
+Marketing Manager: C
+Explanation:
+The Project Manager is accountable for the whole project and final delivery. The Finance Manager controls project cost and financial performance. The Interior Design Manager makes sure each store has a consistent brand image. The HR Manager handles recruitment and training. The Supply Chain Manager builds the material supply system for the Central region. The Marketing Manager attracts customers and supports store launches. Together, these roles help the project open five flagship stores within 12 months and help each store reach break-even within 8 months after opening.
+2)

@@ -1,0 +1,77 @@
+1)
+Request1:
+1. Coi Cafe Expand Project
+2.
+To implement an exxpansion with 1 flagship store in to 5 Central provice (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh).
+3.
+Scope: surveying and selecting premises, designing and contructing interiors consistent with the brand, recruiting and training local personal, building a raw material supply chain from Central region supplier, and launching campaigns for each store.
+Time: within 12 months.
+Cost/bufget: VND 8.5 billion (approximately VND 1.7 billion/store)
+Quality: Must reach the break-even point within 8 months after opening.
+
+
+Request 2:
+-Design team
+Salary for each member in design team 
+
+- Managerment Task Flatform
+Account preium to manage process of project
+Catalog estimate
+500.000/member/month
+
+- Hardware store data
+Store data to backup 
+Catalog estimate 
+15 million/month
+
+
+- Payment Gate
+Pay for 3th API
+
+
+
+-Budget for unpredictable
+Use for handle some unpredictable risks
+Catalog estimate
+5% of budget
+
+
+
+Request 3:
+- Don't have enough member to handle design
+Key member in design team left project cause illness
+Impact: make project need more time to finish.
+Mitigation: Ensure all member is in good health and have anorther member to backup.
+- Change design
+Coi's managerment want to change design during process
+Impact: Maybe need to redesign and need more time and cost for it
+Mitigation: Coi's manager need to ensure design and if want to change need to accept can be need more time and cost to finish
+- Project don't reach the break-even poitn in time
+After finish project and some store not have enough revernue magager need.
+Mitigation: Maybe cause close store if don't have enough budget to launching.
+Mitigation: Ensure survey from real customer and ensure design and cafe good quality to get customer
+
+
+ 
+
+Request 4:
+Design team, HR team, Maketing team
+Coi's Managerment (CM)
+Market Development Director (MDD)
+
+- Get survey: MDD (A), Maketing  team (R), CM (I), Design and HR team (C)
+- Design project: Design team  (R), MDD (A), CM (I)
+HR and Maketing team (C) 
+- Maketing store Maketing team (R), MDD (A), CM (I), Design and HR team (C) 
+- Hire employee:HR team (R), MDD (A), CM (I), Design and maketing team (C)
+- Training local personal: HR team (R), MDD (A), CM (I), Design and Maketing team (C)
+- Building raw material supply chain MDD (R, A), CM (I), Design, maketing, HR team (C) 
+- Building campaigns for store: HR team (R), MDD (A), CM (I), design and maketing team (C)
+- Manager Project process: MDD (R, A), CM (I), design, maketing and HR team (C) 
+- Contructing interior consisent: Design team (R), MDD (A), CM (I), HR and Maketing team (C)
+- Selecting premises: Design team (R), MDD (A), CM (I) Maketing and HR team (C)
+
+
+
+
+2)

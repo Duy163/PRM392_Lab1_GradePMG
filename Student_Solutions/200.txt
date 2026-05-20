@@ -1,0 +1,77 @@
+1)
+   Request1:
+1. Project name: Coi Cafe project
+2. Purpose and reasons: Coi's management decided to implement an expansion project into 5 Central provinces ( Da nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 months.
+3. Scope:The project includes: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting ang training local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store.
+-Time: 1 flagship store in each province within 12 months and each store must reach the break-even point within 8 months after opening.
+-Cost/budget: The total budget is VND 8.5 billion.
+-Quality:Each store must reach the break-event point with 8 months after opening.
+
+   Request 2:
+1.
+-Name: Surveying and selecting premises
+-Description: choosing the right place is important to start the project. It create the suitable place for car parking, the space to drink coffee.
+-Estimation:PM is responsible for choosing place to build.
+2.
+-Name: Designing and constructing interiors consistent with the brand
+-Description: Design is a neccessary for Coi Cafe. If the purpose is increase the money which the guest pay for drink, the space creates the feeling which make the drink more delicious.The type of design should be in the past when jazz music is public, or the old Sai Gon in 1980s. 
+-Estimation: the interior design team will help design the place and create the space that make people feel relax when come and drink.
+3.
+-Name: Recruiting and training local personel
+-Description: a large of young people will be trained by professional person who are from the Coi Cafe and experience. When they finish training, young people will have certificate of course from Coi Cafe and they are provided a job to do in Coi Cafe.
+-Estimation: The Market Development will use the budget to invite the professional person to train the staffs, the HR team manage the young people, and the marketing team will create the invite on social media.
+4.
+-Name: Marketing the Coi Cafe
+-Description: Coi Cafe is a new face in 5 Central provinces ( Da Nang, Hue, Quang Name, Quang Ngai, Binh Dinh) and it will fight a lot of enermies. Using budget for marketing will be the right step to be closer the drinkers and increase the actractive.
+-Estimate: the marketing team will be responsible for social media.
+5. 
+-Name: Building a raw material supply chain from Central region supplier
+-Description: Finding the material in the different place is important because it can save the money when material move with a high distance and ensure the quality of material.
+-Estimate: PM  will be responsible for  finding the material.
+
+  Request 3:
+1.
+-Name: Money of marketing, trainng, and designing  
+-Description: with VND 1.7 billion/store could be not enough for marketing especially inviting the professional people who can train the staffs, and materials of designing.
+-Possiblity: medium
+-Impact:High
+-Mitigation: using experience people who work in Coi Cafe, using university students who can understand the marketing team when decorate the stores and feel good with small salary when help.
+Contingency: using the budget which is prepare for bad sitiuations, call budget from the commercial bank loans or some persons who interesting the Coi Cafe.
+2.
+-Name: Time of building the Coi Cafe stores
+-Description: Coi's management decideed to implement an expansion project into 5 Central provinces. But time to finish the project in 5 places could be increase.
+-Possibility:High
+-Impact: High
+-Mitigation: decrease from 5 Central provinces to 3, increase the time of deadline and open when spring come.
+-Contingency: focus on 1 or 2 stores firstly, increase staffs for all team who responsible for their job.
+3.
+-Name: Quality of Coi Cafe
+-Description: North place and South place are different, so that the way or favourite of drink could be unsuitable and the material could be low quality when could not find the suppliers . 
+-Possibility:Medium
+-Impsct: High
+-Mitigation: using form which have many questions of favourite of drink, service and Cafe store, asking local people to understand the culture and know where supply the material 
+-Contingency: Inviting professional person who understand the culture and training staffs one more time, invest material in the far place.
+
+  Request 4:
+1.
+-Cost: VND 1.7 billion/store
+-Time: the break-even point within 8 months after opening.
+-Quality: traing local personnel
+2.
+Activity
+-Traing local personel
+-Selcting premises
+-Designing store
+-Constructing consistent with the brand
+-Recruiting
+-Building a raw material supply chain
+-Launching campaigns
+
+
+Deliverable
+-Number of trained staffs
+-Store decorated
+-List of suppliers
+
+ 
+2)

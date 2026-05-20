@@ -1,0 +1,151 @@
+1)
+Request 1: Define at least 2 project objectives using SMART criteria
+Objective 1:
+
+Complete the opening of 5 Coi Cafe flagship stores in Central Vietnam within 12 months.
+
+Specific: Open one flagship store in each selected province, including Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh.
+Measurable: Track the number of stores that are fully constructed, equipped, staffed, and officially opened.
+Achievable: Realistic because Coi Cafe already has 12 stores and has experience in store management and customer service.
+Relevant: Supports the company’s expansion strategy and helps the brand enter new regional markets.
+Time-bound: Must be completed within 12 months from the project start date.
+Objective 2:
+
+Set up a reliable local supply chain and staffing system for all 5 new stores before launch.
+
+Specific: Recruit and train local employees, and connect with Central region suppliers for coffee and other materials.
+Measurable: Measure through signed supplier agreements, completed training results, and readiness checklists for each store.
+Achievable: Possible because the company can combine its existing operation standards with local supplier networks.
+Relevant: Important for keeping product quality stable and helping stores operate without major interruption.
+Time-bound: Must be ready before each store officially opens.
+Request 2: Define the scope for this project
+In-Scope Items:
+Conducting market surveys in the 5 Central provinces.
+Selecting suitable premises for each new flagship store.
+Preparing rental agreements and location evaluation reports.
+Designing interiors that follow Coi Cafe’s traditional and nostalgic concept.
+Managing construction, decoration, furniture, and equipment setup.
+Recruiting local staff for daily store operation.
+Training employees on service standards, drink preparation, and store procedures.
+Finding Central region suppliers for coffee beans and other raw materials.
+Planning launch campaigns for each store.
+Preparing basic operation guidelines for the new stores.
+Monitoring store performance during the first months after opening.
+Out-of-Scope Items:
+Opening more than one store in each selected province.
+Expanding to other regions outside Central Vietnam.
+Changing Coi Cafe’s core brand identity or traditional drink menu.
+Developing a new mobile app or delivery platform.
+Starting franchise operations.
+Renovating the existing 12 stores in Hanoi and Ho Chi Minh City.
+Conducting international market expansion.
+Key Deliverables:
+5 flagship stores fully opened and operating.
+Market survey and location selection reports.
+Approved interior design plans for all stores.
+Completed construction and store decoration.
+Installed equipment, furniture, and basic store facilities.
+Trained local employees for each store.
+Supplier agreements or supplier evaluation documents.
+Marketing launch plans and promotional materials.
+Store operation guidelines and opening checklists.
+Early revenue, cost, and performance reports after launch.
+Request 3: Define at least 5 quality assurance (QA) or quality control (QC) activities for the project
+1. Market Survey Review (QA):
+
+Conducted in the early stage to make sure the team understands local customer demand, competitors, rental levels, and suitable store areas. This helps the project avoid choosing locations based only on personal judgment.
+
+2. Location Approval Check (QA):
+
+Before signing any rental contract, the project manager and management team review the selected premises. They check visibility, customer traffic, parking, rental cost, and whether the location fits Coi Cafe’s target customers.
+
+3. Design Consistency Review (QA):
+
+Performed before construction begins. The interior design team and project manager review whether the layout, colors, furniture, and decoration still reflect Coi’s nostalgic Vietnamese coffee style.
+
+4. Construction Quality Inspection (QC):
+
+Performed regularly during the construction stage. The team checks materials, finishing quality, electrical work, lighting, seating layout, and safety conditions to make sure the store is built correctly.
+
+5. Supplier Quality Testing (QC):
+
+Before choosing suppliers, the team tests coffee beans and other materials, and checks delivery reliability. This helps ensure the stores can maintain stable drink quality after opening.
+
+6. Staff Training Evaluation (QC):
+
+After training sessions, employees are tested on drink preparation, customer service, POS usage, and basic store procedures. This ensures that new staff can work properly before the opening day.
+
+7. Final Pre-opening Checklist (QC):
+
+Before the official launch, the team checks store cleanliness, equipment function, menu readiness, staff readiness, and customer service flow. This reduces operational problems during the first few days.
+
+Request 4
+
+I will analyze this project schedule and address each question systematically.
+
+a. What are paths in the network diagram for the deliverable?
+
+To identify all paths in the network diagram, I will trace each possible route from Start to End:
+
+Start -> A -> B -> C -> G -> End
+= 3 + 4 + 6 + 3 = 16 months
+Start -> A -> B -> C -> G -> I -> End
+= 3 + 4 + 6 + 3 + 4 = 20 months
+Start -> D -> B -> C -> G -> End
+= 2 + 4 + 6 + 3 = 15 months
+Start -> D -> B -> C -> G -> I -> End
+= 2 + 4 + 6 + 3 + 4 = 19 months
+Start -> D -> E -> F -> G -> End
+= 2 + 3 + 3 + 3 = 11 months
+Start -> D -> E -> F -> G -> I -> End
+= 2 + 3 + 3 + 3 + 4 = 15 months
+Start -> D -> H -> I -> End
+= 2 + 2 + 4 = 8 months
+b. Identify the minimum duration to complete that deliverable?
+
+The minimum duration is determined by the critical path, which is the longest path through the network. Based on the paths identified above, the critical path is:
+
+Path 2: Start -> A -> B -> C -> G -> I -> End = 20 months
+
+Therefore, the minimum duration to complete the deliverable is 20 months.
+
+c. What are activities which have the most flexibility (in term of time)?
+
+To determine flexibility, I need to consider the slack or float time of activities. Activities that are not on the critical path usually have more flexibility. Without doing a complete forward and backward pass calculation, I can identify that:
+
+Activity D is not on the critical path, so it likely has some flexibility.
+Activity E is not on the critical path when compared with the A -> B -> C route.
+Activity F is also outside the critical path and can be adjusted more easily.
+Activity H has significant flexibility because the D -> H -> I route is much shorter than the critical path.
+
+Based on the network structure, Activity H likely has the most flexibility, since it is on the shortest non-critical path branch.
+
+d. Solutions to recover a 3-month delay during activity C
+
+If a 3-month delay happens while executing activity C, the project manager should focus on recovering time from the remaining critical path activities. Here are four possible solutions:
+
+1. Fast-tracking remaining activities:
+Start preparing activity G, such as marketing campaigns, before construction is completely finished.
+Begin some parts of activity I, such as operational checklist preparation and staff scheduling, during the final construction stage.
+Assumption: The marketing and operation teams can work in parallel without disturbing construction.
+Result: Could save around 1-2 months by overlapping activities.
+2. Crashing critical path activities:
+Add more construction workers, use overtime, or hire additional contractors to shorten activity C.
+Add extra support to activity I to complete operation setup faster.
+Assumption: Extra budget is available and additional resources can actually reduce the duration.
+Result: Saves around 2-3 months from the critical path.
+3. Scope reduction:
+Reduce some non-essential decoration items or complicated design details in activity C.
+Focus only on the main elements that represent Coi Cafe’s nostalgic brand image.
+Assumption: Stakeholders accept a simpler design as long as the store still meets brand standards.
+Result: Saves about 1 month while still delivering the core store concept.
+4. Alternative execution strategy:
+Re-sequence the remaining work so equipment delivery, supplier testing, and staff preparation can start earlier.
+Bring in specialized contractors for urgent construction or installation tasks.
+Assumption: The new sequence is technically possible and does not create major safety or quality issues.
+Result: Saves up to 3 months through restructuring and better resource allocation.
+
+Each solution involves trade-offs among scope, time, cost, and quality. The project manager should choose the most suitable option based on the remaining budget and the importance of meeting the store opening deadline.
+
+
+2)

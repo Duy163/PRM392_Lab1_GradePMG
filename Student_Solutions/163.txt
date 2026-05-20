@@ -1,0 +1,85 @@
+1)
+Request 1:
+1. Project Name: Coi Cafe 
+2. Justifications: Coi's management decided to implement an expansion project in to 5 Central provinces, with 1 flagship store in each province. They want to open marketing on another country in VietNam.
+3. Project constraints:
+Scope: 
+- Surveyring and selecting premises.
+- Designing and constructing interiors consistent with the brand.
+- Recruiting and tranning local personnel.
+- Building a raw material supply chian from Central region suppliers.
+- Launching campaigns for each store.
+Time: 12 months.
+Budget: The total budget is VND 8.5 billion (approximately VND 1.7 billion/store).
+Quality: Each store must reach the break-even point within 8 months after opening.
+
+Request 2:
+1. Name: Recruit and Train local personnel
+Description: Cost for recruiting and training local personnel
+Estimation: 1 billion VND
+Way to estimate: Based on the cost for recruiting and training local personnel for each store. ( 200.000.000 VND/store)
+Person in charged: HR team
+
+2. Name: Build a supply
+Description: Cost for building a raw material supply chain from Central region suppliers
+Estimation: 2.5 billion VND
+Way to estimate: Based on the cost of material for build a supply chain.
+Person in charged: PM
+
+3. Name: Launch Campaigns 
+Description: Cost for lauching campaigns for each store
+Estimation: 1 billion VND
+Way to estimate: Based on the cost for decorate, launch the event for each store. 
+Person in charged: Marketing team
+
+4. Name: Design and Contruct
+Desciption: Cost for designing and constructing interiros consistent with the brand.
+Estimation: 2 billion VND
+Way to estimate:
+Person in charged: Interior design team
+
+5. Name: Survey and Select premises
+Desciption: Cost for surveying and selecting premises
+Estimation: 2 billion VND
+Way to estimate:
+Person in charged: PM
+
+Request 4:
+1. 
+- Market Development Director (PM)
+- Interior design team (DT)
+- HR team (HR)
+- Marketing team (MT) 
+
+2.
+- Training staff
+- Designing interiors
+- Launching campaigns
+- Reporting revenue
+- Buying material
+- Selecting premises
+- Recruiting local personnel
+- Constructing interiors
+- Building supply
+- 
+
+3.
+- Training staff: PM (A) / HR (R) / DT (C) / MT (C)
+- Designing interiors: PM (A) / DT (R) / MT (C)
+- Launching campaigns : PM (A) / MT (R) / DT (C)
+- Reporting revenue: PM (A/I) / MT (R) / HR (C)
+- Buying material: PM (A)/ MT (R)/ DT (C)
+- Selecting premiese: PM(A)/ HR(R) / MT (C)
+- Recruiting local personnel: PM (A)/ HR (R)/ MT 
+- Constructing interirors: PM (A)/ DT (R)/ MT (C)
+- Building supply: PM (A)
+- 
+
+Request 3:
+1. Risk title: The break-even point 
+Desciprion: Reaching the break-even point of each store spent more time ( 9 -10 months) after opening.
+
+
+
+
+2)

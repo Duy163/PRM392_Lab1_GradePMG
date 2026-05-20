@@ -1,0 +1,50 @@
+1)
+Q1) 1. Project name: Coi Cafe
+       2. Purpose is to implement an expansion project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each provinces within 12 months
+       3. Project constraints:
+        - Scope: 
+           + surveying and selecting premises
+           + designing and constructing interiors consistent with the brand
+           + recruiting and training local personnel
+           + building a raw material supply chain from Central region supplilers
+           + launching campaigns for each store
+        - Time: 12 months
+        - Cost/budget: the total budget is VND 8,5 billion (approximately VND 1.7 billion/store)
+        - Quality: Each store must reach the break-even point within 8 months after opening
+
+Q2) Five main cost/budget items for each store:
+   1. Premises:
+       - Cost for buy premises after survey and select premises
+       - Estimate: VND 500 million
+   2. Design:
+       - Cost for design team to design and constructure interiors consistent with the brand
+       - Estimate: VND 300 million
+   3. Train personnels:
+       - Cost to recruiting and training local personnel
+       - Estimate: VND 100 million
+   4. Build:
+       - Cost for  build a raw material supply chain from Central region suppliers
+       - Estimate: VND 700 million
+   5. Launch:
+       - Cost for launch campaigns for store
+       - Estimate: VND 100 million
+2)
+Q3) Risk 1: Don't reach the break-even point(quality)
+     - Description: each store can't reach the break-even point within 8 months after opening
+     - Mitigation: PM should check how store work in each months
+     - Contingency: create more deadline for store
+      Risk 2: Budget isn't enough (cost/budget)
+     - Description: the total budget for each store over VND 1.7 billion
+     - Mitigation: add more budget for each store
+     - Contingency: PM give list main budget items for each store and require don't use over this
+      Risk 3: 
+
+Q4)  1. Project roles: PM, design team, HR team, marketing team
+        2. Ten tasks:
+          - Start project: PM
+          - Select premises: PM
+          - Design store: Design team
+          - Train personnel: HR team
+          - Build raw material: Design team
+          - Launch store: PM
+          - Marketing: Marketing team

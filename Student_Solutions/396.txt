@@ -1,0 +1,70 @@
+1)
+Request 1: 
+1.1. Project name: Coi Cafe Expansion Project
+1.2. Justification:
+Purpose of the project is to expand the Coi Cafe coffee brand into 5 Central provinces with 1 flagship store each provice. Each store much reach the break-even point within 8 months after opening
+Reason of the project is to make the brand reach to more customer not only in big city, but also in all Vietnam. Raise awareness and perform engagment to target customer with the unique personality of the brand (nostalgic space, traditional drink menu,...) And building a raw material supply chain form Central region suppliers
+1.3. Constrains: 
+Scope: Expansion to 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh).
+Time: the project should be less than 12 months. 
+Cost/budget: Total is VND 8.5 billion (VND1.7 billion each store) from equity and commercial bank loans.
+Quality: Designing and constructing interiors must consistent with the brand equity and launching campaigns for each store. Make sure each store reach the break-even point within 8 months after opening.
+
+2)
+Request 2:
+
+2.1. Labor cost: cost to recruiting human resources to the project, local employee to run the flagship store to high level manager and HR team, marketing team.
+- Method: Bottom-ups estimation
+- Person in charged: PM, HR
+
+2.2. Materials and equipment cost: cost to make and do the surveying, documentary, design, or buy materials to make drink.
+- Method: Analogos Estimation
+- PIC: Administrator of the store or ER/ Accounting.
+
+2.3. Training cost: teaching, training employee how to use equipment or how to make traditional drink consistent with the brand.
+- Expert judment
+- PIC: HR team, Expert in fiels (bartender,...)
+
+2.4. Contingency cost: cost to unexpected or accident event such as delay the process build store or work accident,...
+- Contingency estimation
+- PIC: PM, 
+
+2.5. The cost of electricity, store, buying facility (tables, chairs, decoration,...)
+- Parametric estimation
+- Administrator of the store.
+
+Request 3: 
+
+Project risk: 
+3.1. - Scope creeps: change in the scope of the project too much, for example the sponsor or client want to expand not only 1 flagship store each 5 Central provinces but 3 or 5 but still that budget or change in concept of the store or launching the campaign with changes too much out of the original scope.
+- Impact: Scope (High). Quality (High): changing the scope if too near the deadline or add on an task with short duration to complete can make the whole work package reduce the quality and even fail. Time (high). Cost (high)
+- Risk response: Mitigration. PM have to build an control change process, all the change or additional in scope need to check with a profesional process before approve that change.
+
+3.2. Third party contingency: One of the suppliers is provide a poisonous, spoiled fruit or materials and customer is trying to boycott any brand use the supply of that supplier.
+- Impact: Scope (Medium), Quality (High), Time (Low), Cost (High). 
+- Risk response: Transfer: The marketing team fisrt need to admit used to work with that supplier but now we use the materials of another suppliers. 
+
+3.3. Disease Pandemic: like Covid-19 of any other big disease contingency happens and put every economic work in quarantine.
+- Impact: Scope (High), Quality (high), Time (High), Cost (high)
+- Risk response: Accept, we can do nothing if the pandemic happens so all we need to do is delay the project until the governmen deal with everything. After the pandemic over, we could continued the project.
+
+Request 4:
+
+4.1. Three project role:
+- Project Manager (PM) manage all the project, planning and communicating to all orther team of the project
+- Bussines Analysis (BA) market analysis specialist
+- Human Resources Manager (HRM) 
+- Creative/Design Director (Des)
+
+4.2.
+- Take the clients (Coi Cafe) requirement for expansion plan. PM (R,A), BA (C), HRM (I), Des (I)
+- Build an intergrate marketing communication campaign. (A), BA (R,C), Des (I), HRM (I)
+- Recruit labor running the store and provide human resources to orther team. PM (I), BA (A, C), HRM (R), Designer (C)
+- Design communication product, brief concept, deccorate the store tho consist with the brand. PM (I), BA (A, C), HRM (I), Des (R)
+- Work with third party or government for approval or law process of the project. PM (R, A), BA (C), HRM (I), Des (I)
+- Build content plan for launching campaigns. PM (I), BA (C, A), HRM (I), Des (R) 
+- Build a project charter and WBS. PM (A,R), BA (C), HRM (C), Des (I)
+- Training the staff, employee, manage working process between teams, department. PM (A), BA (I), HRM (R), Des (I)
+- Dealing with the suppliers, sign for collab or working with third party. PM (A), BA (R, C), HRM (I), Des (I)
+- Lesson learn documentary, Finish project and report for client/sponsor. PM (A,R), BA (C), HRM (I), Des (I).
+- Closing the project, give the complete diliverables for Client/sponsor. PM (A,R), BA (C), HRM (I), Des (I)

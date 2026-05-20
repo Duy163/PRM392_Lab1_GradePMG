@@ -1,0 +1,129 @@
+1)
+Request 1: 
+ 1. Project Name: Coi Cafe Central Expansion Project (Coi Cafe CEP).
+
+2. Justifications (purpose and reasons):
+
+- To expand the brand to the Central region of Vietnam to grow the business.
+
+- To bring traditional coffee and a nostalgic space to more customers.
+
+3. Project Constraints:
+
+- Scope: Open 1 flagship store in each of the 5 provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh).
+
+- Time: Must be completed within 12 months.
+
+- Cost/Budget: Total budget is 8.5 billion VND (1.7 billion VND per store).
+
+- Quality: Must reach break-even within 8 months after opening.
+
+Request 3:
+1. Delay in store construction
+
+-Description: The stores are not built on time because of contractor problems.
+
+-Possible impacts: Time (takes more than 12 months), Cost (extra money is needed to fix the delay).
+
+Response plan:
+
+-Mitigation: Choose good and reliable contractors and make a clear contract.
+
+-Contingency: Have a backup plan to hire another team or work overtime.
+
+2.Staff turnover
+
+-Description: New staff quit their jobs soon after training.
+
+-Possible impacts: Quality (service is bad), Cost (more money to hire new people).
+
+Response plan:
+
+-Mitigation: Give good pay and make a nice workplace.
+
+-Contingency: Keep a backup list of workers and train them quickly.
+
+3.Low sales revenue
+
+-Description: Customers do not visit the stores, so the stores do not break even in 8 months.
+
+-Possible impacts: Cost (less money is made, project loses money).
+
+Response plan:
+
+-Mitigation: Do research before choosing store locations.
+
+-Contingency: Run sales and discounts to get more customers.
+2)
+Request 2:
+  Item 1: Store Rental & Interior Setup
+
+-Description: Cost to rent and decorate the 5 new stores.
+
+-Estimated Cost: VND 3.5 billion
+
+-Estimation method / Person in charge: Real estate research / Project Manager (PM).
+
+ Item 2: Equipment & Furniture
+
+-Description: Buy coffee machines, tables, and chairs.
+
+-Estimated Cost: VND 2 billion
+
+-Estimation method / Person in charge: Supplier quotes / Interior Design Team.
+
+  Item 3: Supply Chain Setup
+
+- Description: Build a supply chain from Central region suppliers.
+
+-Estimated Cost: VND 1 billion
+
+-Estimation method / Person in charge: Transport & contract costs / Project Manager (PM).
+
+ Item 4: Human Resources
+
+-Description: Recruit and train local personnel for stores.
+
+-Estimated Cost: VND 1 billion
+
+-Estimation method / Person in charge: Salary and training costs / HR Team.
+
+ Item 5: Marketing Campaigns
+
+-Description: Launch campaigns for each new store.
+
+-Estimated Cost: VND 1 billion
+
+-Estimation method / Person in charge: Media and event costs / Marketing Team.
+
+Request 4: 
+4.1 Roles definition:
+
+PM: Project Manager (Market Development Director)
+
+IDT: Interior Design Team
+
+HRT: Human Resources Team
+
+MKT: Marketing Team
+
+Task 1: Write the project charter statement
+        PM: (A), IDT: (I), HRT: (I), MKT: (I)
+Task 2: Survey the store locations
+        PM: (A), IDT: (R), HRT: (I), MKT: (I)
+Task 3: Sign the store rental contracts
+        PM: (A), IDT: (I), HRT: (I), MKT: (I)
+Task 4: Design the store interiors
+      PM: (C), IDT: (R), HRT: (I), MKT: (I)
+Task 5: Build and construct the stores
+      PM: (C), IDT: (A), HRT: (I), MKT: (I)
+Task 6: Recruit local store workers
+      PM: (C), IDT: (I), HRT: (R), MKT: (I)
+Task 7: Train local store workers
+      PM: (I), IDT: (I), HRT: (A), MKT: (I)
+Task 8: Build the supply chain system
+      PM: (R), IDT: (I), HRT: (I), MKT: (I)
+Task 9: Launch the marketing campaign
+      PM: (C), IDT: (I), HRT: (I), MKT: (R)
+Task 10: Open the store and check
+     PM: (C), IDT: (I), HRT: (I), MKT: (I)

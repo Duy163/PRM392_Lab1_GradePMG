@@ -1,0 +1,62 @@
+1)
+Request 01 : 
+ 1. Project name : 5 Centeral Coi Cafe project
+ 2. Coi cafe is a famous brand VietNam with 12 stores in HaNoi and Ho Chi Minh city . But Coi Cafe want more people from all VietNam know more about the lovely Vietnameses cofffee brand . So Coi's want to decided to implement an expansion project into 5 Central provinces from Da Nang, Hue. Quang Nam, Quang Ngai. Binh Dinh 
+ 3. 
+Time project : We have 5 Central province and each province within 12 months  
+ Cost/budget project : The total budget is VND 8.5 billion ( approximately VND 1.7 billion/store) from equity and commercial bank loans 
+ Scope: Each store much reach the break-even point within 8 months after opening 
+
+Request 02 : 
+ 5 main cost/budget items : surveying , designing Central  , traing local personnnel
+
+ Name : Create a document survey for customer 
+ Description : marketing team need to create a form survey and project manager need to check that form it good or not so we can 
+ the way tp estimate :  meeting team and share document to wirte 
+
+ Name : Desiging Central building 
+ Description : each Central provinces need to 1 design central . 
+ Extimation long : 1 team design will take care 1 Central provices design. so it will take 1 month to complete the all 5 design Cetral 
+
+ Name : Training local personel at store
+ Description : Coordinater need to trainning employey
+ Extimation long : each Coordinater at each Central need to trainning local person about 2 week so they can understand what they can do 
+ 
+Request 03 : 
+ There are three project risk  
+ Risk1 : Calculation not right about the material 
+ Description : Manager check the design and calculat the the material we need to supply chain from Central region suppliers . 
+
+ Risk 2 : Take to long to design building 
+ Description : Design team take to long to desgin a building. Each building we need 1 team design and need to check the design for all 5 central to 
+
+ Risk 3: Form survey are wrong and not right information 
+ Description : Marketing team create form survey but that survey all the same ! But in real life each central will have different thing not all the same with each provice . 
+  
+Request 04 : 
+ 1. There are three project role : coordinater  , marketing , project manager 
+ 2. list 10 activities / tasks or deliveranles 
+  1: Define information survey
+=> Marketting team need to find informatio about Coi Cafe and the people in 5 Central provinced 
+  2: Writing script form survey
+=> Marketing team will writing the script form survey at document 
+  3.  Check form survey 
+=> Project manager will check this form survey it good . If it not , marketing team need to write it again 
+  4. Final review form survey and approval 
+=> Project manager check form survey and if it good will approval . Manager will take that survey upload it on website so customer can send them feedback
+  5: Training local personnel 
+=> Coordinator will plans and training people at 5 Certral  provices 
+  6: Designing the building Central for 5 Central provices
+=> Design team will work together and Create a Design for building 
+  7: Check design building Central 
+=> project manager will check the design is it good enought to build 
+  8.Prepare a raw material supply from Cerntral region suppliers  
+=> Project Managertment watch the desgin plans how much a material need to supply Central region                    
+  9. Building a raw material supply
+  10. Constructing interiors consistent with the brand . 
+ 
+
+
+
+
+2)

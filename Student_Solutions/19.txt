@@ -1,0 +1,89 @@
+1)
+Request 1:
+1. Project Name: Coi Cafe's System
+
+2. Justifications:
+- Purpose: Implement an expansion project into of 5 Central provinces( Da Nang, Hue, Quang Nam, Quang Binh, Quang Ngai, Binh Dinh) with 1 flagship store in each province within 12 months.
+- Need: Each store must reach the break-even point within 8 months after opening.
+-Solution: Building a raw material supply chain and launching campaigns for each store.
+
+3. Constraints: into 5 central provinces with 1 flagship store.
+- In terms of scope: Surveying and selecting premises, designing and constructing interios consistent with the brand, recruiting and training local personel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store.
+- Time: 1 flagship store in each province within 12 months.
+- Cost/budget: 8.5 billions VND ( approximately 1.7 billions VND/ store).
+-Quality: Each store must reach the break-even point within 8 months after opening.
+
+Request 2:
+1. Designing and constructing interios consistent:
+- Cost: 3 billions VND
+- Descriptions: Design and construct for all interiors o each store inf 5 central province.
+- Estimate: FInd Interiors brand and get plans for the designers. Meetings and agree for the designers and budget for interios. Engineers get the plans for start construct it.
+
+2. Surveying and selecting premises:
+- Cost: 500 millions VND
+- Descriptions: Survey and selecting premises for each store in 5 central provinces.
+- Estimate: Marketing team will make all plan and list about survey and selecting premises. Meetings and send to company for approval. After approval about cost and plan, the project will start.
+
+3. Recruiting and training local personnel:
+- Cost:  1.5 bllions VND
+- Descriptions: Recruit and train local personnel for each store in 5 central provinces.
+- Estimate: Hr team write contents for the post about recruitment staff and upload on all social meadia, running ads and poster outside company for walker will read it and apply it. After that, staff trainer will training new staff for all work to do in company.
+
+4. Bulding a raw material supply chain from Central Region suppliers.
+- Cost: 2 billions VND
+- Descriptions: Build a raw material supply chain for each store in 5 central provinces.
+- Estimate: PM make a plan for a whole company about supply chain, meeting with Central region suppliers and approval about budget.Testing and start it.
+
+5. Launching Campaigns for each store:
+- Cost: 1.5 billions VND
+- Descriptions: Launch campaigns for each store in 5 central province.
+- Estimate: Marketing team make a big plan for a whole 5 store or maybe each store will have different plan for interesting. The campaign includes: promotions, sale, gifts, etc... After approval from PM, the plan will start.
+
+Request 3:
+1. Launching campaigns for each store:
+- Descriptions: Launching campaigns for each store will have problems about budget and time.
+- Quality: the campaigns not interesting enough to attract local people or traveller to participate it or like it.Sale events not big enough too.
+- Cost: Spent strong budget for gift numbers of people want it are very small.
+- Time: the campaigns is spend over of time but don't get the good result.
+- Relevant risk response plans: push big sale into first, time for campaigns will more faster and gifts must get the love from kids to older.
+
+2. Recruiting and training local personnel:
+-Description: new staff do the work too slow and do wrong always, staff apply can't do as they wrote in CV.
+-Quality: Not good, progress of work slower.
+- Cost: Lost too much budget for training but when they work, too much problems and make the progress slow to producting product.
+- Time: Too much time for training cause staff can't understand the most works.
+- Relevant risk response: When recruiting, must select staff if they right as their CV and test them before recruit. Training must follow all step and after 2 weeks training they can't do good or understand, will retired them.
+
+3. Designing and constructing interiors:
+- Quality: The design and construc are not nice and not mordern at this time.Interios too old, not best quality, mayber the interios team spent money for the interior too less and spent them for all. The design and interios not the same like the designer.
+- Cost: over budget from material and designing.
+- Time: take over time to construct because the worker do slow and weather problems.
+- Relevant risk response: PM must sent each staff to follow each store when they construct, see all price of materials, designing and interios must follow the designer. Meeting everyday with PM to report the progress.
+
+Request 4:
+1. Internal project role, Operation project role, External project role
+2. Internal project role: Dev teams
+- Information: Implement project features, tracking api, write database, build system, write backend, write frontend, draw structure, testing, fix bug, export product.
+- Purpose: synchronized all work and avoid deviations from the work directions.
+- Method: Meetings, document
+- Frequency; Daily - Weekly
+- Responsibilities: PM
+
+Operational project role: Coi Cafe
+- Information: Project progress status, kpi, etc..
+- Purpose: Request approval plan, spending
+- Method: meetings, document, demo
+- Frequency: Monthly
+- Responsibilities: PM
+
+External project role: User
+Information: use system and feedback
+- Purpose: attract user to use system and participate in campaigns.
+-Method: social media, events, email
+-Frequency: Weekly - monthly
+-Responsibilities: Marketing team
+
+
+
+
+2)

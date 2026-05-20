@@ -1,0 +1,77 @@
+1)
+Request 1:
+- Project name: CC - Coi Cafe 
+- Justifications: To implement an expansion project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with one flagship store in each province within 12 months.
+- Project constraints: Expansion CC into 5 Central provinces(Da Nang, Quang Ngai, Quang Nam, Binh Dinh) with 1 flagship store in each province within 12 months.
+- Time: 12 months
+- Cost/budget: VND 8.5 billion
+- Quality: 
+        + Each Central province have a flagship store within 12 months.
+        + Each store must reach the break-even point within 8 months after opening.
+
+Request 2:  Five main cost:
+1. Employees salary:
+- Description: To charge salary for employees of company
+- Estimate: HR 20 milion vnd/person, Designer 30 milion vnd/person,
+PM 60 milion vnd/person, HR 10 milion vnd/person
+
+2. Design software: 
+- Description: To charge software cost use edit, design(adobe, capcut,etc)
+- Estimate: 5 milion vnd/month 
+
+3. Run Ads:
+- Description: To charge cost run ads in social media platforms(Facebook, Tiktok, Instagram, etc)
+- Estimate: Ads 20 milion vnd/month
+4. Material cost:
+- Description: to charge material cost(coffee)
+
+5. Indirect cost:
+- Description: To charge water, electric, etc cost
+
+
+
+2)
+Request 3: 
+- Overun budget:
+      + Description: The project is over budget
+      + Impact: High 
+      + Mitigation: The PM review budget plan and use the back budget to continues complete project
+      + Contingency: Prepare a backup budget
+
+- The core member out project:
+      + Description: The main responsible member not working lead to slow processing of the project.
+      + Impact: High
+      + Mitigation: Training information for other member and prepare backup plan to avoid big risks.
+      +  Contingency: Prepare docmentation to easier training.
+
+- Slow processing:
+      + Description: Processing of project is slow lead to project cannot relase.
+      + Impact: Medium
+      + Mitigation: Apply crashing or fast tracking to reduce time  complete project
+      + Contingency: Pre implement campaigns in some provinces, review processing of project bi-weekly.
+
+Request 4:
+- Project roles: PM, Designer, HR, Marketer
+- Ten task
+1. Prepare budget plan.
+2. Prepare material
+3. Create form surveys.
+4. Recruiting and training local personmel.
+5. Design Logo, Poster.
+6. Analyze and research maket.
+7. Choosing a topic and writing scripts video and post.
+8. Record video and post on social media platforms.
+9. Run ads on social meda platforms.
+10. Launching campaigns for each store.
+
+- Responsibilities of the project roles:
+1: PM (R, A), Designer(I), HR(I), Makerter(I)
+2: PM (I), Designer(I), HR(R,A), Marketer(I)
+3: PM (I), Designer(I), HR(I), Marketer(R,A)
+4. PM (I), Designer(I), HR(R,A), Marketer(I)
+5. PM (C, I), Designer(R,A), HR(I), Marketer(I)
+6. PM(I), Designer(I), HR(I), Marketer(R,A)
+7. PM(I), Designer(I), HR(I), Marketer(R,A)
+8. PM(I), Designer(I), HR(I) Markerter(R,A)
+9. PM(I), Designer(I), HR(I), Marketer(R,A)
+!0. PM(R,A), Desginer(I), HR(I), Marketer(I)

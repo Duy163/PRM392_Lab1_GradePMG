@@ -1,0 +1,93 @@
+1)
+Request 1: Narrative charter
+Project name: Expansion flagship store Coi Cafe into 5 Central provinces
+
+Purpose and reasos to implement this project: Expansion brand, increase revenue, cretae oppoturnity job for local personnel and community sustainable business model.
+
+In terms of scope: 
+- Surveying and selecting premises
+- Designing and construction interiors consistent with the brand 
+- Recruiting and training local personnel
+- Building a raw material supply chain from Central region suppliers
+Launching campaigns for each store.
+
+Project Timeframes: within 12 months (01/01/2026 - 12/01/2026)
+
+Total Budget: VND 8.5 billion (approximately VND 1.7 billion/store)
+
+Quality: Each store must reach the break-even point within 8 months after opening.
+
+Resources: 
+- Market Development Director (PM)
+- Coordinating with the interior design team
+- HR team
+- Marketing team.
+
+
+Requets 2: Cost management
+
+Five main budget items:
+1. Budget for resources
+2. Budget for decoration
+3. Budget for marketing campaigns
+4. Budget for designing and constructing interiors consistent with the brand.
+5. Budget for training local personnel.
+
+2)
+Request 3: Risk Management
+
+1. Risk about budget
+- Risk title: Overate budget
+- Impact: Budgets for decoration, resources, marketing, ads, training each store could be overrated.
+- Probability: 70%
+- Migrate Action: Have plaining costs clearly, PM need to review all costs for each items before approve.
+- Contingency Action: reduce costs marketing and ads, reduce numbers of employess, reduce quantity of decorations.
+
+2. Risk about competitive
+- Risk title: Competitve others brands
+- Impact: Competitve others big brands like starbucks, highlands,.. and may be some street-cafe.
+- Probability: 50%
+- Migrate Action: Survey and selecting premises clearly, reduce place a lot of cafe in around.
+- Contingency Action: Improve marketing campaigms, build virals shorts video on social media, apply more promotions.
+
+3. Risk about storms
+- Risk title: Storms
+- Impact: With 5 Centrals Province (Da Nang, Huy, Quang Nam, Quang Ngai, Binh Dinh) often have storms.
+- Probability: 70%
+- Migrate Action: Research and building clearly constructing flagship store can resists if face storm in the future.
+- Contingency Action: Help local personal to resists storm, have "Quy Tu Thien" for people, and have some promotions for customer. 
+
+
+Request 4: RACI chart
+
+Define role: 
+1. Market Development Director (PM)
+2. coordinating with the interior design team (Des)
+3. HR team (HR)
+4. marketing team (Mkt)
+
+
+List activities
+1. Planing roadmap expanse with each Central Provinces
+2. Surveying and selecting premises
+3. Designing and constructing interiors consistent with the brand
+4. Reasearching and buying high-quality and beautiful decoration relevant with the brand 
+5. Marketing about planing expanse Coi Cafe on social media 
+6. Recruiting and training local personnel
+7. Organising bonding to connect employee and training culture Coi Cafe
+8. Building a raw material supply chain from Central region suppliers
+9. Launching campaigns opening for each store
+10. Survey and report feedback from customer
+
+
+List out the responsibilities of the project role.
+Activities 1: PM - A/R; Des - C; HR - C; Mkt - C
+Activities 2: PM - A/R; Des - C; HR - C; Mkt - C
+Activities 3: PM - I; Des - A/R; HR - I; Mkt - C
+Activities 4: PM - I; Des - A/R; HR - I; Mkt - C
+Activities 5: PM - C; Des - I; HR - I; Mkt - A/R
+Activities 6: PM - I; Des - I; HR - A/R; Mkt - C
+Activities 7: PM - C; Des - I; HR - A/Rl Mkt - C
+Activities 8: PM - A; Des - I; HR - R; Mkt - C
+Activities 9: PM - I; Des - I; HR - C; Mkt - A/R
+Activities 10: PM - A; Des - I; HR - C; Mkt - R

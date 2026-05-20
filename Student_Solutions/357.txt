@@ -1,0 +1,172 @@
+1)
+Request 1 Narrative Charter Statement
+
+Project name: Coi Cafe Central Expansion Project, 5 Flagship Stores in 5 Central Provinces within 12 Months.
+
+Justifications: Coi Cafe is a pure Vietnamese coffee brand with 12 existing stores in Hanoi and Ho Chi Minh City. The brand is famous for its nostalgic store atmosphere, traditional Vietnamese drink menu, and sustainable business model, including reusable cups and direct coffee purchasing from Dak Lak farmers. This project aims to expand Coi Cafe into five Central provinces, including Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh, with one flagship store in each province within 12 months.
+
+The project is justified because it helps Coi Cafe enter new markets outside Hanoi and Ho Chi Minh City, increase brand awareness, attract new customers, and create new revenue sources. The Central region has strong tourism potential and growing demand for local coffee experiences. The project also supports Coi Cafe’s sustainable model by maintaining reusable cups, direct sourcing from Dak Lak farmers, and developing a regional supply chain with Central suppliers. In addition, the project can create a standard expansion model for future growth.
+
+Project constraints: The project scope is fixed at exactly five flagship stores in five Central provinces. The scope includes premise survey and selection, interior design and construction, recruitment and training of local staff, regional supply chain setup, and launch campaigns for each store. Opening more stores, changing the core menu, or expanding to other provinces is outside the project scope.
+
+The time constraint is 12 months for the whole project. Each store must also reach the break-even point within 8 months after opening. Therefore, delays in site selection, construction, recruitment, training, supply chain setup, or marketing may affect project success.
+
+The cost constraint is the approved budget of VND 8.5 billion, approximately VND 1.7 billion per store. The budget comes from company equity and commercial bank loans, so the project team must control costs carefully and avoid major overruns.
+
+The quality constraint is non-negotiable. All stores must maintain Coi Cafe’s nostalgic Vietnamese space, traditional drink menu, reusable cup model, and sustainable sourcing practices. Quality cannot be reduced to save time or cost because brand consistency is a key success factor.
+
+Request 2 Main Cost and Budget Items
+Premise survey and selection
+
+This item includes site scouting, customer traffic analysis, competitor review, legal checks, lease negotiation, and initial deposits. Good location selection is important because it affects customer traffic and the break-even target.
+
+Estimated cost: VND 120 million per store x 5 stores = VND 600 million.
+
+Estimation method: Market comparison and analogous estimation based on rental and deposit costs in similar commercial areas.
+
+Person in charge: Market Development Director or Project Manager.
+
+Interior design and construction
+
+This item includes store layout, construction, lighting, signage, decoration, counter area, seating area, and other works needed to create the nostalgic Vietnamese atmosphere of Coi Cafe.
+
+Estimated cost: VND 800 million per store x 5 stores = VND 4 billion.
+
+Estimation method: Parametric and analogous estimation based on average store size and construction cost per square meter from previous Coi Cafe stores.
+
+Person in charge: Interior Design Team Lead.
+
+Furniture, equipment, and reusable cup system
+
+This item includes coffee machines, grinders, refrigerators, POS system, tables, chairs, shelves, reusable cups, cup washing station, cup storage area, and other operating equipment.
+
+Estimated cost: VND 250 million per store x 5 stores = VND 1.25 billion.
+
+Estimation method: Bottom-up estimation based on supplier quotations and a standard equipment list for one store.
+
+Person in charge: Procurement and Finance Team.
+Recrutiment and training
+
+This item includes hiring store managers, baristas, and service staff, then training them on drink recipes, customer service, store operations, reusable cup procedures, and Coi Cafe brand culture.
+
+Estimated cost: 10 staff per store x VND 5 million per month x 3 months x 5 stores = VND 750 million.
+
+Estimation method: Human resource cost estimation based on expected staff number, average salary, and training duration.
+
+Person in charge: Human Resources Team.
+
+Regional supply chain setup and initial inventory
+
+This item includes selecting Central region suppliers, setting up logistics, signing supplier agreements, and purchasing the first batch of coffee beans, milk, tea, local ingredients, packaging, and other raw materials.
+
+Estimated cost: VND 120 million per store x 5 stores = VND 600 million.
+
+Estimation method: Bottom-up estimation based on initial inventory requirements, supplier onboarding costs, and logistics costs.
+
+Person in charge: Procurement and Finance Team.
+
+Launch marketing campaigns
+
+This item includes local social media advertising, grand opening events, trial vouchers, influencer collaboration, local community activities, banners, and promotional materials for each store.
+
+Estimated cost: 5 percent of VND 1.7 billion per store = VND 85 million per store x 5 stores = VND 425 million.
+
+Estimation method: Percentage-of-budget estimation and comparison with previous store launch campaigns.
+
+Person in charge: Marketing Team.
+
+Project management, permits, and administration
+
+This item includes project coordination, travel between provinces, project meetings, reporting, legal permits, bank loan processing, administrative fees, and other management expenses.
+
+Estimated cost: VND 70 million per store x 5 stores = VND 350 million.
+
+Estimation method: Analogous estimation based on similar multi-location expansion projects.
+
+Person in charge: Project Manager and Finance Team.
+
+Contingency reserve
+
+This item is reserved for unexpected issues such as construction price increases, supplier price changes, additional training, emergency marketing support, or schedule recovery actions.
+
+Estimated cost: VND 525 million.
+
+Estimation method: Percentage-based estimation, around 6.2 percent of the total project budget.
+
+Person in charge: Project Manager and Finance Team.
+
+Total estimated budget: VND 8.5 billion.
+2)
+Request 3 Three Project Risks
+
+Risk 1 Construction delay across multiple provinces
+
+Description: The project is implemented in five provinces, so construction may be delayed by contractor availability, permit approval, local weather, material delivery, or coordination problems. Central Vietnam may also face storms and heavy rain.
+
+Possible impacts: In terms of scope and quality, stores may need to reduce design details or rush construction, affecting Coi Cafe’s nostalgic brand image. In terms of time, store openings may be delayed by 1 to 3 months. In terms of cost, extra labor, contractor overtime, storage fees, and recovery actions may increase costs by VND 300 million to VND 500 million.
+
+Risk response plan: The mitigation plan is to pre-qualify at least two contractors in each province, finalize design standards early, prepare clear construction schedules, and monitor progress weekly. The contingency plan is to switch to backup contractors, use standard design modules or prefabricated furniture, and prioritize opening stores with the strongest market potential first.
+
+Risk 2 Inconsistent drink quality and service quality from local staff
+
+Description: Local employees may not fully understand Coi Cafe’s recipes, service standards, reusable cup process, and brand culture. This may create inconsistent customer experience between new stores and existing stores.
+
+Possible impacts: In terms of scope and quality, drink taste, service quality, and sustainability practices may not meet Coi Cafe standards. In terms of time, opening may be delayed by 2 to 4 weeks for extra training. In terms of cost, trainer travel, extra training, and replacement hiring may increase costs by VND 150 million to VND 250 million.
+
+Risk response plan: The mitigation plan is to send experienced store managers and master baristas from Hanoi or Ho Chi Minh City to train local teams. HR should prepare standard operating procedures, recipe manuals, service checklists, and sustainability guidelines. The contingency plan is to assign floating supervisors to support weak stores during the first three months and extend training for employees who do not meet requirements.
+
+Risk 3 Stores fail to reach break-even within 8 months
+
+Description: New stores may have lower-than-expected customer traffic because of poor location selection, weak brand awareness, strong competitors, ineffective launch campaigns, or unsuitable pricing for local customers.
+
+Possible impacts: In terms of scope and quality, the project may fail to meet its business objective even if the stores are opened. In terms of time, more time may be needed for additional marketing and operational adjustments. In terms of cost, extra promotion, discounts, menu localization, and operational support may require VND 200 million to VND 400 million. Revenue shortfall may also affect loan repayment.
+
+Risk response plan: The mitigation plan is to conduct detailed market research before lease signing, select high-traffic locations, review competitor pricing, and create province-specific launch campaigns. The contingency plan is to use part of the contingency reserve for additional marketing, adjust operating hours, introduce local promotional combos, negotiate rent support with landlords, and improve store-level cost control.
+
+Request 4 RACI Chart Text Description
+
+Project roles:
+
+PM means Project Manager or Market Development Director. This role has overall authority for scope, schedule, budget, risk control, stakeholder communication, and final decisions.
+
+IDT means Interior Design and Construction Team. This team is responsible for store layout, interior design, construction supervision, decoration, and brand consistency.
+
+HR means Human Resources Team. This team is responsible for recruitment, onboarding, training, employee readiness, and service quality preparation.
+
+MKT means Marketing Team. This team is responsible for market research support, local launch campaigns, social media advertising, grand opening events, and customer attraction.
+
+PROC and FIN means Procurement and Finance Team. This team is responsible for supplier selection, equipment purchasing, inventory setup, budget tracking, payments, and financial control.
+
+RACI meaning:
+
+R means Responsible, the role that does the work.
+
+A means Accountable, the role that owns the final result and decision.
+
+C means Consulted, the role that gives input.
+
+I means Informed, the role that is kept updated.
+
+RACI responsibilities by task:
+
+Project charter approval: PM is A. IDT, HR, MKT, and PROC and FIN are C.
+Market research in five provinces: MKT is R. PM is A. PROC and FIN is C. IDT and HR are I.
+Premise survey and location selection: IDT is R. PM is A. MKT and PROC and FIN are C. HR is I.
+Lease negotiation and legal preparation: PROC and FIN is R. PM is A. IDT is C. HR and MKT are I.
+Store design concept and standard layout: IDT is R. PM is A. MKT and PROC and FIN are C. HR is I.
+Construction and interior fit-out: IDT is R. PM is A. PROC and FIN is C. HR and MKT are I.
+Equipment, furniture, and reusable cup purchasing: PROC and FIN is R. PM is A. IDT is C. HR and MKT are I.
+Supplier selection and regional supply chain setup: PROC and FIN is R. PM is A. MKT is C. IDT and HR are I.
+Recruitment of store managers, baristas, and service staff: HR is R. PM is A. PROC and FIN is C. IDT and MKT are I.
+Staff training on recipes, service, and sustainability standards: HR is R. PM is A. IDT and MKT are C. PROC and FIN is I.
+Launch marketing plan for each province: MKT is R. PM is A. PROC and FIN is C. IDT and HR are I.
+Soft opening and grand opening events: MKT is R. PM is A. IDT, HR, and PROC and FIN are C.
+Budget monitoring and contingency control: PROC and FIN is R. PM is A. IDT, HR, and MKT are I.
+Store performance and break-even monitoring: MKT and PROC and FIN are R. PM is A. IDT and HR are C.
+Final project review and lessons learned report: PROC and FIN is R. PM is A. IDT, HR, and MKT are C.
+
+RACI explanation:
+
+The Project Manager is accountable for most major tasks because the PM must ensure that the project is completed within the fixed scope, 12-month timeline, VND 8.5 billion budget, and required quality standards. The Interior Design and Construction Team is mainly responsible for store design, construction, and brand consistency. The Human Resources Team is responsible for hiring and training local employees. The Marketing Team is responsible for market understanding, launch campaigns, and customer attraction. The Procurement and Finance Team is responsible for purchasing, supplier contracts, inventory, budget tracking, and financial control.
+
+This RACI structure helps avoid role confusion. Each task has one accountable role and at least one responsible role. It also ensures that related teams are consulted or informed when needed, which is important for coordination across five provinces.

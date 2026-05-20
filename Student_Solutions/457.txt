@@ -1,0 +1,95 @@
+1)
+Request 1:
+- Name: CoiCafe 
+- Justifications:
++ Purpose: this coffee brand want to expansion into 5 cental provinces such as Da Nang,Hue, Quang Nam, Quang Ngai, Binh Dinh with 1 flagship
+- Constraints
++ Scope: this project includes: surveying, selecting premises, designing and constructing interiors consistent
++ Time: 12 month, each store must reach the break- even within 8 month
++ Cost/Budget: the total 8.5 Billion VND
++ Quality: Have a training local personnel ,building a raw material supply chain from central region suppliers for each store
+
+
+
+Request 2:
+- Name: Employee
++ Description: Salaries for employee
++ Estimation: 2,5 billion VND
++ Responsible: project manager
++ Method: Bottom-up estimation
+
+- Name: Perpared Suppliers, Coffe
++ Description: raw material supply from central region, purchasing coffee from dak lak farmers
++ Estimation: 2,5 billion VND
++ Responsible: project manager
++ Method: pricing provider by centtral region
+
+-Name: Marketing 
++ Description: make project attractive to customer
++ Estimation: 1,5 billion VND
++ Responsible: Marketing team
++ Method: Fees from marketing
+
+-Name :Training
++ Description: training staff , traing material
++ Estimation: 1,5 billion VND  
++ Responsible: project manager
++ Method: traning effort,time spent
+
+-Name: Contingency Reserve
++ Desciption: Backup for unexpected expantion
++ Estimation: 500 million VND
++ Responsible: project manager
++ Method: percentage of total budget
+
+
+
+Request 3:
+* Risk 1: Expansion fees
+- Description: While project execution the fees may expansion more then estimation
+- Impacts: 
++ Quality : effect to project process some store may close to reducing fees
++ Time: need more time to cover the expansion
++ Cost: many other items maybe delay
+- Response plans
++ Mitigation: reducing cost in orther items to cover for the overload fees
++ Contigency: using the contingency reserve
+
+*Risk 2: Not enough employee
+- Description: More customer than expect lead to can not do all customer order 
+- Impact
++ Quality: Loss customer trust, quality descrease
++ Time: alot of time do customer order 
++ Cost: spend more cost for hire low quaily staff to cover for short time
+- Response plans
++ Mitigation: hire and training more employee
++ Contingency: can cover with employee from other store
+
+*Risk 3: Not reach break-even point 
+- Description: some store may not get enough to reach break-even point 
+- Impact:
++ Quality: The brand lost cost could lead to close store 
++ Time: 
++ Cost: lost many cost for store but can not get back enough reserve
+- Response plan
++ Mitigation: do more marketing to attract customer to store
++ Contingency: could use some sale off, combo to held customer and attrac new customer
+
+
+
+Request 4
+- Three project role: Project manager(PM), Design Team(DT), Marketing Team(MT)
+-Ten Acvtive:
++ Prepare supply :PM (R/A), DT (I), MT (I)
++ Design Store: PM (A), DT (R), MT (C)
++ Training Staff: PM (R/A), DT (I), MT (I)
++ Survey customer: PM (C), DT(I), MT(R/A)
++ Marketing brand: PM (A), DT (C), MT(R)
++
++
++
++
++
+
+
+2)

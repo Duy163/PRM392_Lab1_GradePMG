@@ -1,0 +1,167 @@
+1)
+Request 1 (20%) – Project Charter
+Project Name:
+Coi Cafe Subscription & Community Space Project – Central Vietnam 2026
+
+Justification (Purpose & Reasons):
+This project introduces a subscription-based coffee model combined with community spaces, targeting young professionals and students in Central Vietnam. Instead of relying on traditional per-transaction sales, Coi Cafe will offer monthly membership packages that provide customers with daily beverages, workspace access, and exclusive benefits.
+The purpose of this strategy is to:
+Generate stable and predictable revenue streams through subscriptions
+Increase customer retention and loyalty
+Transform stores into community hubs rather than just coffee shops
+Differentiate from competitors by offering added value beyond beverages
+This model aligns with evolving consumer behavior, where customers seek both convenience and social experiences in a single location.
+Project Constraints
+Scope:
+Launch 2 subscription-based café locations in major cities (Da Nang, Hue)
+Develop membership system (app or card-based)
+Design café spaces to support working, studying, and small events
+Offer subscription packages (daily coffee, workspace access, combo deals)
+Time:
+Total duration: 12 months
+Concept & system development: 4 months
+Store setup: 5 months
+Pilot testing & optimization: 3 months
+Break-even target: within 7–9 months
+Cost/Budget:
+Total budget: VND 8.5 billion
+Allocation:
+Store setup & design: ~4.5 billion
+Membership system & app: ~1 billion
+Marketing & launch campaigns: ~2 billion
+Contingency fund: ~1 billion
+Funding from internal investment and strategic partners
+Quality:
+Ensure high-quality beverages and comfortable workspace environment
+Maintain stable internet, seating, and service quality
+Deliver seamless membership experience (easy access, flexible usage)
+Customer satisfaction target ≥ 90%
+Request 2 (20%) – Cost/Budget Items
+1. Community Café Setup
+Description: Design and construction of café with workspace features
+Estimation: ~2–2.5 billion/store
+Method: Analogous estimation
+Responsible: Interior Design Team
+2. Membership System Development
+Description: Build subscription platform (mobile app or QR system)
+Estimation: ~800 million – 1 billion
+Method: Vendor quotation
+Responsible: IT Team
+3. Furniture & Workspace Equipment
+Description: Tables, chairs, power outlets, Wi-Fi infrastructure
+Estimation: ~500–700 million/store
+Method: Bottom-up estimation
+Responsible: Operations Team
+4. Staff Hiring & Training
+Description: Train staff for both café service and customer support
+Estimation: ~120–150 million/store
+Method: Bottom-up estimation
+Responsible: HR Team
+5. Marketing & Membership Promotion
+Description: Promote subscription packages and community events
+Estimation: ~300–400 million/store
+Method: Agile budgeting
+Responsible: Marketing Team
+
+2)
+Request 3 (30%) – Risk Management
+Risk 1: Low Subscription Adoption
+Description: Customers may hesitate to pay upfront for membership
+Impact: Low recurring revenue
+Mitigation: Offer trial packages and flexible pricing
+Contingency: Shift focus to hybrid model (subscription + pay-per-use)
+Risk 2: Overcrowding During Peak Hours
+Description: Too many members using space at the same time
+Impact: Poor customer experience
+Mitigation: Limit membership slots and implement booking system
+Contingency: Expand seating or adjust pricing tiers
+Risk 3: High Operational Costs
+Description: Maintaining workspace (electricity, internet, space) is costly
+Impact: Reduced profitability
+Mitigation: Optimize resource usage and pricing strategy
+Contingency: Adjust subscription fees or reduce included benefits
+
+Request 4 (30%) – RACI Chart
+Project Roles:
+PM: Project Manager
+OPS: Operations Team
+IT: Technology Team
+HR: Human Resources
+MKT: Marketing Team
+ID: Interior Design Team
+Task 1: Business Model Design
+PM: A
+OPS: R
+MKT: C
+IT: C
+HR: I
+ID: I
+Task 2: Membership System Development
+IT: A/R
+PM: C
+OPS: C
+MKT: C
+HR: I
+ID: I
+Task 3: Location Selection
+PM: A
+OPS: R
+MKT: C
+ID: C
+HR: I
+IT: I
+Task 4: Café Design & Setup
+ID: A/R
+PM: C
+OPS: C
+MKT: I
+HR: I
+IT: I
+Task 5: Staff Recruitment & Training
+HR: A/R
+PM: C
+OPS: C
+IT: I
+MKT: I
+ID: I
+Task 6: Marketing Campaign Launch
+MKT: A/R
+PM: C
+OPS: C
+IT: C
+HR: I
+ID: I
+Task 7: Pilot Launch
+PM: A
+OPS: R
+MKT: R
+IT: C
+HR: C
+ID: C
+Task 8: Performance Monitoring
+PM: A
+OPS: R
+IT: R
+MKT: C
+HR: C
+ID: I
+Task 9: Customer Experience Optimization
+PM: A
+OPS: R
+MKT: C
+IT: C
+HR: C
+ID: I
+Task 10: Expansion Decision
+PM: A
+OPS: R
+MKT: C
+IT: C
+HR: I
+ID: I
+Legend:
+R: Responsible
+A: Accountable
+C: Consulted
+I: Informed
+

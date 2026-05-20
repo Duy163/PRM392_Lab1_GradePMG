@@ -1,0 +1,42 @@
+1)
+Request 1:
+1. Project name: Coi Cafe stores managerment application
+2. Justications:
+- Purpose: building a cafe stores managemnet application for sales, employees training, customer surveys, and revenue cost reporting  
+- Reasons:
++ For the manager followed stores
++ Easy to calculate the monthly/annual costs
++ From customer surveys to find the fit saling ways, how to address the drinks which non-sale
+3. 
+- Scope: 5 Central provinces
+- Time: 12 months
+- Cost/budget: 8.5 billion VND
+- Quality: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personal
+- Constraints: each store must reach the break-even point within 8 months, 1 flagship store in eanch province within 12 months, approximately VND 1.7 billion/store
+
+Request 2:
+1. API request: a operation need API request to reponse user orders
+2. Cloud storage: The system must have a cloud storage to save all information about buying
+3. Adverting: events to advert the products of stores
+4. Employee salary: costs for training and paid for employees
+
+Request 3:
+1. Difficult to use: web/app have a high tech UX/UI due to the non-tech user can't how to order, send feedback,..
+scope: all users, time: 1 month, cost: 3M VND
+2. Low time request: stocken request for one month is limited.
+scope: all operations, time: 1 month, cost: >5M VND
+3. Not reach the break-even point: system costs is higher than revene costs, scope: store in operation, time: 5 months, cost: >20M VND
+
+Request 4:
+1. Roles: dev team, HR team, marketing team, end-user
+2. 
+- Information requests: meeting with customer to make sure functions, responsibility: BA
+- WBS documents: to understand each member's role, responsibility: members in dev-team
+- UX/UI: building a internal for user, responsibility: dev-team
+- QA/QC: test all system before publishing, responsibility: PM
+- Adveting: write Tiktok/Facebook content, respponsibility: MKT team
+- Employes apply: interview and make sure about employees for store, responsibility: HR 
+- Order drinks: mainly user who use this web to order drinks
+- Give feedback: user give feedback for services, responsibility: user
+
+2)

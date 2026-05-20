@@ -1,0 +1,109 @@
+1)
+Request 1:
+Project name : Store expanding 
+
+Justifications: 
+ They want to have more customer to earn more and rise awareness about their brand in Central provines. Espeacially, their main customer have been in Hanoi and Ho Chi Minh for a long time so they want to reach new customer.
+
+This project will help them to have more store in their target Central provinces to reach new custormer. New flagship store can attract more customer early, these store can help them understand market and find out way to reach that customer.
+
+Project constraints:
+Scope: Surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chanin, launching campains for each store.
+
+Time: Open 1 flagship store in each province within 12 months
+
+Budget: 8.5 billion VND (each store approximately 1.7 billion)
+
+Quality: Each store reach the break-even point with in 8 months after opening 
+
+Request 2 :
+
+1. Rent area
+D: Find 5 areas to open flagship in each Central province,  
+Way: Top-down estimate
+Budget: Each store approximately 200 million, five store 200 x 5 = 1 billion
+Person in charge: Coi Cafe's sponsor
+
+2.Buy flagship store stuff
+D: Buy stuff for each flagship store like coffe machine, staff's clothes, hot water machine, ]
+Way: Bottom-up estimate
+Budget: Each store: 30 million + 3 million + 50 million =  83 million
+5 store: 83 x 5=415 million
+Person in charge: HR  team
+
+3. Hire staff
+D: Hire 4 staffs for each store in approximately 8 months, 1 secure, 2 employees, 1 manager
+Way: Parametric estimate
+Budget: Each store 5 million + 7 million + 7 million + 10 million = 29 million
+5 store: 29 x 5 = 145 million
+Person in charge: HR team
+
+4. Buy raw material
+D: Buy raw material like coffe, egg, milk .., for stores in 8 months
+Way: Top down estimate
+Budget: Each store 250 million
+5 stores: 1,25 billion
+People in charge: Market Development Director
+
+5. Marketing campaigns
+D: Launch marketing campaigns to attract new customer
+Way: Top down estimate 
+Budget: Each store: 300 million
+5 stores: 1,5 billion
+People in charge: Marketing team
+
+
+2)
+Request 3: 
+
+Risk 1: PM has poor management skill
+Possibility: Medium
+Impact: Medium
+Mitigation plan: Prepare management course for PM in Cousera, give PM management lessons by expert
+Contingency plan: Have a sub PM to help manage project 
+
+Risk 2: Wrong estimate budget, over cost
+Possibility: Low
+Impac: High
+Mitigation plan: Have a small buffer (5%) just in case. Avoid scope creep by clearly define deliverables, requirements
+Contingency plan: Negotiate with custumer to have more budget
+
+Risk 3: Schedule too tight, hard to on schedule
+Possibility: Low
+Impact: High
+Mitigation plan : Clearly define task, check progess weekly to make sure on schedule 
+Contingency plan: Ask people to work over time, 6 day - a week, negotiate with customer to reschedule.
+
+Request 4:
+Three project roles:
+The Market Development Director - PM, Raw material supplier,HR team manager 
+
+1. Creat project charter
+PM(R/A), Raw material supplier(I), HR team manager (C)
+
+2. Create raw material quality management
+PM(R), Raw material supplier(A), HR team manager(I)
+
+3. Design flagship store 
+PM(R/A), Raw material supplier(I), Hr team(I)
+
+4. Launch marketing campaign 
+PM(R/A), Raw material supplier(I), HR team(I)
+
+5, Hiring staff
+PM(I), Raw material supplier(I), HR team(R/A)
+
+6. Building raw material supply chain 
+PM(R/A), Raw material supplier (C), HR team(I)
+
+7. Recruiting and training local personnel
+PM(I), Raw material supplier(I), HR team(R/A)
+
+8. Create out scope 
+PM(R/A), raw material supplier(I), HR team(I)
+
+9. Create budget management plan
+PM(R/A), Raw material supplier(I), HR team(I)
+
+10. Launching store staff
+PM(I), Raw material supplier(I), HR team(R/A)

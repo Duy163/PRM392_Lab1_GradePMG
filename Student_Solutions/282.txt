@@ -1,0 +1,55 @@
+1)
+Request1:
+1. Project name:Coi Cafe's expansion project
+2. The purpose of Coi Cafe is implement an expansion project into 6 Central provices(Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province with in 12 months, because they only have 12 stores in Hanoi and Ho Chi Minh city and they want to increase there famous in 5 central province with there brand.
+3. The scope of Coi Cafe is surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region supliers and launching camplains for each store. Project time is 12 months and total budget is VND 8.5 bilion (approximately VND 1.7 bilion/store), About quality, they want each store must reach the break-even point within 8 months after opening 
+
+2)
+Request 2:
+Budget items 1:
+ -Name: surveying and selecting premises
+ -Detail: create the survey the customer in 5 Central province about their favourite's coffee brand,...
+ -Estimate: the survey is not waste a lot of money about form, but they need to pay for their employee or their event to introduce their brand and send the survey to customer
+ Budget item 2:
+ -Name: designing and constructing interior consistent
+ -Detail: they design and contructing interiors consistent with the brand Coi Cafe
+ -estimate: design and contructing is waste lots of money about service and designer
+Budget item 3:
+ -Name: recruiting and traning local personnel
+ -Detail: they recruit and train local personnel for the coffee store
+ -estimate: training local personnel is not have budget too much but that need a long time to complete training.
+Budget item 4:
+ -Name: building a raw material supply chain
+ -Detail: they build a raw material supply chain from Central region suppliers 
+ -Estimate: in the start part, that can take a lot of money to test, but if they complete to build, the can save a lot of money for ship fee
+Budget item 5:
+ -Name: launching campaigns for each store.
+ -Detail: they make the campaigns for each store in 5 Central
+Request 4:
+1. project roles:PM, design team, HR team and marketing team.
+2. List of task, activities or deliverables:
+ -Choose a local to open coffee store
+ -Design store
+ -Test a material from Central region supplier
+ -Training local personnel
+ -Create some discount or sale for month
+ -Plan to marketing new coffee store in 5 Central
+ -Inform to Store leader to execute plan
+ -Report information to boss
+ -Manage services in store
+ -Create some minigame for customer play when they come to the coffee
+3.
+ -Choose a local to open coffee store: PM (accountable) will decide the last local to open store.
+ -Design store: Design team (resposibility) design the store inside and outside
+ -Test a material from Central region supplier: PM(accountable) will test and check the quality of local material
+ -Training local personel: HR team(responsibility) coach local personel for working in the store
+ -Create some discount or sale for month: marketing team plan for discount for customer
+ -Plan to marketing new coffee store in 5 Central: marketing team(resposibility) plan for event or servey to introduce the coffee store to customer in 5 Central
+ -Inform to store leader to execute plan: PM(accountable) finish planing and inform to store leader(responsibily) to execute plan
+ Report information to boss: PM(accountable) have responsibility to report the AC and EV to boss.
+ -Manage service in store: PM plane some service for customer when they come
+ -Create some minigame for customer play when the come to the coffee: the design team can design some mini game for customer when the come 
+request 3:
+Project risks 1: Culture is the first risk, people in the difference area have difference taste, If the store open but people in that local don't like to drink coffe  or they don't like taste of Coi Cafe'coffee, the store may be have low income for month.
+Project risk 2: The coffee'material is the most impotant part to have a dilicious coffe, if quality of material in that local is not enough to  make to good coffee's taste, the Coi Cafe have to use the material from another local and that will take more money about ship fee.
+Project risk 3; The cost of one coffee cup, the cost in difference local is not same, the coffee store need change difference cost for difference local and if material very high they can have low or negative income for month

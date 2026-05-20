@@ -1,0 +1,137 @@
+1)
+Request1:
+-Project name: Vietnam Coi Cafe brand
+- Justification
++ Purpose: Implement and expansion project into 5 Central provinces, with 1 flagship store in each province within 12 months.
++ Reason: Increase the Coi Cafe brand and money income, reach more customer, help more people can reach Dak Lak coffee.
+- Project constraints
++ scope: 
+Surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personel, building a raw material supply chain form Central region suppliers and launching campaigns for each store.
++ time: 12 months
++ cost/budget: VND 8.5 billion (approximately VND 1.7 billion/store)
++ quality: Each store mush reach the brea-even point within 8 months after opening.
+
+Request2:
+1.
+Name: Surveying and selecting premises
+Description: Money for create Survey meterial, meeting time, fees for survey.
+Estimation: VND 100 million
+Way to estimation: Analogous - depend on the last implemented survey
+Person in charge: Market Development Director (PM)
+2.
+Name: Designing and constructing interiors
+Description: Design material, salary for design team, place to work.
+Estimate: VND 200 million
+Way to estimate: Bottom-up - price for material + salary + service fee,...
+Person in charge: Design lead
+3.
+Name: Building a raw meterial supply chain
+Description: Free for build coffee material, salary for worker, 
+Estimate: VND 2.5 billiton
+Way to estimate: Bottom-up - 500 milion for each provinces
+Person in charge: Market Development Director (PM)
+4.
+Name: Marketing fees
+Description: Material for marketing, salary for marketing team
+Estimate: VND 500 million.
+Way to estimate: Analogous - Depend on the pass marketing quote.
+Person in charge: Marketing lead.
+5.
+Name: Contingency reserve
+Description: Buffer for change, delays, small overrun.
+Estimate: VND 400 million
+Way to estimate: Parametric - 5% of total.
+Person in charge: Market Development Director (PM)
+
+Request 3:
+1.
+Name: Out of budget
+Description: More activity, delays, meterial fee are more than plan.
+Prosible impacts: 
+- scope/quality: Can not reach exactly time, lack of meterial for project.
+- time: more time way for extra fees from sponor or funding
+- cost: higher cost than expected
+Mitigation: Create a clear plan when start, have a contingency reserve for unexpected situation
+Contingency: Can remove unneccessary activity
+2.
+Name: Cannot reach survey quantity
+Description: Note enough people join in survey, the survey information is not true
+Posible impacts:
+- scope/quality: HR and marketing plan can be wrong, not effective
+- time: Need more time to collect more information 
+- cost: Higher cost for more survey.
+Mitigation: Create more survey, design clearly form for survey, and create effective HR plan.
+Contingency: Can improve survey, Implement more HR activity.
+3.
+Name: Wrong marketing.
+Description: Marketing can not work effectively, Lack of customer.
+Possible impacts:
+- scope/quality: Can reduce money income,lack of customer.
+- time: spend more time to remake marketing again. 
+- cost: higher cost to marketing, more meterial.
+Mitigation: Design clearly plan for marketing, deep research
+Contingency: Improve in HR plan and material in each coffe store.
+
+Request 4.
+Project role:
+- Project manager
+- Marketing lead
+- Design lead
+- Finance
+- HR lead
+
+Task1; Create contingency reserve
+R: Project manager
+A; Project manager
+C: Design lead, finance, marketing lead
+I: Design lead, sponser, marketing lead
+Task 2: Create survey for design and marketing
+R: Design lead and marketing lead
+A: Project manager
+C: Desgign team, marketing team, finance.
+I: Project manager
+Task 3: Create Design plan
+R: Design team
+A:  Design lead
+C: Finance, marketing lead.
+I: Sponsor, Project manager.
+Task 4: Create marketing plan
+R:Marketing team
+A: Marketing lead
+C: Finance lead
+I: Project manager
+Task 5: Create HR plan
+R: HR team
+A: HR lead
+C: Desgin lead, Finance
+I: Project manager
+Task 6: Implement Design plan
+R: Design team
+A: Design lead
+C: Project manager
+I: Marketing team, finance
+Task 7: Organize marketing 
+R: Marketing team
+A: Marketing lead
+C: Project manager
+I: Fincance
+Task 8: Create fanpage or community for each province
+R: HR team
+A: HR lead
+C: Marketing lead, design lead, project manager
+I: Finance, project manager
+Task 9: Create campaigns plan
+R: Marketing team
+A: Marketing lead, Project manager, F
+C: Sponser
+I: Sponsor
+Task 10: Implement campains plan
+R: Marketing team
+A: Marketing lead, Project manager
+C: Finance
+I: Design lead, HR lead.
+
+
+
+2)
+

@@ -1,0 +1,73 @@
+1)
+Request 1: 
+Project Name: Coi Cafe Central Region Expansion Project
+Justifications (Purpose & Reasons): The purpose of this project is to capitalize on Coi Cafe's established brand success in Hanoi and Ho Chi Minh City by expanding into the fast-growing Central Vietnam market. This expansion will increase market share, boost brand awareness nationwide, and leverage the company's sustainable business model to attract eco-conscious consumers in new regions.
+Project Constraints:
+Scope: Limited to opening exactly 5 flagship stores in 5 specific provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh). Must utilize Central region suppliers for raw materials.
+Time: All 5 stores must be open and operational within 12 months.
+Cost/Budget: Strictly capped at VND 8.5 billion (averaging VND 1.7 billion per store). Funded via equity and commercial loans.
+Quality: Must strictly adhere to the Coi Cafe brand identity (nostalgic space design, traditional drink menu, sustainable practices like reusable cups and direct-from-farmer coffee). Furthermore, each store must hit the financial quality metric of breaking even within 8 months of opening.
+Request 2: 
+Five main budget items for the project:
+1. Premises Leasing & Deposits
+Description: Costs associated with securing the physical locations for all 5 flagship stores, including initial deposits and the first few months of renwt.
+Estimation: VND 1.5 billion.
+How to Estimate: Analogous estimation. Using historical leasing data from current Hanoi/HCMC stores, adjusted for the lower real estate market rates in the Central provinces.
+Person in Charge: Project Manager (Market Development Director).
+2. Interior Design & Construction
+Description: The cost of remodeling the leased spaces, building the "nostalgic" aesthetic, and purchasing furniture, fixtures, and brewing equipment.
+Estimation: VND 4.5 billion.
+How to Estimate: Parametric estimating. Multiplying the estimated cost per square meter of construction by the total square footage of the 5 stores.
+Person in Charge: Interior Design Team Lead.
+3. Local Supply Chain Setup & Initial Inventory
+Description: Costs to scout, negotiate, and establish logistics with new Central region suppliers, plus purchasing the first batches of raw materials.
+Estimation: VND 0.8 billion.
+How to Estimate: Vendor bid analysis and expert judgment from current procurement specialists.
+Person in Charge: Project Manager.
+4. Recruitment & Training
+Description: Costs for advertising job openings, interviewing, and running training programs to ensure local staff meet Coi Cafe's service and brand standards.
+Estimation: VND 0.5 billion.
+How to Estimate: Bottom-up estimation. Calculating the cost of job postings, trainer travel expenses, and trainee stipends per store, then aggregating them.
+Person in Charge: HR Team Lead.
+5. Marketing & Grand Opening Campaigns
+Description: Digital marketing, local PR, promotional materials, and launch event costs to drive initial foot traffic to the nwew stores.
+Estimation: VND 1.2 billion.
+How to Estimate: Top-down estimation. Allocating a fixed percentage of the total project budget strictly for marketing purposes.
+Person in Charge: Marketing Team Lead.
+Request 3:
+1. Risk: Supply Chain Establishment Delays
+Description: The project team struggles to find local suppliers in the Central region who can meet Coi Cafe's strict quality and sustainability requirements within the required timeframe.
+Impact:  Time: Delays the store opening dates.
+Cost: Increases logistics costs if materials must be shipped from further away.
+Mitigation: Begin vendor scouting and quality testing immediately at the start of the project; maintain a broad database of potential suppliers.
+Contingency: Temporarily utilize the existing Dak Lak/HCMC supply chain to ship materials to the Central stores until local vendowr contracts are finalized.
+2. Risk: Construction Budget Overruns
+Description: The cwost of materials and labor for the interior construction exceeds the average allocationw of VND 1.7 billion per store due to local inflation or hidden premises damages.
+Impact: Cost: Exhausts the VND 8.5 billion budget prematurely.
+Quality/Scope: May require cutting corners on store design, violating brand consistency.
+Mitigation: Cwonduct thorough site surveys before signing leases to avoid "fixer-upper" traps. Negotiate fixwed-price contracts with local construction vendors.
+Contingency: Release contingency reserve funds; temporarily scale back non-essential decorative elements to stay under budget.
+3. Risk: Failure to Meet the Break-Even Target
+Description: The new stores fail to attract enough customers to reach the required break-even point within 8 months of opening, possibly due to strong local competition.
+Impact: Quality/Scope: Fails a major financial constraint outlined in the project charter.
+Mitigation: Conduct deep local market research in each of the 5 provinces; ensure the marketing team tailors the grand opening campaigns specifically to local demographics.
+Contingency: Allocate emergency marketing funds for aggressive promotional discounts and loyalty programs in the underperforming stores.
+Request 4: 
+1. Project Roles Defined:
+PM: Project Manager (Market Development Director)
+ID: Interior Design Team Lead
+HR: Human Resources Team Lead
+MK: Marketing Team Lead
+2 & 3. Tasks and Responsibilities Matrix:
+Tasks / Deliverables                   PM    ID    HR   MK
+1. Draft and approve Project Charter           A/R   C     C     C
+2. Survey and select 5 store premises          A/R   C     I     I
+3. Finalize and sign lease agreements          A/R   I     I     I
+4. Draft store interior design blueprints          C       A/R   I     C
+5. Execute interior construction/remodeling  I     A/R   I     I
+6. Source and negotiate with local suppliers A/R   I     I     I
+7. Recruit local store managers and staff      C     I     A/R   I
+8. Execute brand and barista training            I     I     A/R   I
+9. Design local marketing & launch strategy  C     I     I     A/R
+10. Execute grand opening events                I     I     I     A/R
+2)

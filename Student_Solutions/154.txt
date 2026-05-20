@@ -1,0 +1,92 @@
+1)
+request1:
+1.Expansion flagship store Coi Cafe
+2.Justifications:
+  purpose: implement an expansion project into 5 Central provinces(Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) with 1 flagship store in each province within 12 months
+
+3.
+  scope:survey and select premises, designing and constructing interiors consitent with brand,recruiting and training local presonnel,building a raw material supply chain from Central region suppliers,launching campaigns for each store.
+
+  time: 12 months
+
+  cost/budget: VND 8.5 billion(approximately VND 1.7 billion/store)
+
+  quality: Each store must reach the break-even point within 8 months after opening
+
+request2:
+1.
+  name: Surveying and selecting premises
+  budget:VND 200 M/store
+  description: survey and select premises of citiziens about ate,income,coffee habit,jobs
+  estimation: marketing team survey and selecting permises by events
+2.
+  name:designing and construcing 
+  budget:VND 500 M/store
+  desription:design and construc the store supply chain from Central region suppliers
+  estimation:design team consitent with the brand 
+3.
+  name:recruiting and training local presonnel
+ budget:VND 300M/store
+ desription: training staff 
+  estimation:HR team interview and training staff
+4.
+  name:building a raw material supply chain from Central region suppliers
+  budget:VND 400M/store 
+  desription:building the store to make seen material from Central region suppliers
+  estimation:design team consitent with the brand
+5.
+  name:launching campaign for each store 
+  budget:VND 300/store
+  desription: launching campaign for each store to be opening
+  estimation:marketing team make an event plan to launching campaign 
+total: VND 1.7B/store
+request3:
+1.
+  name: competive with other coffee brand 
+  description: other coffe brand like highlands cofffe is famous in coffee market. they have many store in Vietnames before
+  possible impacts:limit customers in region , price of drink menu,in term of cost
+2.
+  name:each 1 flagship store in each province within 12 months
+ desription: late dealine during operation
+ possible impacts: design to building a store in each region have a high risk to be late, because the store design should be suitable with brand and Central region suppliers, in term of time
+3.
+  name:can not reach the break-even point within 8 months after opening for each store
+ desriptioin:comptive with other coffee brand , in term of cost
+
+request4:
+1.HR team, marketing team,design and construct team
+2,3.
+task1:surveying and selecting premises
+-responsibilities: marketing team
+
+task2:analysis data after survey and select
+-responsibilities:marketing team
+
+task3:design drink menu base on analysis
+-responsibilities: design and construct team
+
+task4:design team comunicate with brand coffee to design
+-responsibitlities: design and construct team
+
+task5:design store in demo
+-responsibilities: design and construct team
+
+task6:desgin team comunicate with brand coffee to chosse material supply chain from Central region suppliers
+-responsibilities: design and construct team
+
+task7:building the store
+-responsibilites: design and construct team
+
+task8:training local personel
+-responsibilites: HR team
+
+task9:make the plan for opening event
+-responsibilites:marketing team
+
+task10:launching campaigns store
+-responsibillites: marketing team
+
+
+
+
+2)

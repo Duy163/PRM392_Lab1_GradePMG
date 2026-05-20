@@ -1,0 +1,71 @@
+1)
+REQUEST 1: 
++ Project name: Coi Cafe Traditional Vietnamese Coffee.
++ Justifications:Famous for its nostalgic space, traditional drink menu, sustainable business model and  implement an expansion project into 5 central provinces and 1 fliagship store in each provice.
++ Constraint: 
+ - Scope: implement 5 centra; provices (Da Nang,Hue,Quang Nam,Quang Ngai,Binh Dinh) and each provices have 1 flaship store. The Project includes: surveying and selecting premises, design and cinstruct with the brand, recruiting and trainning local personal, build and lauch campaigns for each store.
+- Time:12 months and each store break-even point within 8 month after opening.
+- Cost/Budget: VND 8.5 billion (approximately VND1.7 billion per store) from equity and commercial bank loans. 
+-Quality: 90% survey is positive and zero compliant for the time compaign opening. High number of customers flow the campaign. 
+
+REQUEST 2: 
++ Five main cost/budget:
+1. Human resource;
++ Description: Salaries and usages for the core Project Team.Including(Design, Construct,Trainner,Develop,HR Team,Marketing Team).
++Estimate: VND 500 milion per store
++Way to estimate: Bottom-up Estimate.Salaries for
+ Project Team 41,6 million/month x 12 months.
++Person in charged: Design Team, Marketing Team, HR Team,Project manager.
+2.Teachnology and equipment. 
++ Description: Cost for application for design, printing,banner.
++ Estimate: VND 400 milion per store
++ Way to estimate:Parametric estimation. Base on the cost for app design(Photoshop : VND 100 milion for 12 month, Book and Cousera to training local presonal: VND 300 milion for 12 month)
++Person in charged: Design Team, Training Team.
+3. Marketing and promotion:
++ Description: Budget for lauching the project,  adversiting in social media and printing banner for store. 
++ Estimate: VND 300 milion.
++Way to estimate: Analogous Estimation. Base on the similar past company project event.
++Person in charged: Marketing Team.
+4.Operation Cost
++ Description: Overhead cost required to run project or even logistic.
++Estimate:VND 300 milion per store
++ Way to estimate: Analogous Estiomation. Base on history data from the similar past project.
+Person in charged:  Project Managerment.
+5. Contigency Reverse:
++ Description: A amount safety buffer set aside to handle scope changes or technical issue.
++ Estimate: VND 200 milion per store.
++ Way to estiamtion: Parametric Estimation. Set 5% to 10% from contigency reverse to reamining budget. 
++Person in charged: HR Team & Project Manager.
+2)
+REQUEST 3: 
++ Risk 1: Scope Creep
+- Description: The project keep expanding beyond the original plan due to changing client demaids or unsrable business requirement
+- Probability: High 
+- Impact : High
+- Risk Response Mitigate
+=> Clearly define project requirement upfornt and implement a strict for any new request.
++ Risk 2:Budget Overrun 
+- Description:Actual cost exceed the estimate budget due to unexpected openrational expenses.
+- Probability: Medium 
+- Impact: High 
+- Risk Response: Mitigate 
+=> Track cash flow project expenses weekly.Alway allocate a 10% to 15% contigency reverse. 
+Risk 3: Schedue delay.
+- Description: Delay in completing critical task and missing the final project lauch date.
+- Probability: Medium 
+- Impact: High
+- Risk Response: Mitigate.
+=> Breakdown task into a datailed schedule.
+ REQUEST 4: 
+1. Three project role is: PM(Projecct Managerment), BA(Business Analysis), Sponsor.
+2&3: 
+A. Define Business objective.PM(C), BA(R,A), Sponsor(I)  
+B.Conduct Market Research.PM(C),BA(R,A),Sponsor(I)
+C. Develop Business Plan and Budget.PM(R,A),BA(C),Sponsor(I)
+D. Procure resource and contracts. PM(I,C),BA(R),Sponsor(A)
+E. Set up business operation.PM(C),BA(R,A),Sponsor(I)
+F.Execute commericial strategy.PM(R,A),BA(C),Sponsor(I).
+G.Monitor Financial Cash Flow. PM(R), BA(C,I), Sponsor(A)
+H. Manager Business risk. PM(R,A),BA(C),Sponsor(I)
+I. Evalute ROI and performance. PM(R,A), BA(C), Sopnsor(I)
+J. Prepare Final Business Project Report.PM(R,A), BA(C), Sponsor(I)

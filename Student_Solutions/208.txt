@@ -1,0 +1,65 @@
+1)
+REQUEST 1
+1. Project name: Coi Cafe's expansion project.
+2. Justification: to expand flagship stores into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+3. Constraints
++ Scope: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store.
++ Time: 12 months
++ Cost/Budget: VND 8.5 billion (approximately VND 1.7 billion per store)
++ Quality: Each store must reach the break-even point within 8 months after opening.
+
+REQUEST 2
+Name: Design and constructing
+Description: Basic construct and design cost.
+Estimated budget: construction fee, design fee and basic material fee
+Estimated cost: VND 600 million
+Person in charge: Project Manager
+Name: Recruiting and training
+Description: Recruiting and training local personnel.
+Estimated budget: Hourly wage x person x 30 days + job advertise's fee
+Estimated cost: VND 200 million
+Person in charge: Human resource lead
+Name: Raw material supply chain from Central region
+Description: Find suppliers, to build a supply chain from Central region suppliers
+Estimated budget: Raw material deposition
+Estimated cost: VND 500 million
+Person in charge: Project Manager
+Name: Launching campaign
+Description: Run social media advertising campaign, building content, designing poster, set promotion to attract clients
+Estimated budget: Ads fee, promotion cost
+Estimated cost: VND 200 million
+Person in charge: Marketing lead
+Name: Select premise, build permit approval
+Description: find, survey and select premise, secure building permit from the city.
+Estimated budget: Permit fee, premise survey fee
+Estimated cost: VND 200 billion
+Person in charge: Project Manager
+2)
+Name: High price from supplier
+Description: The price of material become higher due to shipping fee, lack of materials
+Possible impact:
++ Scope: the raw material supply chain
++ Time: 2 weeks
++ Cost: VND 50 million
+Relevant risk respose plans: negotiate for better price, find another supplier from local area (if the negotiation fail)
+
+Name: Permit was denied
+Description: The city fail to approve buliding permit if the construction and the premise was fail of meeting their conditions of building
+Possible impact:
++ Scope:  Construction
++ Time: 1 months
++ Cost: VND 50 million
+Risk response plans: Follow the city's criteria for building or find and survey another premises.
+
+Name: campaign cannot meet goal
+Description: Campaign cannot attract client, sales goal does not meet.
+Possible impact:
++ Scope: Launching campaign for advertising.
++ Time: 1 month
++ Cost: VND 50 million
+Risk response plans: Do survey with clients for local favourite flavor and adjust the material for beverage in the menu, launching more campaign that have more attraction.
+
+REQUEST 4:
+Project-internal: Market Development Director, HR team, interior design team, marketing team
+Organization-internal: Equity and commercial bank
+External: Clients from 5 Central provinces

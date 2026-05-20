@@ -1,0 +1,111 @@
+1)
+Request 1
+1. Project name: Coi Cafe Expansion
+2. Justification:
+Cafe is daily drink to everyone over the world, especially Vietnamese. It helps to stimulate the brain for temporal conciousness, improve body's absorbtion ability and stimulate the tasting sense. Otherwise, Viet Nam is a strong market for coffee growth which was stated that the country have the strongest and the best types of coffee in over the world. Therefore, the expanding plan to central provinces of Viet Nam would be a significant improvement in both brand identity and economic.
+3. Project constraints
+- Scope: Surveying and selecting premises, designing and constructing interiors consistent with the brand.
+- Time: Reach break-even point within 8 months after opening
+- Cost: Total budget is VND 8.5 billion (approximately VND 1.7 billion/store)
+- Quality: Provide a nostalgic space, traditional menu and use sustanaiable business model (using reusable cups, purchasing coffee directly from Dak Lak farmers where coffee has the best taste in over Viet Nam)
+
+Request 2
+1. Rental expense
+- Description: Surveying and selecting good geographical position for rent that effectively attract customers.
+- Estimation: VND 90 million per month.
+- How to estimate: According to House's price report of VN express, house cost for rent in central of Viet Nam normally fluctuates between VND 80 million - 100 million, specifically center of cities.
+- People in charged: Project manager
+
+2. Infrastructure
+- Description: Reconstruct and decorate the rented place that match the brand's style in order to keep the traditional theme. Otherwise, prepare device and machine for business such as coffee making machine, coffee roasting machine, online website for customer's order,..
+- Estimation: VND 50 million per month
+- How to estimate: Accoding to VN express, traditional style decoration for coffee shops takes around VND 50 million.
+- People in charged: Project manager
+
+3. Ingredients
+- Description: Ingredients used for drinks such as coffee bulbs, fruits and other decorative plants.
+- Estimation: VND 60 million per month
+- How to estimate: Regarding to Highland coffee, the ingredients expense usually 1.2x employee's salary.
+- People in charged: Project manager
+
+4. Marketing
+- Description: Beside advertising brand via social media, run a expansive local advertisement to catch up to the local people who would stay with brand consistently.
+- Estimation: VND 130 million over lauching period
+- How to estimate: Spend VND 12.5 million for first 4 month in social media and the double the expense up to VND 20 million to approach to local people.
+- People in charged: Marketing team
+
+5. Salary
+- Description: Pay salary for employees such as baristas, food runner and branch supervisor/managers
+- Estimation: VND 50 million per month
+- How to estimate: Regard to Highland coffee, they spend over VND 50 million for 2 baristas/food runners and 1 branch supervisors. Therefore, Coi Cafe would cost approximately the same with similar business size.
+- Person in charged: HR team
+2)
+Request 3
+1. Exceed the initial budget
+Description: Doing research of marketplace online should lead to uncertain and incorrect information which lead to wrong cost estimation.
+Possible impacts:
+- Scope / quality: Could remove some planned features or downgrade the quality of product such as reusable cups.
+- Time: Take more time to wait for fund raising.
+- Cost: Pay more the planned budget. Consequently, the project would cost over VND 8.5 billion.
+Mitigation: Frequently update expense to project manager and sponsors.
+Contigency: Implicitly raising fund which is stimutaneos with project schedule.
+
+2. Do not complete plan on time
+Description: Without frequent performance tracking should lead to bad result which take more time to repair and reproduce the better result.
+Possible impacts:
+- Scope: Could remove some planned feature to keep up with the schedule.
+- Time: Take more time to fix the mistake. Consequently, the process would take over 8 months.
+- Cost: Take more money to buy goods that make a new product replace the wrong one.
+Mitigation: Frequently meeting for work performace reports.
+Contigency: Use Fast tracking technique to implement parallel work for time saving.
+
+3, Worst relationship with local people
+Description: Local people do not want to experience new coffee brand and project's marketing strategy cannot approach and convince them.
+Possible impacts:
+- Scope / quality: Cannot maintain branch after 8 months, remove some features and downgrade product's quality.
+- Cost: Should spend more money to maintain the product's quality.
+Mitigation: Union with local coffee brand to under stand rural people.
+Contigency: Focus on tourism visitors.
+
+Request 4
+Surveying and select premises
+- Project manager: R
+- Coordinated teams: A
+- Sponsor: I
+Designing blueprint of interiors
+- Project manager: A, C
+- Coordinated teams: R
+- Sponsor: I
+Work with constructor to construct the interiors
+- Project manager: A
+- Coordinated teams: R
+- Sponsor: I
+Purchase and setting up machine
+- Project manager: R
+- Coordinated teams: A
+- Sponsor: I
+Find local ingredient suppliers
+- Project manager: R
+- Coordinated team: A
+- Sponsor: I
+Run social media advertisement
+- Project manager: A
+- Coordinated team: R
+- Sponsor: I
+Run local advertisment
+- Project manager: A
+- Coordinated team: R
+- Sponsor: I
+Market response assessment
+- Project manager: A
+- Coordinated team: R
+- Sponsor: I
+Branch's staff recruitment
+- Project manager: A
+- Coordinated team: R
+- Sponsor: I
+Soft opening to assess branch's operating 
+performance in reaility
+- Project manager: R
+- Coordinated team: A
+- Sponsor: I

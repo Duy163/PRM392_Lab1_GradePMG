@@ -1,0 +1,128 @@
+1)
+Request 1: Narrative charter
+Project name: Coi Cafe expansion project
+Justificattions:
+- Purpose: To implement an expansion project into 5 Central provinces of Coi Cafe(Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 months.
+- Reasons: Coi's management want to expand 5 Central of Coi Cafe
+Project Constraints:
+- Scope: 
+ + Surveying and selecting premises
+ + Designing and constructing interiors consistent with the brand
+ + Recruiting and training local personel
+ + Building a raw meterial supply chain from Central region suppliers
+ + Launching campaigns for each store
+- Time:  12 months
+- Cost/budget: 8.5 billion VND( 1.7 billion/store)
+- Quality: Each store must reach the break-even point within 8 months after opening
+
+Request 2: Main cost/budget items
+Cost/budget item 1:
+- Name: Cost for maketing and promotion
+- Description: Spreading the event
+- Estimation method: Research about maketing and promotion cost
+- Estimated cost: VND 20 millions
+- Person in charged: Lead of maketing team
+
+Cost/budget item 2:
+- Name: Employees and training fees
+- Description: Cost to pay the empoyees
+- Estimation method: Hourly rate x total hours x total days
+- Estimated cost: VND 50 millions
+- Person in charged: Lead of personnel management
+
+Cost/budget item 3:
+- Name: Design and constructing interiors cost
+- Description: Cost to pay the material needed to design and constructing interiors
+- Estimation method: Total all cost to pay material
+- Estimated cost: VND 300 millions
+- Person in charged: Lead of designing team
+
+Cost/budget item 4: 
+- Name: Prepare raw coffee from Daklak 
+- Description: Purchase coffee prepare for opening event
+- Estimation method: Directly from seller
+- Estimated cost: VND 100 millions
+- Person in charged: PM or lead of market team
+
+Cost/budget item 5:
+- Name: Inventory cost
+- Description: Cost to rent a inventory
+- Estimation method: Research from maket place
+- Estimated cost: VND 50 millions
+- Person in charged: Lead of market team
+2)
+Request 3: Project Risks
+Project risk 1:
+- Name: Over budget
+- Description: Out of budget before ending the project
+- Possibility: MEDIUM
+- Impact: HIGH
+- Possible impact: Can not reach break-even point within 8 months
+- Mitigation: Carefully analyze budget, and the cost from begining
+- Contingency: Use reserve cost, lay off some employee, reduce unneccessaries event
+
+Project risk 2:
+- Name: Satisfication of customers is low
+- Description: Customers not satisfy with the store or the designing of the store
+- Possibility: HIGH
+- Impact: HIGH
+- Possible impact: impact the revenue of the store
+- Mitigation: Researching from market trend, surveying customers about the idea before start project
+- Contigency: Add more drink to menu, create more event
+
+Project risk 3:
+- Name: Do not have enough personel
+- Description: Lack of employees working in store
+- Possibility: MEDIUM
+- Impact: MEDIUM
+- Possible impact: Reduce quality of secducing customers
+- Mitigation: Maketing with high salary
+- Contigency: Tranfer employees from another store
+
+Request 4: RACI chart
+Project role: 
+- PM
+- HR
+- Designer
+
+Activities:
+- Start project
+ + PM: A/R
+ + HR: I
+ + Designer: I
+- Make survey form
+ + PM: A
+ + HR: C/I
+ + Designer: R
+- Survey customers
+ + PM: A
+ + HR: C/I
+ + Designer: R
+- Design store
+ + PM: C/I
+ + HR: C/I
+ + Designer: R/A
+- Constructing store
+ + PM: C/I
+ + HR: C/I
+ + Designer: A
+- Recruiting employees
+ + PM: I
+ + HR: R/A
+ + Designer: I
+- Training emplyees
+ + PM: A
+ + HR: I
+ + Designer: I
+- Launching campaigns
+ + PM: A/R
+ + HR: I/C
+ + Designer: R
+- Launching event
+ + PM: A/R
+ + HR: I/C
+ + Designer: R
+- End project
+ + PM: A/R
+ + HR: I
+ + Designer: I

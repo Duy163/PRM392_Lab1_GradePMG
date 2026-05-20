@@ -1,0 +1,179 @@
+1)
+Request 1.
+- Project name: Coi Cafe 
+- Purpose: implement an expansion project into 5 central provinces ( Da Nang, Hue, Quang Nam, Quang Ngai, Binh DInh), with 1 flagship store in each province within 12 months 
+- Project contraints: 
+  + Scope: surveying and selecting premises, designing and constructing interiors consistent with brand, recruiting and training local personnel, building a raw material supply chain form Central region suppliers, and launching campaigns for each store. 
+  + Time: 12 months 
+  + Budget: VND 8,5 billion ( approximately VND 1,7 billion/ store) 
+  + Quality: people know more about Vietnam coffee
+
+Request 2: 
+1. Project manager 
+- description: creat plan, monitor and control the campaign 
+- estimation: Propobality
+- how: 10% x (1000+59+100+30) 
+- person in charged: Project manager 
+
+2. Team member 
+- description: design, content, edit promotion 
+- estimation: 200 man day 
+- how: bottom up estimation 
+500 post and design x 2 manday = 1000 man day 
+- person in charged: project manager 
+
+3. Survey/ report 
+- description: collect the opinion from people use coffe, lke coffe, and adjust content. Write report monthy and final report 
+- estimation: 35+24 = 59  man day 
+- how: analogous method 
+survey : 30 manday 
+report for moth: 2 manday x 12 moths= 24
+final report : 5 manday 
+- person in charged: project manager 
+
+4. Advertising 
+- description: lauching the campaign online and offline 
+- estimation: 100 man day 
+- how: analogous method 
+- person in charged: Marketing 
+
+5. Training
+- description: training team member thay know what they do 
+- estimation: 30 man day 
+- how: expert 
+- person in charged: Project manger 
+
+Request 3: 
+1. People react for the content negative 
+- Impact: High 
+- Mitigation plan:
+Check carefully the content before public
+Test content internal 
+Check clear the guidline content 
+- Contigency plan: 
+Respon quickly and clearly 
+Adjust the content 
+Apologize if needed 
+
+2. Schedule delay 
+- impact: Medium
+- Mitigation plan:
+Design clearly and detail timeline with buffer time 
+Make sure team member clear about they reponsibility 
+Promote timeline regularly 
+- Contigency plan:
+Do what most importance first 
+Divided work to who free at time 
+
+3.People do not interest the campaign 
+-Impact: High 
+- Mitigation plan: 
+Creat minigame simple and have present 
+Design the content and promotion simple but attractive 
+Content must touch the insight, we can test internal to know it effective or not 
+Usr KOL/Infuencer have impact with this campaign  
+- Contigency plan: 
+Run advetising on the internet 
+Prepare gift for people participant 
+Request attandee up campaign on their social to attract another people 
+
+Request 4: 
+1/ Project roles 
+- Market development director -> Project manager 
+- design team 
+- HR team 
+- Marketing team 
+
+2/ List out at least ten task, activities, or deliverable 
+1. develop project plan 
+2. develop budget plan
+3. develop promotion plan
+4. survey premises 
+5. selecting premises
+6. design promotion material 
+7. building a raw material supply chain from central region suppliers 
+8. final report 
+9. Desi minigame 
+10. prepare material 
+
+3/ 
+1. Develop project plan 
+- Description: develop plan for the campaign within 8 months at the most effective 
+- Project manager: R
+- Design team ; I
+- HR team ; I
+- Marketing team: A 
+
+
+2. Develop budget plan 
+- Responsibilities: budget plan use to control money use for what, PM can promote money 
+- Project manager: A
+- Design team : I
+- HR team: C
+- Marketing team: R
+
+
+3. develop promotion plan 
+- Responsibilities: build the guidline content to easy follow it, avoid content not correct for the campaign 
+- Project manager: A
+- Design team : I
+- HR team : I
+- Marketing team: R
+
+
+4. Surveying premises
+- Project manager: A
+- Design team: ; I
+- HR team: R
+-Marketing team: C
+
+
+5. Selecting premises 
+- Project manager: A
+- Design team: I
+- HR team: R
+- Marketing team: C
+ 
+
+6. Design promotion material 
+- Responsibilities: design standee, promotion material publicy on social media 
+- Project manager: A
+- Design team: R
+- HR team: I
+- Marketing team: I
+
+ 
+7. Building a raw material supply chain form Central region suppliers 
+- Responsibilities: In scope the campaign
+- Project manager: A
+- Design team: C
+- HR team: R
+- Marketing team: I
+
+
+8. Final report
+- Responsibilities: Write what the campaign reach, all member do what and number report the campaign success or fail 
+- Project manager: R
+- Design team: I
+- HR team: I
+- Marketing team: I
+
+
+9. Design Minigame: 
+- Responsibilities: design minigame suitable for the campaign, attract people participant the project
+- Project manager: A
+- Design team: R
+- HR team: I
+- Marketing team: C
+
+
+10. Prepare material: 
+- Responsibilities: Prepare material to buil a raw material supply chain
+- Project manager: A
+- Design team: C
+- HR team: R
+- Markting team: I
+
+ 
+
+2)

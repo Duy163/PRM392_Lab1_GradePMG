@@ -1,0 +1,131 @@
+1)
+Request 1:
+Project name: Coi Cafe: Expansion project in to 5 Central provinces
+
+Justification ( purpose & reason):
+As the Coi's management, our brand have been developing with 12 stores in Hanoi and Ho Chi Minh strongly. Becoming famous for its nostalgic space, traditional drink menu and sustainable business model such as using reusable cups, purchasing coffee directly from Dak Lak farmers. After such a good feedback from the coffee drinker to the brand and according to Coi's coffee survey for the coffee lover through all over Viet Nam specialy in the 5 Central provinces, the survey recieved 90% of people have the needs to drink and enjoy coffee with the traditional menu, pure coffee and nostalgic space. Know about that, we decided to implement an expansion project into 5 Central provinces is Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh with 1 flagship store in each province within 12 months. Each store must reach the break-even point within 8 months after opening.This project will increase 60% sales and reach positive feedback from the survey and selecting premises. Reach 85% awareness from the province people to the Coi's coffee brand.
+
+Project constraints: 
+Scope: 5 Central provinces is Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh, these are the main location of our projects, with 1 flagship store in each province within 12 months. The project includes: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personel, building a raw material supply chain from Central region suppliers and launcing campaigns for each store.
+
+Time: 16 months 
+Initiation: 1 months
+Execution: 14 months 
+-Pre- launch: 1 months
+-Launch: 12 months
+- Post-launch: 1 months
+Closing: 1 months
+
+Cost/Budget: The total budget is VND 8.5 billion( approximately VND 1.7 billion/store) from equity and comercial bank loans.
+
+Quality: Each store must break-even point within 8 months after opening. Collect positive feedback from the survey and selecting premises. Decrease 90% of Shrinkage/loss through launching campaign.
+
+Request 2: 5 main cost/budget items:
+
+Name: Contigency Reserve
+Description: contigency supplies have been prepair before the campaign to decrease the thief or loss supplies when bringing.
+Estimation: VND 10.000.000/store. Top-down estimating.
+Person in charged: PM ( project management)
+
+Name: Recruiting and  Training local personel
+Description: Fee for the training expertise 
+Estimation: Antagolize 
+Person in charged: PM
+
+Name: Launching campaign
+Description: Ensure have enough money for the campaign each store
+Estimation: approximately VND 1.7 billion/store. Estimate by Bottom-up
+Person in charged: PM
+
+Name: Material supply chain
+Description: Ensure that have enough money to buy 
+Estimation: VND 300.000.000/ store. by Bottom-up
+Person in charged: PM
+
+Name: Purchasing Coffee
+Description: Ensure that have enough money to buy
+Estimation: VND 200.000.000/ store, etimate by Bottom-up
+Person in charged: PM
+
+Request 3:
+Identify Risks:
+
+Name: Shrinkage/loss 
+Description:Loss supplies for the campaign
+Scope: Weak
+Quality:
+Time: Through all of the campaign
+Cost: VND 10.000.000
+Response plans: Contigency reserve
+
+Name: Natural trouble disater
+Description: Rain or heavy rain causes to the campaign
+Scope: Large
+Quality: 
+Time:
+Cost: Through all of the campaign
+Response: Contigency plan like prepair before the campaign umbrellar, chilli pepper, another contigency place to continue the campaign or flagship store 
+
+
+Name: The lost of knowledge of the PM( Project Manager)
+Description: To ensure that the PM have Knowledge about the location launching campaign
+Scope: Large
+Quality:
+Time: Through all the campaign
+Cost: VND 50.000.000
+Response: hiring expertise have known about the place launching the campaign to help the PM research about the location there, the people habit
+
+Request 4:
+RACI (Responsibily, Assignment, Consulted, Intergration)
+
+Task/ activities: 
+- Building a raw  material supply chain from Central region suppliers
+- Training local personel 
+- Purchasing coffee directly from Dak Lak
+- Launching campaign for each store
+-Hiring expertise
+- product reusable cups
+
+Time managemant plan -> Cost management plan ( start to start)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2)

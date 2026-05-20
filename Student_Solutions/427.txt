@@ -1,0 +1,82 @@
+1)
+Request 1:
+Project name: Coi Cafe
+Justification and Purpose: 
+- Coi Cafe is a pure Vietnamese coffe brand, famous for its nostalgic space, tradionaal drink menu and sustainable business model by using reusable cups, purchasing coffee directly from Dak Lak farmers. Because of that and the fact that nowadays, sustainability is the top criteria because of the environemnt awareness has risen among people, Coi's management aim to expand their brand to other 5 central provinces so that they can leverage the natural resources from these places such as coffee, landscape as well as expand the sustainable business model.
+Project constraints:
+- Scope: The project requires surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store.
+- Duration: Within 12 months for whole expansion project (including pre - launch, launching, post- launch phase).
+- Cost/budget: 8.5 billion VND (approximately 1.7 billion VND/store).
+- Quality: Each store must reach the break- even point within 8 months after opening to meet quality criteria.
+
+Request 2:
+Item 1: Designing and constructing interiors
++ Description: Because all of the stores come from the same brand, keeping the brand interior decoration consistent across all the stores is a must.
++ Estimation: Using allegous estimation, based on the price of interior in previous stores. Approximately 100 million VND for each store, interior design team will be in charged.
+
+Item 2: Recruiting workforce
++ Description: Because the store has expanded in new area, they need to recruit people to work for them by running marketing.
++ Estimation: Using allegous estimation, based on the recruting operation on the past at previous stores. About 10 million for each store, marketing team will be in charged.
+
+Item 3: Training personnel
++ Description: In order to preserve the professional and consistent in the way the worker serve guest. Coi Cafe needs to train the newly hired worker from scratch. 
++ Estimation: Parametric estimation. A training team from each store will handle newly hired workers. Assuming that each training team has 5 people, and there are 10 newly hired workers, each person in the training team will train 2 people. Price for one person in traning team will be 200000VND/day. We can conclude that with 5 people, the price will be 1000000 VND per day.
+
+Item 4: Material supply chain
++ Desciprtion: Because the manager decides to expand their brand to the 5 Central provinces. they need to find a new coffee supply for each store as well as establish a consistent logistic route in order to preserve the consistent of the supply chain, avoiding material and resource shortage.
+Estimation: Using top-down estimation. Each store will be allocated 500 million VND for the suplly chain management.
+
+Item 5: Worker price
++ Description: Coi cafe needs to pay their worker according to their serving time.
++ Estimation: Using parametric estimation. Supposing that each store has 10 workers and 1 manager. Price for each worker will be 30000 per hour and price for manager will be 100000 per hour and they work for 8 hours a day. We can conclude that in one day, the price each store will pay their workers will be 30000*10*8 + 100000*8 = 3200000VND. One month will be 96000000 VND. 
+
+Item 6: Location price
++ Description: In each new location the Coi cafe intend to build their new store. They need to find specific location for each store and pay for that location.
++ Estimation: Parametric estimation. 400 million for each store. 
+
+
+
+2)
+Request 3:
+
+Risk 1: Project manager's poor management
++ Description: Because project manager plays an important role in launching this project. If he/she has poor management skill, this can affect dramastically on the progress and performance of the project, leading to many other errors.
++ Possibility: Low
++ Impact: High
++ Mitigation plan: Have the project manager attend a project management course or have the project manager attend a training meeting to improve their skill.
++ Contingency plan: Assign a supporter to support project manager to help him/her decrease the workload.
+
+Risk 2: Supply chain shortage
++ Description: Because operate a coffee franchise rely heavily on coffee supply and other material, resources. Having these resources shortage could critically damage the operation of the store.
++ Possibility: Medium
++ Impact: High
++ Mitigation plan: Finding and establish more than one supply chain for each store to ensure there are always materials at hands
++ Contingency plan: Announce beforehand to customers that the store currently is at material shortage on several beverage services so that customer can consider order other beverages.
+
+Risk 3: Project schedule can not be met
++ Description: Even though the Coi manager aims to establish one flahship store in each province within 12 months, there could be some unforseen problems that can lead to the project schedule can not be met such as shortage of manpower, can not find appropriate location for store, etc. This can lead to not meet the schedule constraint on time.
++ Possibility: Low
++ Impact: High
++ Mitigation plan: Communicate with the manager, stakeholders and ask them if they can shift the schedule in order to fix the unforseen problems.
++ Contingency plan: Pour more money into the store that is currently having the problem to solve the problem.
+
+Request 4:
+Project roles:
+- Project manager: This is the key person in the whole project. He is the coordinator and has many influences over the project. In the initiatiing phase, he will build the project charter document and decide how should the project is done. He also communicate with stakeholders.
+- Interior design team: This is the core in decorating coffee store. They are well-trained and responsible. They need to make sure the interior of each store is consistent with the coffee brand.
+- Marketing team: They are core in running marketing operation and surveying and recruiting people. They are the face of the brand, they can increase the sale of the store drastically just by running efficient marketing campaign.
+- Training team: They are responsbile for training newly hired people. They need to ensure that the new workforce will work professionally to meet the high standard of a big brand coffee store.
+- Employee: They are the workers at the store and responsible for serving customers.
+
+Deliverables:
+- Create project charter: PM (R/A), Interior design team (I), Marketing team (I), Training team (I), Employee (I).
+- Design and construct interiors: PM (I), Interior design team (R/A), Marketing team (I), Training team(I).
+- Running marketing campaign: PM (I), Interior design team (I), Marketing team (R/A), Training team (I).
+- Training local personnel: PM (C), Interior design team (I), Marketing team (I), Training team (R/A), Employee (I).
+- Manage material and resources: PM(R), Training team (R), Employee (R/A), Interior design team (I).
+- Recruting employee: PM (I), Training team (I), Employee (I), Interior design team (I), Marketing team (R/A).
+- Achieve 2000 customers per day: PM (R), Training team (R), Employee (R), Interior design team (I), Marketing team (R/A).
+- Revenue management: PM (R/A), Training team (I), Employee(I), Marketing team (I), Interior design team (I)
+- Maintaining interior: PM (I), Training team (I), Marketing team (I), Employee (I), Interior design team (R/A).
+- Ensure hygene criteria: PM (R/A), Training team (R), Marketing team (I), Employee (R), Interior design team (I).
+- Reach sale criteria: PM (R), Training team (R), Marketing team (R/A), Employee (R), Interior design team (I). 

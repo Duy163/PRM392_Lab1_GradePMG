@@ -1,0 +1,173 @@
+1)
+Request 1:
+
+Project name:
+Coi Cafe Central Service Excellence Expansion Project
+
+Justifications:
+Expand Coi Cafe into five Central provinces: Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh.
+Focus on service excellence as the main competitive advantage of the five new flagship stores.
+Ensure that new local staff can deliver the same customer service quality, drink preparation standards, and sustainable practices as existing Coi Cafe stores.
+Introduce Coi Cafe’s nostalgic Vietnamese coffee space, traditional drink menu, reusable cup model, and direct coffee sourcing from Dak Lak farmers to Central Vietnam.
+Build customer trust in new markets through consistent service, friendly staff, stable drink quality, and professional store operations.
+Develop a training-based expansion model that can be reused for future store openings.
+Increase revenue outside Hanoi and Ho Chi Minh City and help each store reach break-even within eight months after opening.
+
+Project constraints:
+Scope:
+Open five flagship stores only, one store in each selected province.
+Project scope includes: market survey, premises selection, lease agreement, interior design, construction, equipment setup, recruitment, service training, supplier setup, launch campaign, and post-opening service monitoring.
+The project does not include franchising, extra stores, new product lines, or expansion to provinces outside the assigned five.
+Time:
+The project duration is 12 months.
+All five stores must be opened within the approved timeline.
+Recruitment and training must be completed before each store’s opening.
+Each store must reach break-even within eight months after opening.
+Cost / Budget:
+Total budget is VND 8.5 billion.
+Average budget is approximately VND 1.7 billion per store.
+Funding comes from company equity and commercial bank loans.
+Cost must be controlled carefully, especially for construction, equipment, training, inventory, and launch promotion.
+Quality:
+All stores must follow Coi Cafe’s brand standards.
+Interior design must reflect the nostalgic Vietnamese coffee concept.
+Drink quality, hygiene, reusable cup practice, and customer service must be consistent across all five stores.
+Each store must pass a service readiness check before opening.
+
+Request 2:
+
+Funding Block 1: Market survey and customer service requirement study
+Name: Market survey and service requirement study
+Description: Cost for studying customer expectations, competitor service quality, store location potential, customer flow, and required service standards in each province.
+Estimation: VND 650 million total, around VND 130 million per store.
+Wawy to estimate: Based on field survey cost, customer interviews, mystery visits to competitors, travel expenses, and local market data collection.
+Person in charge: Project Manager and Marketing Team.
+
+Funding Block 2: Location and lease preparation
+Name: Premises selection and lease preparation
+Description: Cost for site search, traffic checking, rental comparison, legal review, lease negotiation, rental deposit, and first rental payment.
+Estimation: VND 1.5 billion total, around VND 300 million per store.
+Way to estimate: Based on expected rental rates, deposit months, broker fee, legal review cost, and first rental payment in each province.
+Person in charge: Project Manager and Finance Team.
+
+Funding Block 3: Store construction and service layout
+Name: Store construction and service-friendly layout
+Description: Cost for construction, lighting, furniture, counter design, customer seating, service flow arrangement, decoration, signage, and nostalgic brand finishing.
+Estimation: VND 3.05 billion total, around VND 610 million per store.
+Way to estimate: Based on store area, contractor quotations, material prices, furniture list, counter layout, and standard design requirements.
+Person in charge: Interior Design and Construction Team.
+
+Funding Block 4: Equipment and service training
+Name: Equipment setup and staff service training
+Description: Cost for coffee machines, grinders, refrigerators, POS system, water filters, reusable cups, recruitment, uniforms, training materials, practical training sessions, and pre-opening salary.
+Estimation: VND 2.25 billion total, around VND 450 million per store.
+Way to estimate: Based on equipment checklist, supplier quotations, number of staff, training hours, trainer travel cost, uniform cost, and salary support before launch.
+Person in charge: HR Team, Operations Team, and Procurement Team.
+
+Funding Block 5: Supply chain and customer launch
+Name: Opening inventory and customer launch campaign
+Description: Cost for supplier selection, first inventory, delivery route setup, safety stock, quality checking, local launch campaign, opening vouchers, customer feedback cards, and grand opening event.
+Estimation: VND 1.05 billion total, around VND 210 million per store.
+Way to estimate: Based on first-month inventory needs, supplier price list, transport cost, event size, promotion budget, feedback collection cost, and advertising price.
+Person in charge: Procurement and Supply Chain Team, and Marketing Team.
+
+Request 3:
+
+Risk 1: New staff cannot meet service standards
+Risk name: Weak service readiness before opening.
+Description: Local employees may not fully understand Coi Cafe’s service style, drink preparation process, reusable cup practice, or customer care standards.
+Impacts:
+Scope / quality: Service quality may be inconsistent and damage the flagship store image.
+Time: Opening may be delayed if staff cannot pass training.
+Cost: Extra training, trainer travel, and temporary staff support may increase costs.
+Mitigation plan: Use a standard training program, practical drink tests, service role-play, and pre-opening evaluation for all staff.
+Contingency plan: Send experienced staff from Hanoi or Ho Chi Minh City to support the new stores during the first month.
+
+Risk 2: Store layout causes slow service
+Risk name: Inefficient service flow.
+Description: If counter layout, seating arrangement, equipment placement, or order flow is not designed well, service speed may be slow during peak hours.
+Impacts:
+Scope / quality: Customer satisfaction and service quality may decrease.
+Time: Additional layout adjustment may be required before or after opening.
+Cost: Rework, extra equipment movement, or additional staff cost may occur.
+Mitigation plan: Design store layout based on service flow and test the ordering process before launch.
+Contingency plan: Adjust counter setup, add temporary staff during peak hours, and revise customer waiting flow.
+
+Risk 3: Customer satisfaction is low after launch
+Risk name: Poor early customer experience.
+Description: Customers may complain about waiting time, drink taste, staff attitude, price, or store comfort during the first months.
+Impacts:
+Scope / quality: The store may fail to build strong loyalty in the local market.
+Time: More time may be needed to stabilize customer traffic.
+Cost: Additional service recovery, training, and promotion cost may be required.
+Mitigation plan: Collect customer feedback daily during the first month and review service quality weekly.
+Contingency plan: Provide service recovery vouchers, retrain staff, adjust operating process, and increase store manager supervision.
+
+Request 4:
+
+Project roles:
+Role 1: Project Manager / Market Development Director
+Responsible for overall project planning, approval, scope, timeline, budget, risk control, and break-even monitoring.
+
+Role 2: Store Design and Build Team
+Responsible for premises support, interior design, construction, service layout, signage, equipment coordination, and store readiness.
+
+Role 3: Service Operations Team
+Responsible for recruitment, staff training, supplier setup, inventory, service standards, launch campaign, customer feedback, and performance support.
+
+RACI responsibilities:
+R = Responsible
+A = Accountable
+C = Consulted
+I = Informed
+
+Activity 1: Approve project charter and service excellence objectives
+Project Manager: A/R
+Store Design and Build Team: C
+Service Operations Team: C
+
+Activity 2: Conduct market and customer service research
+Project Manager: A
+Store Design and Build Team: I
+Service Operations Team: R
+
+Activity 3: Select and approve store premises
+Project Manager: A/R
+Store Design and Build Team: C
+Service Operations Team: C
+
+Activity 4: Design service-friendly store layout
+Project Manager: A
+Store Design and Build Team: R
+Service Operations Team: C
+
+Activity 5: Complete construction and equipment setup
+Project Manager: A
+Store Design and Build Team: R
+Service Operations Team: C
+
+Activity 6: Recruit local staff
+Project Manager: A
+Store Design and Build Team: I
+Service Operations Team: R
+
+Activity 7: Train staff and test service readiness
+Project Manager: A
+Store Design and Build Team: C
+Service Operations Team: R
+
+Activity 8: Set up suppliers and opening inventory
+Project Manager: A
+Store Design and Build Team: I
+Service Operations Team: R
+
+Activity 9: Execute grand opening and customer launch
+Project Manager: A
+Store Design and Build Team: C
+Service Operations Team: R
+
+Activity 10: Monitor customer satisfaction, sales, and break-even progress
+Project Manager: A/R
+Store Design and Build Team: I
+Service Operations Team: C
+2)

@@ -1,0 +1,48 @@
+1)
+Request 1:
+ 1. Project name: Coi Cafe Expansion
+ 2. Justifications:
+  - Purpose: implement the expansion into 5 cental provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), survey and select premises, designing and constructing interiors consistent with the brand, recruit and launch for each store.
+  - Objective: 
+   + Increase total revenue by 15% for each store within 12 months.
+   + Achieve 100000 followers across Facebook, TikTok and Instagram within 8 months after opening. 
+ 3. 
+  - Project constraints: Human resources, Cost for rents and devices so expensive, 
+  - Scope constraints: touching the right target customer, selecting the store in center of those provinces. 
+  - Time constraints: The project duration is fixed at 12 months.
+  - Cost constraints: The total budget is fixed at VND 8.5 billion.
+  - Quality constraints: Ensure materials for each store not be difference, design the background for each store to be suitable for province's style.
+Request 2: 
+Request 3: 
+ - Risk 1: Resources limitation
+  + Description: Not enough human, devices, materials for lauching campaign
+  + Impact: cost will increase for buying more, time will over schedule   
+  + Mitigaiton plan: asking for helping from nearly stores, using devices and materials carefully and logically.
+  + Contingency plan: Post status on fanpage and Facebook group for recruiting with bonus wage.
+ - Risk 2: Out of budget
+  + Description: using cost for rent, marketing so many that cost is not enough for launching activities after opening.
+  + Impact: cost will not enough.
+  + Mitigation plan: using 15% the contincency budget for essential activities, list out what important work need to do first. 
+  + Contincency plan: 
+ - Risk 3: Wrong content for promotion and marketing 
+  + Description: Content or design in social media is not suitable for customer and has bad response. 
+  + Impact: quality of marketing for lanching campaigns, cost will increase for relaunching marketing.
+  + Mitigation plan: Researching and surveying more clear for customer demand, viral content
+  + Contincency plan: give more promotion like vouchers, gifts for customer who check-in or follow fanpage
+Request 4: 
+ - Project roles:
+  + Project manager (PM)
+  + Marketing staff (MS)
+  + Human resource staff (HRS)
+ - Activities:
+  + Task planning. PM: A/R, MS: I, HRS:I
+  + Selecting concept for store. PM: A/R, MS: R, HRS: I
+  + Selecting area/address in center for flagship store. PM: A/R, MS: R, HRS: I
+  + Logistics preparation. PM: A, MS: R, HRS: C
+  + Promotion and marketing. PM: I, MS: A/R, HRS: R/C
+  + Recruiting and training local personnel. PM: I, MS: C, HRS: A/R
+  + Designing poster and create content. PM: I, MS: A/R, HRS: C
+  + Collect feedback and evaluate outcome. PM: A/R, MS: C/R, HRS: I
+  
+
+2)

@@ -1,0 +1,118 @@
+1)
+Request 1: Define at least 2 project objectives using SMART criteria
+Objective 1:
+
+Sucessfully launch five Coi Cafe  flagship stores in Central Vietnam within 12 months, with one store in each target province: Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh.
+Specific: The project focuses on opening one flagship store in each of the five selected provinces.
+Measurable: Progress can be measured by the number of stores completed, equipped, staffed, and officially opened.
+Achievable: This is realistic because Coi Cafe already has experience managing 12 stores in Hanoi and Ho Chi Minh City.
+Relevant: The expansion supports Coi Cafe’s growth strategy and helps the brand enter a new regional market.
+Time-bound: All five stores must be opened within 12 months.
+
+Objective 2:
+Ensure each new stoer is prepaed to reach break-even within 8 months afetr opening.
+Specific: This incudes trained staff, reliable supliers, store procedures, and financial tracking.
+Measurable: Progress can be tracked through training results, supplier agreements, monthly revenue, and operating costs.
+Achievable: The target is possible if Co Cafe applies its current business model and adapts it to local market conditions.
+Relevant: Reahing break-even is important because the project uses both equity and bank loans.
+Time-bound: Each store should reach break-even within 8 months after opening.
+
+Request 2: Define the Scope for This Projct
+In-Scope Items:
+Conducting market resarch in the five selected Central provinces.
+Surveying and comparing potential store locations.
+Selecting one flagship store location in each province.
+Preparing rental documents and location evaluation reports.
+Desgning interiors based on Coi Cafe’s nostalgic Vietnamese coffee style.
+Managing construction, decoration, furniture setup, and equipment installation.
+Recruiting and training local staff.
+Finding Central region suppliers for coffee beans and other raw materials.
+Preparing marketing campaigns for each store launch.
+Setting up store operation guidelines and pre-opening checklists.
+Monitoring early sales, costs, and customer feedback after opening.
+Out-of-Scope Items:
+Opening more than five stores.
+Expanding outside the five selected provinces.
+Changing Coi Cafe’s main brand identity or nostalgic concept.
+Creating a completely new menu.
+Developing a mobile app, delivery platform, or advanced ordering system.
+Launching a franchise model.
+Renovating existing stores in Hanoi and Ho Chi Minh City.
+Expanding internationally.
+Key Deliverables:
+Five Coi Cafe flagship stores opened and ready for daily operation.
+Market research and location selection reports.
+Approved rental and interior design documents.
+Completed construction, decoration, furniture, and equipment setup.
+Recruited and trained local employees.
+Approved supplier list or signed supplier agreements.
+Marketing launch plans and promotional materials.
+Store operation guidelines and opening checklists.
+Initial performance reports after opening.
+
+Request 3: Define at least 5 QA/QC Activities
+1. Market and Location Review (QA):
+At the beginning, the team reviews customer traffic, competitors, rental prices, visibility, accessibility, and customer habits in each province. This reduces the risk of choosing locations with weak business potential.
+
+2. Budget Review and Cost Control (QA):
+The project manager and finance team compare estimated costs with the total budget of VND 8.5 billion, or about VND 1.7 billion per store. This helps prevent overspending on construction, equipment, rental deposits, recruitment, and marketing.
+
+3. Interior Design Approval (QA):
+Before construction starts, the design team and management review the layout, furniture, lighting, decoration, and customer space. This ensures each store still reflects Coi Cafe’s nostalgic Vietnamese coffee concept.
+
+4. Construction Quality Inspection (QC):
+During construction, the team checks material quality, finishing work, electrical systems, furniture installation, equipment setup, and safety conditions. This helps detect problems early and reduce rework before opening.
+
+5. Supplier Quality Evaluation (QC):
+Before confirming suppliers, the team checks coffee sample quality, delivery reliability, price stability, and supplier capacity. This is important because unstable supply can affect drink quality and daily operations.
+
+6. Staff Training Assessment (QC):
+After training, employees are tested on drink preparation, customer service, POS usage, hygiene standards, and basic procedures. This ensures staff are ready to serve customers properly.
+
+7. Soft Opening Evaluation (QC):
+Before official launch, each store runs a short trial operation with limited customers. The team observes service speed, drink quality, equipment performance, staff coordination, and customer feedback, then fixes issues before grand opening.
+
+Request 4
+I will analze this project schedule and address each question systematically.
+a. What are paths in the network diagram for the deliverable?
+To identify all paths, I will trace each possible route from Start to End:
+Start → A → B → C → G → End
+= 3 + 4 + 6 + 3 = 16 months
+
+b. Identify the minimum duration to complete that deliverable
+The minimum duration is determined by the critical path, which is the longest path in the network. Based on the paths above, the critical path is:
+Path 2: Start → A → B → C → G → I → End = 20 months
+Therefore, the minimum duration to complete the deliverable is 20 months.
+
+c. What activities have the most flexibility in terms of time?
+Activities outside the critical path usually have more slack time. Based on the network:
+Activity D is not on the critical path, so it has some flexibility.
+Activity E is outside the critical path because it belongs to a shorter route.
+Activity F has flexibility because its route is shorter than the critical path.
+Activity H has the most flexibility because the path Start → D → H → I → End is only 8 months, much shorter than the 20-month critical path.
+Therefore, Activity H likely has the most flexibility.
+
+d. Solutions to recover a 3-month delay during activity C
+If activity C is delayed by 3 months, the project manager should recover time from the remaining critical path activities.
+
+1. Fast-tracking remaining activities:
+Start marketing preparation before construction is fully completed and begin operation setup during the final construction stage.
+Assumption: Teams can work in parallel without major disruption.
+Result: Saves around 1–2 months.
+
+2. Crashing critical path activities:
+Add more workers, use overtime, or hire extra contractors to shorten construction and operation setup.
+Assumption: Extra budget and reliable resources are available.
+Result: Saves around 2–3 months.
+
+3. Scope reduction:
+Reduce non-essential decoration details while keeping the main nostalgic brand elements of Coi Cafe.
+Assumption: Stakeholders accept a simpler design that still meets brand standards.
+Result: Saves about 1 month.
+
+4. Alternative execution strategy:
+Re-sequence tasks so equipment delivery, supplier testing, and staff preparation can start earlier.
+Assumption: The new sequence is feasible and does not create serious quality or safety issues.
+Result: Can recover up to 3 months.
+Overall, each solution has trade-offs among time, cost, and quality. The project manager should choose the best combination based on the budget and the need to meet the launch des
+2)

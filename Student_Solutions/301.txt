@@ -1,0 +1,79 @@
+1)
+Request 1:
+1, Project name: Central Flagship Store.
+2, Purpose: Implemement an expansion project into 5 Central provinces, with 1 flagship store in each province.
+    Reasons: nostalgic space, traditional drink menu and sustainable bussiness model.
+3, Project contraints:
+a, Scope 
+  - surveying and selecting premises, designing and contructing interiors consistent with the brand, recruiting and training local personal, building a raw meterial supply chain from Central region supplier, and launchingcampaigns for each store.
+b, cost
+  - total budget: VND 8,5 billion (1,7 billion/ 1 store)
+c, Quality
+  - Each store must reach the break-even point within 8 months after opening
+
+Request 2: 5 cost/budget items:
+Surveying
+ - description: Surveying and selecting premises
+ - estimation: project manenger
+ - cost: 2 billion VND
+
+Designing and constructing 
+ - description: design and contructing interiors consistent with the brand
+ - estimation: design team
+ - cost: 1 billion VND
+
+Tranning
+ - description: decruiting and training local personal
+ - estimation: HR team
+ - cost: 1,5 billion VND
+
+Buiding
+ - description: building a raw material supply chain from Central region supplier
+ - estimation: project manenger
+ - cost: 2 billion VND
+
+Launching 
+ - description: launching camagns for each store
+ - estimation: marketing team
+ - cost: 2 billion VND
+ 
+Request 3: Three project risks:
+
+1, Coaching
+ - description: can not find a coaching suitable for tranning local person
+ - possible impact on quality and time.
+
+2, Customer
+ - description: marketing team can not coommunica with customer.
+ - possible impact on cost.
+
+3, Employment
+ - description: Hr team can not find employs suitable with the project
+- possible impact on quality.
+
+
+
+2)
+Request 4 
+1,  the authority of pulication need a app for customer order.
+
+3 project roles 
+ - Requirement and analysis completion
+ - System development completion
+ - Testing and deployment completion
+
+2, 10 activities
+ a, setup development enviroment
+ b, design system architecture
+ c, design database schema
+ d, implement core modules
+ e, implement UI components
+ f, intergrate front end and back end
+ g, develop API services
+ h, code review
+ i, fix bug
+ j, intergration testing
+ k, prepare build package
+
+3, list out the responsibilities:
+a-->b-->c-->d-->g-->e-->f-->h-->i-->j-->k

@@ -1,0 +1,72 @@
+1)
+Question 1:
+
+Project Name: Coi Cafe Expansion
+
+Justifications: Coi's management decidec to implement an expansion project into 5 Central provinces. They want to change about the management, service, designing and constructing interiorc consister with the brand.
+
+Project Constraints:
+- In terms of scope: severy and selecting premises, designing and constructing interiosrs consistent with the brand, recruiting and training local personnel, building a raw material supply chain from central region suppliers, and launching campains for each store.
+- Time: 12 months.
+- Cost/budget: VND 8.5 billion (approximately VND 1.7 billion/store)
+- Quality: 1 flagship store in each province (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh); Each store must reach the break-even point within 8 monhs after opening,
+
+Question 2:
+1. 
+- Name: Trainning Local Personel cost
+- Description: Cost to rent and train employees.
+- Estimation: Each store open to 7:00 AM to 20:00 PM. Need to 5 employees and rent cost is VND 25000/ hour. The total cost is VND 700 million. HR team charge.
+
+2. 
+- Name: Building a raw material supply chain.
+- Description: Cost to pay for building a raw material supply chain from central region suppliers.
+- Esmitimation: About cafe, milk, fruits,... for 5 store within 12 months. With each store is VND 30 million/month. The totals cost is VND 1.8 billion. PM charge.
+
+3. 
+- Name: The designing cost
+- Description: cost for designing and constructing interiors consistent with the brand.
+- Esimation: Each store is VND 70 million. The totall cost is VND 350 million. Intorir design team charge.
+
+4. 
+- Name: Marketing cost
+- Descripton: Cost to marketing on social media (Tiktok/ Facebook/ Instagram)
+- Estimation: 24 short videos, 36 post seedings and collabration with more 3 KOLs. The total cost is VND 500 million. Marketing team charge.
+
+5. 
+- Name: Surveying and selecting premiss cost
+- Description: Cost to serveying and selecting premiss. Post servey on socail media and create event.
+- Esimation: Servey within 3 months. The total cost is VND 200 million.
+2)
+Question 3:
+1. 
+The risk title/name: The number of serveys not enough.
+Description: Servey with 3 months is'not enough. Need more time to have enough serveys.
+Possible impacts: Enough 50000 serveys on a month. Cost: VND 60 million.  
+Relevant risk response plans: Contingency. 
+
+2. 
+The risk title/name: Don't have Central region suppliers.
+Description: Not enough igredents (cafe, milk, fruits,...).
+Possible impacts: Find new suppliers, and change a raw material supply chain. Time: 1 moth. Cost: VND 35 million.
+Relevant risk response plans: mitigation
+
+3.  
+The risk title/name: Collabration with KOLs.
+Description: Collabration with KOLs not effetive to makerting project.
+Possible impacts: Find new KOLs, create new content and short video. Upload video on social media. Time: 1 month. Cost: VND 50 million.
+Relevant risk response plans: mitigation.
+
+Question 4:
+1. Project Management:
+Create survey: A; Post servey: I; Selecting premises: R; Designing and constructing interiors: C; Makerting project on Facebook: C; Building a raw material supply chain: A; Rent Employee: I; Tranning Employee: C; Content short videos: I; salary management: A. 
+
+2. HR team:
+Create survey: I; Post servey: I; Selecting premises: I; Designing and constructing interiors:I; Marketing project on Facebook: I; Building a raw material supply chain: I; Rent Employee: R; Tranning Employee: R; Content short videos: I; salary management: C.
+
+3. Interior desigin team: 
+Create survey: C; Post servey: I; Selectiong premises: I;Designing and constructing interiors: R; Makerting projec on Facebookt: I; Building a raw material supply chain: I; Rent Employee: I; Tranning Emlpoyee: I; Content short video: I. Salary management: C.
+
+4. Marketing Team:
+Create survey: R; Post servey: R; Slecting premises: C; Designign and constructing interiors: C; Building a raw material supply chain: I; Marketing project on Facebook: R; Rent Employee: I, Tranning Emloyee: I; Content short videos: A; Salary management: C.
+
+ 

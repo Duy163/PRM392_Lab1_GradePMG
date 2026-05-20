@@ -1,0 +1,81 @@
+1)
+Request1:
+1. Project name: Open new branch campaigns of Coi Cafe
+2. Justificattions:
+- Purpose: Decided to implement an expansion project into 5 Central provinces(Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 months.
+- Reason: Coi Cafe brand with 12 stores in Hanoi and Ho chi Minh City is famous, so they want to open new branch.
+3. Project constraint.
+- Scope: 
++ The project includes: surveying  and selecting premises, designing and contructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Cental region suppliers, and launching campaigns for each store.
++ The project is led by the Market Development Director as PM, coordinating with the interior design team, HR team, and marketing team
+- Time: with 1 flagship store in each province within 12 months 
+- Cost / budget: 8.5 billion VND(approximately 1.7 billion VND/store).
+- Quality: Each store must reach the break-even point within 8 months after opening.
+
+Request 2:
+- Object1: Rest place
++Name: Rest store
++Description: find place where open new branch of Coi Cafe
++How: the Market Development Director  find place having good view.
++Cost: 600 million VND/store
++Responsible: PM
+- Object2: Decord store
++Name: Design store
++Description: Design infacture of store include chair, desk and type of store,..
++How: Design team will design of type for store
++Cost: 400 million VND/store
++Responsible: Design team
+- Object3: Add employee
++Name: Add employee for coffee store
++Description: Adding and training employee for store
++How: HR will add new employee and training for new branch store
++Cost:400 million VND/store
++Responsible:  HR
+- Object4:
++Name: Maketing for coffee store
++Description: create blog of store in social media and website
++How: maketing team will maket on social media or platform
++Cost: 100 million VND/store
++Responsible: Maketing team
+- Object5: 
++Name: Contingency Reserve
++Desciption: using when store have mistake about budget
++How: PM will manage contingency cost 
++Responsible: PM
+
+Request3:
+Risk 1: 
++ Name: Lack employee
++ Description: Employee off because individual works.
++ Quality: low-work in store
++Time: Bi-Weekly
++ Cost: 50 million VND/store
+Risk 2:
++Name: Payment method downtime
++Description: Payment method with QR code in store is mistake
++ Quality: dificult for customer when customer don't have crash delivery.
++Time: Monthly
++ Cost: 20 million VND/ store
+Rish 3: 
++ Name: Farm turnover
++ Description: Farmer not collab with store
++ Quality: Lack resourse for coffee store
++Time: Rarely
++ Cost: 200 million VND/ store
+2)
+Request4:
+1.
+-PM
+-Design team
+-Maketing team
+2.
+-Analysic local bussiness
+-Prepare campaigns
+-Choose store
+-Design store
+-Maketing about store
+-Add employee
+-Training employee
+- Budget for staff
+-Report for store
+-Plan improve store in future

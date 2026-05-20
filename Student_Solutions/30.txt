@@ -1,0 +1,68 @@
+1)
+Request 1:
+ - Project name: Coi Cafe - expansion project 
+-  Purpose: The project is an expansion project into 5 Central provinces (Da Nang, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagshp store in each province within 12 months.
+- Reason: To open more stores in Central province  
+- Constraints:
++ Scope: Coi Cafe is a pure Vietnamese Coffe brand with 12 stores in Hanoi anf Ho Chi Minh City, famous for it nostalgic space, traditional drink menu, and sustainable business model (using reusable cup, purcharsing coffer directly from Dak Lak farmers). Coi's managerment decided to implement an expansion project into 5 Central provinces, with 1 flagship store in each province within 12 months
++ Time; within 12 months 
++ Cost: VND 8.5 billion (approximately VND 1.7 billion/store)
++ Quality: 1 flagship store in each provinces within 12 months. Each store must break-even point within 8 months after opening
+
+Request 2:
+1. Salary for staff
+- Desrciption: Salary for 4 staff for 6 hourse of 1 store
+- Estimation: 500000 VND for 1 strore
+- Method: Bottom-up
+- Person in charged: HR lead
+2. Maketing
+- Description: cost for ads
+- Estimation: 5000000 VND for 1 store 
+- Method: Bottom-up
+- Person in charged: marketing lead 
+3, Material:
+- Description: Cost for setup store, buy material
+- Estimation: 5000000 VND for 1 store
+- Method: Bottom-up
+- Person in change: PM
+4. Managerment & Admin:
+- Desrciption: Salary for Maket Development Director & PM
+- Estimation: 1000000 VND 
+- Method: Bottom-up
+- Person in chaged: PM 
+5. Risk:
+- Description: cost for risk when implement the project
+- Esimation: 8500000 
+- Method: form the project befor
+- Person in charged: PM
+2)
+Request 3:
+1. Risk: Staff
+- Description: Staff absent for sick or other reason. Make the store don't have enought staff to work clearly
+- Impact: High (increase time to support customer)
+- Mitigation: Training more staff 
+- Contingency: Call staff for do more time and get more salary
+2. Risk: Material
+- Desciption: Don't have enought material for make a dink for customer (coffee, fruit, milk,...)
+- Impact: High
+- Mitigation: order material early
+- Contingency: buy from other 
+3. Risk: Scope creep
+- Descriptin:  sponsor want more, the scope increase
+- Impact: High
+- Mitigation: Ask PM before appove
+
+Request 4:
+1.  Role: PM(Market Development Director), HR, marketing, staff, store manager
+2. Ten tasks:
+- Market reasearch: PM(A/R), HR(C), maketing(C)
+- Planing: PM(A/R), HR(C), maketing(C)
+- Securing permit:: PM(A/R) 
+- Setup store: PM(C), HR(C), maketing(C), staff(R), store manager(A) 
+- Order material; PM(C), HR(I), marketing(I), staff(I), store manager(A/R)  
+- Training staff: PM(C), HR(A/R), store manager(C)
+- Support customer; staff(R), store manager(A), PM(C)
+- Poster: Marketing(A/R), PM(C)
+- Tracking material: store manager(A/R),  staff(C), PM(C)
+- Surveying: Marketing(C), staff(R), PM(A)
+- Report:: store manager(R), PM(A)

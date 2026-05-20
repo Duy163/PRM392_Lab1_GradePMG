@@ -1,0 +1,94 @@
+1)
+Request 1:
+1. Project name: The new developmnet journey of Coi Cafe VietName.
+2. Purpose: Expanding Coi Cafe's stores into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province.
+Reason: Coi Cafe want to develop and explore markers of coffee so that increase the shape of their brand into other Central of Vietname  
+3. Project constraints:
+- Scope: 
+  - Surveying and seleting premises.
+  - Designing and construsting interiors consistent with the brand.
+  - Recruiting and traning local permision.
+   - Building a raw material supply chain from Central region suppliers, and launching campaigns for each store.
+- Time: 12 moths for 5 stores with each store per provinces.
+- Cost/budgets: VND 8.5 billion for all store.
+- Quality: Each store must reach the break-even point within 8 months after opening.
+
+Request 2: Cost/budgets
+1. 
+- Name: Construction cost
+- Desciption: The cost for hiring employess to contruct stores
+- Estimate method: Bottom-up 
+- Person in charged: HR lead
+2.
+- Name: Marketing cost
+- Description: the cost for bring the Coi's brand to poteintal customer in centrals of each province 
+- Estimate method: top-down
+- Personal in charged: maketing lead
+3. 
+- Name: location cost 
+- Description: The cost for buying the location to set store at here 
+- Estimate method: bottom-up
+- Person in charged: PM
+4. 
+- Name: creator cost
+- Description: The cost of designing banners, photographing inovative pictures, arts
+- Estimate method: top-down
+- Person in charged: Design lead
+5
+- Name: Analysis cost
+- Description: The cost for creating surveys then identify about demand of customer to premision selecting that help stores nearly come from customers.
+- Estimate method: top-down
+- Person in charged: PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2)
+Request 3: Project risks
+1. Risk 1: 
+- Name: difficult to compare with Local coffee brands  
+- Description: Some local coffee brand showed strong impact and cutomer friendly like with this brand, so Coi with meet some problem.
+- Possible impact: middle
+- Mitigation: Carefully analysis with data from survey
+- Contingency: spend more time to find cultral in province
+ 
+
+
+Request 4: RACI Chart
+1. Three project roles:
+- PM: Project managers (Market Development Direction)
+- DS: Designer
+- MKT: Marketing
+
+2 & 3: Task/activity/deliverable and reponsibilities
+- Create project management plan: PM
+- Hire the employees for construction: HR
+- Create surveys: PM
+- Impliment survers: PM
+- Design stores architecture: DS
+- Chosee types of chair, table which sonsistent with brand: DS
+- Design banners: DS
+- Create maketing plan: MKT
+- Hire staffs for stores: MKT
+- Impliment maketing the brand: MKT 
+

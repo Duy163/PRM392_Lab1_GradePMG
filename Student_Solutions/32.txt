@@ -1,0 +1,48 @@
+1)
+Request 1 : 
+1. Project name : Coi Cafe project
+2. Purpose: implement an expansion project into 5 central provinces(Da Nang , Hue , Quang Nam , Quang Ngai , Binh Dinh ), with 1 flagship store in each province within 12 months . 
+3. Scope : The project includes : surveying and selecting premises , designing and constructing interiors consistent with the brand , recruitingand launching campaigns for each store . 
+Time : 12 month 
+Cost : VND 8.5 billion(approximately VND 1.7 billion/store)
+Quality : Each store must reach the break-even point within 8 months after opening.
+
+Request 2 :
+Five main cost/budget items:
+1 - Build the coffee shop ( budget to build interior , chairs , tables , cups , ect...)
+VND 1 billion sum of all the interior and exterior , person in charged - PM and interior team 
+2 - Pay for staff ( bartenders , managers, hr team , marketing team ect...)
+VND 300 million sum of all the salary ,person in charged - PM and hr team
+3 - Pay for ingredients( coffee , tea , sugar , ect....)
+VND 200 million sum off all ingredients , person in charged - Manager 
+4 - Pay for marketing( run ads for social media ect....)
+VND 100 million sum of running ads on social media platform ( facebook , instagram , tiktok ect...) - person in charged - Marketing team 
+5 - Pay for shop maintain( electric , water , gas ,...)
+VND 100 million sum of maintaning the shop , person in charged - Manager
+2)
+Request 3 :
+ First project risk : store not reach the break -even point within 8 months after opening can impact on quality of product 
+- Risk response plan : Run more ads and frequently  , develope more events and sales to attract customer to increase income  
+
+ Second project risk : higher cost for building coffee shop can impact at budget 
+ - Risk response plan : accurately choose cheap materials as much as possible 
+
+3th project risk : Hr team can`t recruit enough staff to run coffee shop can impact on time of project 
+
+ - Risk response plan : increase the salary to attract more people to come and work longer at coffee shop 
+Request 4 :
+1. three project roles : Market Development Director as PM
+-Interior design team
+-HR team 
+-Marketing team
+2. Ten tasks :
+- Make videos for social media (Marketing team) 
+- Recruit Staff ( HR team)
+- Training Staff (HR team)
+- Manage Staff (HR team)
+- Write post for social media( Marketing team) 
+- Design the interior ( interior design team)
+- Find cheap interiors materials to buy( interior design team)
+- Run ads for social media (HR team) 
+- Manage the cost of marketing(Marketing team)
+- Coordinating with HR team , marketing team , interior design team make sure everything done on time (PM)

@@ -1,0 +1,148 @@
+1)
+Request 1 
+Project Name:
+ Central Region Store Development Project – Coi Caf
+Purpose / Justification:
+ The project is designed to establish five new stores in Central Vietnam over a 12-month period. These stores will be located in major provinces to capture both local and tourist markets.
+This initiative aims to grow the company’s presence nationwide, improve revenue performance, and build a localized supply network to support sustainable operations.
+Success Criteria:
+Complete 5 stores within 12 months
+Achieve break-even within 8 months
+Ensure consistent customer experience
+Stay within allocated budget
+Stakeholders:
+ Management team, Project Manager, HR, Marketing, Design, Suppliers
+Constraints:
+ Scope limited to 5 stores, time limited to 1 year, budget fixed, quality must follow brand
+
+Request 2 
+1. Location Cost
+ Rental and deposit
+ Estimate: ~250M/store
+ Method: Market analysis
+ Responsible: PM
+2. Construction Cost
+ Building and interior design
+ Estimate: ~750M/store
+ Method: Bottom-up
+ Responsible: Design
+3. Equipment Cost
+ Machines and furniture
+ Estimate: ~280M/store
+ Method: Supplier quote
+ Responsible: Ops
+4. HR Cost
+ Staff hiring and training
+ Estimate: ~130M/store
+ Method: Per head cost
+ Responsible: HR
+5. Marketing Cost
+ Advertising and opening
+ Estimate: ~180M/store
+ Method: Analogous
+ Responsible: Marketing
+2)
+Request 3
+Risk 1: Delay in Setup
+ May happen due to contractor or legal issues
+ Impact: Time delay, higher cost
+ Mitigation: Good contractor selection
+ Contingency: Schedule buffer
+Risk 2: Financial Risk
+ Revenue may be lower than expected
+ Impact: Loss
+ Mitigation: Pricing and marketing
+ Contingency: Promotion
+Risk 3: Material Shortage
+ Suppliers may fail
+ Impact: Quality and availability issues
+ Mitigation: Multiple suppliers
+ Contingency: Backup suppliers
+
+Request 4 
+Project Roles:
+ PM: Project Manager
+ ID: Interior Design Team
+ HR: Human Resources Team
+ MKT: Marketing Team
+ OPS: Operations Team
+Task 1: Market Research
+ PM: A
+ MKT: R
+ ID: C
+ HR: C
+ OPS: I
+Task 2: Location Selection
+ PM: A
+ OPS: R
+ MKT: C
+ ID: C
+ HR: I
+Task 3: Lease Negotiation
+ PM: A
+ OPS: R
+ MKT: I
+ ID: I
+ HR: I
+Task 4: Store Design
+ ID: R
+ PM: A
+ OPS: C
+ MKT: C
+ HR: I
+Task 5: Construction
+ ID: R
+ PM: A
+ OPS: C
+ MKT: I
+ HR: I
+
+Task 6: Equipment Procurement
+ OPS: R
+ PM: A
+ MKT: I
+ ID: C
+ HR: I
+Task 7: Supplier Setup
+ OPS: R
+ PM: A
+ MKT: I
+ ID: C
+ HR: I
+Task 8: Staff Recruitment
+ HR: R
+ PM: A
+ OPS: C
+ MKT: I
+ ID: I
+Task 9: Staff Training
+ HR: R
+ PM: A
+ OPS: C
+ MKT: I
+ ID: I
+Task 10: Marketing Campaign
+ MKT: R
+ PM: A
+ OPS: C
+ ID: I
+ HR: I
+Task 11: Store Launch
+ PM: A
+ MKT: R
+ OPS: R
+ ID: C
+ HR: C
+
+Task 12: Performance Monitoring
+ PM: A
+ OPS: R
+ HR: C
+ MKT: C
+ ID: I
+
+Legend:
+ R: Responsible
+ A: Accountable
+ C: Consulted
+ I: Informed

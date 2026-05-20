@@ -1,0 +1,120 @@
+1)
+## Request 1: Narrative charter statement
+
+1. Project name: Flagship store expansion campaign
+2. Purpose & reason:
+- Purpose: Expanding the Coi Cafe brand to 5 Central provinces (Da Nang, Hua, Quang Nam, Quang Ngai, Binh Dinh) with 1 flagship store each province.
+
+3. Constraints:
+- Scope: 
+    + 1 flagship store in each 5 Central provinces.
+    + Surveying and selecting premises, designing and constructing interiors consistent with the brand.
+    + Recruiting and training local personnel.
+    + Building a raw material supply chain from Central region suppliers
+    +  The campaign will be launched for each store.
+
+
+- Time: 8 months
+
+- Budget: VND 8.5 billion (approximately VND 1.7 billion/store)
+
+- Quality:
+    + Designing and constructing interiors consistent with the Coi Cafe brand.
+    + Building a structured raw material supply chain with an fundamentally essential network of Central region suppliers
+    + Having a most perfect local personnel appropriately with the local area of each store..
+    + Launching successfully the campaign for each store of each province.
+
+
+## Request 2: Five main budget items
+
+a) 
+Name: Store renting fee
+Description: The fee to rent the place where building and launching the store.
+Estimation: 20-40 million VND monthly.
++ The range of renting fee could change base on the area the store is located. It can be up to 40 million VND monthly at central area of cities such as Da Nang, Quang Nam. It also can just nearly 20 million VND monthly at lower fee location such as Quang Ngai.
+
+b) 
+Name: Raw material
+Description: The materials for mainly buniness operation. 
+Estimation: 15-30 million VND monthly
++ At new location, it requires much in cost to find a trustable suppliers, that would make the cost increased.
++ Buying main material such as Arabica coffee often fluctuate from 150-170 thousands VND / kg.  
+
+c)
+Name: Advertisement
+Description: Cost for inviting KOL/KOC, influencers and launching social media advertisement.
+Estimated: 150-200 million VND monthly.
++ Cost for inviting KOL/KOC, influencers, tiktokers and lauching social media ads can be a really huge amount. However, this is essentially for advertising the branch to the local area and encouraging buyers.
+
+d) 
+Name: Staff income paying
+Description: Monthly cost for hiring staffs.
+Estimated: 20-25 millions VND monthly
++ To optimize cost, we should hire staff by slot (each slot can fluctuate between 20-27 thousand VND depends on the store location). 
++ We should hire about 3-4 staffs each slot and 3 slots for 1 days.
+
+e)
+Name: Furniture & Decoration 
+Description: Cost for buying new furnitures, maintaining using furnitures when the store began launching and decoraiting the store.
+Estimated: 300 millions VND for first month and about 10 millions VND monthly.
++ Buying furnitures and decorating can cost a huge amount of money when first launching. However, it can be really small after that.
+
+2)
+## Request 3: Project risks
+
+a) 
+- Name: Overuse of budget
+- Description: using budget in an unoptimized way.
+- Impact: The overuse of budget without good directions will lead to have too less remaining budget  for maintaing the operation of the store, this can led to be hard for the store to maintain the facilities and the quality of their services.
+- Solution: 
+  + Investigating budget usage of the store frequently to detect unoptimized utilization.
+
+b)
+- Name: Not enough staff
+- Description: Often occurs when the store first launching when store can't hire enough staff to keeping operating of the store, staff is absent for working slot without an acception.
+- Impacts:
+     + The quality of services wil be reduced which reduce the interest of customer for the store.
+     + Even worst, the store might not start at the accurate time 
+- Solution:
+     + The stores should have clear contract when hiring new staff, staff should not be absent too much and they should have right permission for being absent.
+     + Having good hiring advertisement strategy at the starting of campaign so that people knows about the store.
+     + In case, there is no staff at the beginning or the quantity is too bad. The project team should communitate with the Coi Cafe to have backup solution such as assign temporary staffs from the main branch to the store.
+
+c)
+- Name: Media conflict
+- Description: The media confict when working with KOL/KOC and influencers will be rarely occured when both sides have good contracting. However, this still happens frequently with the Vietnamese branches.
+- Impacts:
+       + The store immediately pushed aside by the fan of those influencer, KOL, KOC.
+       + The imagination about branch between people become negatively results in "blocking" by netizens. 
+- Solution:
+       + It's required to have a clear contract with the KOLs, KOCs, influencers. These clear contracts will protect the store when the conflict occured.
+
+
+## Request 4: RACI chart
+
+1. Three project roles:
+- I'll base on RACI to build 3 roles from task complete maker, consult and finalized task decision maker.
+- We will have:
+a) Project manager (PM): manage team, make informed decision when a project member finished their tasks
+ and responsibly for integrating small modules of the campaign
+b) Consultant/Expertise team (CT): giving informed advice base on their experience of launching similar projects
+c) Operating team (OT): includes HT team, design team, marketing team - get informed information from the project team and execute the task from PM.
+
+2.
+- First, we have:
+  + PM: Project Manager
+  + CT: Consultant team
+  + OT: Operating team
+
+- Ten tasks, activities and responsibilities of each project role:
+a) PM, CT and Coi Cafe representative have meetings to get comprehensive plan for the campaign.
+b) PM works with CT to have overview solution and plan for the campaign
+c) PM and his/her team have discusses to assign tasks and deadlines
+d) PM works with CT and Coi Cafe representative to have clear structured contract templates for store activities such as hiring new staff and inviting influencers.
+e) OT members receives assigned tasks from PM
+f) OT launches advertisement for the new stores of Coi Cafe by each province.
+g) OT launches advertisement for hiring new staffs (normal staffs and head staff) for each store by location 
+h) OT rent store location, make decoration and buy furniture 
+i) OT launches campaign at each store.
+j) PM get information about the budget utilization.
+k) Coi Cafe get comprehensive information from PM daily.

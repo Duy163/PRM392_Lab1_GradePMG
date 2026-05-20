@@ -1,0 +1,64 @@
+1)
+Request 1:
+1. Project name: Coi Cafe - The Vietnamese coffee brand.
+2. Justifications:
+The primary purpose of this project is updated this brand better and Coi's management want to implement an expension project into 5 central provinces with 1 flagship store. This project is implemented to promote better solution and deliver value to the target audience.
+3.To ensure successful delivery, this project must adhere strictly to the following constrants:
+Scope: The project include surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw meterial supply chain from Central region suppliers, and launching campaigns for each store. it explicitly excludes to post - launch marketing and long- term improve for this brand.
+Time: The project duration is strictly updated at 12 months. All deliverables must be completed within this timeframe with no extensions allowed.
+Cost/budget: The total budget is capped at VND 8.5 billion ( approximately VND 1.7 billion/store) from equity and commercial bank loans.
+Quality: Each store must reach the break-event point within 8 months after opening.
+
+Request 2: 
+The total cost budget: VND 8.5 billion 
+Name: Coi cafe store
+ Total Budget store: VND 1.7 billion
+1. Coffee/ product costs: VND 200 million
+Description: Chose the premium coffee costs to have a good product for the customers.
+2. Rent staff: VND 200 milion 
+Description: Rent about 10 local personnels/ store and pay a big salary for them to doing job better. 
+3.Build the store, design the brand : VND 500 milion
+Description: Use a big budget to desgin the brand because it is important for the brand for marketing and long- term improve.
+4. Marketing the brand for social media : VND 200 milion
+Description: Big scope for marketing to the brand can be found everywhere in social media.
+5. Rent the house near the center to build a flasgship store: VND 600 milion.
+Description: chose a good place to build the store, people can easy to get the store when they want.
+2)
+Request 3:
+Risk 1: Schedule delay 
+- Impact: delay the launch date.
+- Mitigation: add buffer time  to the schedule.
+- Contingency: force the team ( like design team, HR team and marketing team ) to work ourtime.
+Risk 2: Budget overrun
+- Impact: run out of money before finishing.
+- Mitigation: Audit the budget weekly.
+- Contingency: Cut down out- of - scope features.
+Risk 3: Low quality 
+- Impact: the product like coffee have a low quality.
+- Mitigation: Auto check the costs before sells.
+- Contingency: Training the personnel/staff for doing better.
+
+Request 4: 
+1. Project roles: market development director (PM), designer ( DES), marketing (MAR). 
+2. 10 task:
+  Task 1. Service and selecting premises
+  Task 2. Designing and construcing interiors consistent with the brand
+  Task 3. Recuiting and training local personnel
+  Task 4. Building a raw material supply chain form Central region suppliers
+   Task 5. Lauching campaigns for each store
+  Task 6. Create a content for marketing brand
+  Task 7. Design uniform for the staff.
+  Task 8. Build the rules for the staff/local personnel to working better.
+  Task 9. Update brand information to the social media and  platform 
+  Task 10. Auto update product within social trending to make more young customers.
+3. 
+Task 1: PM (A/R), DES (I), MAR (I).
+Task 2: PM (A), DES (R), MAR (I).
+Task 3: PM (A/R), DES (I), MAR (I).
+Task 4; PM (A/R), DES(I), MAR (I).
+Task 5: PM (A/R), DES (I), MAR (I).
+Task 6: PM (A), DES (I), MAR (R).
+Task 7: PM (A), DES (R), MAR (I).
+Task 8. PM (A/R), DES (I), MAR (I).
+Task 9: PM (A), DES (I), MAR (R).
+Task 10: PM (A/R), DES (C), MARKETING (C).

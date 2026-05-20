@@ -1,0 +1,65 @@
+1)
+Request1:
+-Project name: Coi Cafe
+-Justification:  they have Vietnamese coffee brand with 12 stores in HaNoi and HCM city, but they want more so they to implement an expansion project into 5 Central provinces
+-Project constraints:
++Scope: The project includes sureying and selecting premises, designing and constructing interiors consistent with the brand
++Time: this project each province within 12 moanths
++Cost: the total budget is VND 8.5 billion
++Quality: this project success is approximately ND 1.7 billion/store form equity commercial bank loans and each store must reach the break-even point within 8 months after opening
+
+Reqest2:
+-Name: PM
+-Description: this make more money because they implenment idea and create the projcet, overview all this project
+-Estimation:
+-Name: Design team
+-Description: they desgin and constructing with the brand
+-Estimation:
+-Name: Maketing team
+-Description: they create the surveying and selecting premises
+-Estimation:
+
+Request3:
+-Risk 1: this time overrun (Time)
++Description: team PM, DEV or Maketing to delay the project
++Impact: High
++Mitigation: make sure finish project early
++Contingency: meeting daily with PM to make sure this project finish
+
+-Risk 2: budget overrun (Cost)
++Description: the total budget do not have for create project, maketing store, each store into 5 Central provinces
++Impact: High
++Mitigation:  make sure the total budget after implement this project
++Contingency: make the total budget early 
+
+-Risk 3: this project not success (Quality)
++Description: they lose of the break-point within 8 months  after they opening
++Impact: High
++Mitigation:  Make sure they break-point early
++Continggency: they much reach the break-point after they opening store 
+
+Request4:
+-Three project role:
++ PM: they follow all the procjet make sure project finish after 12 months
++Design team: they designnign and constructing interiors consisternt with the brand
++Maketing team: they make surveying and selesting premises
+-Tasks:
++PM: implenment the idea
++PM: create the project
++PM: review the project
++PM: report the project
++Design team: craete the store
++Design team: design the brand
++Design team: constructing interiors consistent with the brand
++Maketing team: collap with brand
++Maketing team: create the surveying 
++Maketing team: selecting premises
+-Activities:
++ PM: High
++Maketing team: Medium
++Design team: Medium
+
+
+
+
+2)

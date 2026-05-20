@@ -1,0 +1,147 @@
+1)
+Request 1:
+1. Project name: Coi Cafe Expansion Project for 5 central provinces
+2. Description project: Coi Cafe want to implement an expansion project into 5 central provinces( Da Nnag, Hue, Quang Nam, quang Ngai, Binh Dinh, to to promote thier brand for many people
+Purpose: Promote thier brand -Coi Cafe for many people who love drinking pure Vietnamses coffe
+- Get high value for thier brand
+-Raise awarness about coffe brand which have nostlgic space, traditional drink menu and sustainable business model with using reusable cups, purchasing coffee directly from Dak Lak farmer
+- Give a job chance for many people
+3. Project constraints:
+- Scope:Expansion project into 5 central provinces : Da Nang, Quang Nam, Quang Ngai, Binh Dinh. Surveying and selecting premises, designing and constructing interiors consistent woth the brand, recruiting and training local personnel, buliding a raw material supply chain from Centrel region suppliers and lauching campaign for each store.
+Time: 1 flagship store in each province with 12 months and each store must reach the break-even poitn within 8 months after opening.
+Cost/Budget: the total budget is VND 8,5 bilion ( approximately VND 1.7 bilion/store)
+Quaility: Each store operate smoothly, ensure high quality and delicous drink with cooffee directly making from Dak lak farmer, ensure clear and beautiful space, good training staff, clear and safe drink, Good marketing to attractive at least 500 people in first month, get equity in 8 months after opening. Design interesting menu and poster to adsvertising
+
+Request 2.: five main cost items for each provinces
+1. Name: Surveying and selecting premises cost
+-Description: run survey allocation to attractive many people and suvey habbit using drink to selec place suit for opening to get high income
+- Estimation: 4 people work in 1 months with VND 100 milion
+- person in charfes: VND 25 milions for each person
+2. Name: Designing brand cost:
+-Decription: Cost pay for design poster, voucher, logo, space, ...
+-Estimation: 4 people work in each months with VND 50 minilon for team with 4 people
+3.Name: Marketing the campaign cost
+- Decription: cost pay for marketing on social flatform such as facebook. tiktok, make marketing plan.. run adsvertising, make video,..
+- How to estimate: VND 300 milions for marketing team to run 12 months
+4. Name:Purchasing material supply chain
+Description: cost pay for purchasing material like sugar, milk, coffe, cups, table, decorating space,...
+-How to estimate: VND 500 milions for purchasing when opening
+5. Name: Recruiting and traning staff
+-Decription: cost pay for lease 2 people have high experieces to recruit new staff and train them to wotk well
+-How to estimate: Two people with VND 10 milion for each people in 1 week
+6. Name: Business Lisence cost 
+-Decription: cost pay for get lisence l for operating business legaly  such as business lisences, sate and cleaning foods
+-How to estimate: VND 50 milions for each lisences for 12 months=> VND 100milions
+7. Name: Rent allocate cost:
+Description: Cost pay for  renting place to work
+-How to estimate: approximately VND 50 milions for 1 month
+
+NOTE: Those cost/ budget is for 1 provinces
+
+
+
+
+
+
+
+
+
+
+
+
+
+2)
+Request 3:
+1. Rish 1 : Over the budget
+-Decription: the budget is not enough for cost plan to operating, 
+- Possible: medium
+-Impact: high
+- Mitigation plan: track budget weekly. clear budget for each main item
+-Contingency plan: get more sponsorship, cut to non - essential fee, manage budget carefully
+2. Risk 2 :  Behind the schedule
+-Decription: run campagn is slower than schedule plan
+-Possible: medium
+-Impact: high
+-Mitigation plan: creat good plan, track timeline weekly, have PM observation
+-Contingency plan: get more people to motivate the progress, cut to non essential work
+3. Risk 3: poor customer mumbers 
+-Decription: attractive custumer is less more than plan, poor income
+-Possible: medium
+-Impact: high
+-Mitigation plan: marketing on social flatform to attractive customer, have voucher and interresting menu 
+-Contingency plan:have a another campaign: sharing on customer's facebook and liking fanpage will get free 1 drink for the next time,.. coordinating with local school to get customer like student and thier parents, contact with famous KOL to review to get atractive..
+
+
+
+Request 4:
+1. Three role: Project manager (PM), coordinating parnership, marketingn leader, marketing team,HR leader, Design team, design leader,organinzing team ,customer,..
+
+2. Ten task:
+-Planing project
+-Prepation plan
+-Marketing campaign
+-Design campaign
+-Contact amd get sponser
+-Recriting new staff for business
+-Training staff for business
+-Run campaign
+-Operating the business
+-Survey and cellect customer's feedback
+
+3. List out the responsibilities of the project roles
+
+1. planing project
+-Organinzing team: A
+- PM: R
+-Coordinating parnership: C
+- Design team and marketing team: I
+2.prepation plan:
+-Organizing team: A
+-PM: R
+-Design team and marketing team: A
+-Coordinating parnership, customer, HR leader: I
+3.Marketing campaign
+-Marketing team: A
+-Marketing leader: R
+-PM, organizing team:C
+-Design team: C
+- customer,parnership: I
+4.Design campaign
+- Design team: A
+-Design leader: R
+-PM, organizing team:C
+-Marketing team: C
+-Customer , parnership: I
+5. Contact and get sponser
+-Coordinating parnership: A
+-PM: R
+-Organizing team: C
+-HR leadership, customer: I
+6.Recruiting  new staff
+-HR team: A
+-HR leader: R
+-PM: C
+-organizing leader: I
+7. Traning new staff
+-Business manager: R
+-Organzing leader: A
+-PM: C
+-Organizing team and all staff: I
+8. Run campaign
+- Organizing team: A
+-Organizing leader: R
+-PM: C
+-Deasign and marketing team, customer: I
+9. Operating business
+-Business manager: A
+-PM: R
+-Organazing leader: C
+-Marketing, Design, HR team : I
+10.Survey and collect feedback customer
+-Marketing team:A
+-Business leader: R
+-Organazing leader: C
+-PM: C
+-Staff: I
+
+

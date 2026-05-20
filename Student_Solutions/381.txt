@@ -1,0 +1,67 @@
+1)
+Request1
+ 1. Project name : Openning 5 stores into Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh
+ 2. Coi's management saw the change in 5 Central provinces(Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) about using cafe ,so they decded ro implement an expansion  into 5 Central this
+ 3.
+  - Project constraints: Coi Cafe
+  - In term of scope: 
+   +Surveying and selecting premises
+   +Buiding araw material supply chain from Central region supplier
+   + Designing and contructing interiors consistent with brand
+  - Time :this project must compelete within 12 months (May 2026- May 2027)
+  - Cost: budget limit VND 8.5 billion(approximataly VND 1.7 billion/store)
+  - Quality 
+   + Decord "Coi Cafe" style  on 5 store
+   + having 3 local personals /store
+Request 2:
+ 1 Build store:
+     Desciption : buiding the location store
+     Estimate: VND 0.9 bilion/store
+ 2 Training local personal
+    Desciption training employer
+    Estimate VND 0.1 billion/store
+ 3 Promo store:
+    Desciption ads the coi cafe
+    Estimate VND 0.2 bilion/store
+ 4 Decord store
+    Desciption decord coi's brand
+    Estimate VND 0.3 billion /store
+ 5 Equi item brand
+    Desciption buying equiment same brand 
+    Esciption VND 0.04 bilion/ store
+Request 3:
+ 1 Title:Over Budget
+   Description over cost on design task
+   Quality high
+   Time low
+   Cost high
+   Mitigation meteral increase price
+   Contigency cost's event to cost's decording
+ 2 Title:delay open day
+    Description: miss good day 
+    Time high
+    Quality high
+    Cost too high
+    Mitigation good day missing
+    Contigency still openning withough good day
+3 Title:Bad weather
+    Description the storm 
+    Time high
+    Quality high
+    Cost high
+    Mitigation the storm make building broking
+    Contigency check broking after storm and fixed
+Request 4:
+  -Role: Coi's management(Coi), Market Develoment Director(PM), design team(D), HR team,Marketing team(M)
+ 1 Requiment:Coi(R),PM(C),D(I),HR(I),M(I).
+ 2 Chosing location:Coi(I),PM(I),D(C),HR(I),M(R)
+ 3 Planing Buiding the store :Coi(I),PM(A,R),D(C),HR(I),M(I).
+ 4 Decording store:Coi(I),PM(I),D(R),HR(I),M(I)
+ 5 Decording event banner openning :Coi(I),PM(I),D(R,A),HR(I),M(C)
+ 6 promo store : Coi(I),PM(I),D(I),HR(I),M(R,A).
+ 7 Chosing dayly openning : Coi(I),
+ 8 Buy equi item: Coi(I),PM(I),D(C),HR(R),M(I)
+ 9 Training local personal :Coi(I),PM(I),D(I),HR(R,A),M(C)
+ 10 Make event openning:Coi(I),PM(I)D(C),HR(I),M(R,A)
+
+2)

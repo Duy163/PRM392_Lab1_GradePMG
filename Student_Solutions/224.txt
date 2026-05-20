@@ -1,0 +1,70 @@
+1)
+1
+-Project Name : Coi Cafe
+-Justifications: surveying and selecting premises, designing and constucting interiors consistent with the brand, recruiting and trining local personnel, building a raw material supply chain from central region suppliers,and lauching campaigns for each store
+- total budget : 8.5 billion VND, time : 8 months, have interior design team, HR team, marketing team
+
+2
+- Design : design project
+ + interior design team and HR team 
+ + time : 4 months
+ + cost : 3.5 billion VND
+
+- Testing : testing project
+ + interior design team and HR team
+ + time : 15 days
+ + cost : 0.5 billion VND
+
+- Marketing : 
+ + Marketing team
+ + time : 2 months 
+ + cost : 2 billion VND
+
+- Create Video : make video trending to marketing
+ + Marketing team, HR team and KOLs
+ + time : 1 month
+ + cost : 2 billion VND
+
+- Edit Video: 
+ + Editer , HR team, marketing team
+ + time : 15 days
+ + cost : 0.5 billion VND
+
+2)
+3
+- Designer :
+ + make idea, design project 
+ + time : 6 months
+ + cost : 3.5 billion VND
+
+- Tester : 
+ + Testing project, feedback to design team
+ + time : 15 days
+ + cost : 0.5 billion VND
+
+- Marketing team:
+ + Connect KOLs, make video and upload in socal media
+ + time : 3 months
+ + cost : 4.5 million VND
+
+4
+1. design manager, HR manager, marketing manager, project manager, Coi Cofe manager
+2. 
+ 1. HR and  Coi Cafe manager make idea, justifications, time and total budget
+ 2. HR and design team and Coi Cafe manager to rework the idea 
+ 3. Design team start design the project
+ 4. Design team and Coi Cafe manager to update the project
+ 5. Tester test the project and tell Design team about the erorr  
+ 6 Design fix erorr and finish the project
+ 7 Coi Cafe manager apply the project if not do task 4 again
+ 8 HR, Marketing team and Coi Cafe manager to do marketing task
+ 9 Maketing team connect the KOLs
+ 10 Marketing team and KOLs make video
+ 11 Editer edit the video
+ 12 Marketing team uploat the video on tiktok/Youtube/instagram/...
+
+3 
+HR manager : 1, 2, 3, 8
+Design manager : 1, 2, 3, 4, 5, 6
+Marketing manager: 7, 8, 9, 10, 12
+Project manager : 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12

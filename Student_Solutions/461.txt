@@ -1,0 +1,134 @@
+1)
+Request 1:
+- Project name: Coi Cafe Expansion Project
+
+- Justification:
+    + The project is initiated because the company needs to expand the their market to 5 central provinces such as Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh. In the context of, their personal branding concept is for nostalgic space, traditional drink menu and resuable materials such as cups.
+   + The project is taking a survey to collect the customer behavior, the feedback and the supplier statics from the target place that the company want to take part in. These analytics make a strong affect on the company decision on product price, concept store, marketing plan, etc,...
+
+- Project constraint:
+  + Scope: The project scope is including activities such as surveying and selecting premises, designing and constructing interiors of local store consistent with the brand, recruiting and performing tranining session for store staff, building a raw material supply chain from Central region suppliers and lauching a campaigns for store in 5 Central provinces. Any extra activities is out of scoped unless formally approved
+ + Time: The project timeline is fixed in 12 months. All planning, preparing interiors store concenpt, building pipeline for a raw material, launching campaign, creating training session for local pesonnel must be completed within this timline. Delays in critical activities may affect the overall project performance
+ + Cost: The project budget is totall approximately VND 8.5 billion. Each store will have to finished the campaign, do marketing, and prepare equipment with the target amount of money is VND 1.7 billion. These cost will mainly come from the equity and commercial bank loans. The project manager need to controll the cost carefully and ensure all the deliverables must be finished within this allocated budget. Any overspending requires sponsor approval
+  + Quality: The project have to meet the standard campaign launched such as reaching high attractive of the local customer, earned fast within 8 months to return loans to the banks, high recognition about the flagship store, and having a supply chain from Centrail provinces with optimize cost.
+
+
+
+Request 2:
+
+1. Name: Promoting and advertisement
+- Description: The cost is for the advertisement of the product company (Coi Cafe) across the social media such as TikTok, Youtube, Instagram and for the price of booking KOLs in each target region come and review.
+- Estimated cost: 300 million/store
+- Way to estimate: Pricing for booking based on the average pricing in the review market or using recommend calculator on analytics dashboard of the social apps. 
+- Person in charge: Marketing authority leader
+
+2. Name: Design and planning concept
+- Description: Paying an amount of money for design team to researching the local culture and planning the concenpt comfortable to that behavior and culture in the region
+- Estimated cost:
+- Way to estimate: Count the total member of design team, demo pricing for design picture, edit video tools, 
+- Person in charge: Design authority leader
+
+3. Name: Training and providing product information for staff
+- Description: The cost is for renting room create training class, buying necessary materials during session such as identity card, water bottle, production information paper, etc
+- Estimated cost: 10-20 million/store
+- Way to estimate: Count the total staff for each store, the total amount of paper for guiding customer services, Coi Cafe's coffee information.
+- Person in charge: Store manager
+
+4. Name: Building materials and  interiors
+- Description: The project need to calculate the total cost for building store and picking interior for their store in central provinces
+- Estimated cost: 130 million/store
+- Way to estimate: Based on the price using the supplier menu
+- Person in charge: Project manager
+
+5. Name: Renting premises
+- Description: The cost for renting famous and easy-accessible place for customer
+- Estimated cost: 90 million/store/month
+- Way to estimate: Searching online average price for each region about the renting area.
+- Person in charge: Project manager
+
+6. Name: Extra activities and minigame for customer
+- Description: The project needs to produce many extra activities such as giving sales off ticket for first come customer, level achivement customer rank, suvernier for high customer rank.
+- Estimated cost: 200 million/store
+- Way to estimate: Based on pricing of online market or local store price
+- Person in charge: Store manager
+
+Request 3:
+
+1. Risk title: Posting and teaser are not trending on social media
+- Description: Customer don't see the store advertisement or don't know that the Coi Cafe will be launched in their area in the future
+- Possible impact:
+  + Scope: The store will not earned high revenue, the break-even point won't reach with target point
+  + Quality: This risk is high warning because in the context of coffee is appeared many and many in big city so i the store's recognition is a huge impact
+  + Time: The highest for this risk is 2 months 
+  + Cost: This risk can cause a huge affect to the store revenue if it happens
+- Response plans:
+  + Contigency plan:
+       + Promote the posting and teaser on social media by upgrade pro package
+       + Implement paper on street, create video or music brand.
+  + Mitigation plan:
+        + Finding a backup premises to change store position
+
+2. Risk title: Social media account and emails of store is hacked 
+- Description: Tiktok/Instagram/Facebook account of premises store can't log in because of anonymus hacker 
+- Possible impact: 
+  + Scope: Quality video, posting is lost, sensitive information such as future campaign, hided gifted is leaked 
+  + Quality: Medium risk
+  + Cost: Up to billion
+- Response plan:
+  + Contigency plan:
+     + Setup 2FA for every social account
+     + Only give account information at least as possible and only for the person is responsible to that store
+  + Mitigation plan:
+     + Hire a well-known and trusted IT team
+
+3. Risk title: Premise location is taken back because of the local legacy
+- Description: The government publish news policy for renting in some area or region 
+- Possible impact:
+  + Scope: Increase cost for research about new location, cost for renting new staff
+  + Quality: High risk
+  + Cost:  Up to billion
+- Response plan:
+  + Contigency plan:
+     + Research about the local government policy in the next 2-3 years
+  + Mitigation plan:
+     + Hire a strong laywer team
+
+4. Risk title: The store revenue don't reach the break-even point within 8 months after opening
+- Description: The store revenue is not selling well and not reach the target
+- Possible impact:
+ + Scope: The project is not qualified and the debt for bank loans is increased
+ + Quality: High risk
+ + Cost: Up to billion
+- Response plan:
+  + Contigency plan:
+     + Having a backup budget for advertisement and research new approach for new plan
+  - Mitigation plan: 
+    + Hiring a senior or an experience entrepreneur
+2)
+Request 4:
+- Role:
+ + Project manager = PM
+ + HR Team = HR
+ + Logistic Team = LT
+ + Event Team = ET
+ + Sales Team = ST
+ + Accountant = AT
+ + Deisgn Team = DT
+ + Media Team = MT
+- RACI: A=Accountable, R=Responsible, C= Consulted, I=Informed
+
+- Activities:
+ + Identify the requirement and objectives: PM = A/C, others = I
+ + Create budget and project charter: PM = A, AT = I, others = C
+ + Preparing material and posting teaser schedule: PM = I, ET = A/R, others = I
+ + Researching and selecting premises: PM = A/C, others = I
+ + Design concept and interior for brand: PM = A, DT = C, MT= C, others = I
+ + Recruiting and training local staff: HR = A/R, others = I
+ + Planning advertisement campaign: MT: A/R, ST = C, others = I
+ + Buying reusable cups and coffee from Dak Lak farmers: PM = A, LT= R, ST = C, others = I
+ + Video shooting and image editing: MT = A/R, ST = C, DT = R, others = I,
+ + Launched the campaign on multi social media: PM = A, MT = R, DT = R, others = I
+ + Planning and implement minigame and sales: PM = A, ST = R, MT = R, DT = R, ET = R, others = I
+ + Teaser/Countdown ending activity: PM = A, MT = C, DT = R, ET = C, others = I
+ + Data analytics and report: PM = A/R, others = I
+

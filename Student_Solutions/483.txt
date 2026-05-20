@@ -1,0 +1,47 @@
+1)
+Request 1:
+The project Enjoy Coi Cafe is created to open new flagship store in 5 Central province. Because Coi Cafe have just 12 stores in Hanoi and Ho Chi Minh City.
+
+The purpose of project is an expansion project inito 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 months, with budget VND 8.5 billion (approximately VND 1.7 billion/store).
+
+The project includes of surveying and selecting premises, designing and constructing interiors consistent with the brand, recuriting and trainning local personnel, building a raw material sipply chain, lauching campigns. It dose not include  of activity in anorther porvinces (outside Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh).
+
+The quaility measure by each store must reach the break-event point in 8 months after opening.
+
+Request 2
+Cost 1: Rent building. This cost to build store from VND 30 million/store - VND 50 million/store per months.   
+Cost 2: Cost to do servey. Marketing team will post the servey after done form on to Google,
+Facebook... about VND 20 million - 40 million.
+
+Cost 3: Marketing new store. Marketing team will use tool ads or find KOLs/influcener to make video review store and post it on Tiktok, Facebook, Youtube. .... it takes VND 20 million/store - VND 30 million/store. 
+ 
+Cost 4: Money for rent staff. To run store need to staff to make cafe, manager store. This cost about VND 80 million/store - 100 million/store per months. It is decided by HR.
+ 
+Cost 5: CoSoVatChat money. This inclide of buying table, chair, door, banner, cup, ... It take about VND 300 millione - 400 millinoe for one store at frist time and take VND 20 millions - VND 40 millions for one store per months to upgrade or repair them.
+
+Request 3
+Risk 1: Finding staff
+
+Risk 2: Communitcation of each members
+
+Risk 3: Lauching capmaigns 
+
+Request 4
+Porject role:
+Market Development Director as PM (P)
+Design Team (B)
+HR team (C)
+Marketing team (D)
+
+Tasks, activites, deliverables:
+1.Plan project (R - P, A - P, C - B|C|D)
+2.Find team member (R - P, A - C)
+3,Find the staff (R - P, A - C)
+4.Wirte content for servey (R - P, A - D)
+5,Do servey (R - P, A - D)
+6,Find content banner (R - P, A - D|B)
+7.Draw banner (R - P, A - B)
+8.Traning staff (R - P, R - P)
+9. Find the bulding to build store (R - P, A - P)
+10. Do report with 8 months after openning (R - P, A - P) 
+2)

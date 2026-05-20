@@ -1,0 +1,72 @@
+1)
+Request 1 
+1.1 Project Name: Expansion Project into 5 Central provinces
+ 1.2 Purpose: famous for its nostalgic space, traditional drink menu, and sustainable business model.
+Reason:want to increase the people to know the coffe brand by using reusable cups and purchasing coffee directly from Dak Lak farmers. 
+  1.3 Project Constraints: to implement the coffee store into 5 Central Provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+Scope: surveying and selecting premises, designing and constructing interiors consistent with brand, training local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each stores
+Time: 1 flagship store for each province within 12 months  
+Cost/Buget: the total budget of this project is 8.5 billion VND (approximately 1.7 billion/store) from equity and commercial bank loans
+Quality: each store must reach the break-even point within 8 months after it opening
+
+Request 2: 
+Five main cost/buget items: 
+1. Name: Coffee Store's Location 
+    Description: the space for each store 
+    Estimate: 3 billion VND 
+    How to: find the place where local people live most 
+    Person in Charged: Project Manager
+2. Name: Designing and Constructing with brand
+     Description: designing the coffee store 
+     Estimate: 1 billion VND 
+     How to: design coffee store to make attract with local people
+     Person in Charged: interiors design team
+3. Name: Recruiting and tranining local personnel
+    Description: hire local people and training them 
+    Estimate: 500 million VND
+    How to: make a contract 
+    Person in Charged: HR team
+4. Name: building a raw material supply chain 
+    Description: want to make a chain for the store 
+    Estimate: 3 billion VND 
+    How to: make sure the equipment
+    Person in Charged: Project Manager
+5. Name: Advertisement social media
+    Description: running Ads for the coffe store on TikTok, FaceBook, Instagram. 
+     Estimate: 1 billion VND
+     How to: find the younth, popular KOLs and make the contract
+     Person in Charged: Marketing team.
+2)
+Request 3: 
+1. Name: Over budget 
+    Description: the project may cost more than expected
+    Quality: some province can not have store
+    Time: have a stuck
+    Cost: have more commercial bank loans
+    Mitigation: have a meeting and prepare carefully about the budget. 
+2. Name: Supply Chain in some store do not work
+    Description: the chain may have some trouble about the equipment or employee
+    Quality: the drink may get a bad taste  
+    Time: wasting more time for fixing equipment
+    Cost: 
+     Mitigation: have to check equipment every day
+3. Name: Advertismen unattractive 
+    Description: the ads does not have lot of views, KOLs' hire have some scandals/drama.
+    Quality: the coffee store may get negative effect
+    Time: find some new KOLs and executing the drama  
+     Cost: pay more for marketing team
+     Mitigation: check carefully signed KOLs  
+
+Request 4: 
+4.1. Three project roles: Project Manager, HR Team, Marketing Team
+4.2. 10 activites: 
+      1. Prepare coffee location 
+      2. Training local people
+      3. Building supply chain
+      4. Design the coffee store
+      5.  Commercial bank loan
+      6. Running Adverstisement socail media
+      7. Building a lover coffee people community for the store
+      8. Adding more special event each month for the store
+      9. Make some contract with coffee farmers
+      10. Implement more individual business model for each province

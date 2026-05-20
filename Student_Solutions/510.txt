@@ -1,0 +1,88 @@
+1)
+Request 1:
+1. Project name: Coi Cafe Expansion Project
+2. Justifications: To implement an expansion project into 5 Central province with 1 flagship store in each province.
+3. Project constraints:
+- Scope: 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh).
+- Time: within 12 months.
+- Cost/budget: VND 8.5 billion
+- Quality: Each store must reach the break-even point within 8 monhs after opening.
+
+Request 2:
+Budget item #1:  Construction
+Description: The cost of the construction material and construction.
+Estimation: VND 5.5 billion (approximately VND 1.1 billion/store).
+Estimation method: Top-up
+Person in charged: PM, design team
+
+Budget item #2: Furniture and material
+Description: Material from supply chain such as coffee, furniture such as coffee machine, table, chair,...
+Estimation: VND 1.0 billion (approximately VND 200 million/store)
+Esitmation method: Bottom down
+Person in charged: PM, Marketing team
+
+Budget item #3: Marketing cost
+Description: Marketing and promotion cost to raise the indentity of new shop.
+Estimation: VND 1.0 billion (approximately VND 200 million/store)
+Estimation method: Expertise experienced
+Person in charged: PM, Design Team and Marketing Team
+
+Budget item #4: Salary for team and staff
+Description: The budget to pay for operation team and new staff hiring through recruiting.
+Estimation: VND 500 million. (approximately VND 100 million/store)
+Estimation method: Bottom down
+Person in charged: PM, HR Team
+
+Budget item #5: Operating fee
+Description: The fee to operate the new shop in the opening progress.
+Estimation: VND 500 million (approximately VND 100 million/store)
+Estimation Method: Expertise experienced
+Person in charged: PM, interior design team. HR team and Marketing team.
+2)
+Request 3:
+Risk name #1: Late in recruiting and training personnel.
+Description: Cannot recruiting enough personnel or finishing recruiting late, lead to the late in training new staff
+Possibile impacts:
++ Scope: Lack of staff in operating the shop.
++ Time: Increase time for opening new store.
++ Cost: Increase cost in recruiting new staffs.
++ Quality: Rising time in reaching the break-even point.
+Mitigation: Opening the recruiting early in the construction progress.
+Contingency: Using the present staff from other branches to support and tranining new staff.
+
+Risk name #2: Lack of construction material or supply.
+Description: Increasing in need of material or cannot finding suitable supplier.
+Possible impacts:
++ Scope: The construction cannot follow the design.
++ Time: Increase time in construction new store.
++ Cost: Increase cost to transport construction material and supply.
++ Quality: The construction of the store cannot follow the design completely.
+Mitigation: Design and prepare carefully in the planning phrase to reduce lack of construction material or supply.
+Contigency: Finding local construction supplier to finish the construction in time.
+
+Risk name #3: Increasing in cost/budget.
+Description: Increasing in cost/budget due to the rising in price of construction material or budget using to recruiting and tranning personnel
+Possible impacts:
++ Scope: Reduce the scope compare to planning phrase.
++ Time: Increasing time in construction phrase or recruiting phrase.
++ Cost: increasing in cost to opening new shop
++ Quality: increasing time need to reach the break-even point.
+Mitigation: Prepare the budget approximately 10% of total budget in case of increasing in cost.
+Contigency: Using the budget prepared for the case of increasing in cost.
+
+Request 4:
+1. Three project role:
++ PM: Market Development Director
++ HR Team
++ Marketing and Design Team
+2. Ten tasks, activites, deliverables:
+2.1. Planning survey campaign: PM (A); Marketing and Design Team (R); HR Team (I)
+2.2. Running survey campagin: PM (A); Marketing and Design Team (R); HR Team (I)
+2.3. Selecting premises: PM (A, R); Marketing and Design Team (R); HR Team (I)
+2.4. Designing interiors consistent with the brand: PM (A, R); Marketing and Design Team (R); HR Team (I)
+2.5. Constructing interiors consistent with the brand: PM (A); Marketing and Design Team (R); HR Team (I)
+2.6.Recuiting local personnel: PM (C, I); Marketing and Design Team (I); HR Team (R, A)
+2.7. Tranning local personnel: PM (C, I); Marketing and Design Team (I); HR Team (R, A)
+2.8. Building a raw material supply chain from Central region suppliers: PM (R, A); Marketing and Design Team (R, C); HR Team (I)
+2.9. Launching campaign for each store: PM (A); Marking and Design Team (R); HR Team (C, I)
+2.10. Operating opening store: PM (I); Marketing and Design Team (C, I); HR Team (R, A)

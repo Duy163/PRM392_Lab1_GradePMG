@@ -1,0 +1,171 @@
+1)
+request 1
+
+ProjectName
+
+Coi Cafe expansion
+purpose
+
+expansion project into 5 central provinces (DaNang,Hue,QuangNam,QuangNgai,BinhDinh)
+with flagship store in each province within 12 months
+
+scope
+
+selecting premises
+design and constructing interors
+recuiting and training local personnel building raw material supply chain from central region suppliers
+lauching campaigns for each store
+
+time 
+
+12 months
+
+cost 
+
+8.5 billion vnd (1.7 billion/store)
+
+quality
+
+each store must reach the break even point within 8 months after opening
+
+request 2
+1
+name :sureyving and selecting premises
+information:collect information about the costumer 
+and gatthering infomation for a best place to place a new store 
+cost:50 millions vnd per store
+time:1 moths
+meansure: survey on social net work
+reponsible: marketing team
+
+2
+name: constructing interior consistent with the brand
+desciption 
+information: buy and decorate local store in 5 central provinces 
+make aplace that the costumeer feel comfortable
+cost:500 millions vnd per store
+time:2 months
+meansure: must include everything that need for open a store 
+reponsible :design team
+3
+name : recuiting and training local personnel
+information: recuiting people in local place and training the tho become waiter and batender
+cost:200 millions vnd per store
+time: 3 months
+meansure : provide enough people to handle a store
+responsible :HR team
+4
+name :building a raw material supply chain from region supplier
+information: make a supply chain from local 
+cost: 200 millions vnd
+time :3 months
+meansure  : provide enough material for the store too work efficient
+responsible:PM
+
+5
+name :marketing 
+information:make advetising and promotion when a new store it open so local people know about
+cost:200 millions per store
+time:4 months
+meansure : all the local people adround the store known about the new store that open
+6 
+name : supplyng feee
+information: fee that make the store work for 12 months include 
+where to hire 
+material supply
+employees salary 
+cost:750 millions per store
+time:12 months
+meansure: the store must work efficent for 12 months after open
+
+request 3
+1
+risk name :bad review from customer
+description: a scandle make from customer
+scope :handle a bad review from customer 
+find the reason why customer is sastifies
+quality:decreas of bad review make store wellknown 
+time:1 months
+cost:100 millions
+reponsible:marketing team
+
+2
+risk name : have another company opponent store to against with
+description: the enemt store appear in the near area of your store
+scope : dont let the customer rate dercrease
+quality:make alot of video to ads store to make store more appeal to customer
+time :1 months
+cost:100 millions
+
+
+3
+riskname: disaster
+description:dual to the place the store maybe affect by the weather or the natural
+scope:repair the shop to addapt to the disaster
+quality: make the store become safe place 
+time:1 month 
+cost: 100 millions
+
+request 4
+project role:
+project manager (PM)
+interior design team(design)
+HR team(HR)
+marketing team(market)
+
+activity:
+1 planning all the plan for project
+PM:R
+design:A/I
+HR:A/I
+Market:A/I
+2 surveying and selecting premises
+PM:I
+design:
+HR:R
+Market:R
+3 design and contructing interiors
+PM:I
+design:R
+HR:
+market:
+4 building a raw material supply
+PM:I/R
+design:
+HR:
+Market:R
+5 marketing
+PM:I
+design:R
+HR:
+market:R
+6 training local people
+PM:I
+design:
+HR:R
+market:
+7 make promotion when open
+PM:I
+design:R
+HR:
+Market:R
+8 provide course training improve employee skill 
+PM:I/R
+design:
+HR:R
+market:
+9 design advertiment for each season
+PM:I
+design:R
+HR:
+Market:R
+10 make a conclusion 
+PM :R/I
+design:
+HR :I
+Market:
+
+
+
+
+2)

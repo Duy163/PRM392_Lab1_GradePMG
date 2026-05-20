@@ -1,0 +1,55 @@
+1)
+Request 1:
+1. Coi Cafe Expansion Project
+2. Coi Cafe is a pure Vietnamese coffee brand famous for its nostalgic space, traditional drink and sustainable business model(using reusable cups, purchasing coffee directly from Dak Lak farmers)
+Each store must reach the break-even point within 8 months after opening
+3.Constraints: 5 store + PM + Interior design team, Hr team, marketing team
+Scope: Expansion into 5 Central provinces( Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+Time: 12 months
+Cost/Budget: 8.5 billion( VND 1.7 billion/store) from equity and commercial bank loans.
+Quality: High Service 
+
+Request 2:
+-Name:Interior Design 
+-Description:Logo, Menu, survey
+-Cost: ~ VND 600 million/ store
+
+-Name:Equipment
+-Description:POS, Coffee machine, fridge, furniture
+-Cost: ~ VND 250 million/store
+
+-Name : Training +HR team
+-Description: Tranning staff
+-Cost:~ VND 150 million/store
+
+-Name: Marketing
+-Desciption:ads, recruit staff
+-Cost: ~ VND 200million/store
+
+-Name:Supply Chain
+-Description: chair
+-Cost: ~ VND 100 million/store
+
+Request 3:
+Risk 1: Project delay
+Description: If take a long time, it require more money
+Risk 2: Training
+Description: Training for long the quality willl be up to
+Request 4:
+1. PM, Interior design team, HR team, marketing team.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2)

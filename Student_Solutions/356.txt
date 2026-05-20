@@ -1,0 +1,59 @@
+1)
+Request 1:
+Project Name: Coi Cafe
+Decription: to implement a project into 5 Central provinces( Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province. The project includes: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and lauching campaigns for each store.
+Purpose: to implement into 5 Central provinces with flagship store in each provinces, launch a campaigns for each store.
+Constraints:
+-Scope:Campaigns for each store in 5 Central provinces ( Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+-Time: within 12 months, each flagship store must reach the break-even point within 8 months after opening.
+-Cost: the total is VND 8.5 billion( approximately VND 1.7 billion/store) from equity and commercial bank loans.
+-Quality: each store successfully reach the break-even point within 8 months after opening, open one flagship store in each provinces, build a raw material supply chain from Central region suppliers, launch a campaigns in each store.
+
+
+Request 2:
+Five main cost item:
+1. Surveying and selecting premises
+    Desciption: 
+     How to estimate: Spend VND 300 million to find the place the build the store in 2 months
+2. Designing and contructing interiors consistent with the brand
+Description:
+How to eatimate: spend VND 100 miilion to design brand and pay for design team.
+3.Recruiting and training local campaigns for each store.
+Desciption:
+How to estimate: HR team will hire trainers to train local personnel in each campaign. the budget is VND 500 million
+4.Bulding a raw material supply chain from Central region supplies
+Desciption:
+How to estimate: The PM and design team will deicide the concept to create the brand, the budget is VND 300 million
+5.. Lauching campaigns for each store.
+Desciption:
+How to estimate: The PM will lauch campaigns for each store after opening the store. the budget is VND 300 million for marketing and opening brand.
+
+
+Reuquest 3:
+ Three project risks
+1. Burn over budget
+desciption: Each store will use more than the budget from euity and commercial bank loans.
+risks response(mitigation): manage inmedialy cost in each store weekly in order to control the budget from quity and commercial bank loans
+2.Fail to reach the break-even point
+description: The store can not reach the break-even point.
+risk response(mitigation): create a plan, schedual task/activities for each store to reach the break point within 7 monhts .if the store follow the tasks, they can reach the break-even point within 8 months
+3. Don't have enough trainer for store
+Desciption: If the store do not have experiment trainer, they will not train a lot of personnel.
+risk response(mitigation): Sellect trainer from near province or collect enough experiment trainer before open the store.
+
+Reuquest 4:
+Project-internal: The Market Development Director
+Ogainazation- internal: Design team, HR team, marketing team, equity and commercial bank loans
+External: customers, local personnel.
+ Ten activities.
+A1. Find a place in each provinces(PM)
+A2. Sign a contract( PM)
+A3.Plan a concept( Marketing team, PM)
+A4.Hire trainer( HR team, PM)
+A5. Design brand( Design team)
+A6. Open store ( PM,equity and commercial bank loans)
+A7. Select and collect supplies( PM)
+A8. Build a raw material supply( Design team)
+A9. Reach the break-even point( PM)
+A10. Lauch campaigns for each store(PM)
+2)

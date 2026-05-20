@@ -1,0 +1,37 @@
+1)
+Question1:
+- Project name: System Coi Cafe Managed
+- Justification: In VietNam Coi Cafe currently is famous coffee for nostalgic space, traditional drink menu and suitable buisiness(reuse cups, purchasing coffee directly from DakLak farmer), this brand hope can expand this model success better in market VietName so we need to develop a system can managed all store with main function manage store(flagship store), managed storage in each store,Staticfis revenue sale, Dashboard staff,admin, manager,... And Can work any activities to be project includes, can post content recruiting in system,...
+- Contraints:
+ + Scope: This project will be manage all system store of this brand, can update information and marketing this brand in the network social still can implement surveying and selecting permises, building a raw material supply chain in this system and finally launching campaigns,
+ + Time: within 12months
+ + Budget: VND 8.5 bilion(approximately VND 1.7 bilion/store)
+ + Quality: each store must reach the break-even point within 8months after opening
+
+Question 2:
+Five main cost:
+- Develop systerm cost: System Implement cost with direct cost calculate by key method parametric, with 2 dev and 1 tester and 1BA, can VND 50.000.000 for this system (for each dev/test/BA) within 3 months
+- Design Cost: all design apply this project can connect with angency, can calculate this cost by key method analogous VND 30.000.000 because can connect with old angency in the pass when this brand plan opend 1st store
+- Recruiting and traning Cost: Salary for HR join and training recruiting have experience VND 20.000.000 can calculate by Analous method, cause they can old HR member in this brand, salary of the HR
+- Chi phi co so ha tang:  Reverse Cost method 50.000.000 for each store in 1 months, for water-electric, wifi, cleaning,...
+- Salary personal: Direct cost by key method Parametric for 5 personal each store with 1 personal salary 1per/months work 7 hour/days can ~VND 4.100.000 - 5.100.000 with 1 hour work ~25.000-35.000 VND
+2)
+Question 3:
+- Crash risk: this risk product apperance in process develop system, impact to implement system will be relevant mitigation
+- Overload bandwith: with firsttime systerm execute, will be intercrupt bandwith cause total users not yet measure exactly impact of quality, should will apprerance this risk, but can solve by way upgrade bandwith
+- Incomplete security audit: this case will be impact direct time of project, need more time for dev can edit and test again product
+
+
+Question 4: 
+- Project role: BA, Dev, Project manager (PM) 
+- Task, activities:
+ + Database design schema: PM(C), BA(C), Dev(R, A)
+ + Deploy: PM(R,A), BA(C), Dev(I)
+ + Design UI/UX: PM(I), BA(C), Dev (R,A)
+ + Analysis Requirement from customer: PM(C), BA(R,A), Dev(C)
+ + Design Structure System: PM(I), BA(C), Dev (R,A)
+ + Foudation and preparing document: PM(I), BA(R,A), Dev(C)
+ + Catchup project and report: PM(R,A), BA(I), Dev(I)
+ + Develop fucntional requirement: PM(I), BA(C), Dev(R,A)
+ + Testing Function: PM(I), BA(R,A), Dev(C)
+ + Fix Bug: PM(I), BA(I), Dev(R,A)

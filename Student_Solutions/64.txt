@@ -1,0 +1,174 @@
+1)
+
+Request 1:
+
+Project name:
+Coi Cafe Central Regional Operating Cluster Project
+
+Justifications:
+Expand Coi Cafe into five Central provinces: Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh.
+Build the five flagship stores as one connected Central operating cluster instead of five separate store projects.
+Improve management efficiency through shared standards for supply chain, staff training, equipment, reporting, and launch execution.
+Strengthen Coi Cafe’s Vietnamese coffee identity through nostalgic store design, traditional menu, reusable cups, and direct sourcing from Dak Lak farmers.
+Create a stable regional base for future expansion in nearby provinces.
+Increase brand coverage and revenue outside Hanoi and Ho Chi Minh City.
+Support the goal that each store reaches break-even within eight months after opening.
+
+Project constraints:
+Scope:
+Open five flagship stores only, one store in each assigned province.
+Project scope includes: cluster planning, premises survey, location selection, lease agreement, standard interior design, construction, equipment setup, staff recruitment, training, supplier setup, launch campaign, and performance reporting.
+The project does not include franchising, extra stores, new product lines, or expansion outside the five selected provinces.
+Time:
+The total project duration is 12 months.
+All five stores must be opened within the approved timeline.
+Shared operating standards and supply arrangements must be ready before store opening.
+Each store must reach break-even within eight months after opening.
+Cost / Budget:
+Total budget is VND 8.5 billion.
+Average budget is approximately VND 1.7 billion per store.
+Funding comes from equity and commercial bank loans.
+Budget must be controlled across the whole cluster, not only by individual store.
+Quality:
+All stores must follow the same Coi Cafe operating and brand standards.
+Interior design, drink recipes, service quality, hygiene, and sustainability practices must be consistent across the cluster.
+Store data and customer feedback must be monitored after launch to improve performance.
+
+Request 2:
+
+Expense Line 1: Cluster planning and market review
+Name: Regional cluster planning and market review
+Description: Cost for evaluating customer demand, province priority, competitor presence, location potential, and operating requirements for a connected five-store cluster.
+Estimation: VND 650 million total, around VND 130 million per store.
+Way to estimate: Based on field survey cost, travel expenses, market data collection, competitor checking, and cluster planning workshops.
+Person in charge: Project Manager and Marketing Team.
+
+Expense Line 2: Store premises and lease package
+Name: Premises search and lease package
+Description: Cost for site search, traffic analysis, legal checking, lease negotiation, rental deposit, and first rent payment for five stores.
+Estimation: VND 1.5 billion total, around VND 300 million per store.
+Way to estimate: Based on rental rates, deposit terms, broker fees, legal review fees, and initial rent in each province.
+Person in charge: Project Manager and Finance Team.
+
+Expense Line 3: Cluster-standard construction
+Name: Standard construction and interior fit-out
+Description: Cost for construction, furniture, lighting, counter, seating area, signage, nostalgic decoration, and standardized flagship finishing.
+Estimation: VND 3.05 billion total, around VND 610 million per store.
+Way to estimate: Based on standard design package, store area, contractor quotations, material prices, and furniture list.
+Person in charge: Interior Design and Construction Team.
+
+Expense Line 4: Shared operations setup
+Name: Equipment, staff training, and operations setup
+Description: Cost for coffee machines, grinders, refrigerators, POS system, water filtwers, reusable cups, kitchen tools, recruitment, uniforms, training, and pre-opening salary support.
+Estimation: VND 2.2 billion total, around VND 440 million per store.
+Way to estimate: Based on equipment checklist, supplier quotations, number of staff, training schedule, trainer cost, uniform cost, and salary support.
+Person in charge: HR Team, Procurement Team, and Operations Team.
+
+Expense Line 5: Regional supply and launch execution
+Name: Regional supply chain and launch execution
+Description: Cost for supplier selection, first inventory, delivery route setup, safety stock, quality checking, social media advertising, grand opening events, vouchers, and local launch materials.
+Estimation: VND 1.1 billion total, around VND 220 million per store.
+Way to estimate: Based on first-month inventory, supplier price list, transportation cost, campaign scale, media cost, event cost, and voucher value.
+Person in charge: Procurement and Supply Chain Team, and Marketing Team.
+
+Request 3:
+
+Risk 1: Cluster coordination becomes complicated
+Risk name: Weak coordination across five provinces.
+Description: Managing five stores as one cluster may create communication problems between construction, HR, procurement, and marketing teams.
+Impacts:
+Scope / quality: Some stores may miss required standards or preparation steps.
+Time: Delays may happen if teams wait for shared decisions.
+Cost: Rework, urgent delivery, or extra supervision cost may increase.
+Mitigation plan: Use one master schedule, weekly coordination meetings, and clear approval points for each store.
+Contingency plan: Assign temporary province coordinators to solve local issues faster and report directly to the Project Manager.
+
+Risk 2: Shared supply plan fails
+Risk name: Regional supply chain cannot support all stores.
+Description: A shared supplier or delivery route may not be able to support five stores consistently after opening.
+Impacts:
+Scope / quality: Menu availability and drink quality may be affected.
+Time: Store operations may be interrupted.
+Cost: Emergency sourcing and express delivery may increase cost.
+Mitigation plan: Use backup suppliers, test delivery capacity before opening, and prepare minimum safety stock for each store.
+Contingency plan: Split delivery routes by province and temporarily use suppliers from existing stores or Dak Lak.
+
+Risk 3: Performance gap between stores
+Risk name: Some stores perform much weaker than others.
+Description: Even with the same operating model, store performance may differ because of location, customer behavior, or competitor strength.
+Impacts:
+Scope / quality: The cluster may not achieve balanced brand presence.
+Time: Weak stores may take longer to reach break-even.
+Cost: Additional marketing or operational support may be needed.
+Mitigation plan: Track sales, customer traffic, and feedback weekly for each store.
+Contingency plan: Provide targeted support to weak stores, including local campaigns, menu bundles, and operating cost review.
+
+Request 4:
+
+Project roles:
+Role 1: Project Manager / Market Development Director
+Responsible for overall cluster planning, approval, schedule, budget, risk control, and performance monitoring.
+
+Role 2: Store Infrastructure Team
+Responsible for premises support, design, construction, equipment installation, decoration, and physical store readiness.
+
+Role 3: Regional Operations Team
+Responsible for recruitment, training, suppliers, inventory, logistics, marketing launch, customer feedback, and store performance support.
+
+RACI responsibilities:
+R = Responsible
+A = Accountable
+C = Consulted
+I = Informed
+
+Activity 1: Approve cluster project charter and success criteria
+Project Manager: A/R
+Store Infrastructure Team: C
+Regional Operations Team: C
+
+Activity 2: Prepare regional market and cluster plan
+Project Manager: A
+Store Infrastructure Team: C
+Regional Operations Team: R
+
+Activity 3: Survey and approve store premises
+Project Manager: A/R
+Store Infrastructure Team: C
+Regional Operations Team: C
+
+Activity 4: Complete lease preparation and approval
+Project Manager: A/R
+Store Infrastructure Team: I
+Regional Operations Team: C
+
+Activity 5: Finalize standard store design
+Project Manager: A
+Store Infrastructure Team: R
+Regional Operations Team: C
+
+Activity 6: Complete construction and equipment setup
+Project Manager: A
+Store Infrastructure Team: R
+Regional Operations Team: C
+
+Activity 7: Recruit and train store staff
+Project Manager: A
+Store Infrastructure Team: I
+Regional Operations Team: R
+
+Activity 8: Set up regional suppliers and logistics
+Project Manager: A
+Store Infrastructure Team: I
+Regional Operations Team: R
+
+Activity 9: Execute launch campaign for five stores
+Project Manager: A
+Store Infrastructure Team: C
+Regional Operations Team: R
+
+Activity 10: Monitor store performance and break-even progress
+Project Manager: A/R
+Store Infrastructure Team: I
+Regional Operations Team: C
+
+2)

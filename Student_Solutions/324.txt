@@ -1,0 +1,104 @@
+1)
+Request 1:
+1. Project name: Vietnam Speacialty Coffee
+
+2. Justifications: Building a raw material supply chain from Central region suppliers.
+
+3.
+In terms of scope: surveying and sellecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store.
+
+Time: 12 months
+
+Budget: VND 8.5 billion (approximately VND1.7 billion/store)
+
+Quality: achive all goals, increasing brands aweness into t Central provice (Da Nang, Quang Nam, Quang Ngai, Binh Dinh)
+
+Request 2:
+
+Prevention Cost:
+- Description
+- Estimation
+- Total Effort 
+- Personal in charged
+
+Appraisal Cost: Traning Staff
+- Decription: Hiring Trainers for traning new staffs
+- Estimatons: 2 Trainers x 7 sessions x 4 hours each session
+- Total Effort: 56 man-hour
+- Personal in charge: Supervisor Barista
+Interrnal Failure Cost: 
+Externsl Failure Cost: Venue Changed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                   
+2)
+Request 3: 
+Acess the impact of risk on a acale from 1 to 5.
+1 = Very Low
+2= Low
+3 = Medium
+4 = High
+5 = Very High
+Riskscore = Probabilty x Impact
+
+
+Risk 1: Venue Canceled
+Description: The place to expansion the project is very importance
+ impacts: it hard to find a new venue in the short-term, planning must chaging and spending more time
+Probability: Low (2)
+Impact score: High (4)
+Risk score: 8 
+Mitigation plan: by contact with other owner venue that selected before
+
+Risk 2: Staffs don't go to work
+Description: Staffs have any problem and they can't go to work
+Impacts: Don't have enough staff to open the store.
+Probability: Low (2)
+Impacts score: High (4)
+Risk score: 8
+So we need contingency plan that every working sessions will have at lest 2 staffs.
+
+Risk3: Sold out products create drinks
+Description: The products to create drirks such as coffee power, milk or sauces.. easy to sold out in the first opening time.
+Impact: bad experience can losing the customers, take more time for find and buying procducts of baverages in a short-term.
+Probality: Medium (3)
+Impacts score: Medium (3)
+Contigency plan: Back-up more products create drinks every day.
+
+
+Request 4:
+1.
+Planing Project 
+Project launch 
+Tracking feedback and report.
+2 and 3.
+Project Manager: PM
+Design team: D
+HR team: HR
+Marketing: M
+
+
+Review Planing: PM:R/A, D:I, HR: I, M:C
+Select Venue: PM: R/A, D: C, HR: I, M:I
+Design Poster/Background: PM: C, D: R/A, HR:I, M:C
+Review Poster/Background: PM:R, D:A, HR:I, M:C
+Finding staffs: PM: A, D:I, HR:R, M:I
+Create content: PM:C, D:I, HR:I, M:A/R
+Content Production: PM:C, D:I, HR/I, M:A/R
+Review Content: PM:R, D:C, HR:I, M:A
+Run promotion: PM: C, D:I, HR:I, M:A/R
+Track feedback and analysis: PM:A, D:I, HR: I, M:R
+

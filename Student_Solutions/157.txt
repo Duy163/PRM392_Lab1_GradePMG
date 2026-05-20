@@ -1,0 +1,137 @@
+1)
+Request 1
+ Project name: 5 Central provinces
+ Purpose: Manager of Coi Cafe want to often large brand to Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh.
+ Reason: Coi cafe is a brand coffee with 12 store in Hanoit and Ho Chi Minh City, they want to often brand and bring traditional drink menu, sustainable business model with use purchasing caffee directly from Dak Lak farmers.
+ Project constrain
+ Scope: Porject into 5 Central provinces( Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+ Time: 12 months
+ Budget: Total VND 8.5 billion
+ Quanlity: Store must reach the break-even point within 8 months after opening.
+
+Request 2
+ Name: Cost building store in 5 store
+ Description: buy anything for enough to make store coffee
+ Estimation: VND 1 billion/ store
+ Total : 5 store x VND 1 billion, VND 5 billion
+ 
+ Name: Cost pay for builder
+ Descripntion: Builder have team and Manager controll of each store must have dealine to finish the store with lead builder. It make save moneny if the building over time and over price.
+ Estimation: VND 2 million/store
+ Total: 5 store x VND 2 million, VND 1 billion
+
+ Name: Cost pay for Marketing
+ Description: Team marketing run ads or make video, run social media.
+ Estimation: VND 1 million/store
+ Total: 5 store x VND 1 million, VND 5 million
+ 
+ Name: Cost for employee
+ Description: 1 store have HR choose member for run store, least 5 people for run 1 store and pay salary by month
+ Estimation: VND 5000000/months for per people.
+ Total: 5 store x 5 people x 5000000 x 12 months, VND 1.5 billion
+
+ Name: Cost pay design
+ Description: Designer in 1 store have traditional of place. Pay for inside store and designer
+ Estimation: VND 1 million/store
+ Total: 5 store x VND 1 million, 5 million
+
+Request 3
+ Name: Cost pay over the budget
+ Description: When run the project the price to pay each part for store is over the plan.
+ Possible: medium
+ Impacts: hight ( cost)
+ Mitigation: Cutting production, reduce price of each part and make ideal for take and onther budget.
+ Contingency: Check each part building with part budget, if it pay higher than plan need meeting to choose good way.
+
+ Name: Time over the project
+ Description: Time project can build it over but the project did not finish.
+ Possible: medium
+ Impact: hight ( time)
+ Mitigation: Meet all team now and give plan to work harder. Cutting part spent time but not realy using.
+ Contingency: In the first meeting, take the dealine for each part task and team hold reponsible for this task.
+
+ Name: The quality of drink is bad
+ Description: The drink in the store of Hanoi and Da Nang is different. Because the place move purchasing coffee can make bad purchasing.
+ Mitigation: Connection the Manager of Moving level up cost to hight moving.
+ Contingency: Check the way to move of purchasing and choose hight moving store.
+
+Request 4
+ 1 - Market Development Director as PM.
+     - HR team.
+      - Marketing team.
+      - Design team.
+      - Central region suppliers
+ 2 Build and run the store:
+     Find place
+     Connection own place
+     Find signal designer
+     Meet design
+     Build design
+     Find employee
+     Training employee
+      Marketing store
+      Running store
+      Check running
+ 3 
+         Find place:
+                 PM: A
+                 HR team: C
+                 Marketing team: I
+                 Design team: I
+                 Contral region suppliers: R
+         Connection own place:
+                 PM:     
+                 HR team: I
+                 Marketing team: I
+                 Design team: I
+                 Contral region suppliers: R
+         Find signal Design:
+                 PM: A
+                 HR team: I
+                 Marketing team: I
+                 Design team: R
+                 Contral region supplier: C
+         Meet design:
+                PM: A
+                HR team: I
+                Marketing team : I
+                Design team: R
+                Contral region suppliers: I
+         Build design:
+                PM: A
+                HR team: I
+                Marketing team: I
+                Design team : R
+                Contral region suppliers:I
+         Find employee:
+                PM: A
+                HR team: R
+                Marketing team: I
+                Design team: I
+                Contral region suppliers: C
+         Training employee:
+                 PM: A
+                 HR team: R
+                 Marketing team: I
+                 Design team: I 
+                 Contral region suppliers:I
+          Marketing store:
+                  PM: A
+                  HR team: I
+                  Marketing team: R
+                  Design team: I
+                  Contral region suppliers: C
+          Running store
+                  PM: A
+                  HR team: I
+                  Marketing team:I
+                  Design team: I
+                  Contral region supplliers:I
+         Check running
+                  PM: A
+                  HR team: R
+                  Marketing team: R
+                  Design team: R
+                  Contral region suppliers: I
+
+2)

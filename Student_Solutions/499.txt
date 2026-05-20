@@ -1,0 +1,61 @@
+1)
+RQ1:
+1)Project name: Coi's management
+2)
+ purpose: Coi cafe want to manage 5 new central (manage about training local personel ,raw material supply,...)
+reason: each store have a local staff-> support hr team get a new staff for the store or layoff the staff if that store survey is not good
+- following the material in the store easier
+- reading a survey in each store help the design team and marketing team get a plan focus on each store easier
+3)
+project contrains: the product release <= 8 months after each store opening
+the cost used to build the product <= 8.5 billion VND
+in terms of of scope:
+-complete the requirement specialization
+- create the cost plan
+-ux/ui design
+- Coding
+- testing
+-release
+time:each store must break- even point with 8 month after opening
+budget: the total budget is VND 8.5 billion(apporximatelyVND1.7 billion/store)
+quality: 
+-surveying and selecting premises
+-designing and constructing interior consistent with the brand
+- recruiting and training local personel
+- building a raw material supply chain from central region suppliers
+- launching campaigns for each store
+RQ2:
+name|discription|estimation
+analyst| the cost spend for the team to analyze the data to make a bussiness plan|
+
+testing:the cost spend for test teams .ensure the product wil running in store|
+
+dev salary| the cost spend for the dev when they build the application ,fix bug, realease|
+
+hosting| the cost spend for the cloud, domain,server to host the application live and help each store can connect and use , send data |
+
+technology| the cost spend for technology using in app like a dev team can use, service of external interaction|
+RQ3:
+risk name|description|possinle impact| relevant risk response plan
+
+delay realse the product| the product will be delay when the testing or coding have a mistake like a bug, down server ,...| the quality will low and the time to release will be longer,the cost in each phase have  a mistake growth| the manager tracking the goal  of each team,and check the process of each team every week.the testing team need to describe the mistake when they test and send  the report to dev team soon 
+
+the requirement changes| the requirement changes by the coi cafe if they want add new or cancel 1 or more function,example they want add a function to get a discount card to staff ,...|  the time to dev will more longer, the quality will be lower and the  cost will be higher | the project manager need communicate with PM of the coi to have a requirement and the PM need to send new requirement soon when they  want to change, the dev team need present the demo for each 4 week or  the function they build complete.
+
+the budget overated|the cost spend to dev higher when the plan ,requirement changes ,the total cost higher the budget they give| time to dev and realse longer,the cost overate, and the quality of product is low| the cost plan need to change if the dev plan,requirement change, and the cost in the plan need to calculate again to get the total cost not overated
+
+RQ4:
+1)Project Manager,dev team, testing team
+2)
+get requirement
+make cost plan
+set task
+draw ux/ui
+develop function
+test function
+test bussiness flow
+fix bug
+check processing
+realese
+
+2)

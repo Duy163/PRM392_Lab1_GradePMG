@@ -1,0 +1,85 @@
+1)
+Request 1:
+ - Project name: Coi Cafe
+ - Justification:
+ + Purpose & reasons : Coi's management decided to implement an expansion project into 5 Central provinces
+ + Detail human resource : project led by the Market Development Director. Coordinating with the interior design team, HR team, marketing team
+ - Constraints: 
+ + The total budget is VND 8.5 billion (approximately VND 1.7 billion/store) 
+ + Each store must reach the break-even point within 8 months after opening
+ - Scope: 
+ + The project include: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and traning local personnel, building a raw material supply chain form Central region suppliers, and launching campaigns for each store.
+ + cost/budget: VND 8.5 billion(approximately VND 1.7 billion/store)
+
+Request 2:
+ 5 main cost/budget:
+ 1. permit project fee:
+ + Description: that is cost must buy to run the project, bussiness buy for permission
+ + estimation: 500.000.000 VND
+ + estimation method: Analogous 
+ + person in charged: PM
+ 
+ 2. Marketing :
+ + Description: that is cost to launching campaigns for each store
+ + estimation: 2 billion VND
+ + estimation method: parametric
+ + person in charged: Led marketing
+ 
+ 3.Human resources: 
+ + Description: that is cost for salary, training local personnel
+ + estimation: 1 billion VND
+ + estimation method: bottom-up
+ + person in charged: HR team
+
+ 4.Equiment:
+ + Description: that is cost to buy items, tool, building a raw material supply chain form Central region suppliers
+ + estimation: 3 billion VND
+ + estimation method: parametric
+ + person in charged: PM
+
+ 5. Contingency:
+ + description: that is cost to handle risk when project process
+ + estimation: 3 billion VND
+ + estimation method: % of total budget in poject
+ + person in charged: PM
+
+
+Request 3:
+ 
+ 1.Title:Human resources
+ - Description: problem about staff absent, people is not have skill require
+ - Impact: when more pepple absent that make project late deadline
+  - Mitigation: Training and notification rule clear for new people
+ -  Contingency: HR team must be interview more humant resorces for project. When have people absent then have people can change 
+ 
+ 2.Title: Project deadline
+ - Description: problem about human resources absent more and late deadline
+ - Impact: when project late so that make project or tasks must be rush and make quality project go down
+ - Mitigation: PM must be follow and tracking process project to change scope and manage team work 
+ - Contingency:  Forcus scope in project may be can overtime to success deadline
+
+ 3.Title: Project quality
+ - Description: problem about when project late deadline and rush step. So that make quality go down
+ - Impact: when project have quality not good maybe the statisfaction of custime is bad and that make project failure
+ - Mitigation: Led each team need follow team and review feedback from customer to update
+ - Contingency: Each same task can run parallel and take the task better 
+ 
+
+Request 4: 
+ 1. 3 project roles:
+ - Project manager (PM)
+ - Teamate of project (TM)
+ - Project sponsor (PS)
+ 
+ 2&3:
+ -  Initial project 
+ -  take the plan for project
+ -  review budget cost can use for project
+ -  take the plan for marketing 
+ -  launch campaigns marketing
+ -  surveying customer
+ -  gather information of customer
+ -  Update or follow task to suitable with customer
+ -  Checklist and review all task 
+ -  Designing 
+2)

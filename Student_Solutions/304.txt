@@ -1,0 +1,156 @@
+1)
+Request 1: Narrative Charter Statement
+1. Project Name
+Coi Cafe Central Expansion Project 2026
+2. Justification (Purpose & Reasons)
+The purpose of this project is to expand the Coi Cafe into five Central provinces including Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh by establishing one flagship store in each location within 12 months.
+This project is implemented to:
+Strengthen brand presence nationwide beyond Hanoi and Ho Chi Minh City 
+Capture growing demand for traditional Vietnamese coffee in Central Vietnam 
+Promote sustainable business practices (reusable cups, direct sourcing from farmers) 
+Increase revenue and long-term profitability 
+3. Project Constraints
+Scope Constraint
+Open 5 flagship stores (1 per province) 
+Includes: site selection, interior design, construction, HR recruitment & training, supply chain setup, marketing campaigns 
+Must follow Coi Cafe brand identity & sustainability standards 
+Time Constraint
+Total duration: 12 months 
+Each store must reach break-even within 8 months after opening 
+Cost/Budget Constraint
+Total budget: VND 8.5 billion 
+Approx. VND 1.7 billion per store 
+Funding sources: equity + bank loans 
+Quality Constraint
+Maintain consistent nostalgic brand design & customer experience 
+Ensure high-quality coffee sourcing (direct from farmers) 
+Achieve customer satisfaction & brand consistency across all locations.
+Request 2: Cost/Budget Items
+1. Site Acquisition & Rental
+Description: Cost for renting or leasing store locations in each province 
+Estimation: ~ VND 400 million/store 
+Method: Market survey + benchmarking nearby commercial locations 
+Responsible: Market Development Director + Finance Team 
+2. Interior Design & Construction
+Description: Design and build nostalgic themed interiors 
+Estimation: ~ VND 600 million/store 
+Method: Quotation from contractors + previous store cost data 
+Responsible: Interior Design Team 
+3. Equipment & Furniture
+Description: Coffee machines, furniture, reusable cups system 
+Estimation: ~ VND 300 million/store 
+Method: Supplier quotations + historical procurement data 
+Responsible: Procurement Team 
+4. Recruitment & Training
+Description: Hiring and training local staff 
+Estimation: ~ VND 150 million/store 
+Method: HR cost estimation (salary, training sessions, trainers) 
+Responsible: HR Team 
+5. Marketing & Launch Campaign
+Description: Promotional campaigns for each store opening 
+Estimation: ~ VND 250 million/store 
+Method: Marketing budget planning + past campaign analysis 
+Responsible: Marketing Team
+2)
+Request 3: Project Risks
+1. Risk: Delay in Construction
+Description: Construction may take longer than planned 
+Impact: 
+Time: Delay store opening 
+Cost: Increased labor/material costs 
+Scope/Quality: Rushed work reduces quality 
+Mitigation: 
+Select experienced contractors 
+Set strict milestones 
+Contingency: 
+Add buffer time 
+Allocate backup contractors 
+2. Risk: Supply Chain Disruption
+Description: Difficulty sourcing coffee or materials from Central suppliers 
+Impact: 
+Cost: Higher procurement cost 
+Quality: Inconsistent product quality 
+Mitigation: 
+Build multiple supplier relationships 
+Sign long-term contracts 
+Contingency: 
+Use backup suppliers from Dak Lak 
+3. Risk: Low Customer Demand
+Description: New markets may not respond well 
+Impact: 
+Cost: Revenue loss 
+Time: Longer break-even period 
+Scope: May need to adjust concept 
+Mitigation: 
+Conduct market research 
+Adapt menu to local taste 
+Contingency: 
+Increase marketing budget 
+Offer promotions/discounts
+Request 4: RACI Chart 
+1. Project Roles
+PM (Project Manager): Market Development Director 
+ID Team: Interior Design Team 
+HR Team: Human Resources Team 
+MKT Team: Marketing Team 
+2. Tasks, Activities, and Responsibilities
+Task 1: Market Research
+PM: Accountable (A) 
+ID Team: Consulted (C) 
+HR Team: Consulted (C) 
+MKT Team: Responsible (R) 
+Task 2: Site Selection
+PM: Accountable/Responsible (A/R) 
+ID Team: Consulted (C) 
+HR Team: Not involved 
+MKT Team: Consulted (C) 
+Task 3: Lease Negotiation
+PM: Accountable/Responsible (A/R) 
+ID Team: Not involved 
+HR Team: Not involved 
+MKT Team: Not involved 
+Task 4: Store Design
+PM: Consulted (C) 
+ID Team: Accountable/Responsible (A/R) 
+HR Team: Not involved 
+MKT Team: Consulted (C) 
+Task 5: Construction
+PM: Accountable (A) 
+ID Team: Responsible (R) 
+HR Team: Not involved 
+MKT Team: Not involved 
+Task 6: Equipment Procurement
+PM: Accountable (A) 
+ID Team: Consulted (C) 
+HR Team: Not involved 
+MKT Team: Not involved 
+Task 7: Staff Recruitment
+PM: Consulted (C) 
+ID Team: Not involved 
+HR Team: Accountable/Responsible (A/R) 
+MKT Team: Not involved 
+Task 8: Staff Training
+PM: Consulted (C) 
+ID Team: Not involved 
+HR Team: Accountable/Responsible (A/R) 
+MKT Team: Consulted (C) 
+Task 9: Supply Chain Setup
+PM: Accountable/Responsible (A/R) 
+ID Team: Not involved 
+HR Team: Not involved 
+MKT Team: Consulted (C) 
+Task 10: Marketing Campaign
+PM: Consulted (C) 
+ID Team: Not involved 
+HR Team: Not involved 
+MKT Team: Accountable/Responsible (A/R) 
+Task 11: Store Launch
+PM: Accountable (A) 
+ID Team: Consulted (C) 
+HR Team: Consulted (C) 
+MKT Team: Responsible (R) 
+Task 12: Performance Monitoring
+PM: Accountable (A) 
+ID Team: Not involved 
+HR Team: Consulted (C) 
+MKT Team: Responsible (R)

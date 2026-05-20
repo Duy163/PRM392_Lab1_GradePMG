@@ -1,0 +1,139 @@
+1)
+Request 1:
+1. Project name: Coi Cafe expansion project
+2. Purpose: Coi's management decided to implement an expansion project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) with 1 flagship store in each province within 12 months that includes surveying and selecting premises, designing and constructing interiors consistent with the branch, recruiting and training local personnel, building a raw material supply chain from Central region suppliders and launching campaigns for each store.
+3. Project constraints:
+- Scope: Expand Coi Cafe into 5 Central provinces: Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh.
+- Time:12 months
+- Cost/Budget: VND 8.5 billion
+- Quality: Each store must reach the break-even point within 8 months after opening.
+
+Request 2:
+1. Cost for PR & promotion:
+ + Description: Cost spends for ad online on social media.
+ + Estimate method: Caculate depend on platform
+ + Estimate cost: VND 1 billion
+ + Person in charged: Marketing Leader
+
+2. Rental and training cost:
+ + Description: Cost spends for recruiting and training local personnel.
+ +  Estimate method: Hourly cost * hour per day * total employees
+ + Estimate cost: VND 500 million
+ + Person in charged: HR Leader
+
+3. Cost for designing and constructing interiors consistent with the brand:
+ + Description: design, buy and rent materials
+ + Estimate method: find designer and deal with them.
+ + Estimate cost: VND 1 billion
+ + Person in charged: Marketing Leader
+
+4. Cost for building a raw material supply chain from Central region suppliers
+ + Description: Cost spends for finding and building supply chain.
+ + Estimate method: find raw material local suppliers and deal cost with them.
+ + Estimate cost: VND 1 billion
+ + Person in charged: Market Development Director.
+
+5. Cost for launching campaigns for each store:
+ + Description: Launching campaigns for each store like promote, reduce cost
+ + Estimate method: Evaluate market, chose a way then lauch campaigns.
+ + Estimate cost: VND 2 billion
+ + Person in charged: Marketing Leader
+
+Request 3: Project risks:
+1. Not enough raw material from central region suppliers
+ + Description: Raw material at local not enough 
+ + Possible: High
+ + Contingency: Buy material from other region
+ + Mitigation: Transfer material from other store to this region
+
+2. Not enough local employees
+ + Description: local people not enough for store
+ + Possible: Medium
+ + Contingency: Rent people from other nearest region
+ + Mitigation: Increase salary for employees to overtime
+
+3. Business model not adapt to customers
+ + Description: local customer familiar with local style
+ + Possible: Low
+ + Contingency: Survey to choose right model to adapt with customers
+ + Mitigation: Change model to adapt with customers
+
+Request 4:
+1. Project roles:
+ - Project manager
+ - HR coordinator
+ - Marketing coordinator
+ - Design coordinator
+ - Inventory manager
+2. Ten activities:
+ - Survey and select permises
+ - Find and rent place
+ - Choose style for store
+ - Design and construct interiors consistent
+ - Interview employees
+ - Train employees
+ - Build supply chain
+ - Calculate items fee
+ - Launch campaigns
+ - Promote store
+3. List out the responsibilities of the project roles:
+ - Survey and select permises:
+  + Responsible: Marketing coordinator
+  + Accountable: Marketing leader
+  + Consulted: Project manager
+  + Informed: Design coordinator, HR coordinator
+
+ - Find and rent place:
+  + Responsible: Project manager
+  + Accountable: Project manager
+  + Consulted: HR coordinator
+  + Informed: Inventory manager, Design coordinator
+
+ - Choose style for store:
+  + Responsible: Design coordinator
+  + Accountable: Project manager
+  + Consulted: Marketing coordinator 
+  + Informed: Inventory manager
+
+ - Design and construct interiors consistent
+  + Responsible: Design coordinator
+  + Accountable: Project manager
+  + Consulted: Marketing coordinator
+  + Informed: HR coordinator
+
+ - Interview employees:
+  + Responsible: HR coordinator
+  + Accountable: HR leader
+  + Consulted: Project manager
+  + Informed: Inventory manager
+
+ - Train employees:
+  + Responsible: HR coordinator
+  + Accountable: HR leader
+  + Consulted: Project manager
+  + Informed: Design coordinator
+
+ - Build supply chain:
+  + Responsible: Inventory manager
+  + Accountable: Project manager
+  + Consulted: Project manager 
+  + Informed: HR coordinator
+
+ - Calculate items fee:
+  + Responsible: Inventory manager
+  + Accountable: Project manager
+  + Consulted: Marketing coordinator
+  + Informed: Design coordinator  
+
+ - Launch campaigns:
+  + Responsible: Markerting coordinator
+  + Accountable: Marketing leader
+  + Consulted: Project manager
+  + Informed: Design coordinator
+
+ - Promote store:
+  + Responsible: Marketing coordinator
+  + Accountable: Marketing leader
+  + Consulted: Project manager
+  + Informed: Design coordinator
+2)

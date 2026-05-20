@@ -1,0 +1,66 @@
+1)
+Request 1:
+- Project Name: Coi Coffee Store Campaign.
+- Justification: In the morden social, everyone have a lot of choice to entertainment such as: watching films, enjoying popular foods,...Besides, Coffee is one of the most popular place to relax together. Therefore, Coi Cafe is a pure coffee brand in Hanoi and Ho Chi Minh City, famous for its nostagic space, traditional drink menu, and sustainable business model.
+- Purpose: Coi Coffee decided to implement an expansion project into five Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with one flagship store in each province within 12 months. This is a perfectly place to many people especially teenagers go to coffee store to experience and enjoy many traditional drink and food menu. Morever. teenagers can go to the coffee store to study and unwind because this place can become workplace.
+- Scope: This project includes: 
+Surveying and selecting premises.
+Designing and constructing interiors consistent with the brand.
+Recruiting and training local personnel.
+Building a raw material supply chain form Central region suppliers.
+Launching campaigns for each store.
+- Time: 12 months (1 flagship store in each province within 12 months).
+- Cost/Budget: The total budget is VND 8.5 billion (approximately VND 1.7 billiion/store).
+- Quality: Each store must reach the break-even point within 8 months after opening.
+
+Request 2:
+- Ads/ Media Spend
++ description: Ads store and pr for famous Coi Cafe Brand.
++ cost: 1,5 billion
++ Parametric Estimating: every ads clicks (0,00015 x 10000 = 1,5 billion)
+- Training Staff Local
++ description: provide learning materals and guide behavior of staff.
++ cost: 1,15 billion
++ Bottom-up Estimating: Salary Staff (0,5 billion) + Material Guide (0,25 billion) + Clothes (0,4 billion).
+- Marketing (Booking KOL):
++ description: book KOL to introduce store brand and review traditional drink menu.
++ cost: 1 billion
++ Vendor Bid Analysis: Compare six KOL and book KOL with good budget.
+- Opening flagship store
++ decription: Launching Campaigns for each store and opening flagship store.
++ cost: 4 biilion
++ Analogous Estimating: Last year, the company was created campaigns in Ho Chi Minh City.
+- Contingency Reserve (Risk):
++ description: the PM need to have risk management to use emergency situations.
++ cost: 0,85 billion
++ Parametric Estimating: Approximate 10% with the total budget.
+
+2)
+Request 3: 
+Risk 1: The Project Schedule is too tight, it is hard to complete on time.
+- Possibility: Low
+- Impact: High
+- Mitigation Plan: Set priority for tasks and buffer time.
+- Contingency Plan: Negotiate with Director and customers, allow OT, add more members to complete task key.
+Risk 2: The Project Manager has poor manegement skill.
+- Possibility: Medium
+- Impact: Medium
+- Mitigation Plan: Provide training and learning materials for PM.
+- Contingency Plan: Assign a sub Project Manager to support project.
+Risk 3: Lack of cooperation reduce team productivity.
+- Possiblity: Medium
+- Impact: Medium
+- Mitigation Plan: Create workshop to improve communication, 
+- Contingency Plan: Reassign task for member and training to improve teamwork skill.
+
+Request 4: RACI chart with role includes: PM is Project Manager, BA is Business Analyst, Designer, Marketing and Director. 
+- Create project chapter: PM (R/A), BA (C), Designer (C), Marketing (C), Diretor (C).
+- Create BRS: PM (A), BA (R), Designer (I), Marketing (C), Director (I).
+- Create SRS: PM (A), BA (R), Designer (C), Marketing (C), Diretor (I).
+- Create Risk Managemen: PM (R), BA (C), Designer (I), Marketing (C), Director (I).
+- Design Drink Menu: PM (A), BA (C), Designer (R), Marketing (C), Director (I).
+- Design Flagship Store: PM (A), BA (C), Designer (R), Marketing (C), Diretor (I).
+- Marketing: PM (A), BA (C), Designer (I), Marketing (R), Director (I).
+- Training Staff Local: PM (A), BA (I), Designer (I),Marketing (R), Director (C).
+- Monitoring Project: PM (A), BA (C), Designer (I), Marketing (I), Director (R).
+- Create Final Report: PM (R), BA (C), Designer (I), Marketing (I), Diretor (C). 

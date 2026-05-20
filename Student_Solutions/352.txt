@@ -1,0 +1,97 @@
+1)
+Question 1:
+1. Project name: Coi Cafe
+
+2. Justifications: To expand project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+_ Purpose: 
++ expand business to cover all Viet Nam. 
++ Make local people know brand can buy products easier.
+
+3. Constraints:
+_Scope:
++ surveying and selecting premises
++ Using reusable cups
++ Purchasing coffe directly from DakLak
++ designing and constructing interiors consistent with the brand
++ recruiting and training local personnel
++ building a raw material supply chain from Central region suppliers and launching campains for each store.
+
+_ Time: 
++ 12 months with 1 flagship store in each province.
++ 8 months with each store after opening must reach the break-even point.
+
+_ Cost: VND 8.5 billion (VND 1.7 billion/store)
++From: Equity and commercial bank loans.
+
+_Quality: 
++Using reusable cups make friendly with enviroment
++ Purchasing coffe directly from DakLak make people belive to use items about quality of seed coffee
+
+Question 2: 
+
+1. Location to place stored
++ Description: need cost to pay for buy or borrow location to place the store
++estimation: VND 50 -100 millions/ months for pay to borrow location 
+
+2. Resource
++ Description: need pay for all employee to build and buy product be have engagement 
++ Estimate: VND 500-600 millions
+
+3. Law
++ Description: need ensure from law about register business and build store
++ Estimation: VND 50 millions 
+
+4. Marketing
++ Description: Create and design more even to make people can select store to come. (EX: invite KOL create clip viral in social media)
++ Cost: VND 100 Million
+
+5. Training
++ Description: ensure 100% eployee have be trainning from starter
++ Estimation: VND 200 Millions
+
+2)
+Question 3: 
+
+1. Location
++ Discription: location can not make people choose store to buy or travel
++ Impact: make store can not sell and pay for cost employee, borrow location.
++ mitigation: careful select location to pay and place store. Find location have more people and travelers.
+
+2. Resource
++ Discription: employee can offline everytime when store or project active.
++ Impact: behind schedule when implement project and not have employee to sell product, impact to reduce performance.
++ Mitigation: Need promise between company and employee. Having some benefit for employee. 100% employee be training
+
+3. Quality product
++ Discription: product that people use to eat or drink is important to quality of it. Need items fresh and health for user
++ Impact: Health of user and famous of brand. increase cost if not sould out
++ Mitigation: need use product fresh, not old. import enough number items for some time to sell
+
+
+Question 4:
+_ project role:
++ Sponsor: Commercial bank loans.
++ Internal: PM - Market Development Director, HR, Coi's management, design team, marketing team
++ External: customer
+
+_ Taske, activities or deliverables:
+
+1. Identify requirement: PM (A,R), Coi's management (C), design and marketing team (C), HR ( C ), Sponsor ( I ), Customer ( I ).
+
+2. Decided implement project: PM ( C ), Coi's management (A,R), design and marketing team ( I ), HR ( I ) Sponsor ( I ), Customer ( I ).
+
+3. Designing brand: PM & Coi's management ( C ), Design team (A,R), Marketting team ( C ), Sponsor and Customer ( I )
+
+4. Training:  PM & Coi's management ( C ), Design and Marketing team ( I ), HR (A,R), Sponsor and Customer ( I ).
+
+5. Marketing brand: PM & Coi's Management ( C ), Design team ( C ) , Marketing team (A,R), HR ( I ), Sponsor and Customer ( I ) 
+
+6. Pay for activities, tasks: PM & Coi's Management ( R, C ), Design and marketing team and HR ( C ), Sponsor (A,R), Customer ( I )
+
+7. Interview, invite employee: PM & coi's Management ( C ), Design and marketing team ( C ), HR (A,R) Sponsor & Customer ( I )
+
+8. Register law: PM ( C ), Coi's Management (A,R), Design and maketing team ( I ), HR ( I ), Sponsor & Customer ( I )
+
+9. Deliver project: PM (A,R), Coi's Management (C), Design and marketing team (I), HR (I), Sponsor & Customer (I)
+
+10. Test & Use project: PM & Coi's Management (A, R), Design and marketing team (C), HR (C), Sponsor ( C ), Customer (C)

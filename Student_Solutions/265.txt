@@ -1,0 +1,113 @@
+1)
+Request 1:  Project narrative charter
+- Project name: Coi cafe expansion project
+- Purpose :To carry out a project for further store activities management and campaigns to implement an expansion into 5 Central provinces 
+- Constraints: 
+ + Scope: survey and selecting with the premises, designing and constructing consistenr with the brand, rescuiting and training local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store
+ + Time: within 12 months
+ + Budget: 8,5 VND billion (approximately VND 1.7 billion/store)
+
+Request 2: Five main cost item
+- Cost item 1:
+ + Name: Surveying cost
+ + Description:
+ + How to estimate:
+- Cost item 2
+ + Name: Poster, printings design cost
+ + Description:
+ + How to estimate
+- Cost item 3:
+ + Name: Advertising cost
+ + Description
+ + How to estimate
+- Cost item 4
+ + Name: Training cost
+ + Description:
+ + How to estimate
+- Cost item 5
+ + Name: Campaign launching cost
+ + Description
+ + How to estimate
+Request 3: 
+- Risk 1: Lack of people who are willing to do surveys
+ + Description: Surveying cannot reach a certain targeted number because of uninterest of people due to unintersting surveying stragtegy  
+ + Impact: Medium (Lack of data for further implementation) 
+ + Mitigation: Design a well-prepared stragtegy before surveying and run campaigns during the survey, includes: social media advertising, events for participants to redeem gift after doing surveys
+- Risk 2: Lack of time
+ + Description: The project may run out of time in final stages (Building suplly chain, launching discount, sale-off campaigns) because of latency in previous stages (recruiting and training personnel)
+ + Impact: High (may leads to failure of total project due to the important of final stages)
+ + Mitigation: Implement well-prepared and professional plan and procedure before carrying out by analyzing data from relevant previous projects, also completing tasks on time to provide back-up time for checking up with initiated plan. Cut off add-on steps during each stage  if unnesscessary.
+- Risk 3: The project is unable to outweigh similar competitors
+ + Description: The project is faded out because of so many of similar project running at the same time so that customers cannot be exposed to the campaigns
+ + Impact: Medium 
+ + Mitigation: Design unique campaigns, especially promote in differences from other bussiness and keywords into the campaigns (such as purchasing coffee directly from Dak Lak farmers, nostalgic space) to attract more people. 
+2)
+Request 4:
+- Project roles:
+ + PM
+ + Interior designer
+ + HR 
+ + Marketing
+- Ten tasks:
+ + Gathering requirement and making total plan
+ + Market research
+ + Design interiors consistent for the brand
+ + Building recruiting plan and job description
+ + Interview employees
+ + Make campaign plan
+ + Survey
+ + Carry out campaigns 
+ + Trainning employees
+ + Analyzing data from feedback for furture response plans
+
+RACI chart for responsibilities:
+- Gathering requirements and making plan
+ + PM: R, A
+ + Designer: I
+ + HR: I 
+ + Marketing: I 
+- Market research 
+ + PM: I
+ + Designer: I
+ + HR: I
+ + Marketing: R, A
+- Design consitent for the brand: 
+ + PM: C
+ + Designer: R, A
+ + HR: I
+ + Marketing: C
+- Build rescruiting plan and JD
+ + PM: A
+ + Designer: I
+ + HR: R
+ + Marketing: I
+- Interview employees
+ + PM: I
+ + Designer: I
+ + HR: R, A
+ + Marketing; I
+- Make campaign plan
+ + PM: C, A
+ + Designer: I
+ + HR: I
+ + Marketing: R
+- Survey 
+ + PM: I, A
+ + Designer: I
+ + HR: I
+ + Marketing: R
+- Carry out campaign
+ + PM: I, A
+ + Designer: I
+ + HR: I
+ + Marketing: R
+- Training employee
+ + PM: I
+ + Designer: I
+ + HR: R, A
+ + Marketing: I
+- Analyzing data
+ + PM: C, A
+ + Designer: I 
+ + HR: I
+ + Marketing: R   

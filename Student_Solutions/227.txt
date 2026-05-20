@@ -1,0 +1,83 @@
+1)
+Request 1:
+1.  Project Name: Expand Chain Coi Cafe Store Project
+2. Justification: 
+          + Purpose: Coi Cafe management want expand chain store, want everyone know about Coi Cafe (VietNamese coffee brand) with nostalgic, tranditional drink menu, and sustainable business model
+          + Reason: Expand project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh DInh). Building a raw material supply chain from Central region suppliers.
+3.  Constraints: Expland into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 months. The project includes: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store. The total budget is VND 8.5 billion (approximately VND 1.7 billion/store). Each store much reach the break-even point within 8 months after within
+
+
+Request 2: 
+5 main cost/budget items:
++ Interior
++ Coffee material
++ Cost training
++ Cost create menu drink
++ Cost building a raw supply chain materials
+2)
+Request 3: 
+Project Risk 1: Over Budget
++ Description: Cost designing, constructing interiors.
++ Impact: Medium
++ Probability: Medium
++ Mitigation: List product should buy, compare price before buy, project manager appoval before buying.
++ Contingency: Check plan using budget, reduce some item not nessescary.
+
+Project Risk 2: Project not on schedule
++ Description: Some problem happen make project not on schedule. 
++ Probability: High
++ Impact: High
++ Mitigation: Usually checking schedule. 
++ Contingency: Apply tracking, do work parallel, inject more money and people
+
+Project Risk 3: Campaign not attach customer
++ Description: Advertising not good enough to attach customer come in store.
++ Impact: High
++Probability: Medium
++ Mitigation: Take survey local customer, setup plan advertising based on that.
++ Contingency: Take survey ask them review store, run promotions to attach customer
+
+Request 4: 
+1. Four project roles: 
+     + Market Development Director (PM)
+     + Interior design team (IDT)
+     + Marketing team (MKT)
+     + HR team
+2. 
+Project Charter 
+Plan Budget
+Find Location in 5 Central
+Make survey
+Design Store
+Chose Interior
+Setup Store
+Training local personnel
+Launch campaigns
+Report plan
+3.
+- Project Charter: Market Development Director (A/R), Interior design team (I), Marketing team (I), HR (I)
+- Plan Budget: Market Development Director (A/R), Interior design team (C), Marketing team (C), HR(I)
+- Find Location in 5 Central: Market Development Director(A/R), Interior design team (I), Marketing team(I), HR(I)
+- Make survey: Market Development Director (A/R), Marketing team (I), Interior design team(I), HR(I)
+- Design Store: Market Development Director (C), Interior design team (A/R), Marketing team (I), HR(I)
+- Chose Interior: Market Development Director (C), Interior design team (A/R), Marketing team (I), HR(I)
+- Setup Store: Market Developmnet Director (I),
+Interior design team (A/R), Marketing team (I), HR(I)
+- Launch campaigns: Market Development Director(A), Interior design team (C), Marketing team (R), HR(I)
+- Training local personnel: Market Development team (I), Interior team (I), Marketing team (I), HR (A/R)
+- Report plan: Market Developement Director (A/R), Interioir design team (C), Marketing team (C), HR (C)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

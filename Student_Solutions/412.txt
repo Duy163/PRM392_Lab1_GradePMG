@@ -1,0 +1,155 @@
+1)
+Request 1:
+1)
+- Project name: Coi Cafe expansion project 
+- Project decripstion: Coi's management decided to implement an expansion project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) with 1 flagship store in each province within 12 months. The project includes: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and lauching campaigns for each store.
+2) Justifications
+- Purpose: Coi's management want expanse his coffee shop into the others provinces across the country because he/she want increase Coi cafe brand image in local people mind and gain more revenue.
+3) Project constraints:
+- Scope: Coi cafe expanse into 5 central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) with 1 flagship store in each provinces. Meanwhile, the project includes: surveying and slecting premises, disigning and contructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers and lauching campaigns for each store.
+- Time: 12 months
+- Cost/budget: VND 8.5 billion 
+- Quality: Each store must reach the break-even point within 8 months after opening
+
+2)
+Request 2:
+1) Land & Building expense cost:
+Description: Coi's management need to spend money to hiring a building or land to build a flagship store and run buisiness.
+Estimate: Looking for a land or building that suitable with building plan and budget that acepptable from Project Management
+2) Campaigns budget:
+Description: Coi cafe spend amount of money for launches marketing plan in each stores
+Estimate: Tracking marketing budget frequently (1 per week) because this budget might be overused if do not tracking frequently
+3) Designing and contructing cost:
+Description: Spend money to the interior design team to plan concept design and contructing interiors consistent with the brand
+Estimate: Tracks the budget frequently and keep it always less or equal to budget that plan before
+4) Training employees cost:
+Description: Coi's managment spend amount of money to training new employees 
+Estimate: Track the budget frequently and keep it always less or equal to budget that plan before
+5) Supply chain from suppliers cost:
+Description: Coi cafe purchase amount of money to take raw materials supply chain from Central reigion suppliers
+Estimate: Track the budget frequently and keep it always less or equal to budget that plan before.
+
+Request 3:
+
+Risk 1:
+Title name: Overload Budget
+Posibility: Medium
+Impact: High
+Mitigation: In some milestone like "Lauching Campaign" may face with some problem and lead to overused the budget that plan before.   
+Contigency: Add a little more budget in which milestone that may face with high posibility trouble
+
+Risk 2:
+Title name: Burning timeline 
+Posibility: Medium
+Impact: High
+Mitigation: Build and design store may face with this risk because this phase is the hardest one, if the interior design members do not contact and cosistence information design rules they will face with wrong format and need spend more time to redo the tasks. 
+Contigency: Contact and doublle-check frequently per days among design team members
+
+Risk 3:
+Title name: The revenue not reach the target
+Posibilty: High
+Impact: High
+Mitigation: The campaign of each store that not reach to the local customers, and lead to decrease amount of customers visit to store ==> do not have enough revenue to reach the break-even point within 8 months after opening 
+Contigency: Manage and plan the concept Campaign rules correctly the target custommers in each provinces
+
+Request 4:
+1)
+-The Market Development Director (PM)
+-The interior design team (DT)
+- HR team (HR)
+- Marketing team (MKT)
+2)
+A- Reviews Project plan
+B- Confirm Project plan
+C- List location (building) to hire/buy
+D- Plan concept design rules
+E- Plan campaign and marketing rules
+F- Buil a flagship store  
+G- Purchase material supply
+H- Run marketing plan
+I- Recruiting and Training employees
+J- Collect the survey data
+K- Mearsure the Campaign
+
+3) 
+A: Reviews Project plan
++ PM: A
++ DT: C
++ HR: C
++ MKT: C
+
+B: Confirm Project plan
++ PM: A
++ DT: C
++ HR: C
++ MKT: C
+
+C: List location to hire/buy
++ PM: A
++ DT: I
++ HR: C
++ MKT: R
+
+D: Plan concept design rules
++ PM: A
++ DT: R
++ HR: I
++ MKT: C
+
+E: Plan Campaign and Marketing rules
++ PM: A
++ DT: I
++ HR: I
++ MKT: R
+
+F: Build flagship store
++ PM : A
++ DT: R
++ HR: R
++ MKT: I
+ 
+G: Purchase material supply
++ PM: A
++  DT: I
++ HR: R
++ MKT: I
+
+H: Run Marketing plan
++PM: A
++ DT: I
++ HR: I
++ MKT: R
+
+I: Recruiting and Trainng employees
++ PM: A
++ DT: I
++ HR: R
++ MKT: I
+
+J: Collect survey data
++ PM: A
++ DT: I 
++ HR: I
++ MKT: R
+
+K: Measure the campaign
++ PM: A
++ DT: I 
++ HR: I
++ MKT: R 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

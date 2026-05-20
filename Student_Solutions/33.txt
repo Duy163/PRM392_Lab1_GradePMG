@@ -1,0 +1,101 @@
+1)
+Request 1: 
++ The project is named “Coi Cafe Central Expansion Project”. The purpose of this project is to expand Coi Cafe’s presence into five Central provinces including Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh. This expansion helps the company increase market share, strengthen brand recognition nationwide, and approach new customer segments. In addition, the project supports long-term revenue growth and improves competitiveness against other coffee chains. Another important reason is to utilize the existing sustainable business model and extend the supply chain from local farmers, especially in the Central region.
+The project has several constwraints. In terms of scope, the project must deliver five flagship stores with consistent brand identity, including location selection, store design, construction, staffing, and marketing campaigns. In terms of time, all five stores must be completed and opened within 12 months, which creates pressure on scheduling and coordination. In terms of cost, the total budget is limited to VND 8.5 billion, requiring strict cost control and efficient allocation for each store. In terms of quality, each store must meet brand standards in design, service, and customer experience, and must achieve break-even within 8 months after opening.
+
+Request 2:
++ The first cost item is Site Acquisition and Rental. This includes costs for surveying, leasing, and legal procedures for store locations. The estimation is based on market rental prices in each province, analyzed by the finance team, with input from the project manager and local real estate agents.
++ The second cost item is Interior Design and Construction. This covers design fees, materials, furniture, and construction labor to ensure brand consistency. The estimation is done using bottom-up estimation based on detailed design drawings, prepared by the design team and verified by the project manager.
++ The third cost item is Equipment and Materials. This includes coffee machines, kitchen equipment, and reusable cups. The estimation uses supplier quotations and historical data from existing stores, handled by the procurement team.
++ The fourth cost item is Human Resources and Training. This includes recruitment, salaries during training, and training programs for local staff. The estimation is based on the number of employees required per store and standard salary levels, prepared by the HR team.
++ The fifth cost item is Marketing and Launch Campaign. This includes advertising, promotions, and opening events for each store. The estimation is based on a percentage of expected revenue and past campaign data, planned by the marketing team.
+
+Request 3:
+Risk 1: Delay in Store Construction
++ Description: Construction activities may be delayed due to contractor inefficiency, labor shortages, or material supply issues.
+Impact:
++ Scope/Quality: Store design or finishing quality may not fully meet brand standards
++ Time: Opening schedule may be delayed by 1–2 months
++ Cost: Additional construction and labor cost may increase by 10–15%
++ Mitigation: Select experienced contractors, sign clear contracts with penalties, and closely monitor progress weekly.
++ Contingency: Prepare backup contractors and adjust the construction schedule if delays occur.
+Risk 2: Low Customer Demand in New Markets
++ Description: The brand is new in Central provinces, so customer awareness and demand may be lower than expected.
+Impact:
++ Scope/Quality: Marketing effectiveness may be lower, affecting brand positioning
++ Time: Break-even point may be delayed by 2–3 months
++ Cost: Additional marketing expenses may increase by 10–20%
++ Mitigation: Conduct market research and design suitable local marketing strategies before opening.
++ Contingency: Increase promotions, adjust pricing, and enhance local engagement campaigns.
+Risk 3: Supply Chain Disruption
++ Description: There may be interruptions in sourcing raw materials from Central region suppliers due to logistics or supplier reliability issues.
+Impact:
++ Scope/Quality: Product quality and consistency may be affected
++ Time: Store operations may be interrupted for several days
++ Cost: Additional sourcing and transportation cost may increase by 5–10%
++ Mitigation: Establish contracts with multiple suppliers and maintain safety stock.
++ Contingency: Switch to alternative suppliers from other regions and use backup inventory.
+
+Request: 4
+The main project roles include Project Manager (PM), Design Team, HR Team, Marketing Team, and Procurement Team.
+Task 1: Location Survey
+ PM – A
+ Design Team – R
+ Marketing Team – C
+ HR Team – I
+ Procurement Team – I
+Task 2: Lease Negotiation
+ PM – A
+ Procurement Team – R
+ Design Team – C
+ Marketing Team – I
+ HR Team – I
+Task 3: Store Design
+ PM – A
+ Design Team – R
+ Marketing Team – C
+ Procurement Team – C
+ HR Team – I
+Task 4: Construction
+ PM – A
+ Design Team – R
+ Procurement Team – C
+ Marketing Team – I
+ HR Team – I
+Task 5: Equipment Procurement
+ PM – A
+ Procurement Team – R
+ Design Team – C
+ HR Team – I
+ Marketing Team – I
+Task 6: Staff Recruitment
+ PM – A
+ HR Team – R
+ Marketing Team – C
+ Design Team – I
+ Procurement Team – I
+Task 7: Staff Training
+ PM – A
+ HR Team – R
+ Design Team – C
+ Marketing Team – C
+ Procurement Team – I
+Task 8: Supply Chain Setup
+ PM – A
+ Procurement Team – R
+ Design Team – C
+ HR Team – I
+ Marketing Team – I
+Task 9: Marketing Campaign
+ PM – A
+ Marketing Team – R
+ Design Team – C
+ HR Team – I
+ Procurement Team – I
+Task 10: Store Opening
+ PM – A
+ Marketing Team – R
+ HR Team – R
+ Design Team – C
+ Procurement Team – I
+2)

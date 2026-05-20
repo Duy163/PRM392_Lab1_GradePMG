@@ -1,0 +1,84 @@
+1)
+Request 1:
+
+1. Project Name: Coi Cafe Management.
+
+2. Justifications: Because Coi Cafe want expansion project in to 5 Central provinces(Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh). Therefore, They want have project expansion, project  includes: serveying and selecting premises, designing and constructing interios consistent with brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers and launching campaigns for each store.
+
+3. Project Contraints:
+- Scope:
+ + Serveying and selectingpremises.
+ + Designing and constructing interiors consistent with brand.
+ + Recruiting and training local personnel.
+ + Building a raw material supply chain from Central region suppliers.
+ + Launching campains for each store.
+- Time: 12 months
+- Cost/budget: Total budget is VND 8.5 billion (approximately VND 1.7 billion/store)
+- Quality: Each store must reach the break-even point within 8 months after opening.
+
+--------------------------------------------------------
+Request 2:
+Five main cost/budget items:
+1. Market Development Director
+- Description: Manage all members of team project, meeting with customer and makesure complete project before time limit.
+- Cost: about VND 25 million/person/month 
+- Estimation: Customer
+2. Interiors design Team
+- Description: Team will design project follow request of customer, and makesure design beauty and right with customer idea.
+- Cost: about VND 15 million/person/month
+- Estimation: PM
+3. HR team
+- Description: Manage employee and increase/decline employee for suitable with project.
+- Cost: about VND 10 million/person/month
+- Estimation: PM
+4. Marketing team
+- Description: Team will create goal and content suitable for customer, and build advertise for customer's brand.
+- Cost: about VND 12 million/person/month
+- Estimation: PM
+5. Dev team
+- Description: Create project, collection data from customer to building project.
+- Cost: about VND 17 million/person/month
+- Estimation: PM
+2)
+Request 3:
+
+1. Risk 1: Project time overrun(time)
+- Description: Market Development Director, Dev team or Marketing team delay project.
+- Impact: High
+- Mitigation: Makesure project complete early
+- Contingency: PM must meeting daily to makesure project complete.
+
+2. Risk 2: Project can't success before time limit of project.
+- Description: Each store can not reach the break-even point within 8 months after opening.
+- Impact: High
+- Mitigation: Each store must reach break-even early and complete it before 8 months after opening.
+- Contingency: Each store must reach break-even point before 8 months.
+
+3. Risk 3: Cost/budget overrun
+- Description: The total budget of projec not enough to create project, pay salary for employee, marketing store. 
+- Impact: High
+- Mitigation: Total budget must be suitable with project after implement project.
+- Contingency: Total budget must be enough early
+
+--------------------------------------------------------
+
+Request 4:
+
+1. Three project role: Marketing Develoipment Director(as PM), interior design team, HR team.
+
+2. Ten tasks, activities, or deliverable:
+- Manage project(PM).
+- Collection data(PM).
+- Increase/decline employee(HR team).
+- Design project(Interior design team).
+- Organization meeting(PM).
+- Create project(PM).
+- Review project(PM).
+- Manage employee(HR team).
+- Report project(PM).
+- Complete project before limit time(PM).
+
+3. Responsibilities of the project roles:
+- PM: Manage and follow project to report level of project(create project, review project, report project,..).
+- Interior design team: Designing and constructing interiors consistent with brand(Design project follow request of customer).
+- HR team: Manage employee and makesure full employee for project(Manage and increase/decline employee, ...).

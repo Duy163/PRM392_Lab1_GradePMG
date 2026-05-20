@@ -1,0 +1,62 @@
+1)
+Request 1: Project Charter Narrative Statement
+Project Name: Coi Cafe
+Purpose & Reasons:
+The primary purpose of this project is to scale the Coi Cafe brand from its 12 stores foundation in Hanoi and Ho Chi Minh City into five key provinces in the Central region: Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh. This expansion leverages Coi’s unique nostalgic space and traditional menu to capture new market share. Strategically, the project aims to reinforce the brand's commitment to sustainability by establishing a localized supply chain with Central region suppliers and continuing the use of eco-friendly materials like reusable cups. Financially, the project is designed to create a self-sustaining regional branch, with a strict goal for each flagship store to reach its break-even point within 8 months of operation.
+Project Constraints:
+Scope: The project is limited to the development of five flagship stores, one in each designated province, covering everything from site selection to the official launch.
+Time: All five stores must be fully operational within a 12-month window.
+Cost/Budget: The total budget is capped at VND 8.5 billion (averaging VND 1.7 billion per store), funded through a mix of equity and bank loans.
+Quality: Every store must maintain the specific "nostalgic" brand aesthetic and adhere to sustainable sourcing and service standards.
+
+Request 2: Cost and Budget Estimation
+To ensure the project stays within the VND 8.5 billion limit, the following budget items have been identified:
+Premises Rental & Security Deposits: Estimated at VND 1.5 Billion. This is calculated based on the average market rate for flagship-sized locations in Central Vietnam, covering the initial deposit and first few months of rent. Person in Charge: Market Development Director.
+Interior Design & Construction: Estimated at VND 3.5 Billion (VND 700M per store). This uses a "parametric estimation" based on previous costs for the HCMC/Hanoi stores to ensure the "nostalgic" quality is met. Person in Charge: Interior Design Team Lead.
+Kitchen & Bar Equipment: Estimated at VND 1.5 Billion. This is a "bottom-up estimate" based on the specific cost of high-grade coffee machines and reusable cup inventory. Person in Charge: Project Manager.
+HR: Recruitment & Training: Estimated at VND 0.8 Billion. This covers the cost of local job postings and a 2-week intensive training program for all new staff. Person in Charge: HR Team Lead.
+Marketing & Launch Campaigns: Estimated at VND 1.2 Billion. This includes local PR, social media advertising, and grand opening events for each of the five locations. Person in Charge: Marketing Team Lead.
+
+Request 3: Project Risks and Response Plans
+Risk: Construction Delays.
+Description: The specialized nostalgic interior design may take longer than planned due to a lack of specialized local contractors.
+Impact: Time (delay in store opening) and Cost (increased loan interest).
+Response: (Mitigation) Conduct a rigorous pre-qualification process for contractors and (Contingency) include a 15% time buffer in the construction phase.
+Risk: Supply Chain Inconsistency.
+Description: Difficulty in finding Central region suppliers who can consistently meet Coi's quality standards for raw materials.
+Impact: Quality (product taste variation) and Scope.
+Response: (Mitigation) Begin supplier auditing 4 months in advance and (Contingency) maintain a backup supply contract with existing Dak Lak farmers.
+Risk: Failure to Break-even.
+Description: Local competition or lower-than-expected foot traffic prevents stores from breaking even by month 8.
+Impact: Cost/Financial Sustainability.
+Response: (Mitigation) Implement a localized loyalty program and (Contingency) prepare a secondary marketing budget for a "re-launch" push in month 6. 
+
+Request 4: RACI Chart Description
+1. Project Roles:
+Role A: Market Development Director (Project Manager - PM).
+Role B: Interior Design Team Lead.
+Role C: HR Team Lead.
+Role D: Marketing Team Lead.
+2. List of Tasks and Responsibilities (RACI):
+(Legend: R = Responsible, A = Accountable, C = Consulted, I = Informed)
+Task 1: Survey and select premises
+PM (A) is Responsible and Accountable; Interior Design (B) is Consulted; HR (C) and Marketing (D) are Informed.
+Task 2: Finalize interior blueprints
+Interior Design (B) is Responsible; PM (A) is Accountable; Marketing (D) is Consulted; HR (C) is Informed.
+Task 3: Manage construction and renovation
+Interior Design (B) is Responsible; PM (A) is Accountable; HR (C) and Marketing (D) are Informed.
+Task 4: Develop recruitment criteria
+HR (C) is Responsible; PM (A) is Accountable; Interior Design (B) and Marketing (D) are Informed.
+Task 5: Onboard and train local staff
+HR (C) is Responsible; PM (A) is Informed; Interior Design (B) is Informed; Marketing (D) is Consulted.
+Task 6: Build raw material supply chain from Central region suppliers
+PM (A) is Responsible and Accountable; Marketing (D) is Consulted; Interior Design (B) and HR (C) are Informed.
+Task 7: Design launch campaigns for each store
+Marketing (D) is Responsible; PM (A) is Accountable; Interior Design (B) is Consulted; HR (C) is Informed.
+Task 8: Execute Grand Opening events
+Marketing (D) is Responsible; PM (A) is Accountable; HR (C) is Consulted; Interior Design (B) is Informed.
+Task 9: Financial budget monitoring and management
+PM (A) is Responsible and Accountable; all other teams (B, C, D) are Informed.
+Task 10: Post-opening 8-month break-even analysis
+PM (A) is Responsible and Accountable; HR (C) and Marketing (D) are Consulted; Interior Design (B) is Informed.
+2)

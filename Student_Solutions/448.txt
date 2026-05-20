@@ -1,0 +1,41 @@
+1)
+Request 1:
+Project name: Coi Cafe expansion for Central provinces and flagship store.
+The purpose of this project is to implement an expansion into 5 Central provinces with 1 flagship store in each one withing 12 months.
+This project will help enhance the brand appearance with unique business model, interesting customer in using resuable cups, nostalgic space and create a change for expand customer variance.
+The following constraints of this project include:
+- Scope constraint is surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personal, building a raw material supply chain from Central region suppliers, and lanching campaigns for each store.
+- Time constraint of the project is within 12 months.
+- Cost/Budget constraint is VND 8.5 billion from equity and commercial bank loans.
+- Quality constraint is to reach the break-even point within 8 months after opening.
+2)
+Request 2:
+The following 5 main cost/budget items:
+1. Surveying and selection premises:
+- Create a survey for customer selection, attractive point in the product, willness for paying.
+- Executed by marketing team within 1 week before first open.
+2. Designing and constructing interior:
+- Blueprint for the store, necessary material for construction.
+3. Recruiting and training local personel:
+- Recruiting suitable employees, having a training plan before first open.
+- Executed by HR team.
+4. Building a raw material supply chain:
+- Building a calender for importing material and computing the number and weight of each material that enought during working.
+5. Lauching attractive campaigns for new appearance for each store.
+- Designing the banner for the first open, the gift and voucher for customer approciation.
+- Executed by marketing team.
+
+Request 3:
+The following risk that may affect the project:
+1. The number of customers is larger than expected so the store have no enought space for them.
+- This is the positive threat, which is the chance to build-up the store but need to pay more for expand the store, recruit and train the personel, etc.
+2. The signature product do not atract local customer so that the earned values may be not enought to keep the store working.
+3. The store do not reach the break-even point within 8 months after opening.
+
+Request 4:
+The project roles:
+- Project manager: Reporting the status, scope management, flexibly modify the plan based on the target. manage all falcuty, connecting team and keep the efficiency on work.
+- Interior designer: Appeareance design, interior space decoration, managing the material cost at acceptable budget and satisfying customer view.
+- HR: Recruiting and training local personal, workflow for each position, efficiency during activities and the quality of serving.
+- Sales engineers: Surveying, market research. analyzing the customer selection, customer approciation, make a decision of marketing for customer experiences (combo, voucher and membership, etc).
+- Supply manager: Daily managing the raw material supply chain, checking and verifying the quality and number of the material, keep the supply chain continuously.

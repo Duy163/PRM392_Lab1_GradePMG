@@ -1,0 +1,74 @@
+1)
+Request1.
+ 1.Project name
+    - Project name is implement Coi Cafe flagship store 
+ 2.Justifications
+   - Purpose is implement an expansion Coi cafe store with 1 flagship store in each province to customers know their brand more and they have flagship stores. Reasons are they want to customers experience well  about traditional drinks, selling products, increase money  
+ 3. Project constraints
+   - Scope constraints:
+     + In of scope: implement 1 flagship store in each province , survey and select permises, design and construc interiors consistent with the brand, cecruit and train local personnel, build a raw material supplu chain from Central region suppliers, and launch campaigns for each store
+     + Out of scope: Do not build flagship stores in central region in each province, follow cheap store model
+   - Time constraints: This project must complete in 12 months 
+   - Cost/budget constraints: the project total budget is 8.5 billion VND(approximately 1.7 billion/store)
+   - Quality constraints: Each store must reach the break-even point within 8 months after opening
+Request 2:
+ 1. Main cost/budget item 1:
+   - Name: Design and construct brand
+   - Description: A members in team create idea and plan to build interiors consistent with the brand
+   - Estimation: 
+     + How to estimate:  1 billion VND  (this is brand face to people know) 
+     + Person in charged: due to all people do
+  2. Main cost/budget item 2:
+    - Name: Launch campaings for each store
+    - Desciption: Project team will run campaigns each store to people know to store more 
+    - Estimation:
+       + How to estimate: 500 million VND( this phase create to everyone experience and increase loyal customer for brand)
+       + Person in charged: people do more 
+  3. Main cost/budget item 3:
+    - Name: Building a raw material supply chain
+    - Description: Building a raw material supply chain from Centeal region suppliers to supply for their cafe store
+    - Estimation:
+     + How to estimate: 2 billion VND( this is essential item to sell for people)
+     + Person in charged: due to all people do
+  4. Main cost.budget item 4:
+     - Name: Building cafe store
+     - Description: Building cafe store to sell products for customers 
+     - Estimation
+       + How to estimate: 4 billion VND( This is main important to cafe store selling
+       + Person in charged: all people do
+  5. Main cost/budget item 5:
+     - Name: Survey and select prermises
+     - Description: Survey and select pemises to evaluate before duiling cafe store
+     - Estimation:
+       + How to estimat: 500 million( survey to know how market to create plan
+       + Person in charged: all people do
+
+Request 3:
+ 1. Risk 1:
+     -Name: The Coffee shop can not reach the break- even point 
+     - Impacts:
+       + Scope: High
+       + Time: high
+       + Cost: high
+     - Revelant risk respone planes:
+        + Mitigation: reduce cost in phases to maintain store
+        + Contigency: Add budget for project
+  2. Risk 2:
+      -Name: materials can not sell done
+      - Impact: 
+        + Quality: medium 
+        + Time: Low
+        + Cost: high
+      - Revelant risk:
+        +Mitigation: Create sale events to customers
+        + Contigency: Sell for others
+
+Request 4:
+  1. Project role: Project manager as PM, Marketing team as MT, Design team as DT
+   2. List out
+     - Requirement analys: PM(R,A),MT(A),DT(I)
+     - Create plan for project: PM(R,A),MT(A),DT(I)
+     -  Design interiors consistent brand: PM(R),MT(I),DT(A)
+    
+
+2)

@@ -1,0 +1,180 @@
+1)
+request 1:
+
+- project name: coi cafe expansion campaign
+
+- purpose: expansion into 5 central provinces (da nang, hue, quang nam, quang ngai, binh dinh), with 1 flaship store in each province.
+
+- reason to implement project: increase apperance in vietnam because coi cafe is a pure vietnamese coffee brand with 12 strores in hanoi and ho chi minh city (using, purchasing coffee directly from dak lak farmers) but it do not have any store in other provinces, so coi coffee need to increase engagement with custormer,  rise income and being influence in coffee store's market by implement an expansion into 5 central provinces in vietnam. 
+
+- project constraints:
+
++ scope: central provinces (da nang, hue, quang nam, quang ngai, binh dinh), with 1 flagship store in each province. 
+
++ time: within 12 months
+
++ budget: total budget is vnd 8.5 billion (approximately vnd 1.7 billion/store).
+
++ quality: each store must reach the break-even point within 8 months afeter opening and ensure that quality for each product is sold get a good quality as well as avoid conflict or risis when executing.
+
+request 2:
+
+- cost about surveying and selecting premises
+
++ description: this is cost that need to implement before building store or selling anything because it helps coi cafe understand behavior and psycholical consumer in each province.
+
++ estimate (vnd): vnd 200 million for each strore (total budget for this cost is vnd 1 billion to project).
+
++ estimate method: hiring third companys in that province to implement because they can understand behavior or habit of inhibitant more than coi coffee, coi coffee ensuring keeptrack this work. 
+
++ person in charged (pic): the market development director
+
+- designing and constructing interiors consistent with the brand
+
++ description: this is cost that helps coi coffee easier catching customer's eyes when the first time look at store or banner, and coi coffee can consistent apperance in customer's mind. 
+
++ estimate (vnd): vnd 100 million for each store (total budget for cost is vnd 1 billion).
+ 
++ estimate method: coi coffee can devide vnd 50 million for design team and vnd 50 million for consistent with the brand.
+
++ pic: the interior design team
+
+- recruiting and training local personel 
+
++ description: each store need quality staff to make a good service, so recruting and training is nessesary. 
+
++ estimate (vnd): vnd 100 million for each store (total budget for cost is vnd 500 million).
+
++ estimate method: coi coffee can pay for each staff avarage wages in market such as vnd 5 million for 10 staff and 10 million for manager in store, vnd 20 million for training, vnd 20 million bonus for hr team if thay can get kpi and hire good staff for store. 
+
++ pic: hr team
+
+- building a raw material supply chain from central region suppliers
+
++ description: this is cost important that any coffee store must to focus, buying equipment, coffee, water, tea,... for selling is nessesary.
+
++ estimate (vnd): vnd 800 million for each store (total budget is vnd 4  billion).
+
++ estimate method: choosing famous suppliers and have suitable price, consider carefully list of supply chain from central region suppliers to get best choice.  
+
++ pic: hr team
+
+- marketing, lauching campaigns for each store
+
++ description: marketing, launching campaigns for each store help coi coffee easier apperance in customer's mind as well as consistent engagement with target audience.
+
++ estimate (vnd): vnd 500 million for each store (total budget is 2.5 billion)
+
++ estimate method: hiring influencer to ads for brand, executing some video trend, writing seo on website, advertising on facebook, tiktok everyday.
+
++ pic: marketing team
+
+
+
+
+2)
+request 3:
+
+- buying from suppliers is not quality
+
++ description: this is case suppliers hire writer to talk about they in social media that always benefit but it is not the truth
+
++ possibility of happening: medium
+
++ possible impacts: it impacts to cost and decrease quality of store, time also is affected when must resovle trouble with the safe of drink.
+
++ mitigation: change suppliers imediately when any problems occurs and make a video or writing in social media to confirm about that.
+
++ contingency: always prepare another supplier.
+
+- competitor attack store in social media 
+
++ description: competitor in central region province can attack or decrease coi coffee's quality to compete.
+
++ possibility of happening: high
+
++ possible impacts: quality may impact 
+
++ mitigation: call to police or goverment to sovle, and confirm any bad information in social media if competitor talk about that. 
+
++ contingency: research competitors around the store, always check information, content in social media to make sure that is not bad content about coi coffee.
+
+- customer unhappy with product 
+
++ description: customer may unhappy with product if staff or materials is bad quality.
+
++ possibility of happening: high
+
++ possible impacts: quality and cost may impacts.
+
++ mitigation: customer do not need to pay for product and is presented a new product.
+
++ contingency: always check material, training staff carefully abut comunication.
+
+
+request 4:
+
+- kick-off project
++ pm: a/r
++ design team: i
++ hr team: c
++ marketing team: i
+
+- surveying
++ pm: a/r
++ design team: i
++ hr team: c
++ marketing team: c
+
+ - designing and constructing interiors consistent with the brand
++ pm: a
++ design team: r
++ hr team: i
++ marketing team: i
+
+- recruiting and training local personnel
++ pm: a
++ design team: i
++ hr team: r
++ marketing team: i
+
+- buy material for store
++ pm: a
++ design team: c
++ hr team: r
++ marketing team: i
+
+- buy coffee, tea, milk,...
++ pm: a
++ design team: i
++ hr team: r
++ marketing team: i
+
+- hiring and training staff
++ pm: a
++ design team: i
++ hr team: r
++ marketing team: i
+
+- creating plan comunication
++ pm: a
++ design team: c
++ hr team: i
++ marketing team: r
+
+- producing video for marketing
++ pm: a
++ design team: c
++ hr team: c
++ marketing team: r
+
+- approval with sponsor
++ pm: a/r
++ design team: i
++ hr team: r
++ marketing team: i
+  
+
+
+
+

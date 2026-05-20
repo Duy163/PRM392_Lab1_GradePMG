@@ -1,0 +1,80 @@
+1)
+Request 1:
+1. Project name: Coi Cafe project
+2. Justifications:
+- Purpose:  Coi Cafe provides for customer of nostalgic space, traditional drink menu, and sustainable business model
+- Reasons: Coi Cafe is a pure Vietnamese brand, they want provide for customer a place comfortable to rest and taste coffee directly from Dak Lak farmers
+3. Project constraints:
+- Scope: Surveying and selecting premises, designing and constructing interios consistent with the brand, recruiting and training local personnel, building a raw material supply chain from central region suplliers, and launching campaigns for each store
+- Time: 12 months
+- Cost/budget: 8.5 billion VND from equity and commercial bank loans
+- Quality: Each store must reach the break-even point within 8 months after opening
+
+Request 2: Five main cost/budget items:
+1. Preparing cost 
+- Description: Purchasing the necessary material for designing and constructing iteriors consistent with the brand
+- Estimate: 2.5 billion VND
+- Method: Supplier Quotation
+- Responsible: Project Manager
+2. Makerting and Advertising
+- Description: Boosting the brand on social media and printing poster of brand
+- Estimate: 2 billion VND
+- Method: Based on previous campaigns
+- Responsible: Makerting Team
+3. Operation cost
+- Description: The directly cost for launching campaings for each store
+- Estimate: 1.5 billion VND
+- Method: Market price research
+- Responsible: Operation Team
+4, Training cost
+- Description: Training local team member for working on project
+- Estimate: 1 billion VND
+- Method: Expect Judgement
+- Responsible: HR team
+5. Contingency Reserve
+- Description: Backup fund for unexpected risks when launching project
+- Estimate: 1.5 billion VND
+- Method: Reserve calculation
+- Responsible: Project Manager
+2)
+Request 3: Three project risks:
+1. Over budget 8.5 billion VND
+- Description: The budget is pay for many expenses unnecessary
+- Impacts:
+ + Cost/Budget: Break the constraint is declared of the begin project is 8.5 billion VND
++ Quality: It can make quality cannott reach the target (reach the break-even point within 8 months after openning)
+- Response:
+ + Mitigation: Manage directly expense and remove unnecessary part to save the budget
+ + Contingency: Use Contingency Reserve to backup fund 
+2. Each store not reach the target project
+- Description: Each store doesn't reach the break-even point within 8 months after opening
+- Impacts:
+ + Quality: Break the constraint
+- Response:
+ +Mitigation: Boosting strong the brand on social media 
++ Contingency: Extend more promotions for customer during 8 months
+3. Feedback negative from customer
+- Description: The customer give the negative feedback to the store for many reason such as Bad staff, bad serving, uncomfortable on the store, ...
+- Impacts:
+ + Quality: Cannot reach the break-even point because bad system management
+ + Scope: Training local team member is not effective
+- Response:
+ + Mitigation: Managing and training local team meber and double-check for everything on store before opening
+ + Contingency: Collect feedback and resolve issue of customer quickly
+
+Request 4:
+1. Three project roles:
+- Project Manager (PM)
+- Operation Lead (OP)
+- Maketring Lead (MKT)
+2. + 3. The list tasks/activities/deliverables and responsibilities of the project roles:
+- 1. Defining project and scope: PM(A, R), OP(C), MKT(I)
+- 2. Researching of necessary equiment on market: PM(A), OP(I), MKT(R)
+- 3 . Surveying and selecting premises: PM(A, R), OP(I), MKT(I)
+- 4.  Designing and constructing interiors consistent with the brand: PM(A), OP(R), MKT(I)
+- 5. Recruiting and training local personal: PM(A), OP(R), MKT(I)
+- 6. Building a raw material supply chain: PM(A), OP(R), MKT(I)
+- 7. Collect feedback from customer: PM(I), OP(A, R), MKT(I)
+- 8. Boosting brand on social media: PM(I), OP(C), MKT(A, R)
+- 9.  Testing and fixing issue of customer: PM(A), OP(R), MKT(I)
+- 10. Offically launching the project: PM(A, R), OP(I), MKT(I)

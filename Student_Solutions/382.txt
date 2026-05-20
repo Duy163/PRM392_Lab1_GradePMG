@@ -1,0 +1,155 @@
+1)
+Request 1:
+
+1. Project name: CC5C -  Coi Cafe 5 Central provinces system management
+
+2. Justifications (purpose and reasons)
+- In order to spread Coi Cafe to 5 Central provinces is  Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh with one flagship store in each province 12 months
+
+3, Project constraints:
+- Scope: each provinces such as Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh must have at least a Coi Cafe store. the project also need to survey, select premises, designing and constructing interiors consistent with brand, recruiting and trainning local personel, building a raw material supply chain from Central region suppliers, and lauching campaigns for each store. The project team include: Martket Development Director as PM, coordinating with the interior design team, HR team, marketing team.
+- Time: 1 flasgship store in each province withing 12 months, no extra time.
+- Budget: the total budget is VND 8.5 billion, which means approximately VND 1.7 billion per store
+- Quality: Each store must reach the break-event point within 8 months after openin. 
+
+Request 2:
+- Market Developemt Director (PM): Manage and develop the project to gain the target
+- Interior design team (IDT): Design and control the quality of store for consistent Coi Cafe brand
+- HR team (HR): recruiting local personal
+- Marketing team (MKT): marketing new Coi Cafe store with different strategy.
+
+1. 
+- Name: Maintain location for bussiness
+- Descrition: The Cost for renting the center location store at high traffic at different provinces per months with applying suitable quality.
+- Estimate: VND 3 billion for total
+- How to estimate: surveying with desk search on popular website like batdongsan or cho tot. Go to directly at the position location to asking local people and near house and stor and compare to the basic cost public of governent. The final result is each cost of store nearly VND 50 million per store per month. The the total will be VND 3 billion total
+- Person in charged: PM
+
+2. 
+- Name: Design and constructing interiors for stores
+- Description: The cost for designing and construct for each Coi Cafe store with contraint about consistent with brand.
+- Estimate: VND 1 billiton for total
+- How to estimate: Communicate with IDT and popular company for constructing a store to get the final cost for each store. Moreover, get the history record price when constructing at Ha Nai and Ho Chi Minh city to gain more benifical information. The final cost per store is VND 200 minilion per store. So the total is 1 billion 
+- Person in charged: PM and IDT
+
+3. 
+- Name: Recruiting and training local persoel
+- Description: Cost for recruiting and training local personel per each month, this cost includes contigency and mangagement reserve cost
+- Estimate: VND 2.4  billiton for total
+- How to estimate: The cost for local staffs estimated from  the basic cost at each province through  goverment and local surveying. Each person for average with different positions  must be VND 10 million per persion. Five stores must need 20 staffs per month. 
+- Person in charged: PM and HR
+
+4. 
+- Name: Marketing new Coi Cafe store
+- Description: Runing marketing through campagins and popular platform such as Facbook, TikTok, Youtube.
+- Estimate: VND 1.1 billion 
+- How to estimate: The cost gain from the policy and cost of each platform give. For campaign, gain from the other history campaign organized with the total is VND 500 million for marketing thourgh platform and VND 600 million for marketing thourhg campagin
+- Person in charged: PM and MKT
+
+5.
+- Name: Contigency and management cost:
+- Description: Cost for handle contigency and management. 
+- Estimate: VND 2 billiton 
+- How to estimate: The cost gain from history record when constructing stores at Ha Noi and Ho Chi Minh with exactly formual. From the history record, the contigency cost must be VND 1.2 billion and management must be get 10 percentage of total cost
+- Person in charged: PM
+
+ 
+2)
+Request 3: 
+
+Three project risks:
+
+1. 
+- Title: material shrinks exceed 5% estimated
+- Description: The cost for  material lost or break or must be bought newly is over budget calculation.
+- Possible impact: with the uncontrol increase cost for material, which lead to cut the scope by reducing staffs, rental localtion price with high traffic, or especially reduce 5 into 4 province targets. This also impact to KPI for revenue or damage  brand image with customers due to not manipulating good enough services.
+- Response plans: To mitigate the impact, a staff have duty to exam material daily and have week report for manager, In case emergency, reporting immediately for manager and PM if manger can not control situaltion. To handle, contingency case, PM must have the cost for this risk, normally gain from history record and market research
+
+2.
+- Title: Marketing streams are under performence
+- Description: The percentage of customer gained from marketing, especially through social media platform is lower than the expectation. 
+- Possible impacts: This risk cause directly significant damage  to revenue of stores and must need to expand the time for break even is more than 8 months. Quality of brand will be impacted even to Ha Nai and Ho Chi Minh stores.
+- Response plan: To mitigae this risk. Firstly, MKT team must be done thourhg Agile mindset with daily meetings and weekly report to handle KPI throughout the project running. If KPI is under performance, find whether due to platform effect or not. If due to platform, increase offine event and increase the number of vouchers to maintain the percentage of customer fullfill. To handle this risk, PM must have the budget for vouchers producing or run others marketing stream when MKT team need. MKT must be create second plan to manupilate when risk occur.
+
+3.
+- Title: The Brand violant Vietnamese culture 
+- Description: A post on the social media platform is published from Coi Cafe page, which is violant significantly to Vietnamese culture. This lead to the angry from Vietnamese community
+- Possible impacts: Impact to all stores of Coi Cafe with the scope is nationwide. The revenue will be descrease signigicantly and uncontrollable
+- Reponse Plane: The content before published into the Internet must be manipublated different level from staff to manger and high level manager. To handle when risk occur, apologise dynamically and immediatly, change all staffs of that the departmant 
+
+Request 4:
+
+1. Project roles: 
+
+- Market Developemt Director (PM): Mange and develop the project gain the target
+- Interior design team (IDT): Design and control the quality of store for consistent Coi Cafe brand
+- HR team (HR): Recruiting local personal
+- Marketing team (MKT) : marketing new Coi Cafe store with different streams
+
+2 and 3 
+
+R: Responsible, A: Accountable, C: Consulted, I: Informed
+
+Task 1:
+- Activitiy: Define and desgin project charter  document with different types like pdf, pages, docx
+- Responsibilities: 
+   R: PM
+   I: IDT, HR, MKT
+Task 2:
+- Activity: Design Work Breakdown Structure for this project
+- Reponsibilities:
+  R: PM, IDT, HR, MKT
+
+Task 3: 
+- Activity: Design and implement marketing plan
+- Reponsibilities:
+  R: MKT
+  A: PM
+  I: IDT, HR
+
+Task 4: 
+- Activity: Survey and select premises
+- Reponsibilites:
+  R: PM
+  I: IDT, HR, MKT
+Task 5: 
+- Activity: Design and construct interiors consistent with the brand  
+- Reponsibilities: 
+  R: IDT
+  A: MKT
+  C: PM
+  I: HR
+
+Task 6: 
+- Activity: Recruite and train local personnel
+- Reponsibilities:
+  R: HR
+  A: IDT
+  I: MKT
+  C: PM
+Task 7:
+- Activity: Build a raw suplly chain from Central region suppliers
+- Reponsibilites:
+  R: IDT
+  A: PM
+  I: HR, MKT 
+
+Task 8:
+- Activity: launch campaigns
+- Responsinilities:
+  R: MKT, IDT
+  A: PM
+  I : HR
+
+Task: 9 
+- Activity: Control KPI during running project
+- Responsibilites: 
+  R: MKT, IDT, HR
+  A: PM
+
+Task 10
+- Activity: Closing the project and give all documents for other teams
+- Reponsibilities:
+  R: PM
+  I: MKT, IDT, HR
+  

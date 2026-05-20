@@ -1,0 +1,80 @@
+1)
+Request 1:
+1. Project Name: Coi Cafe Campaign Project
+
+2. Justifications (purpose & reasons): 
+    In the context of coffee is the famous drink in the world, so how to become a pure Vietnamese coffee brand. This project is initiated to solve current in efficiencies. Furthermore, it capitalizes on the strategic opportunity to becom a pure Vietnamese coffe brand, ensuring sustainable business growth.
+
+The primary purpose of this project is to successfully deliver Coi Cafe Campaign tailored specifically for customer. By executing ket activities such as using reusable cups and purchasing coffee directly form Dak Lak farmers, the project will directly to protect the environment and brought to customer exellent quality of coffee , delivering long term value to all stakeholder. 
+
+3. Project constraints
+     -Scope: Surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personne, building a raw material supply chain from Central region suppliers, and launching campaigns for each store.
+     -Time: The project duration is strictly limited to 12 months, including planning, cexecution, monitoring and closing phrase , with all campain activities required to be completed within this fix timeline
+     -Cost/ budget: The total budget is capped at VND 8.5 billion (approximately VND 1.7 bilionn/store)
+     -Quality: The campaign must strictly comply with Coi Cafe ,ensuring accurate protect the environment by using reusable cups. Ultimately, it must achieve at least a 90% customer satisfactions score with minimal logistical is sucs or customer complaints.
+
+Request 2: Cost/ budget item( Total limit: 1.7 billions/store)
+1.Item: Core infrastructure
+Description: 12 months rental fee for the market venue)
+Estimation: VND 500 millions
+Method & Owner: Parametric Estimating. Calculated based on the standard market rate ( In charge: Marketing Lead)
+  
+2.Item : Production
+Description: Cost for producing the main marketing assets and physical banners
+Estimation: VND 260 millions
+Method & Owner: Bottom- up Estimating. Calculated by summing up specific task quotes( Printing :VND 100 millions + Setup: VND 160 millions) (In charge : Design Lead)
+ 
+3.Item: Training & team welfare
+Description: Costs for end-user training materials, tern workshops, and daily refresh wants for the project staff.
+Estimation: VND 130 millions
+Method & Owner: Analogous Estimating. Estimated based on historical data and tupical allow ances form similar past projects of the same scale in the organization (In charge: HR Lead )
+
+4.Item: External services/Licenses
+Description: Fee paid to extend Marketng agencies
+Estimation: VND 300 Millions
+Method & Owner: Vendor Bid Analysis. The estimate is derived from selecting the most cost-effective quote after comparing proposal from 3 different local vendors (In charge: Marketing Assistant).
+
+5.Item: Contingency Reserve
+Description: Emergency funds strictly allocated to handle identified project risks, scope changes, or unforescen operational issues during execution.
+Estimation: VND 510 Millions
+Method & Owner: Parametric Estimating. Calculated as exactly 30% of the total estimated baseline budget (In charge: Project Manager)
+
+
+2)
+Request 3:
+Risk 1: Schedule Delay
+Posibility: High
+Impact : High
+Mitigation:Use detailed scheduling, set clear milestone, and hold daily/weekly progress meetings.
+Contingency: Fast track or crash the schedule or negotiate a deadline extention with the sponsor.
+
+
+Risk 2: Budget overrun 
+Possibility:Medium
+Impact: High
+Mitigation:create accurate cost estimates strictly control scope changes using a Change Control process.
+Contingency: Use the management reserve/ contingency budget. Cut down on "nice - to- have" features.
+
+Risk 3: Scope Creep
+Possibility: High
+Impact: Medium
+Mitigation: Define the project scope clearly in the charter. Ensure stakeholders sign off on requirement.
+Contingency: Implement astrict change request process; Any new requirment must come with extrative/budget.  
+
+
+
+Request 4:
+- Project Manager (PM): plans, executes, and control project scope schedule, and budget
+- Sponsor: Provide budget, approves the project charter and signs off on the final delivery.
+- Marketing Lead (ML): Reponsible to marketing for coffee brand.
+-External Vendor (EV): Person has rent to work.
+1.Develop a project charter: PM (A), Sponsor (I), Marketing Lead (C), EV (I).
+2. Develop a requirment: PM(R), Sponsor(A),ML (C),EV(I).
+3.Design coffee brand: PM(A), sponsor(I), ML(R), EV(R)
+4. Execute print logo brand:PM(A), sponsor (I),ML(R),EV(C).
+5.
+6.
+7.
+8. Perform User Acceptance Testing: PM(R), Sponsor (A), ML (I), EV(R)
+9.Find launch/ Go-live execution: PM(A), Sponsor(I), ML(R), EV(C)
+10. Project sign-off & Hand over : PM(R), Sponsor(A), ML( I ), EV( I ).

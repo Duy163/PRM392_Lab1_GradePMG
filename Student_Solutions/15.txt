@@ -1,0 +1,77 @@
+1)
+request 1 
+
+project name : coi cafe - a well-known pure vietnamese coffee brand
+
+purpose & reasons: coi's management decided to implement an expansion project into 5 central provinces( da nang , hue , quang nam , quang ngai , binh dinh ) with 1 flagship store in each province within 12 months
+
+scope:surveying and selecting premises, designing and constructing interiors consistent with the brand . recruiting and training local personnel , building a raw material supply chain from central region suppliers , and launching campaigns for each store
+
+time: the campaign duration is fixed about 12 months
+
+cost : the total budget is vnd 8.5 billion ( approximately vnd 1.7 billion/strore)
+
+quality : each store must reach the break-even point within 8 months after opening
+
+
+request 2 
+1- name :  da nang coi cafe 
+description : a pure coffe brand at da nang
+estimation : about 1.7  billion within 3 months 
+estimate by the manager after people use the service of coi cafe
+2 - name : hue coi cafe
+description :  a pure coffee brand at hue
+estimation : about 1.7  billion within 3 months
+estimate by how people use the facility and service when they come to coi cafe
+3 - name : quang nam coi cafe
+description : a pure coffee brand at quang nam
+estimation : about 1.4  billion about 2 months
+estimation by how people use the facility and service when they come to coi cafe
+4  name : quang ngai coi cafe
+descrpiption : a pure coffee brand at quang ngai
+estimation : about 2  billin within 4 months
+estimation by how people visit to  quang ngai and use the facility , service at coi cafe  
+5 - name: binh dinh coi cafe
+description : a pure coffee brand at binh dinh
+estimation : about 2.1 billition within 4 months
+estimation by how visitor coming to binh dinh and use the coi coffe 's facilities 
+
+
+
+request 3 
+project risk : the quality of coi cafe
+time : 
+
+
+
+
+
+
+
+2)
+request 4
+three project roles : 
+- pm (product manager) : manages campaign
+- ed ( editor): :edit this project
+- rs ( researcher) : reseach this project
+
+
+ten tasks , activities , or deliverables
+1.product planning
+2.guide
+3.rate 
+4.manage
+5.advertisement
+6. create content 
+7. review
+
+task                               pm            rs           ed
+ product planning          r/a                i             c
+ guide                              r/a            
+ rate                                  r/a
+ manage                                                         c
+ advertisement                                  i          
+ create content                                 a            r         
+ review                                                           r/a                            
+
+

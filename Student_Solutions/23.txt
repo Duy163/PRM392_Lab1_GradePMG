@@ -1,0 +1,77 @@
+1)
+Request 1:
+1. Project name: Coi Cafe
+2. Justifications
+Famous for its nostalgic space, traditional drink meny, and sustainale business model(using reusable cups, purchasing coffee directly from Dak Lak). Coi's management decided to implement an expansion project into 5 Central provinces(Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 months.
+3. Project constraints
+In terms of scope: Implement an expansion project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh).
+Time: 1 flagship store in each province within 12 months.
+Budget: The total budget is VND 8.5 bilion(approximately VND 1.7 billion/store) from equity and commercial bank loans.
+Quality: The project includes: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store.
+
+Request 2:
+1. Surveying
+Desciption: Surveying and selecting premises
+Estimatiton: VND 1 billion
+Method: access preses goverment
+Responsible: Project manager
+2.Designing
+Description: Designing and constructing interiors consistent with the brand
+Estimation: VND 1 billon
+Method: Fixed price
+Responsible: Designer
+3. Backup Budget
+Description: for unexpective problems
+Estimation: VND 2 billion
+Method: 5-10% total cost
+Responsible: Project manager
+4. Market Development Director
+Description:Coordinating with the interior design team, HR team, and marketing team.
+Estimation: VND 3.5 billion
+Method: Hourly rate * working hours
+Responsible: Project manager
+5. Recruiting
+Description: recruiting adn training local personel
+Estimation: VND 1 billion
+Method: train staff
+Responsible: Project manager
+2)
+Request 3:
+Risk 1: The new store is flop and low 
+Description: poor customer services, bad brand image
+Probability: medium
+Impact: high
+Mitigration: do more marketing 
+Contingency: use more buget for marketing team
+Risk 2: Quality is less
+Description: When expansion more project into more place in VietName or expansion more menu
+Probability: low
+Impact: medium
+Mitigration: check quality and product daily
+Contingency: give discount
+Risk 3: Customer not happy
+Description: Customer not happy
+Probability: medium
+Impact: high
+Mitigration: Train staff
+Contingency: Refund money
+
+Request 4:
+1. Three project role:
+Project manager: make sure the handing execution for the project
+
+Design led: buiding the store and disign contructor of the store
+
+Marketing director: take the responsible for the numbe of new store, and marketing stragegy.
+
+2.List out at least ten tasks, activities, or deliverables
+1. Surveying and selecting premises
+2. Store desgin
+3. Recult staff
+4. Train staff
+5. Open the material suppy chain
+6. Take the list of the stragegy
+7. Montor store
+8. Open new stores
+9. Track store performence
+

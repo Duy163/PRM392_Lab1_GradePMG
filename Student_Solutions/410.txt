@@ -1,0 +1,92 @@
+1)
+Request 1:
+1. Project name: Coi Cafe flagship store
+
+2. Justications:
+- Purpose: Implement an expansion project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship in each province
+
+- Reason: Each store must be reach the break-event point within 8 months after opening
+
+3. 
+-Project contraints: Implement an expansion into 5 Central provinces
+
+-In terms of scope: Surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and traing local personnel, building a raw material supply chain from Central region suppliers, and lauching campaigns for each store
+
+-Time: Within 12 months
+
+-Cost/Budget: The total budget is VND 8.5 billion (approximately VND 1.7 billion/store)
+
+Quality: Reach the break-event point within 8 months after opening
+
+Request 2:
+1. 
+-Name: Hire designers
+-Description: Hire designers to desgin interiors for the brand
+-How to estimate: Based on the level of the designer
+-Person in charged: Marketing manager
+2.
+-Name: Training local personnel
+-Description: Pay salary for trainer to train local personnel
+-How to estimate: Based on the amount of the classes
+-Person in charged: HR manager
+3.
+-Name: Buy supplies
+-Description: Buy from Central region suppliers to building a raw material supply chain
+-How to estimate: Based on the quality of the supplies
+-Person in charged: Project manager
+4.
+-Name: Hire employees
+-Description: Hire employees in 5 Central provinces to work in Coi Cafe
+-How to estimate: Based on the working experience of the employee.
+-Person in charged: HR manager
+5. 
+-Name: Run ads
+-Description: Run ads to impress more customers come to the store
+-How to estimate: Based on the fees of the platform.
+-Person in charged: Marketing manager
+2)
+Request 3:
+1. 
+-Name: Employees lack of experience
+-Description: The employees do not have enough working experience.
+-Possible impacts: Each store can not reach the break-even point in time, can be delay to 2 or 3 months later and the training cost will higher.
+-Relavant risk response plans:
+ +Mitigation: Hire good trainer to train employee better, daily meeting to know more the working process of the employee.
+ +Contingency: Bonus salary when employee working better.
+
+2. 
+-Name: High cost of the supply
+-Description: Buy supplies with high cost without knowing
+-Possible impact:  The budget will higher than VND 1.7 billion for each store.
+-Relavant risk response plans: 
+ + Mitigration: Review cost of many Central  region suppliers and choose the available one to buy.
+ + Contingency: Survey the local people to know more about the suppliers.
+
+3.
+-Name: HR team and marketing team is not connect
+-Descrition: HR team and marketing team working without communication with each other.
+-Possible impact: Can not reach the break-even point within 8 months after opening
+-Relavant risk response plans: 
+ +Mitigration: Daily meeting with HR team and marketing team to know more about each other needs.
+ +Contingency: Working process report to each other
+
+Request 4:
+1. Build marketing plan: Project manager(I), Marketing manager(R,A), Employee(C)
+
+2. Run ads: Project manager(I), Marketing manager(R,C), Employee(A)
+
+3. Design poster: Project manager(I), Marketing manager(C), Employee(R,A) 
+
+4. Collabration with KOL: Project manager(I), Marketing manager(R,A), Employee(C)
+
+5. Write marketing document: Project manager(I), Marketing manager(R,A), Employee(C)
+
+6. Create new event: Project manager(I), Marketing manager(C), Employee(R,A)
+
+7. Calculate marketing costs: Project manager(C,I), Marketing manager(R,A), Emloyee(C)
+
+8. Survey customer: Project manager(I), Marketing manager(C), Employee(R,A)
+
+9. Manage fanpage: Project manager(I), Marketing manager(R,A), Emloyee(C)
+
+10. Revenue report: Project manager(R,A), Marketing manager(C), Emloyee(C)

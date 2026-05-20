@@ -1,0 +1,103 @@
+1)
+Request 1:
+
+  The project name is Coi's management. This is a project from a pure Vietnamese cofffee brand which is famous with nostalgic space, traditional drink menu, and sustainble business model.
+
+  This project is aiming to implement an expansion project into 5 Central provines with 1 flagship store in each provine. Implement this project successfully will increases the working area also the advertising of the brand around Vietnam.
+
+  Project constrants: This project is led by the Market Development Director as PM and make sure to do all the work in term of scope.
+
+  Time constrants: The project will running exacly within 12 months, preventing over schedules.
+
+  Budget constrants: Total budget is 8.5 bilion VND which is devided equally to 5 shop (approximately 1.7 bilion VND/store). Keeping all stores are having the same invesment.
+
+  Quality constraints: After the project implemented, each store much reach the break-even point within 8 months after opening to reach the critical target.
+ 
+Request 2:
+
+  Running store buget items:
+    + Name: Local store employee budget
+    + Description: Budget using for local employees to running local store.
+    + Estimate: 4 employees x 8 hours/day x 5 stores. Total 160 man-day
+    + Person in charge: Local store employee.
+
+  Desigining budget items:
+    + Name: Project Designing.
+    + Estimate: 1 designer x 112 hours (14 working days).
+    + Person in charge: Designer. 
+
+  Campaigns running across stores:
+    + Name: Campaigns running.
+    + Estimate: 4 persons x 8 hours/day. Total 32 man-day
+    + Person in charge: marketing-person.
+
+  Maintaining and leading budget items:
+    + Name: Project Manager activities.
+    + Estimate: 1 person x 8hours/day. Total 8 man-day
+    + Person in charge: PM (Project Manager).
+
+  Buidling suplly chain budget items:
+    + Name: Supply chain running.
+    + Estimate: 5 stores. 
+    + Person in charge: PM (Project Manager).
+
+Request 3:
+
+  Supply risk:
+    + Name: Supply risk
+    + Desciption: Lacking or Mismeasured of supply causing bad customer experience and effect negatively to working flow.
+    + Possible change: ~ 40%.
+    + Impacts: 4 x 2 = 8 (medium risk but will cause bad impact to the project if not handle it carefully).
+    + Migitation: Always prepare over 15% to 20% supplies in stored.
+    + Contingency: Keep more supply in store in order to handle unexpected situation causing lack of supply.
+
+  Quality risk: 
+    + Name: Unequal quality risk
+    + Description: The quality among store are not the same.
+    + Possible change: ~30%.
+    + Impact: 2 x 2 = 4 (small risk can handle imediately).
+    + Migitation: Pushing the employee training by having 1-2 days to training. Beside that ensure the recruiting process to having goo-quaility empolyee.
+    + Contingency: Ensure the quality among the stores will making customer's good experimence.
+
+
+  Marketing risk: 
+    + Name: Marketing risk
+    + Description: The marketing go wrong or unexpected.
+    + Possible change: ~75%.
+    + Impact: 3 x 2 = 6 (depend on the important of the situtation will casing problems to the project).
+    + Migitation: Reviewing surveys once a month. PM have to appraisal report monthly to have the righjt decision to the marketing team.
+    + Cotingency: Having right marketing plan to make good advertising.
+
+Request 4:
+  
+  Project roles:
+
+    + Project Manager - Market Develiopment Director.
+    + Design team.
+    + HR team.
+    + Marketing team.
+    + Local store team.
+
+  Project activity and responsibilities:
+
+    + Tracking schedules: PM
+    + Documentaring: PM
+    + Contructing interiors consistent with the brand: PM
+    + Appraisal Analysis/Report: PM
+
+    + Designing: Design team
+
+    + Surveying: Marketing team
+    + Selecting premises: Marketing team
+    + Reporting: Marketing team, HR team, Local store team
+
+    + Recruiting: HR team
+
+    + Training: Local store team
+    + Launching campaigns: Local store team
+
+ 
+
+   
+
+2)

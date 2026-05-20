@@ -1,0 +1,73 @@
+1)
+Request 1:
+1. Project name: Expansion 5 Central provinces for Coi Cafe
+2. Justifications:
+The main reasons to implement this project is to have 1 flagship store in Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh. From each of flagship store in those big city we can abtractive to many new customers and with that the revenuse in the future may go up or at least Coi Cafe brand will be reconizable to more peolpe in those city.
+3. Project contsraints, in terms of scope, time, cost/budget, and quality:
+We put a lot on source for this kind of rebranding work, our scope i have 1 flagship store in 5 Central provinces within 1 year and break-even point within 8 months after opening, our budget is VND 8.5 billion  with high profesional marketing team we have.
+
+Request 2:
+Five main cost/budget items:
+- Bultding/ renting place: the cost need to pay for renting the place in each city.
+- Decoration/ Sprinted cost: using to decor or apply some design need to be printed in store.
+- Hiring budget: we need employees to built and maintain the store for us in Coi Cafe.
+- Cost for Supply : we find supply chain from Central region suppliers
+- Marketing fee: using for people or internet to pronounce our brand in there 
+2)
+Request 3: 
+Three project risks:
+- The supply from local is bad:
++ Description: there is no suppliers can sastifies our requirment, like the cost is to high, they are to far form ours store making the fee of shipping cost more it need to be, they have a bad supply, the supply form them might illegal or dangerous the most is the supply can affect badly to customer health.
++ Possible impacts: it can affect to our brand, make the trust from customer go down with bad supply.
++ Mitigation: to prevent this in the future, our research team for the supply will need to be pick carefully and expan many suppliers in the local. Make the constract more specificly that if there anny bad thing happen in the supply chain that happen from the suppliers, all the responsibility will be on them and cut the deal immidetly.
++ Contigency: when the supply really afect to our brand, the constract between us will be terminate and make a new deal with another better supplier, pronounce and warning to customers about ours bad supplier.
+- Customer lacking about the brand:
++ Description: because those are the fisrt flagship store in our 5 central provines, the customer may don't  know about us or have a little people recornized Coi Cafe, and they may formilliar to a local brand or some big brand that have been there for decade,
++Possible impacts: with little poeple know about Coi Cafe, the store revenues may not as much as we want it be and can not touch the break-even point within 8 months afer opening.
++ Mitigation: to prevent it, our marketing strategy need to be built very details and have a lot of sale programs  that atracting more and more customer but still sure that our revenues will not going so slow. Not just that, we will have a card for vip or at least the customer usually vistir the store, and we need ours commercial be on many platform as much as possiple to get more atention.
++Contingency: if in those fisrt months after open there are just a litte customer visit by, we will make a big sale progarms and make those vip customer if they introduce to new customer for us they will recives a gift base on how many new customer that we have.
+- The product we make were inpropriate to those place:
++ Description: like if the local in there the need of them were tea or boba, selling only coffee will not be a smart way to have a bussiness at there.
++ Possible impacts: lack of customer will be comback to our place, not using as much as those product in local.
++ Mitigation: research everything the people in there most use, make that most useable product in our menu.
++ Contigency: research again and again what really the product the customer useally want, anouces many new products every months for a test, if they buy it a lot the product will maintaint in our menu.
+
+Request 4: describe the RACI chart:
+1. Project roles:
+- PM
+- Interior design team.
+- HR team.
+- Marketing team.
+2. Tasks list.
+- Hiring employees: hire employees for our store, recruiting and training local personnel.
+- Fiding location: launching campaigns for each store
+- Commercial: advertising to new customer.
+- Surveying: surveying and selecting premises.
+- Design: designing and constructing interiors consistent with the brand.
+- Research for Supply: building a raw material supply chain from Central region suppliers.
+- Decoration: decor the store that suitable with the concerpt of our brand.
+- Product making and testing: buying recepies, making product and test does it good
+- legit the constract: sign the constract and make deal with the owner of the place and police.
+- Water and electric: find those company to collect water and electric.
+3. Reponsibilities list.
+- Hiring employees: 
++ PM: A.
++ Interior design team: I.
++ HR team: R.
++ Marketing team: C.
+- Fifing location:
++ PM: A/R.
++Interrior design team: C.
++HR team: C.
++Marketing team: C.
+- Commercial:
++PM: A.
++Interior design team: R.
++Marketing team: R.
++HR team: C.
+- Research for supply: 
++PM: A.
++Interior design team: I
++Marketing team: C.
++HR team: R.
+- 

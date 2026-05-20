@@ -1,0 +1,79 @@
+1)
+Request 1:
+1. Project name: Coi Cafe
+2. Justifications:
+- Purpose: To implement an expansion project in to 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 months.
+- Reasons: Expanse market size, increase brand recognize.
+3. Project constraints:
+- Scope: Open 5 flagship store in 5 Central provinces
+- Time: 12 months
+- Cost/budget: VND 8.5 billion (approximately VND 1.7 billion/store)
+- Quality: Each store much reach the break-even point within 8 months after opening
+
+Request 2:
+- Name: Salary
+  + Description: salary for PM, interior designer, HR, marketting team in 1 month
+  + Estimation: VND 185  million
+  + How to estimate: 1 PM x 50 million, 3 interior designer x 15 million, 2 HR * 20 million,                     5 marketing * 10 million.
+  + Person in charged: Coi's management
+ 
+- Name: Rent a space
+  + Description: Space or house to open cafe in 1 month
+  + Estimation: 50 million
+  + How to estimate: 1 shop house * 50 million
+  + Person in charged: Coi's management
+
+- Name: Software and Tool
+  + Description: App and tool for interior design team and marketing team ( 3D app, Canva Pro, Ps,..) in 1 month
+  + Estimation: 10 million
+  + Person in charged: Coi's management
+
+- Name: Marketing fee
+  + Description: Fee to upload video, status, add advertise in social media in 1 month
+  + Estimation: 100 million
+  + How to estimate: 2 reviewer * 20 million, add advertise in FB, Tiktok, Instagram * 60 million
+  + Person in charged: Coi's management
+
+- Name: Buy furniture and material.
+  + Description: buy furniture in store and material like cup, coffee, tea, ... in 1 month
+  + Estimation: 200 million
+  + How to estimate: Furniture to design the store * 100 million, Material * 100 million.
+  + Person in charged: Coi's management
+
+2)
+Request 3: 
+- Name: Shut down source of material
+  + Description: The resource of material like coffee, tea, .. suddenly shut down because of natural disaster like storm or disease. 
+  + Possible impact: not enough material to sell to customer. Cost of material can be high a little bit
+  + Relevant respone plans: Find another source of material but still remain the quality, Take the marial of store where not impact from the problem
+
+- Name: Too many member of the team dropout
+  + Description: Team member of the project dropout for some reason.
+  + Possible impact: Lack of member to remain the activities of store
+  + Relevant respone plans: Find the reason through talk with member. Attract more people come to work by high salary and good environment
+
+- Name: Income not reach the target
+  + Description: in first period can be lack of customer because people here have never see the project brand
+  + Possible impact: The income can be low and not reach the targer
+  + Relevant respone plans: Increase marketing in local social media, open free trial for people here
+
+
+Request 4:
+1. Three project role:
+- Project manager
+- Interior designer
+- HR 
+
+2. Ten task/activities or deliverables:
+- Surveying premises
+- Selecting premises
+- Designing interior consistent with the brand
+- Constructing interior flow the design
+- Recruiting local personnel
+- Training personnel
+- Building a raw material supply chain
+- Launching campaigns
+- Rent the space or shophouse
+- Store reach the break-even point
+
+3. 

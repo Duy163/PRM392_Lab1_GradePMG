@@ -1,0 +1,68 @@
+1)
+Request 1:
+-Project name is Coi Cafe.
+-Justifications is Coi's management decided to implement an expansion project into 5 Central provinces (Da Nang, Quang Nam, Hue, Quang Ngai, Binh Dinh) with 1 flaship store in each provinces within 12 months.
+-Project scope is surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store.
+-Complete the project with 12 months
+-The total budget is VND 8.5 billion from equity and commercial bank loans.
+-The project is quality when store reach the break-even point within 8 months after opening.
+
+Request 2:
+-1/Surveying and selecting premises fees
++Description:Aims data analyst information and premises of province that
++Estimate:200 million
++Person in change: PM
+
+-2/Designing and costructing interior consistent with the brand
++Description:Designing and costructing interior consistent with the brand
++Estimate:200 million
++Person in change:Lead of interior design team
+
+-3/Recruiting and training local personnel fees
++Description:Aim training a local person can understand a process of Coi cafe
++Estimate :200million
+Person in change:PM
+
+-4/Building a raw material supply chain from Central region suppliers fees
++Description:Build a merterial suply chain from central region suppliers
++Estimate :300 million
++Person in change: Lead of HR team
+
+-5/Launching campaigns for each store
++Description:Boosting Marketing with aim increase more customer attention to Coi Cafe
++Estimate: 300 million
++Person in change: Lead of Marketing team
+
+2)
+Request 3:
+-Scope Creep:
+ +Level: High
+ +Impacts: High
+ + Solution (Avoid): Implements a strics change control process, require formal approvals from Coi's management for any new change.
+
+-Turnover of key personnel:
+ +Level: Medium
+ +Impacts: High
+ +Solution (Mitigation) : Cross-train team member so multiple people understand critical task.Maintan a backup poor of resources.
+
+-Schedule delay from external dependencies:
+ +Level: Medium
+ +Impacts: Medium
+ +Solution (Mitigation) : Add schedule buffer to critical path, conduct regular proress reviews with external partner.
+
+Request 4:
+-Three project roles:
+ +Project manager
+ +Design Team
+ +Customer
+
+-Define project scope and objective:PM(A,R);Design Team(C);Customer(C).
+-Approval the project charter:PM(A,R);Design team(I);Customer(I).
+-Develop managemnt plan:PM(C,R);Design team(C);Customer(I).
+-Create WBS:PM(I,A);Design team(R);Customer(I).
+-Allocated budget and project resources:PM(A,R);Design team(I);Customer(I).
+-Execute assigned task:PM(I,A);Design team(R);Customer(I).
+-Resolve progress issue and manage risk:PM(I,R);Design team(C);Customer(I).
+-Distribute project status report:PM(I,R);Design team(C);Customer(I).
+-Review and accept final deliverable:PM(I,C);Design team(I);Customer(A).
+-Formal close project:PM(A,R);Design team(I);Customer(I).

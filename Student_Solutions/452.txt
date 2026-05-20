@@ -1,0 +1,133 @@
+1)
+Request 1:
+1. Project name: Coi Cafe's flagship store.
+
+2. Project Justification:
+2.1. Reason: Coi's management decide to implement an expansion Coi Cafe into 5 Central Provinces ( Da Nang, Hue, Quang Ngai, Binh Dinh)
+2.2. Purpose: Each store must reach the break-even point within 8 months after opening
+2.3. Action: Build flagship store in each province within 12 months
+
+3. 
+3.1 Project constrants: each store must reach the break-even point within 8 months after opening
+3.2 In term of scope: surveying and selecting premies; designing and constructing interiors consistent with the brand; recuiting and training local personnel; building a raw material supply chain from Central region suppliers; and launching campains for each store.
+3.3 Time: 12 months
+3.4 Cost/budget: VND 8.5 billion (approximately VND 1.7 billion/store)
+3.5 Quality: 
+- Each store must reach the break- even point within 8 months after opening
+- Recuited local personel
+
+Request 2: Cost/budget items
+1.
+Name: Employee salary
+Description: The fee pay for employee a month
+Estimation:
+- How to estimate: Pay for employee everymonth; 8 milion per month
+- Person in charged: PM, employee
+
+2. 
+Name: Fee for supply chain
+Desciption: The fee pay for supplier to get raw material supply chain
+Estimation:
+- How to estimate: Pay for supplier to get raw material supply chain
+- Person in charged: PM, supplier
+
+3. 
+Name: Designing and Conducting fee
+Description: The fee pay for Design team to design and constructing interiors consistent
+Estimation:
+- How to estimate: pay for design team
+- Person in charged: PM , design team
+
+4. 
+Name: Recuiting and training local personel fee
+Description: The fee pay among the recuiting and training time
+Estimation:
+- How to estimate: pay for HR team
+- Person in charged: HR team; PM
+
+5. 
+Name: Launching campaigns for each store
+Description: Fee among launching campaigns time
+Estimation:
+- How to estimate: pay for Marketing team
+- Person in charged: PM; Marketing team
+2)
+Request 3: Project risks
+1. 
+1.1 Name: Cannot recuiting local personel
+1.2 Description: The HR team fail to recuite local personel
+1.3 Possible impacts: 
+- In term of scope or quality: Make Survey; Write report; Plan to pick up employee; Pick up employee from store to flagship stores
+- Time: 1 weeks 
+- Cost: 100 million for employees extra fee (10 million for each)
+1.4 Relevant risk resopnses plans: Contingency
+- HR team survey the employee in 12 stores in Hanoi and Ho Chi Minh 
+- HR team describes the information: how many time they need to be there, where they live among the campaign or among the time to waiting the new one, what scope they need to do.
+- HR team send the report to PM, let him/her know.
+- PM pick up that empolyees to go to the flagship store.
+
+
+2.
+2.1 Name: Fail of building a raw material supply chain from Central region supplier
+2.2 Description: PM fail to connect with Cental region supplier to build a raw material supply chain
+2.3 Possible impacts:
+- In term of scope or quality: Research deliverable company; compare deliverable fees of each comapy and fee around Hanoi and Hochi Minh; Choose the minimum delivarable fee; Make a report
+- Time: 3 weeks 
+- Cost: 500 million for deliverable fee
+2.4 Relevant risk resonses plans: Contingency 
+- PM research deliverables comapany
+- PM compare fee of each company
+- PM choose the minimum deliverable fee company
+- Make report
+
+3. 
+3.1 Name: Tsunami
+3.2 Description: Tsunami come to that 5 Central povinces (Da Nang, Hue, Quang Ngai, Binh Dinh) in time the campaign lanched. 
+3.3 
+- In term of scope or quality: Stop the campaign; Plan the rebuilt action
+- Time: 3 weeks
+- Cost: 500 milion for deliverable fee or buy new suplly chain; 500 milion for rebuilt
+3.4 Relevant risk resopnses plan: Contigency
+- PM pause the campaign in that time and waiting the tsunami go away. 
+- If the supply can deliverable back to Ho Chi Minh or Hanoi, deliverable it. If not, make a report about how many supply chain be damaged and the way to rebuilt it. 
+
+Request 4:
+1.  Project roles:
+1.1 PM 
+1.2 The interior design team: DS
+1.3 HR team: HR
+1.4 Marketing team: MT
+
+2. Task, activities or dliverables
+2.1 Surveying premises
+2.2 Selecting premises
+2.3 Designing interiors consistent with the brand 
+2.4 Constructing interios consistent with the brand
+2.5 Recuiting local personel
+2.6 Training local personel
+2.7 Building a raw material supply chain from Cental region suppliers
+2.8 Launching campaigns for each store
+2.9 Build marketing campaign for each store
+2.10 Research investors for the campaign
+
+3. List out responsibles of the project roles
+3.1 Survey premises: MT-R; PM-I
+3.2 Selecting premise: MT-R; PM-A
+3.3 Designing interiors consistent with the brand: DS-R; PM-C
+3.4 Constructing interiors consistent with the brand: DS-R; PM-A
+3.5 Recuiting local personel: HR-R; PM-I
+3.6 Training local personel: HR-R; PM-I
+3.7 Building a raw material supply chain from Central region suppliers: PM-R
+3.8 Launching campaigns for each store: MT-R; PM-A
+3.9 Build maketing campaign for each store: MT-R; PM-I
+3.10 Research investors for the campaign: PM-R
+
+Note:
+R- Responsible
+A-Acccountable
+C-Consult
+I-Information
+MT-R: Marketing team - Responsible
+
+
+

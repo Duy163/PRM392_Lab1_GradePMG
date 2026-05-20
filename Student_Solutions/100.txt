@@ -1,0 +1,115 @@
+1)
+Request 1:
+1. Project name: Coi Cafe In Your Area
+2. - Purpose: The project will survey and select premises, design and construct interiors consistent with the brand, recruit and train local personnel, build a raw material supply chain from Central region suppliers.
+- Reasons:Develop the Coi Cafe brand and bring nostalgic space, traditional drink, sustainable business model closer to the customer every where in country.
+3. Contraints
+- Scope: 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+- Time: 1 flagship store in each province within 12 months
+- Cost/Budget: VND 8.5 billion from equity and commerical bank loans.
+- Quality: Provide a quality traditional drinks and develop sustainable model 
+
+Request 2:
+1. 
+Name: Recruiting and training local personel
+Description: Recuit local worker and train them to service for the store at each provinces
+Estimate: VND 500 million
+Person in charged: HR team
+2
+Name: Designing and Constructing interiors 
+Description:
+Estimate: VND 300 million
+Person in charged: Interior design team
+3
+Name: Marketing for this Project
+Description: Bring this brand closer with user and worker want to work in F&B environment
+Estimate: VND 800 million
+Person in charged: Marketing team
+4
+Name: Human Resouces
+Description: Fee for coordinating teams
+Estimate: VND 2 billion
+Person in charged: PM
+5
+Name: Rent Office
+Description: Office for each store at each provinces
+Estimate: VND 3 billion
+Person in charged: PM
+
+
+
+
+2)
+Request 3: 
+1
+Name: The cost over the budget 
+Description: Fee for rent office and human resources higher than planned
+Possible impacts: impact in the cost of overal of the project, price for rent at each province is different
+Mitigation: Use less money at marketing for backup budget
+2
+Name: The time of project is slower than planned
+Description: Environment factors impact to the project 
+Possible impacts: slower than planned is make over the time and take more money
+Mitigation: cut of some activity if it don't nessesery for the project 
+3
+Name: The flavor is not available with local people
+Description: People at different place have different flavor about drinks.
+Possible impacts: Demend of purchase low so difficult to sell at this store
+Mitigation: Survey about the demand of each area the store will placed
+
+Request 4:
+1. PM
+    HR Team
+    Marketing team
+2. 
+- Develop the concept of Coi Cafe Brand and concept of this project (1)
+- Create a plan for all the project (2)
+- Prepare content for the project (3)
+- Recruit and training (4)
+- Contact for the sponsor (5)
+- Prepare content marketing (6)
+- Start promotion (7)
+- Designing and constructing interiors (8)
+- Surveying and selecting premises (9)
+- Find the office for open the store (10)
+3.
+(1) 
+- PM (R)
+- HR Team (C)
+- Marketing team (I)
+(2)
+- PM (R)
+- HR Team (I)
+- Marketing team (I)
+(3)
+- PM (A)
+- HR team (I)
+- Marketing team (R)
+(4) 
+- PM (I)
+- HR team (R)
+- Marketing team (I)
+(5)
+- PM (A)
+- HR Team (I)
+- Marketing team (R)
+(6)
+- PM (A)
+- HR team (I)
+- Marketing team (R)
+(7) 
+- PM (A)
+- HR team (I)
+- Marketing team (R)
+(8)
+- PM (A)
+- HR Team (I)
+- Marketing team (I)
+(9)
+- PM (A)
+- HR Team (I)
+- Marketing team (R)
+(10)
+- PM (R)
+- HR team (I)
+- Marketing team (I)

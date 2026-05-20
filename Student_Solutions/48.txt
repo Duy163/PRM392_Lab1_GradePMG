@@ -1,0 +1,85 @@
+1)
+Request 1: 
+ 1. Project Name: The Coi Cafe famer. 
+ 2. Justifications: 
+  a. Purpose: Coi Cafe is a brand famous at Vietnamese with space, drink menu and using materials of Daklak famer. This make the Coi is a brand popular at Vietnamese.
+  b. Reason: The Coi's coffee want to PR the brand out of Hanoi and Ho Chi Minh City, They decided the project can famous at another provinces.
+ 3. Project Constraints: 
+  Scope Constraints: 
+   Surveying and selecting permises, designing and contructuring interiors consistent with the brand.
+   Each provinces get 1 flagship.
+   Recruting and training local personel. 
+   Building a raw material supply chain from Central region supplier.
+  Time Constraints: The project is fixed amount 12 months to being completing with 1 flagship store in each provinces at Vietnamese'.
+   Cost/Budget: The project have total budget abount VND 8.5 Billion. Which one store flagship approximately VND 1.7 Billion. 
+   Quality: With stores must reach the break-even point after opening of 8 months.
+
+Request 2:
+1. Prevention Cost: 
+Description:
+Way to estimate
+ How to estimate: 
+ Peron in charged: 
+2. Appraisal Cost: 
+Description:
+Way to estimate
+ How to estimate:
+ Person in charged:
+3. Internal failure Cost: 
+Description:
+Way to estimate
+ How to estimate:
+ Person in charged: 
+4. External failure Cost:  
+5. External failure Cost: 
+
+Request 3: 
+1. The Budget another at another provice to overspending.
+Description: With the expection cost to build flagship store at another provincess can overspending the budget.
+Possible Impact
+ Scope or Quality: 
+ Time: 
+ Cost:  
+Reponse plans
+ Mitigation plan: Proactive minus the cost at store building at store with cost materials smaller.
+ Contingency plan: 
+2. Cannot using item signature from Dak Lak famer.
+Description: The Store not using the items of Dak Lak example likes Cups, Coffee to using another famer.
+ Posible Impact:
+ Scope or Quality:
+ Time:
+ Cost: 
+Reponse plans:
+ Mitigation Plan: 
+ Contingency Plan:
+3. Berak-even point after 8 month.
+Description: The store can break-even point within 8 months.
+Posible Impact:
+ Scope or Quality: 
+ Time:
+ Cost:
+Reponse Plans
+ Mitigation Plan: 
+ Contingency Plan: 
+ 
+Request 4:
+1. Three project role: 
+  Project Manager: The Market Development Director.
+ Design Team: This is team decor and desigh space the store.
+ Marketing Team
+ HR team
+2. List out at least ten task:
+Create the planning: PM: A/R, DT: R, MT: C
+Choose the visit at another provinces: PM: A/R, DT: C/R, MT: C
+Survey Information at provinces: PM: R, DT: I, MT: A
+Select premises: PM: A/R, DT: I, MT: C
+Design and Contructing: PM: C, DT: A/R, MT: I
+Recuring and Train: PM: A/R', DT: I, MT:I
+Building a raw material supply chain form Central: PM: A, DT: I. MT: R
+Launch the campaigns for each store: PM: A/R, DT: I, MT: C/R 
+PR the strore in social with visit at province: PM C/R, DT: I, MT: A/R.
+
+
+
+ 
+2)

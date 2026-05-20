@@ -1,0 +1,136 @@
+1)
+Request 1:
+1.1. Project name: Coi Cafe's Store Expansion Strategy into 5 Central Provinces Project
+
+1.2. Justifications: The projects aims to expand Coi Cafe with larger scalability, more business impact on 5 Central provinces, including Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh. Besides, Coi Cafe's management intends to implement 1 flagship store in each province for the first 12 months.
+
+1.3. Project constraints:
+1.3.1 Scope:
+1.3.1.1 There are 5-targeted provinces in the Central of Vietnam.
+1.3.1.2 The project intends to implement 1 flagship store in each province
+1.3.1.3 Each campaign should be launched with the activities of survey analysis, personnel management, constructing activity, supply chain planning
+
+1.3.2 Time:
+1.3.2.1 5-targeted provinces should have their own one flagship within 12 months after launching project
+1.3.2.2 Each store must achieve its break-even point within 8 months after the implementation.
+
+1.3.3 Cost/Budget:
+1.3.3.1 8.5 billion VND, approximately 1.7 billion for each store from equity and commercial bank loans.
+
+1.3.4 Quality:
+1.3.4.1 Each store should be planned and be implemented with consistent and statble quality, as well as maintaining the core value of Coi Cafe - a traditional drink store, sustainable business model
+
+Request 2:
+Some main cost/budget items:
+2.1 Store designing:
+2.1.1 Name: Store desining cost item
+2.1.2 Description: This cost item aims at the store architecture before the official launching, which includes scaffold of overall layout, decoration planning, etc.
+2.1.3 Estimation (1 billion VND): To estimate, each store should prepare specifically for their desining cost which includes scaffold blueprint of overall layout, decoration planning, etc. Interior design team is responsible for this estimation activity.
+
+2.2 Building construction cost item
+2.2.1 Name: Interior construction cost
+2.2.2 Description: After the designing and the blueprint of overall architecture, interior construction also a significant cost item.
+2,2,3 Estimation (3 billion VND): This should be estimated with careful consideration of construction materials, cost for human resources, etc. There are many related people that should be responsible for this: PM, construction service representatives, design team.
+
+2.3 Goods express service
+2.3.1 Name: Goods express service
+2.3.2 Description: After successfull store implementation, the goods express service cost item should be considered. This include cost for raw material's logistics activites, cost for delivery from Dak Lak source to each store
+2.3.3 Estimation (1 billion VND): To estimate, this cost item should be broken down in to many partial ones.  
+
+2.4 Personnel tranining and recruiment:
+2.4.1 Name: Personnel training and recruiment
+2.4.2 Description: To operating each store successfully, this cost item cannot be ignored. This cost item aims at training personnel with diverse hierarchical levels as well as the recruiment activities cost.
+2.4.3 Estimation (1.5 billion VND): This should aims at two estimation process: recruiment and traninning
+
+2.5 Survey activities
+2.5.1 Name: survey activities cost item
+2.5.2 Description: Survey should be implemented be for each store launching. 
+2.5.3 Estimation (0.5 billion VND): Should consider cost for human resources to go to each market place in each province to get the realistic data, market desire and needs. 
+
+2.6 Marketing, campaign launching activities: 
+2.6.1 Name: Marketing, campaign launching cost item
+2.6.2 Description: This is a cost item used for launching, maintaining campaign and marketin planning activities
+2.6.3 Estimation (1.5 billion VND)
+
+2.7 Commercial bank loans:
+2.7.1 Name: Commercial bank loans (budget item)
+2.7.2 Description: this budget item is one of the first financial resources for the first implementation activities of the project
+2.7.3 Estimation (5 billion VND): Make loan contract and have a consultation with experts
+ 
+
+
+
+
+2)
+Request 3: 
+3.1 Human resources attrition:
+3.1.1 Name: Human resources attrition
+3.1.2 Description: There should be a attrition in the human resources while implementing the project.
+3.1.3 Possible impacts: Some operation activities may be paused due to lack of staffs, managers. And, perhaps, there should be struggled with finding  a new alternative human resource to fill in.
+3.1.4 Relevant risk response plans:
+3.1.4.1 Mitigation: 
+3.1.4.1.1 There should be well documented about all of the tasks, performance to prepare for any occurence of staff attrition.
+3.1.4.1.2 Creating a friendly and well-beneficial working environment
+3.1.4.2 Contingency:
+3.1.4.2.1 Offer new benefits to keep them work continously
+3.1.4.2.2 Give new opportunities with different roles or tasks
+
+3.2 Overdue deadline for goods express service
+3.2.1 Name: Overdue deadline for goods express service
+3.2.2 Description: During the implementation activities in each store, there should a potential risk that goods express service may be lacked or missed due to weather reason, traffic context
+3.2.3 Possible impacts: There would be not enough goods to prepare for business day.
+3.2.4 Relevant risk response plans:
+3.2.4.1 Mitigation: 
+3.2.4.1.1 Create a commitment contract with the service representative to avoid any occurrance of being overdue.
+3.2.4.1.2 Always have an/many alternative source(s) to be well available 
+3.2.4.2 Contingency: Change to an alternative provider
+
+3.3 Construction downgrade due to time
+3.3.1 Name: Construction downgrade due to time
+3.3.2 Description: Day by day, there is potential risk that each interior could be downgraded or low-level quality because of weather, environment (flood, storm, etc) so we should prepare a solution for this risk.
+3.3.3 Possible impacts: any store operation could be paused partially or immediately. Besides, each store should be well-prepared in financial resouces to fix this risk.
+3.3.4 Relevant risk response plans:
+3.3.4.1 Mitigation: The operation of designing and architecture should be well-planned and implemented. And, the cost to invest into each part of the construction should be considered with adequate quality before running.
+3.3.4.2 Contingency: Always have a construction support service to fix immediately or in a close period of time.
+
+
+Request 4:
+4.1 Some project roles: Market development director (PM), interior design team, HR manager, marketing team, Dak Lak farrmers.
+
+4.2 
+A. Designing the overall layout of each store
+B. Constructing interiors consistent the brand
+C. Recruitment planning: how many personnel should be fully available in each store, how the levels of personnel be well hierarchical.
+D. Recruiment launching
+E. Personnel training
+F. Campaign content creation
+G. Campaign poster/bandroll planning and design 
+H. Campaign launching
+I. Survey of market needs
+J. Report of survey
+
+4.3 
+Some keywords: 
+Market development director - PM
+Interior designer - ID
+HR manager - HR
+Marketing team - MKT
+
+List of the responsibilities of the project roles:
+A. PM(A) ID(R) MKT(I)
+B. PM(A) ID(R)
+C. PM(A) HR(R) MKT(C) ID(C)
+D. PM(A) HR(R) MKT(I) ID(I)
+E. PM(A) HR(R) MKT(C) ID(C)
+F. PM(A) MKT(R)
+G. PM(A) MKT(R)
+H. PM(A) MKT(R)
+I. PM(A) MKT(R)
+J. PM(A) MKT(R)
+
+
+
+
+
+
+

@@ -1,0 +1,82 @@
+1)
+Request 1: 
+1. Project name: Expans Coi Cafe  into 5 Central
+2. 
+- Purpose: Implement an expansion into 5 Central, with 1 flagship store in each province within 12 months.
+- Reasons: to reach more people and expans brand
+3. 
+- Scope: Implement an expansion into 5 Central (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+- Time: 12 months
+- Cost: VND 8.5 billion (approximately VND 1.7 billion/store)
+- Quality: Each store must reach the break- even point within 8 months after opening
+
+Request 2:
+Cost items:
+1. Premises rent: pay VND 50-60 million for rent house
+2. Design and decore each house match with Coi cafe branding; pay for sketch, build and decore 
+3. Update supplies: buy reusable cups and purchasing coffee directly from Dak Lak farmers
+4. Run ads on social, fanpage; create fanpage, branding and run ads
+5. Staff and free gift or sale: training staffs, launching campaigns 
+2)
+Request 3:
+1. Difficult to rent house
+- Research for rent house in 5 cental lost a lot of time , hard to check the place and high cost for rent.
+Impact:
+- Scope: each store in each central
+- Time: 2 months
+- Cost: VND 2.5 billion for 5 stores
+Mitigation: research places very clear
+
+2. Spend too much money for business model
+- Purchasing coffee directly form DakLak farmers to 5 Central is hard to save the quality without pay more
+- Scope: sustainable business model
+- Time: 1 month
+- Cost: VND 100 - 200 milliion
+Mitigation: choose good moving supply organization
+
+3. Building a raw material supply chain from central region supplies
+- Make sure it not out branding and respect each Central culture
+- Scope: Raw material form central region supply
+- Time: 3 months
+- Cost: 3 billion for 5 stores
+Mitigation:  choose good designing team
+
+Request 4:
+1. PM:
+surveying premises - A
+selecting premisest - A
+design poster - A
+planing campaigns - A
+launching campaigns - A
+manage social images - A
+create social ads - A
+edit videos - A
+connect with co opboration - A
+take videos of product - A
+
+2. Design team: 
+surveying premises - I
+selecting premises - I
+design poster - R
+planing campaigns - I
+launching campaign - R
+manage social images - R
+create social ads - R
+edit videos - R
+connect with co opboration - I
+take videos of product - R
+
+3. Marketing team;
+surveying premises - R
+selecting premises - R
+design poster - C
+planning campaigns - R
+launching campaigns - R
+manage social images - R
+create social ads - R
+edit video - C
+connect with co opboration - R
+take videos of product - R
+
+
+

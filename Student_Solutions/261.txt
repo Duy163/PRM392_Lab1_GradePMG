@@ -1,0 +1,280 @@
+1)
+Request 1:  Narrative charter statement
+
+Project name:
+Coi Cafe Central Vietnam Expansion Project
+
+Justifications:
+
+Expand Coi Cafe’s market from Hanoi and Ho Chi Minh City to 5 Central provinces: Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh.
+Increase brand awareness and customer reach in Central Vietnam.
+Take advantage of growing demand for Vietnamese coffee, nostalgic coffee spaces, and sustainable business models.
+Strengthen Coi Cafe’s brand image through reusable cups, traditional drinks, and direct coffee purchasing from Dak Lak farmers.
+Build a new regional supply chain to support long-term operations in Central Vietnam.
+Increase revenue through 5 new flagship stores.
+Achieve financial growth by requiring each store to reach break-even within 8 months after opening.
+
+Project constraints:
+
+Scope:
+
+Open 5 flagship stores only, one in each selected province.
+Project scope includes:
+Premises survey and selection
+Interior design and construction
+Local staff recruitment and training
+Raw material supply chain setup
+Store launch marketing campaigns
+No additional provinces or store formats are added during this project.
+
+Time:
+
+Total project duration: 12 months.
+All 5 stores must be opened within the 12-month schedule.
+Each store must reach break-even within 8 months after opening.
+
+Cost / Budget:
+
+Total budget: VND 8.5 billion.
+Average budget per store: about VND 1.7 billion.
+Funding sources: equity and commercial bank loans.
+Cost must be controlled to avoid exceeding the approved budget.
+
+Quality:
+
+All stwores must follow Coi Cafe’s brand standards.
+Store design must reflect the nostalgic Vietnamese coffee concept.
+Drink qualityw, customer service, and sustainable practices must be consistent across all stores.
+Construction and equipment must be suitable for flagship store operations.
+
+Request 2: 
+
+1. Premises survey and rental preparation
+
+Name: Premises survey, deposit, and initial rent
+Description: Cost for market research, site visits, location evaluation, lease negotiation, rwental depowsitw,w wand first rental payment.
+Estimation: VND 1.5 billion total, around VND 300 million per store.
+Way to estimate: Based on rental prices in each province, expected deposit, first rental payment, and survey expenses.
+Person in charge: Project Manager and Finance Team.
+
+2. Interior design and construction
+
+Name: Store design and construction
+Description: Cost for layout design, construction work, furniture, lighting, decoration, signage, counter area, and seating area.
+Estimation: VND 3.0 billion total, around VND 600 million per store.
+Way to estimate: Based on construction cost per square meter, contractor quotations, and design standards from existing stores.
+Person in charge: Interior Design Team and Project Manager.
+
+3. Equipment and operating assets
+
+Name: Store equipment and operating tools
+Description: Cost for coffee machines, grinders, refrigerators, POS systems, reusable cups, kitchen tools, water filters, and storage shelves.
+Estimation: VND 1.25 billion total, around VND 250 million per store.
+Way to estimate: Based on supplier quotations and the standard equipment list used in current Coi Cafe stores.
+Person in charge: Procurement Team and Operations Team.
+
+4. Recruitment and training
+
+Name: Local staff recruiwtment and training
+Description: Cost for job posting, interviews, onboarding, training materials, trainer travel, uniforms, and pre-opening salary support.
+Estimation: VND 750 million total, around VND 150 million per store.
+Way to estimate: Based on number of staff per store, training duration, trainer cost, uniform cost, and salary support before opening.
+Person in charge: HR Team.
+
+5. Raw material supply chain setup
+
+Namwe: Central region supply chain preparation
+Description: Cost for supplier selection, transportation planning, initial inventory, storage preparation, and quality checking.
+Estimation: VND 1.0 billion total, around VND 200 million per store.
+Way to estimate: Based on initial inventory needs, supplier prices, transportation cost, and storage requirements.
+Person in charge: Procurement and Supply Chain Team.
+
+6. Marketing and launch campaign
+
+Name: Local marketing and grand opening campaign
+Description: Cost for social media advertising, launcevents, hlocal promotion, opening discounts, photography, video content, and printed materials.
+Estimation: VND 750 million total, around VND 150 million per store.
+Way to estimate: Based on campaign scale, advertising budget, event cost, and promotion plan for each province.
+Person in charge: Marketing Team.
+
+7. Contingency reserve
+
+Name: Project contingency budget
+Description: Reserve for unexpected costs such as construction changes, price increases, delayed delivery, or urgent marketing support.
+Estimation: VND 250 million total.
+Way to estimate: Based on expected project risks and a small reserve within the total VND 8.5 billion budget.
+Person in charge: Project Manager and Finance Team.
+
+
+Request 3: 
+
+Risk 1: Delay in premises selection
+
+Risk name: Unsuitable or delayed store location selection
+Description: Good locations may be difficult to find because of high rent, legal issues, or long lease negotiation.
+Impacts:
+Scope / quality: May force the team to choose a weaker location.
+Time: Delays construction and store opening.
+Cost: Higher rental deposit, extra survey cost, or increased marketing cost.
+Mitigation plan: Prepare clear site selection criteria and shortlist at least two backup locations in each province.
+Contingency plan: Adjust the opening order and launch first in provinces with confirmed premises.
+
+Risk 2: Construction cost overrun
+
+Risk name: Interior construction exceeds budget
+Description: Material prices, contractor fees, or design changes may increase construction costs.
+Impacts:
+Scope / quality: Some design elements may be reduced or changed.
+Time: Rework or contractor delay may postpone opening.
+Cost: Total project spending may exceed VND 8.5 billion.
+Mitigation plan: Use standard design guidelines, fixed contractor quotations, and weekly construction progress checks.
+Contingency plan: Use contingency reserve and reduce non-essential decoration while keeping core brand identity.
+
+Risk 3: Store fails to reach break-even within 8 months
+
+Risk name: Lower-than-expected sales performance
+Description: New stores may attract fewer customers due to weak local awareness, strong competitors, or ineffective marketing.
+Impacts:
+Scope / quality: Pressure to reduce service quality or cut operating activities.
+Time: Break-even period becomes longer than 8 months.
+Cost: Higher operating losses and additional marketing expenses.
+Mitigation plan: Conduct market research, design local campaigns, train staff carefully, and monitor sales weekly.
+Contingency plan: Launch extra promotions, cooperate with local communities, adjust menu/pricing, and increase marketing for weak stores.
+
+Request 4: 
+
+Project roles:
+1. Project manager / Market development director
+Leads the whole project.
+Controls scope, time, budget, risks, and final decisions.
+
+2. Interior design and construction team
+Designs store layout.
+Manages construction, decoration, furniture, and brand consistency.
+
+3. HR team
+Recruits and trains local staff.
+Ensures employees meet service and operation standards.
+
+4. Procurement and supply chain team
+Selects suppliers.
+Prepares raw materials, equipment, inventory, and logwistics.
+
+5. Marketing team
+plans and executes local launch campaigns.
+Promotes stores and supports customer acquisition.
+
+RACI responsibilities:
+
+1. Project planning and master schedule
+
+Project manager: Accountable / Responsible
+Interior design team: Consulted
+HR team: Consulted
+Procurement team: Consulted
+Marketing team: Consulted
+
+2. Market survey in five provinces
+
+Project manager: Accountable / Responsible
+Interior design team: Consulted
+HR team: Informed
+Procurement team: Consulted
+Marketing team: Consulted
+
+3. Store location selection
+
+Project manager: Accountable / Responsible
+Interior design team: Consulted
+HR team: Informed
+Procurement team: Consulted
+Marketing team: Consulted
+
+4. Lease negotiation and approval
+
+Project manager: Accountable / Responsible
+Interior design team: Consulted
+HR team: Informed
+Procurement team: Informed
+Marketing team: Informed
+
+5. Store layout and interior design
+
+Project manager: Accountable
+Interior design team: Responsible
+HR team: Informed
+Procurement team: Consulted
+Marketing team: Consulted
+
+6. Construction and decoration
+
+Project manager: Accountable
+Interior design team: Responsible
+HR team: Informed
+Procurement team: Consulted
+Marketing team: Informed
+
+7. Equipment purchasing and installation
+
+Project Manager: Accountable
+Interior design team: Consulted
+HR team: Informed
+Procurement team: Responsible
+Marketing team: Informed
+
+8. Raw material supplier selection
+
+Project manager: Accountable
+Interior design team: Informed
+HR team: Informed
+Procurement team: Responsible
+Marketing team: Consulted
+
+9. Local staff recruitment
+
+Project manager: Accountable
+Interior design team: Informed
+HR team: Responsible
+Procurement team: Informed
+Marketing team: Informed
+
+10. Staff training before opening
+
+Project manager: Accountable
+Interior design team: Informed
+HR team: Responsible
+Procurement team: Consulted
+Marketing team: Consulted
+
+11. Local marketing campaign planning
+
+Project manager: Accountable
+Interior design team: Consulted
+HR team: Informed
+Procurement team: Informed
+Marketing team: Responsible
+
+12. Grand opening launch
+
+Project manager: Accountable
+Interior design team: Consulted
+HR team: Consulted
+Procurement team: Consultwed
+Marketing team: Responsible
+
+13. Budget monitoring
+
+Project Manager: Accountable / Responsible
+Interior design team: Consulted
+HR team: Consulted
+Procurement team: Consulted
+Marketing team: Consulted
+
+14. Post-opening performance and break-even tracking
+
+Project Manager: Accountable / Responsible
+Interior Design team: Informed
+HR Team: Consulted
+Procurement team: Consulted
+Marketing team: Consulted
+2)

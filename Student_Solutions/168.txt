@@ -1,0 +1,52 @@
+1)
+Request 1:
+ Project name: Coi Cafe
+ Justifications:
+   Purpose & reason: Famous for Coi Cafe nostalgic space, tradaitional drink menu and sutainable bussiness model ( using reusable cups, purchasing coffee direct from Dak Lak farrmers).
+  Project containst: 
+   Scope: 5 Central provice (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+    Time: 12month for 1 flagship store in each province.
+    Cost/ Bugget: VND 8.5 billion (approximately VND 1.7 billion/store)
+    Quality: recuriting and trainning local personnel, build a raw material supply chain from Central region suppliers.
+Request 2:
+ Salary for employee: VND 0.8 billion, with average a employee in each team VND 25 miliion and PM is VND 50 million.  
+  Marketing campaigns: VND 5 billiton, run Ads on Facebook, Tiktok,
+booking KOL.
+   Design: VND 0.7 billion, to design banner, edit video.
+   Infrasture:VND 1 billion for office, computer, camera, license software.
+   Gift: VND 1 billion for customer when join the event.
+Request 3:
+ Risk 1:
+  Title : Marketing plan not suitable.
+  Description: Makerting plan not suitable with campaign.
+   Response: 
+ Risk 2: 
+  Title: Customer don't care about campaign
+  Description: Customer don't care campaign, they feel not happy when join the campaign.
+ Risk 3:
+  Title: A store have break-event early
+  Description: A store cannot to continue campaign by not enough budget althought not enough 8 month.
+
+Request 4:
+ 1. Makert Development Director(PM), Maketing(MKT) team , HR team, Design team
+   2.1: Planning the project 
+      (3.1 PM: A/R)
+   2.2: Prepare budget 
+      (3.2 PM: A/R)
+   2.3: Find employee 
+      (3.3 PM: A, HR team: R)
+   2.4: Maketing plan 
+      (3.4 PM: A, MKT team: R)
+   2.5: Trainning employee
+      (3.5 HR: A/R, PM: I)
+   2.6: Survey form 
+      (3.6 PM: A, MKT team: R)
+   2.7: Design banner, edit video 
+      (3.7 MKT team: A, Design team: R, PM: I)
+   2.8: Booking KOL 
+      (3.8 HR team: A/R, MKT team: I, PM: I) 
+   2.9: Tracking dealine proejct 
+      (3.9 PM: I, MKT team: R, HR team: R, Design team: R) 
+   2.10: Lauching campaigns 
+      (3.10 PM: A, MKT team: R, HR team: R, Design team: R)
+2)

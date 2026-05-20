@@ -1,0 +1,70 @@
+1)
+Request1:
+1. The Expansion of Coi Cafe Project
+2.
+The purpose is to expand the store to 5 central provinces within 12 months, make the business of the company more famous and developed, increase the revenue up to 10% in 12 months.
+
+The reason is Coi Cafe want to expand the brand all over the country and make Vietnamese coffee be more famous and increase the revenue, build a raw material supply chain from central region suppliers, launch campains for each store, survey and select premises, design and constructing interiors consistent with the brand, recruit and train local personnel.
+
+3.
+Project contraints:
+- Market Development Director
+- Interior design team
+- HR team
+- Marketing team
+
+In terms of scope:
+- Decorate and design the store 
+- Transfer the material to all the flagships
+- Advertise the brand products
+- Launch campaign monthly
+- Make sure finish as soon as possible
+
+Time: Reach the break- even point within 8 months after opening
+
+Cost/budget: 8.5 billion VND(approximately 1.7 billion/store)
+
+Quality: make sure the material raw, the plan goes in time
+
+Request 2:
+1.Logistics:
+- Transfer the materials and equipments cost about 1 billions
+- Estimate by the amount of the material and the distance, PM will in charged in this roles
+2. Advertisement:
+- Make the customers know the products and the stores, cost about 500 millions
+- Estimate by how many days running ads and which place will be placed, marketing team will be in charged this 
+3. Designing and Building the facility:
+- Build the stores and design it with the same style, cost about 3 billions
+- Estimate by the quantity of the building, interior design team will be in charged in this job
+4. Employee
+- Employing and giving salary for the employee, cost about 1 billions
+- HR will be in charged, estimate by the amount of employee and job quantity  
+5. Build supply chains
+- Building the raw material supply chain to transfer to all the flagship to save the cost, about 1 billions
+- PM will be in charged this
+2)
+Request 3:
+1. Raw material spoiling:
+- Out dates in using or transportation
+- Impact on cost (about 100 millions) and quality of the goods 
+- Checking, listing the amount of good to prevent
+2. Late for the deadine
+- Taking too much time in all part and can not finish in time
+- Impact on in term of scope (make sure finish as soon as possible)
+- Divine the plans into small part and check progression weekly
+3. The revenue of selling products
+- Can not sell product and the revenue is not enough to pay the bills and salary for employees
+- impact on the cost
+- Upgrade the quality and design of the product to make them be more attractive.
+
+Request 4:
+1. Advertisement and branding: PM(A), Design team(I), HR team(I), marketing team(R,C)
+2. Designing and constructing: PM(C), Design team(R,A), HR team(I), marketing team(I)
+3. Recuiting: PM(I), Design team(I), HR team(R,A,C), Marketing team(I)
+4. Planning: PM(A,C), Design team(I), HR team(I), marketing team(R)
+5. Reporting: PM(R,A,C), Design team(I), HR team(I), marketing team(I)
+6. Transporting: PM(A,C), Design team(I), HR team(I), marketing team(R)
+7. Building supply chain: PM(R,A,C), Design team(I), HR team(I), marketing team(I)
+8. Launching campaign: PM(C,A), Design team(I), HR team(I), marketing team(R)
+9. Risk management: PM(R,A,C), Design team(I), HR team(I), marketing team(I)
+10. Exporting: PM(A,C), Design team(I), HR team(I), Marketing team(R)

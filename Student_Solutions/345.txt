@@ -1,0 +1,95 @@
+1)
+Request 1:
+1.Project name: Coi Cafe expansion brand project
+
+2.Justification
+-Purpose: 
+ +Surveying and selecting premises
+ +Designing and constructing interiors consistent with the brand
+ +Recruiting and training local personnel
+ +Building a raw material supply chain form Central region suppliers
+ +Launching campaigns for each stores
+-Reason: to implement an expansion into 5 central provices (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+
+3.Constraints
+-Scope: in 5 central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+-Time: 12 months
+- Cost/Budget: Total budget is VND 8.5 billion (~VND 1.7 billion/store) from equity and commercial bank loans
+- Quality: Reach the break-even point within 8 months after opening
+
+
+Request 2:
+1.
+Name: Employee salary
+Description: Salary pay for all employess who work for the project (staff, manager, etc) to pay for what they contributed
+Estimation: calculate each task that the person have done or joined then combine (bottom-up method)
+Time: by month (monthly)
+2.
+Name: Facilitiy fee
+Description: Pay for spaces/facilities that needed for operation during project period
+Estimation: Compare to the cost that used to pay in previous project to spend the reliable cost for this (analogous mehtod)
+Time: Once
+3.
+Name: Stuffs and Goods
+Description: Payment for every materials will be used in the project
+Estimation: Calculate individually then combine (parametric method)
+Time: when apply/start/need new scenario
+4.
+Name: Marketing cost
+Description: Seeding the brand appearience before and during the project period
+Estimation: Leverage the past deal that had to estimate approximately marketing cost deal
+Time: Once or twice during the period
+5.
+Name: Contingecy reserve
+Description: backup budget for the suddend incident
+Estimation: expected 10% of the whole used budget
+2)
+Request 3:
+-Don't have enough labor
+Description: Series of this expansion event require quite hugh number of staffs, lacking of labor seems to be possible
+Possible impact: High
+Mitigation: Build various and effective hiring scenario to ensure both quantity and quality of labor
+Contingency: Modify tasks of each team to entirely handle work
+
+-Unaffordable
+Description: Overload payment is possible in some cases 
+Possible impact: Medium
+Mitigation: Always spend contingecy reverse in advance for suddend situation. Keep track constantly to recognize in time
+Contingecy: Flexibly scale the project scope, to ensure it ideal for current state
+
+-Distance between locations
+Description: long distance between provinces causes difficulty for staffs/customers
+Possible impact: Low
+Mitigation: Previously prepare commuting transport and suitable timeline for commuting
+Contingency: Flexibly use alternative methods when occurs any incident
+
+
+Request 4:
+1.
+Project manager: the Market Development Director
+Sponsor: Coi Cafe
+Developer: the interior design team, HR team, marketing team
+
+2.
+(1)Project initial processing
+(2)Research related materials
+(3)Setup survey template
+(4)Training staffs
+(5)Setup timeline and assignment
+(6)Propose interiors consistent design
+(7)Preview events' setup
+(8)Consider/keep track to propose improvement
+(9)Communicate and keep track with customers/sponsor
+(10)Delivery final report
+
+3.
+(1)Project initial processing-PM(A)-Developers(R)-Sposor(I)
+(2)Research related materials-PM(A)-Developers(R)-Sponsor(C)
+(3)Setup survey template-PM(A)-Developers(R)-Sponsor(C)
+(4)Traning staffs-PM(A)-Developers(R)-Sponsor(C)
+(5)Setup timeline and assignment-PM(R)-Developers(C)-Sponsor(I)
+(6)Propose interiors consistent design-PM(A)-Developers(R)-Sponsor(C)
+(7)Preview events' setup-PM(A)-Developers(R)-Sponsor(C)
+(8)Cosider/keep track to propose improvement-PM(R)-Developers(C)-Sponsor(C)
+(9)Communicate and keep track with customers/sponsor-PM(R)-Developers(C)-Sponsor(I)
+(10)Delivery final report-PM(R)-Developers(C)-Sponsor(I)

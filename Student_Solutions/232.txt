@@ -1,0 +1,93 @@
+1)
+Request 1:
+1. project name:
+- Coi Cafe expansion project
+2. Justtifications:
+- Coi's management decide to expansion his brand in to 5 central provinces, with 1 flagship store in each province
+3. project contraints:
+3.1. scope:
+- surveying and selectecting premises
+- designing and constructing interiors
+- recruiting and training local personnel
+- building a raw material supply chain from central region suppliers
+3.2. time:
+- one flagship store in each province within 12 month
+3.3.  budget:
+- total budget is 8.5 billion VND(approximately 1.7 billion VND)
+3.4. quality: 
+-each store must reach the break-event point with in 8 months after opening
+
+Request 2:
+
+1.
+-name: rental place  
+-description: open store at 5 contral provinces
+- estimate: 4.5 billion
+-method: 0.9 billion * 5 store
+- person in charged: project manager
+
+2.
+-name: space design
+- description:  table, chair, decoration stuff, coffee machine 
+- estimate: 1.5 billion 
+- method: 300 million per store
+- person in charged: design team
+
+3. 
+-name: staff training
+- description: hire staff and training them how to work at coffee store
+- estimate: 1 billion
+-method: 200 million per store
+- person in charged: training team
+
+4.
+- name: marketing
+- description: write marketing post and manage social media
+- estimate: 1 billion
+- mesthod: base on hourly rate + hour+ number of post
+- person in charged: merketing team
+
+5. 
+-name: material supply
+- description: raw material supply from central region suppliers
+-estimate: 0.5 billion
+- person in charged: project manager
+
+total budget is 8.5 billion
+
+Request 3:
+3.1.project risk 1: project is out of budget
+- possible impact :project is out of budget make the progress slow down affect to project qality
+- miligation plan: 
+- contingency plan: cut down the scope of project
+
+3.2.project risk 2: project is not enough of time to finish
+- possible impact: 
+-militation plan: speed up the progress of project
+- contingency plan: hire more person and speed up the progress
+
+
+Request 4:
+1. 
+- project manager(PM): the person who control the whole project
+- marketing team(MT) : write post, upload to social media
+- design team(DT) : responsible for designing space and constructing interiors
+
+RACI chart
+
+create project charter:
+PM(A), DT(I), MT(I)
+rental place:
+PM(A/R), DT(I), MT(C)
+designing place:
+PM(A), DT(R), MT(I)
+training staff
+PM(A), DT(I), MT(I) 
+write post: 
+PM(A), DT(I), MT(R)
+build material supply:
+PM(A/R), DT(I), MT(I)
+launching campaigns:
+PM(A/R), DT(I), MT(I)
+
+2)

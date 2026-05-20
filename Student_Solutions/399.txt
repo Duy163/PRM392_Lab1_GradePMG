@@ -1,0 +1,58 @@
+1)
+Request 1:
+1. Project name: the expansion project for Coi Cafe
+2.The purpose of this project is to implement an expansion project into 5 central provinces help brand have more revenue, awareness and new customers in other central provinces besides Hanoi and Ho Chi Minh   
+The reason of this project are:
+Collect the customer survey and selecting permises, designing, constructing and decorating for each store required to each store consistent with the brand
+Recuruiting and training local personnel before the store opening to ensure quality service 
+3. scope constraint: this project limited to implemment an expansion in 5 central provinces(Da nang, Hue, Quang Nam, Quang Ngai, Binh Dinh). Time contraint: the time operation is 8 month for each store. Cost contraint: the total budget must be VND 8.8 billion(VND 1.7 billion/store. 
+
+Requesst 2: five main cost:
+1. Rental cost: this cost covers the rental cost for 8 month for each province required to ensuring remain efficient execcution duriing the store open for 8 month. Estimate cost: VND 3 billion. Person in charge: Project manager 
+2. Permit and licensing cost: This cost covers a temporary permit from local authority, allowing the store to operate legally. Estimate cost: VND 1 billion. Person in charge: project manager
+3. Display and set-up cost: This cost includes the operation and set-up strore cost such as tables, chairs, lightings, and visual basic materials. Estimate cost: VND 2 billion. Person in charge: project manager coordinate with the operation and set-up lead 
+4.  Recruiting and training local staff cost: This cost related training personel local staf, including training material, printed manuals, and reheasal sessions prior the store open to ensure consistent quality service. Estimate cost: VND 1 billion. Person in charge: project manager and HR team lead
+5. Operation and daily running cost: This cost covers the daily operaation running cost such as utilities: electronic, water, cleaning supplies, minor maintenance items, ... Estimate cost: VND 2 billion. Person in change: operation coodinator reporting for project manager 
+ 
+2)
+Request 3:
+Three project risk:
+ 1. Lack of customer paticipation
+Discription: lack of customer paticipation will direct affect to reduce revenue lead to dont have profit that can't remain efficient execution the store
+Scope: 
+quality: when revenue reduce lead to reduce ingredients quality to ensure remain operation 
+Time:  
+Cost: cost increase because promotion, combo to attact customers
+Mitigation: Launghing more campaing to find more new customers 
+Contingency: provide promotion, decreaseg pricing or use combo to attract more customers to visit store 
+ 2. The cost not enought for operation and, campaign 
+scope: cant impact to target 5 central province
+Time: increase time to find address for strore lead to wasting more time
+mitigate: find other rental adress with less cost
+contingence: 
+3. Have the proplem with supplier like late provide or stop coordinate
+description: that will impact to experience customer because products does not provide true time
+quality: lack of ingredients make the product cant done
+Cost: cost increase  can impact to revenue of store
+Time: that can make slow and more time for customer to waiting for product 
+mitigate: provide promotion for customer to solve proplem 
+contingence: find other supplier 
+Request 4: 
+1. Three project roles:
+This project required to ensuring expansion in to 5 central provinces to find more news customer, expan market and increase revenue.
+The campaign for each store must suitable and match to target customers of the brand
+Ensuring 5 store must remain operation enough 8 month with have profit for each month
+2. ten tasks, activitive,
+Find good rental address for each central province 
+Find suppliers for each central province
+Permit and licensing with local authorities
+Designing, constructing and decorating set-up store
+Writing conten post on social media
+Creating videos and editing to launching 5 new central provinces
+Recruiting and training local staff 
+
+
+
+
+ 
+

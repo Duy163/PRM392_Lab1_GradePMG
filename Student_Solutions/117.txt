@@ -1,0 +1,94 @@
+1)
+Request 1:
+ 1. - Project name: Coi Cafe project
+
+ 2. - Purpose: To implement an expansion project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 months
+     - Reason: To manage the quality of Cafe shop more easy and accurate the quality per store
+
+ 3. - Scope: + Surveying and selecting premises
+                    + Designing and constructing interiors consistent with the brand
+                    + Recruiting and training local personnel 
+                    + Building a raw material supplyy chain from Central region suppliers
+                    + Launching campaings for each store
+     - Cost/Budget: The total budget is VND 8.5 billion (approximately VND 1.7 billion/store)
+     - Quality: Each store must reacg the break-even point within 8 months after opening
+
+Request 2:
+ Main cost/budget item 1: 
+  - name: Designing and Constructing cost 
+  - description:Having to spend cost for interior design team to design with the brand make it more attract
+  - estimation: + How to estimate: Accenpt the product desgin by PM, the design must be attract the customer/user
+
+ Main cost/budget item 2: 
+  - name: Marketing cost
+  - description: Need a marketing team to create sale program and post the blog about the cafe shop in social media make the fanpage more professional
+  - estimation: 
+        + How to estimate: - Have a professional fanpage with high customer, have good experiences
+        + The number of customer per month increase than last month, convice the old customer
+        
+ Main cost/budget item 3:
+  - name: The staff cost
+  - description: Need to spend salary for staff per month 
+  - estimation: If the staff do good job so that receive enough salary, but do wrong or attitude with customer can noot receive enough salary
+                     Per staff have to trained by manger of that store to more profession, good attitude
+
+ Main cost/budget item 4:
+  - name: HR team cost
+  - description: The HR team will post the hire staff for the cafe shop 
+  - estimation: Need to 5 post per day until find enough staff for the cafe shop
+                      The staff is hired must be meet the requirement about the attitude, nice,...
+
+ Main cost/budget item 5:
+  - name:
+  - description:
+  - estimation: 
+
+Request 3:
+ Project risk 1
+  - title/name: The quality of staff not meet the requirement
+  - description: the staff make the coffee not enough the meet the require from customer. Example: the requirement is less sugar, less milk, less ice, more coffee,... 
+  - possible impacts:
+   + scope: The customer will not satistfied with this drink
+   + time: 2 - 3  time do wrong drink
+   + cost: lost the customer
+  relevant risk response plans: Need to have a good manager of store to training staff, and often observe staff do a coffee or drink to sure that quality per cup
+                                                The Manager of store will hanlde the sittuation to satistfied the customer 
+                                                The HR team must hired the staff meet the requirement
+ 
+ Project risk 2: 
+  - title/name:The store not reach the break-point after expect time
+  - description: After 8 months, but store not reach the break-point, the surveying they have a brand coffee always used (Highlands, Starbuck,..). The condition of environment is not suitable, some months raining, it make the time to develop is more late
+  - possible impacts:
+   + scope: The income of that store is low than another store
+   + time: 10 months ( more than 2 months compare to expect)
+   + cost: increase  to 2 billion per store
+  - revelant: Marketing team and design team  need to be more sale, design content to acttract the customer
+                   The feedback from customer need to handle to satistfied the customer
+ 
+ Project risk 3:
+
+Request 4:
+ 1. Project role 1: Market Development Director (PM)
+     Project role 2: HR team
+     Project role 3: Marketing team
+
+ 2.
+  A. Post the blog hire in social media
+  B. The employee in social media contact with phone/email in blog
+  C. The HR team reply phone/email from employee
+  D. The HR team make the schedule to present the employee
+  E. The HR team make a list of question to ask the employee
+  F. The HR team member will talk about the job with employee
+  G. The employee feels suitable with this job and accept to try work 3  in that store before become a staff
+  H. The HR team will create a schedule for employee begin to try work  
+  I. The Manager of store will train for new staff
+  J. After 3 days try work in store, the manager will decide to accept this employee become staff of this store or not
+ 
+ 3.
+ The responsibilities of the HR team is: A, C, D, E, F, H
+ 
+
+ 
+
+
+2)

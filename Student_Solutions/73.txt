@@ -1,0 +1,156 @@
+1)
+Request 1: 
+1. Project name: The Expansion of Vietnamese Coffee Brand Campaign Project
+2. 
+- Purpose: This project helps to expand the pure Vietnamese coffee brand - Coi Coffee into five Central provinces in Vietnam, with 1 flagship store in each province.
+- Reason: With the famous of Coi Cafe in 2 big cities of Vietnam are Hanoi and Ho Chi Minh City, this project will be hold in the Central of Vietnam.It is conducted through surveying, selecting premises, designing and constructing interiors consistent with the brand The local personnel will be trained by professional team. The project will build a raw material supply chain which is from Central region suppliers not only helps people have work but also advertise the good taste of Coffee in Central. And launching campaigns for each store to attract the customer.
+3.
+- Scope:
+  - Making survey and selecting premises.
+  - Designing and constructing interiors consistent with brand.
+  -  Training for local personnel.
+  - Building a raw material supply chain from Central region suppliers.
+  - Lanching new campaigns for each store.
+
+- Time: within 12 months
+
+- Budget: VND 8.5 billion ( approximately VND 1.7 billion each store).
+
+- Quality: Each store reachs the break-even point within 8 months after opening.
+
+Request 2: 
+1.
+- Name: Staff wages
+- Description: Salary for staffs and team's members.
+- Cost/Budget: VND 1,65 billion
+- How to estimate: Parametic Estimating: Calculated by multiplying total working hours by hourly rate
+- Person in charged : Project Manager
+
+2.
+- Name: Software fees and priting fees
+- Description: Design's apps fees and product's printing for promotion
+- Cost/Budget: VND 1 biillion 
+- How to estimate: Compare at least 3 suppliers for good prices
+- Person in charged: Design team
+
+3.
+- Name: Campaign promotion
+- Description: Launching campaigns for each store and advertising on social media
+- Cost/Budget: VND 2 billion 
+- How to estimate: Based on historical campaign
+- Person in charged: Marketing team
+
+4.
+- Name: Supply Chain 
+- Description: Building a raw supply chain from Central region suppliers
+- Cost/Budget: VND 3 billion
+- How to estimate: Based on historical compaign
+- Person in charged: Marketing team
+
+5.
+- Name: Contingency Reserve
+- Description: Buffer fund strictly allocate for listed risks and unforeseen issues.
+- Cost/Budget: VND 850 million
+- How to estimate: 10% of total estimate budget
+- Person in charged: Project Manager
+
+
+
+
+
+2)
+Request 3:
+Risk 1: 
+- Name: Core member dropout
+- Description: team member leaves the project due to illness or emergency issues.
+- Impact: strongly impacts on deliverables quality
+- Revelant risk response
+ - Mitigation: assure that team's members know well about each others tasks, daily meeting 
+ - Contingency: hire freelance to cover doing tasks, descope unnessary taks.
+
+Risk 2: 
+- Name: Over budget
+- Description: the budget is higher than expected
+- Impact: directly viollating cost/budget constraints.
+- Revelant risk response
+ - Mitigation: project manager must be daily check on single expenditure.
+ - Contingency: get the fund from Contingency Reserve
+
+Risk 3
+- Name: Deadlines exceed
+- Description: the progress of project is not been done on time.
+- Impact: directly effects time constraints.
+- Revelant risk response
+ - Mitigation: Project manager organizes daily meeting to make sure the progress is on track.
+ - Contingency: Overtime is compulsory. Temporary descope function or unimportant work, concentrate on important tasks.
+
+Request 4: 
+- Project Manager
+- Marketing team
+- Design team
+- HR team
+
+1. Planning the project
+- Project manager: A, R
+- Marketing team: C
+- Design team: I
+- HR team: I
+
+2. Develop detailed project for 12 months
+- Project Manager: A
+- Marketing team: R
+- Design team: C
+- HR team: I
+
+3. Estimate the budget for each activitities
+- Project Manager: A, R
+- Marketing team: C
+- Design team: I
+- HR team: I
+
+4. Making survey and selecting premises
+- Project Manager: A
+- Marketing team: R
+- Design team: I
+- HR team: I
+
+5. Recruiting and traning local personnel
+- Project Manager: C
+- Marketing team: I
+- Design team: I
+- HR team: R,A
+
+6.Building supply chain from Central region suppliers
+- Project Manager: C
+- Marketing team: R,A 
+- Design team: I
+- HR team: I
+
+7. Launching campaigns
+- Project Manager: A
+- Marketing team: R
+- Design team: C
+- HR team: I
+
+8. Fixing issue
+- Project Manager: R, A
+- Marketing team: C
+- Design team:C
+- HR team: I
+
+9. Launching final result of project within 12 months
+- Project Manager: A
+- Marketing team: R
+- Design team: R
+- HR team: C
+
+10. Write final project's report
+- Project Manager: A
+- Marketing team: R
+- Design team: I
+- HR team: I
+
+
+
+
+

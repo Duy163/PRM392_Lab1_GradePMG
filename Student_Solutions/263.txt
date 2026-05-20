@@ -1,0 +1,72 @@
+1)
+Request 1:
+1.1 Project name: Coi Cafe
+1.2 Purpose & reasons :
+- Coffer shop provide many type of coffee with hight quality, focus to reduce cost of product from building a raw material supply chain, beside that using reusable cup, sustainable business model.
+- Ensure quality and quantity input raw matterial fresh , ready to use, increase customer, visistor adoption, inversiting Vietnamese coffee and traditional drink menu, reusable cup to avoid polution enviroment.
+1.3 
+- Project constrains : Shop location may be is not a center of city, unstable suppliers, poor revuene after opening to hight risk from equity and commercial bank loans.
+- Time: within 12 months
+- Cost/Buget: VND 8.5 billion, VND 1.7 billion/store
+- Quality: Project into 5 Central provinces, each sotre must reach the break- even point within 8 months after opening
+Request 2:
+-1.Name: Rent coffee shop location 
+ + Desrciption:  Shop location suitable in central of city or building, to extract customer.
++ Estimation: VND 360 million for 4 months
++ Estimation method : Base on location and convinient around shop, flexible cost.
++ Person in charged: Project Manager
+-2.Name: Cost of purchasing coffee directly from farmers.
++ Description: Purchasing coffee from farm suppliers, service for drink menu, 
++ Estimation: VND 200 million per month
++ Estimation method: Purchasr by batch, each batch contain many type of coffee, 10 batch x 20 = 200
++ Person in charged: Suppliers
+ -3.Name: Cost training and recruiting
++ Description: Training for 2 battender,  5 staff, 1 recruiting sercurity.
++ Estimation: VND 100 million per month
++ Estimation method: Hours rate x1, 35k per hours
++ Person i charged: HR
+-4. Name: Cost Marketing
++ Description: Seeding on social media platfomr, event discount after opening.
++ Estimation: VND 150 million, start phase.
++ Estimation method: Flexible cost base on Facebook, tiktok,...
++ Person in charged: Marketing leader
+-5. Name: Operation Cost
++ Description: Value of coordinating, manager resources, tax, supply chain, human resources
++ Estimation: VND 300 million
++ Estimation method: Able change, require market values, business model.
++ Person in charged: Project Manager
+
+2)
+Request 3:
+1. Risk name: Unstable suppliers
++ Description: Bad effect quality of product, customer trust.
++ Impacts: Suppliers low quality, input material not enought to repare, to conclusion bad product , customer release.
++ Mitigation : Backup another suppliers,  
++ Contigency: Switching suppliers before something bad might be happend.
+2. Risk name: Logistic and marketing
++ Description: Low customer, poor coordinating and manager.
++ Impacts: Not trending, low revuene, poor famous
++ Mitigation: Adversiting on social media flatform, seeding online, 
++ Contingency: Event to discount product, gameboard, cinema smale-scale, book room, metting room
+3. Risk name: Delay customer service
++ Descripton: Delay time of customer oder, late service, poor professional.
++ Impacts: Customer move out, bad expierient,
++ Mitigation: Improve training quality, test output, setup and repear everything when working.
++ Continency: Kick off bad staff, re-training, give motivation for staff by the way choose 1 person per month to glad and gift. Push them attitude when working 
+Request 4:
+4.1 
+- Project manager (PM)
+- Battender (BT)
+- Suppliers(SP)
+4.2, 4.3
+-Define requirements - PM(A),BT(I),SP(I)
+-Check market value - PM(A).BT(I),SP(C)
+-Shop Design - PM(A).BT(I).SP(C)
+-Purchase materials - PM(A),BT(I),SP(R)
+-Choose shop location - PM(A),BT(C),SP(I)
+-Training local personnel - PM(A),BT(R),SP(I)
+-Design Operation - PM(A).BT(C),SP(I)
+-Marketing plan- PM(A),BT(C),SP(I)
+-Demo opening- PM(A),BT(C),SP(C)
+- Imporve and fix - PM(A),BT(C),SP(C) 
+- Opening Shop- PM(A),BT(C),SP(C)

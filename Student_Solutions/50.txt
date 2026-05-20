@@ -1,0 +1,87 @@
+1)
+Request1:
+1. Project name: Coi Cafe System
+2. Justifications (purpose and reasons):
+Problem: Coi's management decided to implement an expansion project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+Need: Famous for its nostalgic space, traditional drink menu, and sustainable business model.
+Solution: Surveying and selecting premises, designing and constructing interios consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store.
+3.Constraints:
+Scope: Surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from central region supplies, and launching campaigns for each store. The project is led by the Market Development Director as PM, coordinating with the interior design team, HR team, and marketing team.
+Time: 12 months.
+Cost/Budget: The total budget is VND 8.5 billion (approximately VND 1.7 billion/store).
+Quality:Each store must reach the break-even point within 8 months after opening.
+Request 2:
+The project budget includes 5 main cost items:
+1. Labor Cost:
+Description: Team Salary
+Estimation: 280M VND
+Method: Bottom-up (Salary x Staff x Time)
+Person: PM and HR
+2. Infrastructure Cost:
+Description: Sever, Cloud, Software
+Estimation: 50M VND
+Method: Analogous (similar projects)
+Person: Tech Leader
+3. Equipment Cost:
+Description: Laptop, Computer, Devices
+Estimation: 120M VND
+Method: Parametric (Unit x Quantity)
+Person: Admin
+4. Marketing and Training Cost:
+Description: Advertisement, Training
+Estimation: 80M VND
+Method: Expert Judgment
+Person: Marketing Manager
+5. Contingency Reserve:
+Discription: Risk backup
+Estimation: 10 - 15% total
+Method: Percentage
+Person: PM and Sponsor
+Request 3:
+Risk1: Requirement Changes:
+Desciption: Requirement change or unclear at the begining
+Impact: 
+- Scope/Quality: Deliverables may not meet objectives
+- Time: Delays due to rework
+- Cost: Increased cost due to extra work
+Response:
+- Mitigation: Define requirements and control changes
+- Contingency: Add buffer time budget
+Risk 2: Resource unavailability 
+Description: Lack of  skilled or available team members
+Impact:
+- Scope/Quanlity: Low quanlity or incomplete work
+- Time: Delays due to training or replacement
+- Cost: increased cost for hiring or training
+Response:
+- Mitigation: Training and proper planing
+- Contingency: Backup resources
+Risk 3: System failure
+Discription: Technical issues or system errors occur 
+Impact: 
+- Scope/Quanlity: System may not meet requirements
+- Time: Delays due to fixing issues
+- Cost: Additional maintenance cost
+Reponse:
+- Mitigation: Testing and QA
+- Contingency: Backup systems
+Request 4:
+1. Define at least 3 project roles:
+Project Manager(PM): Manager Schedule resources and overall project.
+Business Analyst(BA): Gathers and analyzes requirements ensures business needs.
+UI/UX Designer: Designs user interface and improves user experience.
+Software Developer(Dev): Develops system, coding, and deployment.
+2. List at least ten tasks, activities, or deliverables:
+Requirement Gathering, Project Planing, UI/UX Design, Architecture Design, Font-end Dev, Back-end Dev, System Integration Testing, Bug fixing, Documentation, Deployment.
+3. List the responsibilities of the project roles:
+Requirement Gathering: BA( R,A ), Dev( C ), PM and UI/UX Designer( I ).
+Project Planing: PM( R,A ), BA and Dev( C ), UI/UX Designer( I ).
+UI/UX Design: UI/UX Designer( R ), BA( A ), Dev( C ), PM( I ).
+Architecture Design: Dev( R,A ), BA( C ), PM and UI/UX Designer( I ).
+Fontend Dev: Dev( R,A ), UI/UX Designer( C ), PM and BA( I ).
+Backend Dev: Dev( R,A ), BA( C ), PM and UI/UX Designer( I ).
+System Integration Testing: BA( R,A ), Dev and PM( C ), UI/UX Designer( I ).
+Bug fixing: Dev( R,A ), BA( C ), PM( I ).
+Documentation: BA( R,A ), Dev and UI/UX Designer( C ), PM( I ).
+Deployment: Dev( R ), PM( A ), BA and UI/UX Designer( I ).
+2)

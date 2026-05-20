@@ -1,0 +1,134 @@
+1)
+Request 1: 
+    1. Project name: "Coi Cafe into 5 Central provinces" campaign
+     2. Justification: this project aims to help Coi Cafe open stores into 5 central provinces ( Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh )
+     3. Project constraints: 
+- Scope: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store. 
+- Time: 12 months 
+- Budget: VND 8.5 billion 
+(approximately VND 1.7 billion/store) from equity and commercial bank loans. 
+- Quality: each store must reach the break- even point within 8 months after opening. 
+
+
+Request 2: 
+1. Location cost:
+- Description: location in 5 Central provinces to open Coi Cafe
+- Estimation:VND 5 billion
+- Method: payment for 5 points (VND   1 billion per each point) ( because Coi Cafe open stores into Central provinces so budget  for location highly)
+- Person in charged: Market Development Director
+2. Material cost: 
+- Description: payment for materials (such as: co so vat chat, nguyen vat lieu....  ) on each store at 5 Central provinces.  
+- Estimation:VND 1.5 billion 
+- Method: payment for 5 points 
+(VND 300 million per each point)
+Person in charged: Market Development Director
+
+3. Design cost: 
+- Description: costs for designer design space, menu, model suitable for each provinces (because each Central province is famous travel point in Vietnam and each province have style dac trung)
+- Estimation: VND 500 million
+- Method: payment for 5 points (VND 100 million per each point)
+Person in charged: Design team 
+
+4. Marketing cost:
+- Description: costs for promote new stores on social media, video contents on Tiktok, Facebook.....
+- Estimation: VND 1 billion
+- Method: payment marketing cost for 5 points (VND 100 million per each point)
+- Person in charged: Marketing team
+
+5. Other costs: 
+- Description: risk cost, chi phi phat sinh neu co.......
+- Estimation: VND 500 million
+- Method: payment for 5 points (VND 100 million per each point)
+- Person in charged: Market Development Director
+
+
+2)
+Request 3: 
+- Three project risks: 
+1. Do not find out location 
+-Description: 
+- Scope:
+-Time:
+-Cost:
+
+2. Do not reach the break-even point within 8 months after opening.
+-Description:
+- Scope:
+- Time:
+- Cost:
+ 
+3. Cost for coffee from Dak Lak farmers increase:
+-Description:
+-Scope:
+-Time:
+-Cost:
+
+Relevant risk response plans: 
+
+
+
+
+
+
+Request 4: 
+1. Define at least three project roles: 
+- Market Development Director (PM)
+- Designer 
+- Marketing manager 
+
+2. List out at least ten tasks:
+3. List out responsibilities of the project roles for each task:
+
+Task 1: Define requirement:
+Market development director:  R
+Designer:  I
+Marketing manager:   C
+
+Task 2: Surveying and selecting premises: 
+Market development director:  C
+Designer:  R
+Marketing manager:  I
+
+Task 3: Design interiors consistent with the brand: 
+Market Development director:  C
+Designer:  R
+Marketing manager:  I
+
+Task 4: Recruiting and training local personnel:
+Market development director: R
+Designer:  I
+Marketing manager:  C
+
+Task 5: Building a raw material:
+Market development director:  C
+Designer:  R
+Marketing manager:  I
+
+Task 6: Launching campaigns for each store 
+Market development director: R 
+Designer:  I
+Marketing manager:  C
+
+Task 7:  Publish content marketing on social media
+Market development director:  C
+Designer:  I
+Marketing manager:  R
+
+Task 8:  Promote performance
+Market development director:  A
+Designer:  I
+Marketing manager:  R
+
+Task 9: Review report 
+Market development director: R
+Designer: I
+Marketing manager: C
+
+Task 10: Submit final report 
+Market development director: R
+Designer: I
+Marketing manager: C
+
+
+
+

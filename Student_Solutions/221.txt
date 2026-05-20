@@ -1,0 +1,132 @@
+1)
+Request 1:
+Project name: Coi Cafe expansion
+
+Justification:
+Purpose: Implementing 1 flagship store of Coi Cafe brand into 5 provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh).
+Reason: market expansion to reach more customers from Central provinces, make brand name more popular and get more revenue.
+
+Constraints:
+Scope:
+- survey and premises selection.
+- Recruiting and training local staff.
+- Finding and cooporate with Central region vendors.
+- lanch campaigns for each store.
+- interiors consistent design and construct.
+Time: The project is scheduled to completed within 12 months. It includes all phases of Market expansion, from survey and select premises to launch campaigns for each store.
+Cost/Budget: This project's budget is VND 8.5 billion, which means approximately VND 1.7 billion/store. It comes from  equity and commercial bank loans, spending to all activities process of new store in Central region.
+Quality: after 8 months of opening, each new store must reach the break-even point and make profit afterthat.
+
+Request 2:
+1. Building new store cost
+- description: Cost of building new cafe in each province. It includes land-renting fee, table,chair, coffee machine cost, and so on.
+- Estimation: VND 900 million/each, which means VND 4.5 billion in total. Because land-reting fee and design and renew place cost is very high.
+
+2. Recruiting new employees cost:
+- description: Implementing recruit local staffs and managers for new market.
+- estimation: around VND 200 million. With VND 3-5 million for each staff and 8-10 million for each manager, we can have 1 manager and 6 - 10 staffs for each store.
+
+3. Training cost:
+- description: Cost of training skills and arewareness for employees.
+- estimation: around VND 200 million.This cost is needed to inscreasing staff skill, also management skills of manager in local store.
+
+4. Marketing cost:
+- description: Cost for marketing process. help brand more popular and attract new customers.
+ - estimation: around 500 million. Central provinces is potenial place for market expansion, but before Coi Cafe, they have a lot of choice relevant coffee. Because of that, Marketing cost need to be strong investing.
+
+5. Contigency Budget:
+- description: This money is prapared for unpredict situations
+- estimation: around VND 850 million. According Cost management skill, Contigency Budget get 10% of total budget. 
+2)
+Request 3:
+Risk 1 - Ouf-of-Budget
+ In execution process, Budget was running out for move to next steps/phases
+Likelihood: Medium
+Impact: High
+- Possible impacts: cannot continue project without money, timeline may delayed and directly affect to human resources/
+- mitigation plan: Always calculating cost sustable, carefully make cost management plan.
+- contrigency plan: negotiative with sponsor for more invest or reduce scope.
+
+Risk 2 - Cannot reach the break-even point in time
+ After 8 months of opening, one (or some) store cannot making profit.
+ Likelihood: High
+ Impact: High
+- Possible Impacts: cannot reach scope target. It will take a lot of money of initial budget.
+- Mitigation plan: Implementing marketing effectively, using external plaform (tiktok, facebook,...) to reach more citizens
+- Contigency plan: Use contigency budget for marketing, Evalute and gathering user's feedback to find out reasons why risk occuring
+
+Risk 3 - PM don't know what he need to do
+ If the Market Development Director, he work before in Hanoi or Ho Chi Minh city. Come to Central provinces, differs about market insight can make him confusing.
+Likelihood: Medium
+Impact: High
+- Posible Impacts: The project have been delayed, he don't know what do to or new stategy unsustable for Central areas. It could be watse of money but don't reach target scope.
+- Mitigation Plan: training how differs market runs between Hanoi. Ho Chi minh CIty and Central provinces for PM. Fully prepared in Planning phases, specially information gathering
+- Contigency:  Recruit  a sub-manager who have experiences in Central market do help PM making decision.
+
+Request 4:
+Project roles:
+- PM: person who is responsibie for whole outcome project
+- Marketing team: responsible for marketing process
+- HR team: recruit and management new employees.
+- BA: Business analysis
+
+Tasks, activities, delivarables:
+1. Implementing Marketing on social media
+PM: A
+Marketing team: R
+HR team: I
+BA: I
+
+2. Recruit new employees for new stores
+PM: I
+Marketing team: C
+HR team: R/A
+BA: I
+
+3. Define user stories
+PM: R/A
+Marketing team: I
+HR team:  C
+BA: C
+
+4. Implementing Cost Management Plan
+PM: R/A
+Marketing team: I
+HR team: C
+BA: R
+
+5. Training skills and awareness for new employees.
+PM: C
+Marketing team: I
+HR team: R/A
+BA: I
+
+6. building material supply chain:
+- PM: C
+- Marketing team: C
+- HR team: I
+- BA: R/A
+
+7. Create communicate channel with stakeholder.
+- PM: R/A
+- Marketing team: C
+- HR team: I
+- BA: I
+
+8. Survey and gathering information for initial phase:
+- PM: R/A
+- Marketing team: C
+- HR team: C
+- BA: C
+
+9. Collect customer's feedback after opening.
+- PM: I
+- Marketing team: I
+- HR team: R/A
+- BA: C
+
+10. final report meeting
+- PM: R/A
+- Marketing team: R
+- HR team: R
+- BA: R

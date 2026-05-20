@@ -1,0 +1,153 @@
+1)
+Request 1:
+Project Title
+Central Region Market Entry Project – Coi Café (2026)
+Project Purpose and Rationale
+Expand the company’s footprint into Central Vietnam, moving beyond its current concentration in major cities.
+Take advantage of rising consumer interest in traditional Vietnamese coffee and eco-friendly practices.
+Enhance nationwide brand visibility through strategically located flagship outlets.
+Build new supplier relationships within the Central region to diversify sourcing.
+Strengthen financial performance and reduce reliance on existing markets.
+Project Limitations and Conditions
+Scope Definition
+Launch five flagship cafés in Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh.
+Key workstreams include: location scouting, store development, workforce preparation, supply chain establishment, and promotional rollout.
+Timeframe
+The entire project must be completed within one year (12 months).
+Each store is required to achieve financial break-even within 8 months post-launch.
+Financial Constraint
+The total available budget is VND 8.5 billion, averaging VND 1.7 billion per outlet.
+Funding is secured through internal capital and external bank loans.
+Quality Expectations
+Ensure consistency with Coi Café’s brand identity, including its nostalgic ambiance and traditional menu.
+Maintain environmentally responsible operations such as reusable packaging and ethical sourcing.
+Deliver a high level of customer service through structured staff training programs.
+
+Request 2:
+1. Property Leasing and Fit-out
+Details: Includes rental deposits, lease payments, and interior renovation.
+Estimated Cost: ~VND 700 million per store.
+Estimation Method: Based on previous store data and contractor quotations.
+Responsible: Project Manager and Design Team.
+
+2. Equipment and Fixtures
+Details: Covers coffee-making equipment and in-store furniture.
+Estimated Cost: ~VND 300 million per store.
+Estimation Method: Itemized costing supported by supplier quotations.
+Responsible: Operations and Procurement teams.
+
+3. Workforce Expenses
+Details: Recruitment, wages, and initial training programs.
+Estimated Cost: ~VND 200 million per store.
+Estimation Method: Calculated using staffing levels and average salary rates.
+Responsible: HR department.
+
+4. Promotional Activities
+Details: Advertising, branding, and grand opening events.
+Estimated Cost: ~VND 150 million per store.
+Estimation Method: Derived from past campaigns and projected revenue proportions.
+Responsible: Marketing team.
+
+5. Supply Chain Initialization
+Details: Establishing supplier contracts, logistics, and initial inventory.
+Estimated Cost: ~VND 150 million per store.
+Estimation Method: Based on supplier pricing and pilot agreements.
+Responsible: Supply Chain Manager.
+
+Request 3:
+Risk A: Delays in Store Setup
+Description: Construction or licensing delays may slow down store openings.
+Potential Effects:
+Time: Project schedule overruns
+Cost: Increased expenses due to delays
+Quality: Reduced quality if deadlines are rushed
+Response Strategy:
+Mitigation: Careful contractor selection and timeline monitoring
+Contingency: Include schedule buffers of 2–3 weeks per location
+
+Risk B: Slow Revenue Growth
+Description: Stores may not meet expected revenue targets within the required period.
+Potential Effects:
+Cost: Lower income and delayed returns
+Time: Extended break-even timeline
+Response Strategy:
+Mitigation: Conduct market research and execute strong pre-opening marketing
+Contingency: Adjust pricing strategies and increase promotional efforts
+
+Risk C: Supplier Reliability Issues
+Description: Problems with supplier quality or delivery consistency.
+Potential Effects:
+Quality: Inconsistent product standards
+Cost: Additional sourcing costs
+Time: Operational disruptions
+Response Strategy:
+Mitigation: Engage multiple suppliers and enforce quality checks
+Contingency: Use backup suppliers from Dak Lak
+Request 4: 
+1. Defined Roles
+Project Manager (PM): Oversees progress, coordinates teams, and approves key decisions
+Interior Design Team (ID): Develops store concepts and supervises construction work
+Human Resources Team (HR): Responsible for staffing and training activities
+Marketing Team (MKT): Plans and executes promotional and launch campaigns
+
+2. Activities and Assigned Responsibilities
+Establish project roadmap
+PM: A (final authority)
+ID: C (design-related input)
+HR: C (staffing input)
+MKT: C (marketing alignment)
+Assess and choose store locations
+PM: A
+ID: C
+HR: I
+MKT: I
+Handle lease agreements
+PM: A
+ID: I
+HR: I
+MKT: I
+Develop store design plans
+PM: C
+ID: A (design ownership)
+HR: I
+MKT: C
+Carry out construction work
+PM: A
+ID: R (implementation responsibility)
+HR: I
+MKT: I
+Approve suppliers and partners
+PM: A
+ID: I
+HR: I
+MKT: C
+Conduct recruitment process
+PM: C
+ID: I
+HR: A (leads hiring)
+MKT: I
+Deliver staff training programs
+PM: C
+ID: I
+HR: A
+MKT: I
+Design and implement marketing campaigns
+PM: C
+ID: I
+HR: I
+MKT: A (campaign owner)
+Execute store launch
+PM: A
+ID: C
+HR: C
+MKT: R (runs opening activities)
+
+3. Meaning of RACI Codes
+R (Responsible): The party that carries out the task
+A (Accountable): The party ultimately answerable for the outcome
+C (Consulted): Those whose opinions are sought
+I (Informed): Those kept updated on progress
+
+
+
+2)

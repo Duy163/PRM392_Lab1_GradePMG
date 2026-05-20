@@ -1,0 +1,65 @@
+1)
+REQUEST 1
+Project charter statement
+Project name
+Coi Cafe Central Expansion Project
+This project aims to expand Coi Cafe into five Central provinces including Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh. The company plans to open one flagship store in each province within 12 months. The project includes location survey and selection, store design and construction, recruitment and training of local staff, supply chain setup, and marketing launch for each new store. The Market Development Director is the project manager and works with the interior design team, HR team, marketing team, and operations team.
+The main reason for this project is business growth. Coi Cafe already has a strong identity as a Vietnamese coffee brand with nostalgic design, traditional drinks, and sustainable values. Expanding into Central Vietnam will help the company increase market share, improve brand awareness, and reach more customers. This project also supports long term revenue growth and creates more jobs in local areas.
+There are four main constraints in this project. First, the scope is limited to five flagship stores only, with one store in each province. Second, the time is limited to 12 months, so all important activities must be completed on schedule. Third, the total budget is VND 8.5 billion, so the project team must control spending carefully. Fourth, quality must be maintained in all stores, especially store design, service quality, product quality, and consistency with the Coi Cafe brand image.
+REQUEST 2
+Main cost and budget items
+1. Rental and deposit cost
+This cost includes deposit, advance rent, and legal costs for leasing store premises. It can be estimated by collecting quotations from landlords and property agents in each province. The person in charge is the Project Manager with support from the Finance team.
+2. Interior design and construction cost
+This cost includes design fees, construction, decoration, lighting, furniture, and store finishing. It can be estimated by asking contractors for quotations based on store size and design standard. The person in charge is the Interior Design Team.
+3. Equipment and furniture cost
+This cost includes coffee machines, grinders, POS systems, refrigerators, tables, chairs, reusable cups, and other store equipment. It can be estimated by making a detailed equipment list for one store and multiplying by five. The person in charge is the Operations Team.
+4. Recruitment and training cost
+This cost includes job posting, interviews, training materials, trainer fees, and training salary for local staff. It can be estimated based on the number of employees needed for each store and the training period. The person in charge is the HR Team.
+5. Marketing launch cost
+This cost includes online advertising, posters, opening events, local promotions, and discount campaigns. It can be estimated by preparing a launch budget for each store and adjusting it based on local market size. The person in charge is the Marketing Team.
+6. Supply chain setup cost
+This cost includes transportation, supplier setup, initial stock, and logistics for raw materials from Dak Lak and Central region suppliers. It can be estimated based on expected sales volume and delivery cost for each store. The person in charge is the Operations Team.
+7. Contingency cost
+This cost is reserved for unexpected problems such as price increases, delays, or emergency repairs. It is usually estimated as a percentage of the total budget, for example 5 percent to 10 percent. The person in charge is the Project Manager and Finance team.
+REQUEST 3
+Project risks and response plans
+Risk 1
+Unsuitable store location or delay in rental agreement
+A major risk is that the team may not find a good location on time or may face slow negotiation with landlords. This can delay construction and store opening. It may also increase cost if the company must accept a higher rental fee. In terms of quality, a weak location may reduce customer traffic and sales performance.
+To reduce this risk, the team should survey several locations in each province and prepare clear selection criteria. The contingency plan is to keep backup locations ready and move to the second option if the first option fails.
+Risk 2
+Construction delay or budget overrun
+Another important risk is delay in construction or an increase in material cost. This can affect the opening schedule and push the project over budget. If the team rushes the work to save time, store quality may also be reduced.
+To reduce this risk, the project team should select reliable contractors, compare quotations, and sign clear contracts with schedule and quality requirements. The contingency plan is to use backup suppliers and contingency budget when needed.
+Risk 3
+Low sales after store opening
+New stores may not attract enough customers in the early stage. If this happens, the stores may not reach break even within 8 months. This creates financial pressure and can affect the overall success of the project.
+To reduce this risk, the company should conduct market research, understand local customer preferences, and prepare suitable marketing campaigns. The contingency plan is to adjust promotions, improve service quality, and review store operations quickly after opening.
+REQUEST 4
+RACI chart
+Roles
+PM = Project Manager
+ID = Interior Design Team
+HR = Human Resources Team
+MKT = Marketing Team
+OPS = Operations and Supply Chain Team
+RACI meaning
+R = Responsible
+A = Accountable
+C = Consulted
+I = Informed
+No   Task                                                   PM    ID    HR    MKT   OPS
+1    Approve expansion plan                         A     I     I     C     C
+2    Survey and select store locations              A R   I     I     C     C
+3    Negotiate rental contracts                     A R   I     I     I     C
+4    Design store layout and concept                A     R     I     C     C
+5    Construct and decorate stores                  A     R     I     I     C
+6    Purchase equipment and furniture               A     C     I     I     R
+7    Build supply chain for raw materials           A     I     I     I     R
+8    Recruit store managers and staff               A     I     R     I     C
+9    Train staff before opening                     A     I     R     C     C
+10   Prepare launch marketing campaign              A     I     I     R     C
+11   Test store operations before opening           A     C     C     C     R
+12   Organize grand opening                         A     I     I     R     C
+2)

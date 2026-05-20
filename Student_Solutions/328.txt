@@ -1,0 +1,98 @@
+1)
+Request 1 
+
+1.1
+ project name : Coi Cafe 
+
+1.2 
+-Purpose :Implement an expansion project into 5 Central provinces(Da Nang , Hue,Quang Nam ,Quang Ngai ,Binh Dinh)
+
+- reasons : Famous , traditional drink menu and sustainable model
+- building a raw material supply chain form Central region suppliers
+
+1.3
+ -Scope : Surveying and selecting premises ,designing and constructing interiors consistent with brand , recruiting and training local personnel , building a raw material suspply chain , launching  campaogns 
+- cost/budget : 8.5billion VND (Approximately VND 1.7 billion /store)
+-Time : 12 months 
+-Quality : Coi Cafe is a pure Vietnamese coffee brand with 12 stores in HaNoi and Ho Chi Minh City ,famous.
+
+
+Request 2 
+
+-Main cost : 
+
+-Name :Salary of  PM
++description : 
++ estimation ,hourly money  rating * Avandence hour in person 
+
+ -Name : Salary of HR team
++ description:  
++ estimation , hourly meney rating * Avandence hour in team 
+
+-Name : Salary of  Marketing team 
++description : decision-marking,plan marketing  
+Estimation : hourly money rating * Avandence hour in team 
+
+Name : Launching campaigns
++description : promote campaigns 
++campaigns rating * time launch campaigns  
+
+-Name : salary of Design team.
++ description : building logo, web, constructing interiors consistnet with the brand 
++ estimation : hourly rating * Avandence hour in team 
+
+
+2)
+Request 3 
+3.1 :There project risk 
+- title/name : Late time 
++description :  an expansion project into 5 Cantral province so much time , includes survaying and selecting premises , building a raw material supply chain from ...
++ possible impact : this impact timeline implement 
+
+-Title /Name : Manager not clear 
++description :  this manage 5 Central parallel , and many work of HR team , Design team , marketing team  .. need manager and decision 
++possible impact: that will do manage 5 Central can wrong and increasing budget 
+
+-Title /Name : over budgert 
++ description , some space have each value 
+Da nang can need 1.7 Billion /store  ,but Hue can need 1.9 Billiion /store..)
+-possible impact : effect budget , late time , late work,late project  
+
+3.2 : Relevant risk 
++ Fast tracking : run task in parallel
++Add more personal ( increas performance )
++ Over time( Staff do work more time ) 
++ Building step by step
+
+Requets 4
+ 
+4.1 Three project roles
++ project manager 
++ sponner
++ Staff(PM ,HR team , marketing team ,design)
+4.2 list out at lesst ten task , activities , or deliverables
+1.Plan marketing 
+2.Promote launching in socal media 
+3.Buiding a raw material supply chain 
+4.Training local personnel
+5.Designing 
+6.Contructing interiors consistent with the brand
+7.Meeting of PM,HR,desigm,marketing 
+8 Decision -marketing 
+9 Selecting premises
+10 Improve surveying 
+
+
+4.3 list out the responsibilities 
+1- Staff
+2- Staff 
+3- staff
+4 -staff
+5 satff
+6 project manager 
+7 staff and project manager 
+8 sponner 
+9 project manager
+10 project manager
+
+

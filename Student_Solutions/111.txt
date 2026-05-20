@@ -1,0 +1,69 @@
+1)
+Request 1:
+Project name: Coi coffee Campaigns
+Justification(purpose&reason):
+The purpose of this project implement an expansion project into 5 Central provindes. This project to implement because connect all Central proviens to develop campaigns.
+Project constraints:
+Scope constraints: Coi's management to implement an expansion project into 5 Central provinces (Da Nang, Hue, Quang Ngai, Binh Dinh).
+
+Time Contraints: Project implement with 1 flagship store in each province within 12 month, store must reach the break-even point within 8 months after opening.
+
+Cost/budget Contraints: The total budget is VND 8.5 billion (approximately VND 1.7 billion/store)
+
+Quality Contraints: Surveying and selecting premiss, designing and constructing interior consistent with the brand, recruiting and training local personal, building a raw material supply chain from Central region supplier and lauching campaigns for each.
+
+Request 2:
+Five main cost/budget items:
+1.Survey and selecting premises
+2. Desigining and constricting interior
+3. Traning local personal
+4. Build a raw material supply chain 
+5. Promotional for campaign each store
+
+
+
+2)
+Request 3:
+Three project risk:
+1. Cost over
+    Impacts: The project runs of funds before completion
+    Mitigation: Add a 10% contingency resvers and audit the budget weekly
+    Contigency: Request emergency funds from the sponsor or cut down out-of-scope feature
+
+2. Schedule delays
+    Impacts: Delays the final launch date and increase cost bugdet
+    Mitigation: Allocate buffer time in the schedule an track progess daily
+    Contigency: Rellocate resources or forces overtime for critical task to catch up 
+
+3. Low quality
+    Impacts: Fails to meet the quality contraints and causes user dissatisfication
+    Mitgation: Enforces strict coding/content standard and performace peer view
+    Contingency: Delay the launch to fix critical errors or offer immidiately patches post-launch
+
+Request 4:
+Three project roles
+1. Market Development Director as Project Manager(PM)
+2. Design team
+3. Human resources team (HR)
+4. Marketing team.
+
+at least 10 task:
+1. Research and build project: PM:(R/A); Design team(C); HR(I); Marketing team(I)
+
+2. Write scipt: PM(A); Design team(R); HR(I); Marketing team(I)
+
+3. Record: PM(R/A); Design team(I); HR(I); Marketing team(I)
+
+4. Check scipt: PM(A); Design team(R); HR(I); Marketing team(I)
+
+5. Build project campaigns: PM(C); Design team(R/A); HR(I); Marketing team(I)
+ 
+6. Promotion on social media: PM(C); Design team(I); HR(C); Marketing team(R/A)
+
+7. Designing and constructing with the brand: PM(A); Design team(R); HR(I); Marketing team(C)
+
+8. Training local personal:PM(C); Design team(I); HR(R/A); Marketing team (I)
+
+9. Building a raw material: PM(A); Design team(R); HR(I); Marketing team(I)
+
+10. Lauching campaign each store: PM(C); Desgin team(I); HR(I); Marketing team(R/A) 

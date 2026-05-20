@@ -1,0 +1,113 @@
+1)
+R1: 
+1. 
+
+Project name: Coi Cafe's implement and expansion project ( pure Vietnamese coffee)
+
+2. Justification: 
+
+Reasons: increasing awareness and encouraging a famous coffee in Dak Lak ( a pure Vietnamese coffee) with a unique taste, as well as introducing this product with overseas customers 
+
+Purposes: 
+Approaching in 5 central provinces ( Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) through touch points ( flagship, stores, campaign in each stores)
+
+3. Project constraints
+
+In term of scope: 
+- Surveying and selecting premises 
+- Designing and constructing interiors consistent with the brand 
+- Recruiting and training local personnel 
+- Building a raw material supply chain from Central region suppliers 
+- Launching campaign for 5 stores 
+
+Duration 
+Constructing a flagship store for each Central provinces (total of 5) within 12 months. In addition, each store must reach the break-even point in 8 months after opening 
+
+Cost/Budget:
+- The total budget is VND 8.5 billion (approximately VND 1.7 billion/ store) from equity and commercial bank loans
+
+Quality: 
+- Having 90% of customer's satisfaction via their feedbacks after operating stores  
+- Running this project on schedule and do not overstate with initial budget  
+- Providing perfectly coffee products for 5 stores with little or not risks of supply chains 
+
+R2: 
+
+5 main cost/budget items 
+
+Total budget: VND 8.5 billion (approximately VND 1.7 billion/ store)
+
+1. Renting venue 
+- Description: a offline place to reach local customers with trading activities and experiencing Coi Cafe's products  
+- Estimation: approximately VND 340 million (depend on different Central provinces)
+- Estimating method: analogous estimating - base on venue surveys are conducted in each Central province 
+- In charge: Project management 
+
+2. Labor cost
+- Description: individuals have responsible for serving customers, cleaning space, introducing products with customers,... at stores 
+- Estimation: approximately VND 340 millions/month ( 4 per/store)     
+- Estimating method: parametric method - base on renting staff cost in Hanoi and Ho Chi Minh city  
+- In charge: Project management 
+
+3. Printing material (in marketing)
+Description: designing and printing marketing materials such as flyers, catalogue, posters,... serve in launching campaign
+Estimation: approximately 340 million 
+Estimating method: parametric method - base on relevant project was conducted before 
+In charge: marketing team
+
+4. Building a raw material supplu chain
+- Description: a region place to storage and supply raw material for 5 flagship stores that save effort if Coi Cafe take coffee from Dak Lak 
+- Estimation: approximately VND 340 million
+- Estimating method: analogous method
+- In charge: project management 
+
+
+
+5. Contingency reserve
+- Description: contingency fund to resolve emergency risks which can not predicted
+- Estimation: approximately 340 million 
+- Estimating method: contingency reserve 
+- In charge: project management 
+
+R3: 
+
+Overdue scheduled
+- Desciption: progress project is not on time schedule  because occuring interuptions such as suppliers delivery lately products,...
+- Possible impacts: have not products to buy for customers, maketing activities delays to make products reach customer non-effectively 
+- Mitigation plan: monitoring tasks and manage time tightly between progress od departments
+- Contingency plan: add more members or increase time-working 
+
+Overstated budget
+- Desription: do not ensure budget in VND 8.5 billion compare to prior plan 
+- Possible impacts: can not delay tasks if project management still have not solution immediately or seriously this project can not continue 
+- Mitigation plan: control tightly all costs, report monthly to project management and avoid to small errors in transaction 
+- Contingency plan: always have 10% contingency budget in total
+
+
+Conflict relationship in interior teams 
+- Desciption: communication in between departments non-effectively, working independently 
+- Possible impacts: working system of project are interupted because department can not understand current tasks which they have to coordinate each other
+- Mitigation plan: provide basic rules in working space such as be always respect and listen different opinions
+- Contingency plan: add more new members if having several members want to quit their task
+
+
+
+
+2)
+R4: 
+
+1. Project management 
+    Design team 
+    Marketing team 
+
+2.
+
+Task: Initiating plan management
+Activities: creating a project charter, marketing and communication plan
+Deliverables: a project charter 
+
+
+- Survey venue 
+- Recruiting and training local personel
+- Building a raw material supply chain from Central region suppliers 
+- Launching campaigns  

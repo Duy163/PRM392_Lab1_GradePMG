@@ -1,0 +1,205 @@
+1)
+Request 1:
+
+Project name:
+Coi Cafe Central Pilot Flagship Project
+
+Justifications:
+Open five pilot flagship stores in Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh.
+Use the project to test Coi Cafe’s ability to operate outside Hanoi and Ho Chi Minh City.
+Build a controlled expansion model before scaling to more provinces in the future.
+Introduce Coi Cafe’s traditional Vietnamese drinks, nostalgic space, and sustainable practices to Central customers.
+Create a stronger supply connection between Dak Lak coffee farmers and Central Vietnam stores.
+Increase brand visibility in tourism and local community areas.
+Generate new revenue and ensure each store reaches break-even within eight months after opening.
+
+Project constraints:
+Scope:
+Open only five flagship stores, one in each assigned province.
+Project scope includes: feasibility study, location selection, store design, construction, equipment setup, staff hiring, training, supply chain setup, marketing launch, and performance tracking.
+The project does not include franchising, online delivery expansion, or opening more than five stores.
+Time:
+Total project duration is 12 months.
+All stores must be opened within 12 months.
+Each store must reach break-even within eight months after opening.
+Cost / Budget:
+Total budget is VND 8.5 billion.
+Average budget is approximately VND 1.7 billion per store.
+Budget must be controlled because it is funded by equity and commercial bank loans.
+Quality:
+All stores must maintain Coi Cafe’s brand identity, drink quality, service standards, and sustainable operating model.
+Each store must be ready for stable daily operation before official opening.
+
+Request 2:
+
+Item 1: Feasibility study and local market validation
+Name: Market feasibility study
+Description: Cost for analyzing demand, competitors, customer profile, expected revenue, and suitable store concept in each province.
+Estimation: VND 700 million total, about VND 140 million per store.
+Way to estimate: Based on field research cost, customer interviews, competitor visits, travel expenses, and local data collection.
+Person in charge: Project Manager and Marketing Team.
+
+Item 2: Premises leasing and legal preparation
+Name: Leasing and legal setup
+Description: Cost for premises search, lease negotiation, deposit, first rent payment, legal review, and store permit preparation.
+Estimation: VND 1.5 billion total, about VND 300 million per store.
+Way to estimate: Based on rental market price, deposit conditions, legal service fee, and broker fee.
+Person in charge: Project Manager and Finance Team.
+
+Item 3: Standardized store build-out
+Name: Store build-out and brand setup
+Description: Cost for construction, furniture, lighting, signage, counter, seating area, decoration, and brand-standard store finishing.
+Estimation: VND 3.0 billion total, about VND 600 million per store.
+Way to estimate: Based on approved design template, store size, construction quotation, furniture list, and material price.
+Person in charge: Interior Design and Construction Team.
+
+Item 4: Operating equipment and digital systems
+Name: Equipment and digital operation system
+Description: Cost for coffee machines, grinders, refrigerators, POS system, CCTV, Wi-Fi, water filters, reusable cups, and kitchen tools.
+Estimation: VND 1.25 billion total, about VND 250 million per store.
+Way to estimate: Based on standard equipment package and quotations from approved suppliers.
+Person in charge: Procurement and Operations Team.
+
+Item 5: Staffing and opening readiness
+Name: Staff recruitment and opening training
+Description: Cost for recruitment, interviewing, onboarding, uniforms, training materials, trainer travel, and pre-opening salary.
+Estimation: VND 800 million total, about VND 160 million per store.
+Way to estimate: Based on required staff number, hiring channels, training schedule, salary level, and uniform cost.
+Person in charge: HR Team.
+
+Item 6: Supply chain launch package
+Name: Raw material and logistics setup
+Description: Cost for first inventory, supplier qualification, delivery route setup, storage preparation, quality testing, and safety stock.
+Estimation: VND 1.0 billion total, about VND 200 million per store.
+Way to estimate: Based on opening inventory list, supplier price, transportation cost, and expected first-month consumption.
+Person in charge: Procurement and Supply Chain Team.
+
+Item 7: Brand activation and contingency
+Name: Launch activation and risk reserve
+Description: Cost for grand opening promotion, local advertising, community activation, trial vouchers, and reserve for unexpected project issues.
+Estimation: VND 1.25 billion total, about VND 250 million per store.
+Way to estimate: Based on campaign scale, media cost, event cost, promotion value, and expected risk level.
+Person in charge: Marketing Team and Project Manager.
+
+
+
+
+
+
+2)
+Request 3: 
+Risk1: Pilot model does not fit all provinces 
+Risk name: One standard store model may not match different local markets
+Decription: Customer behavior, tourism flow, income level, and coffee habits may vary between Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh
+Impacts:
+Scope / quality: Store concept may not satisfy local customers in some provinces.
+Time: More time may be needed to adjust menu, pricing, or marketing.
+Cost: Extra spending for research, redesign, or promotion.
+Mitigation plan: Conduct market validation for each province and allow small local adjustments while keeping the main brand concept.
+Contingency plan: Revise menu bundles, pricing, or store communication for weaker provinces after soft opening feedback.
+
+Risk 2: Cash flow pressure during simultaneous expansion
+Risk name: Budget pressure from opening five stores within one year.
+Description: Construction, equipment, rent, training, and marketing payments may happen close together, creating cash flow pressure.
+Impacts:
+Scope / quality: Some non-essential items may need to be delayed or reduced.
+Time: Payment delays may slow construction or supplier delivery.
+Cost: Loan interest and emergency funding costs may increase.
+Mitigation plan: Prepare a monthly cash flow plan, approve spending by phase, and monitor actual cost against budget.
+Contingency plan: Open stores in phases and prioritize stores with stronger expected revenue if cash flow becomes tight.
+
+Risk 3: Quality control failure after launch
+Risk name: New stores cannot maintain consistent operation quality.
+Description: New employees and new suppliers may cause inconsistency in drink taste, service, hygiene, or reusable cup practice.
+Impacts:
+Scope / quality: Brand reputation may be damaged.
+Time: Additional training and quality checks may be required.
+Cost: Extra cost for retraining, replacement materials, and customer recovery actions.
+Mitigation plan: Use standard operating procedures, pre-opening quality checklist, and supervisor inspection before launch.
+Contingency plan: Assign experienced staff from existing stores to support new branches and correct quality issues immediately.
+
+Request 4:
+
+Project roles:
+Role 1: Project Manager / Market Development Director
+Responsible for overall planning, approval, budget control, schedule control, and risk management.
+Role 2: Finance and Legal Team
+Responsible for budget tracking, lease review, payment planning, and loan-related financial control.
+Role 3: Interior Design and Construction Team
+Responsible for store design, construction, decoration, signage, and physical store readiness.
+Role 4: HR and Operations Team
+Responsible for recruitment, training, operating procedures, and staff readiness.
+Role 5: Procurement, Supply Chain, and Marketing Team
+Responsible for equipment purchasing, supplier setup, inventory, logistics, launch campaign, and customer acquisition.
+
+RACI responsibilities:
+Task 1: Approve project charter and expansion scope
+Project Manager: Accountable / Responsible
+Finance and Legal Team: Consulted
+Interior Design and Construction Team: Consulted
+HR and Operations Team: Consulted
+Procurement, Supply Chain, and Marketing Team: Consulted
+
+Task 2: Prepare budget and cash flow plan
+Project Manager: Accountable
+Finance and Legal Team: Responsible
+Interior Design and Construction Team: Consulted
+HR and Operations Team: Consulted
+Procurement, Supply Chain, and Marketing Team: Consulted
+
+Task 3: Conduct province feasibility study
+Project Manager: Accountable
+Finance and Legal Team: Consulted
+Interior Design and Construction Team: Informed
+HR and Operations Team: Informed
+Procurement, Supply Chain, and Marketing Team: Responsible
+
+Task 4: Search and select premises
+Project Manager: Accountable / Responsible
+Finance and Legal Team: Consulted
+Interior Design and Construction Team: Consulted
+HR and Operations Team: Informed
+Procurement, Supply Chain, and Marketing Team: Consulted
+
+Task 5: Review lease and complete legal approval
+Project Manager: Accountable
+Finance and Legal Team: Responsible
+wIwnwtwewrwiwowrw wDwewswign and Construction Team: Informed
+HR and Operations Team: Informed
+Procurement, Supply Chain, and Marketing Team: Informed
+
+Task 6: Finalize store design and construction plan
+Project Manager: Accountable
+Finance and Legal Team: Consulted
+Interior Design and Construction Team: Responsible
+HR and Operations Team: Informed
+Procurement, Supply Chain, and Marketing Team: Consulted
+
+Task 7: Execute construction and store decoration
+Project Manager: Accountable
+Finance and Legal Team: Informed
+Interior Design and Construction Team: Responsible
+HR and Operations Team: Informed
+Procurement, Supply Chain, and Marketing Team: Consulted
+
+Task 8: Purchase equipment and operating tools
+Project Manager: Accountable
+Finance and Legal Team: Consulted
+Interior Design and Construction Team: Consulted
+HR and Operations Team: Consulted
+Procurement, Supply Chain, and Marketing Team: Responsible
+
+Task 9: Set up suppliers and first inventory
+Project Manager: Accountable
+Finance and Legal Team: Consulted
+Interior Design and Construction Team: Informed
+HR and Operations Team: Consulted
+Procurement, Supply Chain, and Marketing Team: Responsible
+
+Task 10: Recruit and train store staff
+Project Manager: Accountable
+Finance and Legal Team: Informed
+Interior Design and Construction Team: Informed
+HR and Operations Team: Responsible
+Procurement, Supply Chain, and Marketing Team: Consulted
+

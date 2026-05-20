@@ -1,0 +1,127 @@
+1)
+Request 1:
+Project name:Coi Cafe
+Justifications:
+-Purpose:develop coffee store to implement an expansion project into 5 Central provinces
+-Reason:Reach the break-even point after opening
+Project constraints:
+-Time:12 months
+-Cost/budget: VND 8.5 billion (approximately 1.7 billion/store ) from equity and commercial bank loans
+-Quality:Want to provide for customer in everywhere about coffee from Dak Lak.Make many people to like drink coffee and know about Dak Lak coffee
+
+
+Request 2:
+1,Surveying and selecting premises
+Description:cost for purchasing Survey store and premise for store
+How to estimate:
+-Estimation:200 million VND/store (total:1 billion VND)
+-Estimation method:base on market price of premise
+Person in charged:Project manager
+2,Designing and constructing interiors consistent with the brand
+Description:Cost for brand to design and constructing interiors consistent
+How to estimate:
+-Estimation:400 million VND/store (total:2 billion VND)
+-Estimation method:base on market price of design and constructing
+Person in charged:Design team
+3,Recruiting and training local personnel
+Description:Recruiting and Training skills about this project for local personnel to know how to do in Coi Cofe 
+How to estimate:
+-Estimation:600 milion VND/store (total: 3 billion VND)
+-Estimation method:base on market price of training and the number of trainer and learner to train in each store
+Person in charged:HR team
+4,Building a raw material supply chain from Central region suppliers
+Description: make brand to build a raw material supply chain from Central region supplier
+How to estimate:
+-Estimation: 300 million VND/store (total: 1.5 billion VND)
+-Estimation method:base on market price of raw material supply chain
+Person in charged:Marketing team
+5,Launching campaigns for each store
+Description:build plan to lanunching campaign,build deal for customer in lauching day (or launching week) for each store of  Coi Cafe
+How to estimate:
+-Estimation:200 million VND/store (total: 1 billion VND)
+-Estimation method:base on plan and deal for customer(eg:order over 100k VND ,gift 1 coffee)
+Person in charged:Marketing team
+
+Request 3:
+1,Building design for brand:
+Description:Build design to easy to look,and make brand to many people to coming and enjoy to drink at Coi Cafe
+Possible impacts:
+-Time:3 months
+-Cost:400 million VND
+2,Plan for training local personal:
+Descriptions:Plan how to improve skill for local personal to do in Coffee store,and ensure 100% person to know how to do in  store to easy to work
+Possible impacts:
+Time:9 months
+Cost:600 million VND
+3,Build deal for customer:
+Description:Build deal to make customer like and want to go coffee store,and know what customer want in Coi Cafe
+Time:~1-2 months
+Cost:200 million VND
+
+Request 4:
+1, Project roles:
+-Project manager (PM)
+-Design team (DS)
+-Marketing team (MKT)
+2, Tasks,activities,or deliverables:
+-Project planning
+-Recruiting
+-Tranning local personal
+-Surveying
+-Selecting premises
+-Designing store
+-Constructing interiors consistent
+-Building a raw material supply chain
+-Build plan deal 
+-Build plan Launching campaigns
+
+3.List responsibilities of project roles:
+-RACI leagends:
+R:Perform the task
+A:final decision maker
+C:Provide input
+I:Keep informed
+
+-RACI assignment:
++Project planning:
+PM:A
+DS:R
+MKT:R
++Recruiting:
+PM:A
+DS:I
+MKT:I
++Training local personal:
+PM:A
+DS:I
+MKT:I
++Surveying:
+PM:R
+DS:A
+MKT:I
++Selecting premise:
+PM:R
+DS:A
+MKT:I
++Designing store:
+PM:A
+DS:R
+MKT:I
++Constructing interior consistent:
+PM:A
+DS:R
+MKT:I
++Building a raw material supply chain:
+PM:A
+DS:I
+MKT:R
++Build plan deal:
+PM:A
+DS:I
+MKT:R
++Build plan launching campaigns:
+PM:A
+DS:I
+MKT:R
+
+2)

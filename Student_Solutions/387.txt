@@ -1,0 +1,112 @@
+1)
+Request 1:
+Project name: 
+-System Coi Cafe Management 
+Purpose/Objectives:
+-Coi's management decided to implement an expansion project into 5 Central provinces
+Constraints:
+-Scope:Coi's management decided to implement an expansion project into 5 Central provinces, with 1 flagship store in each provinces within 12 months
+-Cost: Maximum 8.5 bilion VND
+-Time: within 12 months
+-Quality: Each store must reach the break-event point within 8 months after opening
+
+Request 2:
+1.Development cost: Rent developer to build a app for Coi Cafe management include: 3 developer, 1 tester, 1 BA. Cost: 80.000.000 VND
+2.Design UI/UX cost: designer to create UI/UX screen app management and design interiors with the brand. Cost 20.000.000 VND
+3.Recruiting and training cost: Salary for HR team to hire employee and training local presonnel. Cost: 30.000.000 VND
+4.Deployment cost: deployment a server for app management and database server. Cost: 10.000.000 VND
+5.Salary employee: Salary for employee include: 1 Manager, 2 Chef, 4 phuc vu. Cost: 40.000.000 VND/month for each store
+
+Request 3:
+1.Tight project schedule
+Description: The team member  finish the project within 12 months
+Impact: High
+Relevant: The team member cannot finish the project on time
+Mitigation: Check progress everyweek
+Contingency: Add buffer time or reduce work
+
+2.Budget Overrun
+Description: The project need budget to finish all features
+Impact: Medium
+Relevent: The team member cannot finish all features
+Mitigation: Check cost regularly and prepare backup budget
+Contingency: Reduce features to save budget 
+
+3.Change Scope
+Description: The project scope may be change
+Impact: High
+Relevent: The team member have more work to do
+Mitigation: Have a clear scopre with customer
+Contingency: Focus on important feature
+
+Request 4:
+Project Roles:
+-Project Manager (PM) - plan, manage
+-Designer -  design, improve UI
+-Developer - code, build
+-Tester - test, check
+
+Task/Activities:
+1.Define scope
+2.Create project plan
+3.Setup environment
+4.Setup database
+5.Development frontend
+6.Development backend
+7.Add main features
+8.Testing
+9.Bug fixing
+10.Deployment
+
+Responsibilities:
+1.Define scope
++R: PM
++A: PM
++C: Developer, Designer
++I: Customer
+2.Create project plan
++R:PM
++A:PM
++C:Developer, Designer
++I:Customer
+3.Setup environment
++R:Developer
++A:PM
++C:Tester
++I:Customer
+4.Setup database
++R:Developer
++A:PM
++C:Tester
++I:Customer
+5.Development frontend
++R:Developer
++A:PM
++C:Designer
++I:Customer
+6.Development backend
++R:Developer
++A:PM
++C:Tester
++I:Customer
+7.Add main features
++R:Developer
++A:PM
++C:Designer
++I:Customer
+8.Testing
++R:Tester
++A:PM
++C:Developer
++I:Customer
+9.Bug fixing
++R:Developer
++A:PM
++C:Tester
++I:Customer
+10.Deployment
++R:Developer
++A:PM
++C:Tester
++I:Customer
+2)

@@ -1,0 +1,112 @@
+1)
+Request 1:
+
+1. Project name: Coi Cafe
+
+2. Justification: Expand Coi Cafe in 5 Central provinces Da Nang, Quang Nam, Quang Ngai, Binh Dinh 
+
+3. Project constraint: 
+
+Scope: 
+
+- Surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store.
+
+Time: 12 months
+
+Cost/budget: The total budget is VND 8.5 billion (approcimately VND 1.7 billion/store) from equity and commercial bank loans.
+
+Quality: Each store must reach the break-even point within 8 months after opening.
+
+
+
+Request 2:
+ 
+Cost/budget item 1:
+- Name: Staffs and local personnels training and recruiting.
+- Description: The cost of launching recruitment fanpages and website, of initial training including renting space for training, money to pay for HR personnel, initial rewarding budget pay for new recruit after a time of working and employees referal.
+- Estimation:  The cost per number of personnels hired when compared wirg the consistency of their works regarding time and quality in the first 8 months. How many long term employees acquired.
+- Person in charge: Head of the HR team and training personel.
+
+
+Cost/budget item 2: 
+- Name: Furnitures, premises, interiors designing and construction and renting cost. 
+- Description: The cost paid for designers to construct initial interior which is both consistent with the brand and in tune with the local.
+- Estimation: The cost of decorating for events and new furniture each month
+- Person in charge: Interior design team leader
+
+Cost/budget item 3: 
+- Name: Campaign launching each months' fees.
+- Description: The cost to advertising, launching, promotion through social media and upsaling and new drink invention each month.
+- Estimation: The total cost of paying for marterial, inventing new products, and sale each month.
+- Person in charge: Marketing team leader
+
+Cost/budget item 4:
+- Name: Acquiring raw material cost, shipping fees to each store 
+- Description: The total cost of acquiring raw marterial from Dak Lak farmers and ship them to each store.
+- Estimation: The total cost of marterial and shipping fees to each store each months.
+- Person in charge: Market development team leader
+
+Cost/budget item 5:
+- Name: The cost to launch website, redesigning website and renting server and design mini games on website 
+- Description: The cost of launch website, redesigning website and renting server
+- Estimation: The money paid for these each month
+- Person in charge: IT team leader
+
+
+2)
+Request 3: 
+Risk 1:
+- Name: Renting places owner and stakeholder's withdrawal
+- Description: The chosen place to launch the store can no longer be rented and the investors dont support anymore
+- Possible impacts:
+  Quality: High 
+  Time: Medium
+   Cost: High
+- Relevant risk response plans: Avoid
+
+
+Risk 2:
+- Name: Lack of employees
+- Description: Can't recruit enough employees for each store's demand
+- Possible impacts:
+  Quality: High
+  Time: High
+   Cost: Medium
+- Relevant risk response plans: Contingency
+
+Risk 3:
+- Name: The stores don't reach the saling estimation within each month.
+- Description: Stores fail to meet the estimation sale.
+- Possible impacts:
+  Quality: Low
+  Time: Low
+   Cost: Low
+- Risk Response plans: MItigation
+
+Request 4:
+1. Three project roles
+- Market Development Director as PM
+- HR team, interior design team, HR team, and marketing team.
+- External: Central region supply
+
+2. 
+    1. Making this month's campaign.
+
+    2. 
+
+    3.
+
+    4.
+
+    5.
+
+    6.
+
+    7.
+
+    8.
+
+    9.
+
+    10.
+

@@ -1,0 +1,156 @@
+1)
+Request 1:
+1. Project Name: VietCoffee - A Vietnam Coffee Supply Chain
+2. Justifications: With the passion on the coffee of the customers, Coi Cafe want to expand the coffee brand over the Central provinces in Vietnam by produce traditional coffee and efficiency supply chain operation. This project is implemented for building a coffee supply chain, recruit local staff, customers survey conducting for experience and satisfication. Also, holding campaign for stores with attractive promotion and pricing
+
+3. Project Constraints:
+- Scope:  Coi Cafe requires expand into 5 Central provinces with 1 flagsthip store in each province by conduct surveys, select premises, staff recruit and training
+- Time:  This project are operating within 12 months
+- Cost: The total budget required for this project is not over VND 8.5 billion and VND 1.7 billion for per store
+- Quality: Ensure that each store have to reach the break-even point within 8 months after opening
+
+
+Request 2: 
+Five main cost/budget items: 
+1. 
+- Name:  Brand Design
+- Description: Design for coffee brand for promotion and customer attraction
+- Estimation:  VND 20 million
+- Estimation Method: Bottom-up Estimation, divided into small tasks in Design Team for brand and attractive design
+- Person in Charge: Internal Design Tram
+
+
+2. 
+- Name: Conduct Survey
+- Description: Conduct a survey on customers are using coffee brand and coffee store's services
+- Estimation: VND 680 million
+- Estimation Method: Parametric Estimation, by calculated with the numbers of survey are conducted time to the duration of the project operation
+- Person in Charge: Marketing Team
+
+3. 
+- Name: Staff Training
+- Description: Implement staff recruiting and training for operating coffee brand system and supply chain
+- Estimation: VND 800 million
+- Estimation Method: Bottom-up Estimation, breakdown into individual tasks for personnel training and total of all costs of each task
+- Person in Charge: Human Resource Team
+
+4. 
+- Name: Building Coffee Supply Chain
+- Description: Build a raw supply chain for coffee brand over 5 Central provinces
+- Estimation: VND 6.4 billion
+- Estimation Method: Expert Judgement Method, by asking the experience of the specialist on the similar project
+- Person in Charge: Human Resource Team and Project Manager
+
+
+5. 
+- Name: Miscellaneous Contingency Cost
+- Description: Covering unexpected expenses such failure in design, survey cannot reach a required number or result
+- Estimation: VND 500 million
+- Estimation Method: Contingency Reserve Estimation by reserve a part of budget for the risks in the project
+- Person in Charge: Project Manager
+
+
+2)
+Request 3:
+Three project risks:
+1. 
+- Name: Poor Brand Presentation
+- Description: The coffee store design does not attractive customer
+- Impact: Medium Impact on Cost and Quality
+- Response Plan:
++ Mitigation: Develop an attractive and display design
++ Contingency: Redesign layout during operation
+
+2.
+- Name: Unexpected Promotion Result
+- Description: Promotion result cannot demand a significant numbers of the participants
+- Impact: Medium Impact on Scope and Cost
+- Response Plan:
++ Mitigation: Planning and making plan for appropriate marketing strategy for attractive promotion
++ Contingency: Adjust marketing strategy during execution
+
+
+3.
+- Name: Supply Chain Building Issues
+- Description: building supply chain may occurs errors or unexpected issues during operation
+- Impact: high Impact on Scope and Quality
+- Response Plan:
++ Mitigation: Perform testing on procedure and spply chain building processes, prepare a backup plan
++ Contingency: Switch to backup plan and adjust the operating procedures
+
+
+
+Request 4:
+Three project roles:
+- Market Development Director (Project Manager); respondible for project operation
+- Design Team: responsible for brand design
+- HR Team: responsible for recruiting and training personnel
+- Marketing Team: responsible for marketing plans and strategies
+
+Ten Activities & Role Responsibilities
+
+
+1. Plan A Marketing Strategy
+- Project Manager (C)
+- Design Team (I)
+- HR Team (I)
+- Marketing Team (R,A)
+
+2. Conduct Market Research
+- Project Manager 
+- Design Team
+- HR Team
+- Marketing Team 
+
+3. Design Coffee Store Brand
+- Project Manager (I)
+- Design Team (R, A) 
+- HR Team (I)
+- Marketing Team (C)
+
+
+4. Staff Recruiting and Training
+- Project Manager (C)
+- Design Team (I)
+- HR Team (R, A)
+- Marketing Team (I)
+
+5. Coffee Brand Promotion
+- Project Manager (C)
+- Design Team (I)
+- HR Team (I)
+- Marketing Team (R, A)
+
+6. Conduct Survey
+- Project Manager (C)
+- Design Team (I)
+- HR Team (I)
+- Marketing Team (R, A)
+
+
+7. Building a Supply Chain
+- Project Manager (A)
+- Design Team (I)
+- HR Team (R)
+- Marketing Team (C)
+
+
+8. Store Campaign Operation
+- Project Manager (C)
+- Design Team (I)
+- HR Team (R, A)
+- Marketing Team (I) 
+
+
+9. Promotional Planning and Scripting
+- Project Manager (C)
+- Design Team (C)
+- HR Team (I)
+- Marketing Team (R, A)
+
+
+10. Final Deliverable 
+- Project Manager (R, A)
+- Design Team (I)
+- HR Team (I)
+- Marketing Team (I)

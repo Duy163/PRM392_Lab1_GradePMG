@@ -1,0 +1,112 @@
+1)
+Request 1: 
+
+   Project name: Coi Cafe's expansion project
+   Justifications:
+      Purpose & reasons: Coi's management decided to implement an expansion project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), within 1 flagship store in each province
+   Project constrants: 
+      Scope: Implement an expansion project into 5 Central provinces, with 1 flagship store in each province. Project includes: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers,  and launching campaigns for wach store.
+      Time: 12 months
+      Budget: the total budget is VND 8.5 billion (approximately VND 1.7 billion/store) 
+      Quality: Each store much reach the break-even point within 8 months after opening.
+
+
+
+Request 2: 
+
+Five main cost budget: 
+1. Name: building a raw material supply chain
+Description: The costs to build a raw material supply chain from Central region
+Estimation:  
+2. Name: Marketing
+Description: PR about a new bussines modal of Coi Cafe
+Estimation
+3. Name: Building a new system to manage stores
+Description: The costs to build a new system that can manage store in each province
+Estimation: 
+4. Name: Lauching campaign
+Description: The cost to launching campaign for each store
+Estimation: 
+5. Name : Recruiting and training local personnel
+Description: The cost to recruiting and training local personnel
+
+2)
+Request 3: Three project risks
+
+1. 
+  Name: Out of budget
+  Description: Maybe the project will use more cost than  the budget  because of some reasons during the implement time
+  Possible impact: Cost
+  Relevant risk response plans: Mitigation
+2. 
+  Name: Out of time
+  Description: Maybe that do not enough time to implement the project so then the quality could be downed.
+  Possible impact: Time and quality
+  Relevant risk response plans: Mitigation
+3. 
+  Name: Do not have place to open store
+  Description: In some big provinces like   Da Nang or Hue maybe do not have suitable places to open store and it will delay the time implement 
+  Possible impact: Time and scope
+  Relevant risk response plans: Contingency
+
+
+
+Request 4:
+
+Project roles: 
+   Project manager (PM), who manage and lead the whole members in project
+   HR Lead (HRL): Leader of HR team, 
+   Design Lead (DL): Leader of design team, 
+   Marketing Lead (ML): leader of marketing team 
+
+Activity: 
+   1. Buy supply and using cost within VND 8.5 billion (VND 1.7 billion per store): 
+PM: Accountable/Responsible
+HRL: Informed
+DL: Informed
+ML: Informed
+   2. Done project within 12 months:
+PM: Accountable/Responsible
+HRL: Chasulted
+DL: Chasulted
+ML: Chasulted
+   3. Surveying premises:
+PM: Accountable
+HRL: Responsible
+DL: Informed
+ML: Informed
+   4. Selecting premises:
+PM: Accountable
+HRL: Responsible
+DL: Informed
+ML: Informed
+   5. Designing interiors consistent with the brand
+PM: Accountable
+HRL:Informed
+DL: Responsible
+ML: Informed
+   6. Constructing interiors consistent with the brand
+PM: Accountable
+HRL: Informed
+DL: Responsible
+ML: Informed
+   7. Recuiting and training local personnel
+PM: Accountable
+HRL: Responsible
+DL: Informed
+ML: Informed
+   8. Building a raw material supply chain from Central region suppliers
+PM: Accountable
+HRL: Informed
+DL: Responsible
+ML: Informed
+   9. Launching campaigns for each store
+PM: Accountable/ Responsible
+HRL: Chasulted
+DL: Chasulted
+ML: Chasulted
+   10. PR about new bussines model of Coi Cafe
+PM: Accountable
+HRL: Informed
+DL: Informed
+ML: Responsible

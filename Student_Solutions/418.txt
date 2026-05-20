@@ -1,0 +1,96 @@
+1)
+request1: 
+-project name: the campaign of launching coi cafe more famous in vietnam
+-justifications:
+purpose: 
+ in the context of competitor of many coffee shop, this project is raising brand awareness of coi cafe, implement an expansion project into 5 central provinces 
+-project constrains:
+in term of scope 
+this project included:
+surveying and selcting premises, designing and constructing interiors consistent, recruiting and training local personnel, building a raw material supply chain from central region suppliers, and also lauching campaigns 
+-time:
+ the duration of this project strictly limited within 12 months with planning, executing, monitoring and closing phase
+-cost/budget:
+vnd 8.5 billion ( approximately vnd 1.7 billion/ store )
+-quality:
+this project must achieved by defined success indicator such as reach the break-even point within 8 months after opening.
+
+
+
+request 2: 
+main cost/budget items:
+-seleting premises
+description: first thing to do for this project and it must have in the iniating phase, 
+estimation: vnd 300 million for each store, it included cost to make the survey at each place near each store and selecting premises, it spend for the  collect survey team and er account of the project
+
+-designing and construting interiors consistent 
+description:  for planning phase, design is very important for this project, designing to abstract more customer know about the expansion projectt, increase brand awareness to help this project raising the successful
+estimation: assumption vnd 400 million/ each store ( total 5 sotre with 1 store is maximize vnd 1.7 billion ) , this 400 million aim to invite 1 team design and construting include 8 people to do this work 
+
+-recuiting and training local personal
+description: for the executing each store of this project, we need to have local personnel so it must have cost for this item
+estimation: vnd 100 million for recruiting and training for each store, it included:  15 employee, after that may have leader, senior part time, etc,..
+
+-building a raw material supply chain form central region suppliers
+description: product is a main material of this campaign, so this main cost necessary to pay for the suppliers 
+estimation: vnd 400 million for supply chain each store, this cost very need for the project , inlcued product, equipment, etc,...and this cost also have person for delivery supply chain for us
+
+-launching campaigns: 
+description: it cost is most important cost, lauching campaign to reach lots of people is one of the success criteria and break even point.
+estimation: vnd 500 million for each store, this cost also include marketing for this project do by marketing team, executing during the project,... so it must be the most expensive cost of the budget item.
+-> in shor, it has total vnd 1.7 billion for each store in 5 store,  and total budget is vnd 8.5 billion this cost must be strictly limited in duration of the project.
+
+
+
+
+
+
+
+
+
+2)
+request 3:
+ project risks:
+-the suppiers do not provided enough the supply chain, 
+description: 
+in this case, the store do not have enough supply chain to prepare for executing the campaign,
+possible impact: 
+ it's impact on customers 's sastifactions so they do not comeback again, and the store must lost a part of cost for this budget item, the timeline also be impact of the schedule planning.
+relevant risk response plans: 
+the communication team should have the list to check all of items before received supply chain form the suppliers
+
+- training local personnel don't like team expectation
+description:
+in the training time, this case also appear, like that local personnel does mistake in this time, but he or she cannot improved after traning 
+possible impact;
+ it's impact on quality of the store, customer experience, so it's also take time to training again for he/ she, and when does the mistake like broken glass, lost things, etc,.. the cost  of this budget item will be lost.
+relevant risk response plans: spend more time to take care them in this training part, tell them the notice of the store, and can use pushnishment when needed to make them focus on their's responsibility
+
+-lauching campagin do not effective
+description:
+this action also push the famous and success of this project more than any action, but sometime it's have flop maybe it's do not enough abtract for customers.
+possible impact: 
+this prolem impact on the brand awareness of the campaign, if the lauching phase do not good enough, so the store also do not have customers and all the cost of executing plan will be lost, quality down, and it's take more time of everybody in the team of this project.
+risk response plans:
+have the meeting bi - weekend/ when need to brainstorm idea, use the cathching trend for the marketing plan to lauching campain so it's must reach the break-even point within the timeline.
+
+request4:
+three project roles:
+-marketing development director - pm (r,a)
+task: calculate budget status, milestone updates, project risk, selecting premises 
+responsibility by the pm, 
+they keep sponsor imformed and supported decison making.
+
+-project team - internal (c,i)
+task: task progress, deadline, issue tracking, recruiting, training local personnel, surveying,launching campaign
+responsibility by the pm 
+they responsibility are ensure the project activities completed on time 
+
+
+-retailer partner - external (c,i)
+task: delivery schedule,provide supply chain,  stock updates,...
+responsibility by the sale team 
+they responsibility are ensure store already before launch products 
+
+
+

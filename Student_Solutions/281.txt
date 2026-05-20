@@ -1,0 +1,115 @@
+1)
+REQUEST 1:
+1. Project Name
+Coi Cafe Central Market Expansion Program
+
+2. Justification
+Coi Cafe has achieved stable growth in Hanoi and Ho Chi Minh City by offering a unique combination of traditional Vietnamese coffee, nostalgic design, and environmentally friendly practices. However, the Central region has not yet been fully explored, even though it has strong tourism activity and a growing urban customer base.
+The purpose of this project is to expand Coi Cafe into five Central provinces to increase market coverage and brand recognition. By opening one flagship store in each province, the company can test customer preferences in different local markets and build a foundation for future expansion. In addition, working with local suppliers in the Central region helps reduce logistics costs and supports sustainable sourcing.
+
+3. Project Constraints
+- Scope constraints:
+The project includes site selection, store construction, staff recruitment, training, supply chain setup, and marketing activities. It does not include franchise development or online expansion.
+- Time constraints:
+The entire expansion must be completed within 12 months, including preparation and store openings.
+- Cost/Budget constraints:
+The total budget is limited to VND 8.5 billion, with an average of VND 1.7 billion per store.
+- Quality constraints:
+Each store must follow Coi Cafe’s brand standards and achieve break-even within 8 months after opening.
+
+REQUEST 2:
+1. Store Rental and Deposit
+- Description: Renting locations in each province and paying deposit fees.
+- Estimation: Based on average rental price × store size + deposit (3 months).
+- Method: Local property listings and agent consultation.
+- Responsible: Project Manager.
+
+2. Store Construction and Decoration
+- Description: Renovation, furniture, and decoration to match brand style.
+- Estimation: Approximate cost per store based on previous projects.
+- Method: Contractor quotation comparison.
+- Responsible: Interior Design Team.
+
+3. Equipment Purchase
+- Description: Coffee machines, tools, POS system, and reusable cups.
+- Estimation: Unit price × number of items needed.
+- Method: Supplier quotation.
+- Responsible: Operations Team.
+
+4. Staff Recruitment and Training
+- Description: Hiring employees and training them before store opening.
+- Estimation: Salary during training + training materials.
+- Method: HR planning and standard salary rate.
+- Responsible: HR Team.
+
+5. Marketing and Promotion
+- Description: Grand opening events and local advertising.
+- Estimation: Fixed budget per store.
+- Method: Based on previous campaign cost.
+- Responsible: Marketing Team.
+
+REQUEST 3:
+Risk 1: Delay in Construction Process
+- Description: Construction may take longer than planned due to contractor issues.
+- Impact:
++ Time: Delay in store opening
++ Cost: Increased labor and rental costs
++ Quality: Rushed work may reduce quality
+- Response:
++ Mitigation: Choose reliable contractors and monitor progress
++ Contingency: Adjust schedule or increase workforce if delayed
+
+Risk 2: Low Customer Demand in New Locations
+- Description: Customers may not be familiar with the brand.
+- Impact:
++ Cost: Lower revenue
++ Quality: Hard to reach break-even target
++ Time: Longer recovery period
+- Response:
++ Mitigation: Strong marketing before opening
++ Contingency: Offer promotions and adjust menu pricing
+
+Risk 3: Supply Chain Disruption
+- Description: Difficulty in sourcing materials from Central suppliers.
+- Impact:
++ Scope: Affects product availability
++ Cost: Increased sourcing cost
++ Time: Delays in operations
+- Response:
++ Mitigation: Work with multiple suppliers
++ Contingency: Use backup suppliers from other regions
+
+REQUEST 4:
+1. Project Roles
+- Project Manager: PM
+- Design Team Lead: Design
+- HR Manager: HR
+- Marketing Manager: Marketing
+- Operations Supervisor: Operations
+
+2. Tasks, Activities, Deliverables 
+
+1) Project planning – PM (R), Others (A), All (C/I)
+
+2) Location search – Operations (R), PM (A), Marketing (C), Others (I)
+
+3)Lease agreement – PM (R), Operations (A), Finance (C), Others (I)
+
+4) Store design – Design (R), PM (A), Marketing (C), Others (I)
+
+5) Construction work – Design (R), PM (A), Operations (C), Others (I)
+
+6) Equipment setup – Operations (R), PM (A), Design (C), Others (I)
+
+7) Recruitment – HR (R), PM (A), Operations (C), Others (I)
+
+8) Training – HR (R), Operations (A), PM (C), Others (I)
+
+9) Supply chain setup – Operations (R), PM (A), Finance (C), Others (I)
+
+10) Marketing campaign – Marketing (R), PM (A), Others (C), Others (I)
+
+11) Store opening – Marketing (R), PM (A), All (C), Others (I)
+
+12) Performance tracking – PM (R), Operations (A), Finance (C), Others (I)
+2)

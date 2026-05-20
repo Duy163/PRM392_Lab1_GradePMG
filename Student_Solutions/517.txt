@@ -1,0 +1,50 @@
+1)
+Request 1
+
+Project name: Coi Cafe Central Region Market Entry Project.
+
+Justifications: Coi Cafe is a Vietnamese coffee chain with 12 stores in Hanoi and Ho Chi Minh City. Its main strengths are nostalgic Vietnamese store design, traditional drinks, reusable cups, and direct purchasing from Dak Lak farmers. The purpose of this project is to enter the Central region by opening five flagship stores in Da Nang, Hue, Quang Nam,asss Quang Ngai, and Binh Dinh.
+
+The project is justified because the Central region has many tourist destinations, developing cities, and potential customers who may prefer authentic Vietnamese coffee brands. The expansion can increase revenue, improve brand recognition, and test a repeatable model for future growth. It also helps Coi Cafe build a stronger supply network across Vietnam.
+
+Project constraints: The project scope includes only five flagship stores. Main activities include site survey, lease signing, design, construction, procurement, recruitment, training, supply chain preparation, and launch campaigns. The time constraint is 12 months for the whole project, and each store must break even within 8 months. The cost constraint is VND 8.5 billion in total. The quality constraint is to maintain Coi Cafe’s nostalgic design, traditional menu, reusable cups, and direct sourcing standard.
+
+Request 2 
+Main Cost and Budget Items
+Site research and lease deposits: This includes market visits, traffic counting, legal checking, and lease deposits. Estimated cost is VND 500 million. The estimation method is market comparison. Person in charge is the Project Manager.
+Design and construction: This includes store design, renovation, decoration, lighting, seating, counter, and signage. Estimated cost is VND 4 billion. The estimation method is analogous estimation from previous stores. Person in charge is the Design and Construction Lead.
+Equipment package: This includes coffee machines, grinders, refrigerators, POS devices, furniture, reusable cups, and cleaning equipment. Estimated cost is VND 1.15 billion. The estimation method is bottom-up estimation. Person in charge is Procurement Team.
+Recruitment and operational training: This includes hiring and training local store teams. Estimated cost is VND 750 million. The estimation method is HR cost calculation. Person in charge is HR Team.
+Supplier setup and opening stock: This includes supplier contracts, logistics, raw materials, and first-month inventory. Estimated cost is VND 700 million. The estimation method is supplier quotation and bottom-up estimation. Person in charge is Supply Chain Team.
+Marketing launch budget: This includes online ads, local events, soft opening, and customer vouchers. Estimated cost is VND 475 million. The estimation method is percentage-of-sales launch planning. Person in charge is Marketing Team.
+Permits and management cost: This includes permits, reporting, travel, coordination, and bank loan administration. Estimated cost is VND 325 million. The estimation method is analogous estimation. Person in charge is Finance Team and Project Manager.
+Contingency reserve: This covers unexpected project risks. Estimated cost is VND 600 million. The estimation method is risk-based reserve. Person in charge is Project Manager.
+
+Total estimated budget: VND 8.5 billion.
+
+Request 3 
+Three Project Risks
+
+Risk 1 Permit approval delay: Local permit procedures may take longer than planned. This can delay construction, affect the opening schedule, and increase administration or rental waiting costs by VND 100 million to VND 300 million. It may also force the team to compress later activities, reducing quality. Mitigation is to prepare documents early and work with local legal consultants. Contingency is to start design and procurement while waiting for permits.
+
+Risk 2 Construction quality defects: Contractors may not deliver the required nostalgic design quality. This affects brand image and may require rework. It can delay opening by several weeks and increase cost by VND 200 million to VND 400 million. Mitigation is to use standard design guidelines and frequent inspections. Contingency is to hire a specialist team for urgent correction.
+
+Risk 3 Interest rate increase: Bank loans may become more expensive if interest rates rise. This affects financial performance and may reduce marketing or contingency budget. It can increase financial cost by VND 100 million to VND 250 million. Mitigation is to negotiate fixed-rate loans. Contingency is to reduce non-essential expenses and use reserve funds.
+
+Request 4 
+RACI Chart Text Description
+
+Roles: PM is Project Manager. DCT is Design and Construction Team. HR is Human Resources. SCM is Supply Chain Management. MKT is Marketing.
+
+Confirm project charter: PM is A and R. DCT, HR, SCM, and MKT are C.
+Prepare expansion schedule: PM is A and R. DCT, HR, SCM, and MKT are C.
+Research local markets: MKT is R. PM is A. SCM is C. DCT and HR are I.
+Choose store locations: PM is A. DCT and MKT are R. SCM is C. HR is I.
+Complete legal and lease documents: SCM is R. PM is A. DCT is C. HR and MKT are I.
+Design store concept: DCT is R. PM is A. MKT is C. HR and SCM are I.
+Supervise construction quality: DCT is R. PM is A. SCM is C. HR and MKT are I.
+Recruit local employees: HR is R. PM is A. MKT is C. DCT and SCM are I.
+Train employees: HR is R. PM is A. SCM and MKT are C. DCT is I.
+Set up suppliers and inventory: SCM is R. PM is A. MKT is C. DCT and HR are I.
+Execute opening campaign: MKT is R. PM is A. HR and SCM are C. DCT is I.
+2)

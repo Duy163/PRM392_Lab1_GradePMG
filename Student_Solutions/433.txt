@@ -1,0 +1,96 @@
+1)
+Request1:
+1. Project name: Coi Cafe flagship store
+2. Justifications:
+Proplem:
+ - Coi's management decided to implement an expansion project into 5 Central Provinces (Da nang, Hue, Quang Nam, Quang Ngai, Binh Dinh).
+
+Need:
+ - With 1 flagship store in each province within 12 months
+ - Surveying and selecting premisesa
+ - Designing and constructing interiors consistent with brand
+ - Recruiting and training local personel
+ - Building a raw material supply chain form Central region suppliers
+ - Lauching campaigns for each store
+
+Solution:
+ - PM manage cost, scope, quality of project will achieve in 12 months.
+ - Design team will design interior with color of brand, and true with culture of each province
+ - HR team will applied emplyee, and training local personel for this project
+ - Marketing team will adstivise project and promote campaigns for people in each province. 
+
+3. 
+Project constraints: Expansion project into 5 Central Provinces within 12 months for 1 flagship store, surveying and selecting premises, designing and construsting interiors consistent with brand, recruiting and training local personnel, building a raw material supply chain from Central Suppliers, lauching  campaigns for each store, 8 months after opening each store  must reach the break-even point.
+
+In terms of scope: 5 flagship store in 5 Central Provinces ( Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh).
+
+Time: 12 months
+Cost: 8.5 billion VND (1.7 billion/store).
+Quality: Store reach the break-even point within 8 months after opening.
+
+Request 2 : 
+Item1: 
+-Name: Surveying and selecting premises
+-Desciption: To choose place to open store with beatiful place, popular location.
+-Estimation: 20% cost for this item, about 1 team like design team and PM to do this item
+Item 2: 
+-Name: Designing and constructing interiors consistent with brand.
+-Desciption: To design interior with brand but keep the culture of provinces.
+-Estimation: 30% total cost,2 people in design team and 2 people in marketing team do this item
+Item 3: 
+-Name: Recruiting and training local personel
+-Description: to training local personnel about culture of bussiness, about drinks, about coffee of brand.
+- Estimation: 10% total cost, 1 person in HR team do this item
+Iteam 4: 
+-Name: a raw material supply chain from Central Region suppliers.
+-Desciption: to choose suppliers from 5 Central Region to decrease delivery cost
+-Estimation: 20% total cost, PM do this item.
+Item 5 :
+-Name: lauching campaigns for each store.
+-Decription: to promise KPI for Store with adtivise campaigns, to pupolar for people in Central region.
+-Estimation: 20% total cost, 4 peple in marketing team do this item.
+
+Request 3: 
+Project 1: Say HI coffee
+-Name: Say HI coffee
+-Description: located in center Quang Ngai province, a project store coffee famous with coffee drink.
+-Scope: in center Quang Ngai Province
+-Time:4 month
+-Cost: 600 millione VND
+-Quality: people in Quang Ngai want to visit here to enjoy coffee everyday.
+
+Project 2 : STEM online store
+-Name: STEM onlineshop
+-Description: a wed sell Stem product for education, entertainment.
+-Scope: in online wed for stundent and teacher
+-Time : 2 months
+-Cost: 1 million VND
+-Relevant risk response plans : know how to organise wed CRUD in wed online, 1.000.000 VND for rent hostname, domain, deploy, maintain.
+
+Project 3 : Seafood online
+-Name: BUY SEAFOOD online
+-Desciption: a wed where to sell seafood in Ly Son Island.
+-Scope: in online Wed
+-Time: 2 months
+-Cost : 4 million VND
+-Relevant risk reponse plans: organize a wed for people in Ly Son island to sell they seafood, with 1 million VND for deploy wed, 1 million VND for marketing online for people in Quang Ngai province in Facebook, 2 million VND for import seafood to sell.   
+2)
+Request 4: 
+1, Project roles: PM, design team, Marketing team.
+2. 
+Task1: find location to open store
+Task 2: Design interior with culture of brand
+Task 3: Lauching campaigns 
+Task 4: Organize campaigns to visit store with buy 1 get 1 campaign
+Activity 1: Run Ads in Facebook, Tiktok.
+Activity 2: Rent location in Center of province
+Activity 3: Building Store in 2 months
+Activity 4: Designing brand with culture by region and brand designer 
+Delivery 1: Free delivery in 3 km of center 
+Delivery 2: Open 24 hour per day
+
+3. 
+PM do Task1, Activity 2, Delivery 2.
+Design team do Task2, Activity 3, Activity 4.
+Marketing team do Task 3, Task 4, Activity 1, Delivery 1.
+

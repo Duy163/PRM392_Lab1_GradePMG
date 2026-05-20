@@ -1,0 +1,67 @@
+1)
+Request 1:
+Project name: Implement an expansion project 
+
+Justifications:The project is implement an expansion project into 5 Central provices (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province
+
+Project constraints: 
+- Scope: 
++ Surveying and selecting premises
++ Designing and constructing interiors consistent ith the brand
++ Recruiting and traning local personanel
++ Building a raw material supply chain form Central region suppliers, and launching campaigns for each strore
+
+- Time: Within 12 months
+
+- Cost/budget: VND 8.5 billion (approximately VND 1.7 billion/store)
+
+
+Request 3:
+
+Risk title 1: The teammate did not follow up deadline
+- Desciption: The teammate did not focus on her/him task, lead to deadline of the project being late
+- Possible impact: The project can be take more long time 
+- Mitigation plan: Boost teammate to complete task soon
+- Contigency plan: Project manager always check deadline to make sure the project time not lately
+
+Risk title 2: Each store cannot reach the break-even point 
+- Desciption: Each store did not reach the break-even point within 8 months after opening
+- Possible impact: The project goal cannot completed in time
+- Mitigation plan: Change the plan to reach goal
+- Contigency plan: Create activities like minigame to get more customer go to store 
+
+Risk title 3: Budget for the project increase to VND 2 billion/store
+- Desciption: Budget fot each store are higher than the budget for each store before (approximately 1.7 billion /strore)
+- Possible impact: Wasted the budget project
+- Mitigation plan: Project manager  make sure the budget do not increase during project
+
+
+
+
+
+
+
+
+2)
+Request 4: 
+- Three project roles:
++ Project manager: reposibility for the project 
++ Designer team: designing and constructing interiors consistent with the brand
++ Marketing team: building a raw material supply chain, launching campaigns 
+
+- 10 activities:
+(A) Planning to-do work
+(B) Designing poster brand
+(C) Traning local personnnel
+(D) Romote the project
+(E) Building a raw material supply chain
+(F) Create a minigame ro reach more customer
+(G) Lauching campaigns
+(H) Selecting premises
+(I) Constructing interiors consistent with the brand
+(L) Suvey for after project
+
+The responsibilities of the project roles:
+- Project manager: (A), (L), (C)
+- Designer team: (B), (F)
+- Marketing team: (D), (E), (G), (H), (I)

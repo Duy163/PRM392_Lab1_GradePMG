@@ -1,0 +1,35 @@
+1)
+Request 1
+1. Name project is Coi's Managerment System
+2. The purpose and reason to implement this project are help Coi Cafe manage expansion stores, employees and customer in 5 Central provinces, to get the best surveys, get more local customers and reach the break-even point within 8 months after opening.
+3. The project constraints is the total budget are VND 8.5 billion and each store must the break-even point within 8 months after opening, scope is this expansion project into 5 Central provinces, time is 1 flagship store in each province within 12 months and quanlity is building a raw material supply chain from Central region suppliers and launching campaigns for each store.
+
+Request 2
+Five main cost/budget iteams in this project
+1. Name is AWS Infrastructure, this is cost to setup the AWS Infra help project operate and maintain. The cost is 350 USD/Month. Way to estimate is Analogous, use the experience to setup in the same project. Person in charged is Tech Lead.
+2. Name is Salary, this is cost to pay for employee who develop this project.The cost for each employee is VND 15 million/month. Way to estimate is Bottom-up, calculate the work package of employee. Person charged is Project Manager
+3. Name is AI Cost, this is cost to pay for AI support like ChatGPT or Github Compilot into development progress. The cost is VND 1.2 million/month for each employee. Way to estimate is Analogous, use the experience when implement the same project to calculate. Person in charged is Project Manager.
+4. Name is Marketing. This is the cost marketing of this Coi's project into social media like Facebook, Tiktok. The cost is VND 10 million/months. Way to estimate is ask Expert of marketing help to calculate this cost. Person in charged is Marketing Lead.
+5. Name is Reverse cost. This is cost to reverse for the risk sittuation of this project. The cost is VND 3 million/month. Way to estimate is Analogous, use the experience to reverse cost in same project. Person in charged is Project Manager.
+2)
+Request 3
+Identify three project risks
+1. Risk title is Scope Creep. This risk occur when stakeholder change very much request in the project. This risk is high impact because it can affect to cost and time and quality of project. Time is after project start. Risk response plan is the input request must be control and verify before allowed to apply in project.
+2. Risk title is Key Employee leave in project team but do not notificate for team. This risk very high impact, it can affect to time and cost of project because key employee have the important position in develop team so team project will waste a lot of time to training another employee when this employee do not work with team. Time is after project start. Risk repsonse plan is team need work in pair to share the knowledge among another project team member and backup the important data of project, do not get one person keep the important data.
+3. Risk title is Third-Party stop provide services. This risk low impact, it can affect to the time of project. Time is after project start. Risk response plan is find another service provider or self host services important of project.
+
+
+Request 4
+- RACI: Responsible, Accountable, Consulted, Informed.
+1. Three project roles is Project Manager, Backend Engineer, Frontend Engineer, BA (Business Analyst), Tester.
+2. List out ten tasks, activities, or deliverables
+- Get request: Project Manager (I), BA (A,R)
+- Analys request: Project Manager (A), BA (R), 
+- Architech system design: Project Manager (I, A), Backend Engineer (R)
+- Database design: Project Manager (I), Backend Engineer (A,R)
+- Backend implement: Project Manager (I), Backend Engineer (A,R)
+- UI/UX design: Project Manager (I, A), Frontend Engineer (R)
+- Frontend implement: Project Manager (I), Frontend Engineer (A,R)
+- Unit/Integration tesing: Project Manager (I), Tester (A, R), Frontend (C), Backend(C)
+- CI/CD setup: Project Manager (I, A), Backend (R)
+- Deploy: Project Manager (I, A), Backend (R).

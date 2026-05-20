@@ -1,0 +1,116 @@
+1)
+Question 1:
+1. Project name: Coi Cafe
+2. Purpose: Expand project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 months.
+3. 
+Constraints: 
+Scope: 
+- Surveying and selecting premises
+- Building a raw meterial supply chain from Central region suppliers
+- Designing and constructing interiors consisten with the brand
+- Recruiting and traning local personnel
+- Launching campaigns for each store
+Time: 12 months
+Cost/budget: VND 8.5 billion (approximately 1.7 billion/store)
+Quality
+- The total budget is VND 8.5 billion
+-  Have more than or equal 6 staff is local persoannel in store
+- Designing and constructing interios consistent with the brand
+
+
+2)
+Question 2:
+1. 
+Name: Bulding the store
+Description: the budget to bulding the store in 5 central provices (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+Estimate: VND 8.5 billion 
+Way to Estimate: The Coi's Management buliding 5 store in 5 Central Providince with VND 1.7 billion/store
+Person in charged: PM
+2.
+Name: Buget to Traing staff
+Desciption: Five store will recruiting and training local personnel to become staff, and each store have 6 staff (bartender, washer...)
+Estimate: VND 24 million
+Way to Estimate: each staff in store will received salary approximately VND 4 million/moths
+Person in charged: PM
+3.
+Name: Budged to Design 
+Desciption: 5 store need to design when the building is done
+Estimate: VND 100 million
+Way to Estimate: Each store will have VND 20 million to Decord the store and  constructing interiors consistent with the brand
+Person in Charged: The Coi's Management
+4.
+Name: Budget for Buy Location 
+Desciption: Monthly the Coi's Managerment need payment cash for location.
+Estimate: VND 25 billion
+Way to Estimate: the cash for location (approximately VND 5 billion/store).
+Person on charged:The Coi's Manager ment
+
+5
+Name: Budget for Material 
+Desciption: The cost buy  Coffee, tea...
+Estimate: 20 million
+Way to Estimate: The budget to buy coffee (VND 5 million), tee (VND 5 million), other Meterial (VND 10 million)
+Person on Charged: PM
+
+Question 3: 
+1. 
+Name: The staff is few (2 or 3 staff)
+Description: Don't have staff in store, and the store will more work for other staff
+Possion Impact: 
+- quality: Have more 6 staff in store
+- time: 2 weeks
+- cost: the cost equal or small than VND 16  million 
+Rish response plains:
+- Mitigation: increase salary for staff, and manager will find the staff for store
+- Contingency: Received more than 6 staff if 1 staff is troubling will have staff changed.
+
+2. 
+Name: Bad Customer Experience
+Description: The Custome Experice is not good may be by staff, or something as drink not good.
+Possion Impact: 
+- Quality: 70% Good Experience from Customer
+- time: 2 moths
+- cost: increase 5% budget  to have girf vourcher for  if customer have feedback about service, drink, location.
+Rish response Plains
+- Mitigation: Recived feedback from customer and try to better.
+- Contingency: Traning for saff more than, change decord if have festival, more dink to avoid customer boring.
+
+3. 
+Name: Materail is increment cost
+Description: Material may be increase price because don't have more meterial or quanter (example summer have more tee or spring have more coffee) make to price of material is increase
+Possion Impact:
+- Quality: The coffee, tea or other drink with current price
+- Time: 1 moths
+- Cost: Increase 5% budget to find and buy people have good price.
+Risk response plain
+- Mitigation: Buy Material with high cost, as will as find dealer have Material with good cost. 
+- Contigency: deal with people always goods price but we will buyed long time. 
+ 
+Question 4:
+1. Roles: PM, Design Team, HR, Marketing Team.
+
+2.
+1. Find location on 5 Central Provinces to Buy
+2. Building the store on location
+3. Decords the store
+4. Find staff
+5. Traning staff
+6. Find Meterial with good price
+7. Buying Meterail
+8. Plaing for marketing
+9. Marketing on social media (facabook and tiktok)
+10. Get feedback form customer
+
+3.
+1. PM (R, A). Design Team (I), HR (I), Marketing Team (I)
+2. PM (A). Desin Team (C), HR (I), Marketing Team (I)
+3. PM (C). Design Team (R, A), HR (I), Marketing Team (I)
+4. PM (I). Design Team (I), HR (R, A), Marketing Team (I)
+5. PM (C),  Desgn Team (I), HR (I), Marketing Team (I)
+6 PM (A), Design Team (I), HR (I), Marketing Team (I)
+7 PM (A), Design Team (I), HR (I), Marketing Team (I)
+8 PM (I), Design Team (I), HR (I), Marketing Team (R, A)
+9 PM (I), Design Team (I), HR (I), Marketing Team (R, A)
+10 PM (C), Design Team (I), HR (I), Marketing Team (I)
+
+

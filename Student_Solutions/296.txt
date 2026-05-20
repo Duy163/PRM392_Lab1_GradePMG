@@ -1,0 +1,99 @@
+1)
+Request 1
+1. Project name: Coi Cafe coffee brand
+2. Justifications:
+Coi Cafe want to have store into 5 Central provinces: Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh with designing and constructing interiors consistent with the brand.
+3. Project constraints:
+  - Scope: Each store must reach the break-even point within 8 months after opening,
+  - Time: 1 flagship store in each province within 12 months.
+  - Budget: Project have total budget is VND 8.5 billion, approximately VND 1.7 billion each store.
+  - Quality: 
+   + Surveying and selecting premises.
+   + Designing and constructing interiors consistent with the brand.
+   + Recruiting and training local personnel.
+   + Building a raw material supply chain from Central region suppliers and launching campaigns for each store.
+
+Request 2
+1. Personnel salary:
+-Description: Salary for staff.
+-Estimation: Top-down estimation.
+-Budget  VND 7.500.000/person/month, 30 people, 12 months.
+-Total: 7.500.000 x 30 x 12 =VND 2.7 Million
+-Person in charged: Project own.
+2. Infastructure:
+-Description: Fee to build store.
+- Estimation: Bot-up estimation.
+- Budget VND 500 Million/store, 5 stores
+- Total: 500 M X 5 = VND 2.5 Billion
+- Person in charged: Project own.
+3. Marketing:
+- Description: Marketing on Tiktok, Facebook, ...
+- Estimation: Bot-up estimation
+- Budget: 100 Million/ month, 12 months.
+- Total: 100M X 12 = VND 1.2 Billion
+- Person in charged: Marketing team.
+4. Training local personnel:
+- Description: Fee to train the new employess.
+- Estimation: Top-down estimation.
+- Budget: 200 Million/ store, 5 stores
+- Total: 200M x 5 = VND 1 Billion.
+- Person in charged: HR team.
+5. Design store:
+- Description: Designing interiors consistent with the brand.
+- Estimation: Top-down estimation.
+- Budget: 1 Billion for all stores
+- Total: VND 1 Billiion
+- Person in charged: Design team.
+=>Total Budget: VND 8.4 Billion
+
+2)
+Request 3
+1. Requirement change.
+-Description: Coi Cafe have new requirement.
+-Possible impacts: Cost and quality.
+-Response plan:
+   + Following a new requirement.
+   + Monitor process.
+2. Team member do not have a good communication
+- Description: They do not agree with each order.
+- Response plan:
+   + Project manager must tell how to work together.
+3. Overrun budget
+- Description: Having task they spent more money than plan.
+- Response plan:
+   + Monitor process
+   + Find main reason and reduce it.
+
+Request 4:
+1. Three project roles:
+- Market Development Director- PM
+- Sponsor: Coi Cafe - SP
+- Marketing and design team - MD
+- HR team - HR
+2. Ten tasks:
+- Resource Managerment.
+- Cost - Time - Quality Managerment.
+- Planing requirement for project.
+- Find main goal
+- Training local personnel.
+- Materal
+- Design store
+- Marketing on social media.
+- Get survey from customers.
+- Final Project.
+3 The Responsiblilities:
+   * Responsible - R
+   * Accountable - A
+   * Consulted - C
+- Resource managerment: HR(R), PM(A), SP(C)
+- Cost - Time - Quality managerment: HR, MD(R), PM(A), SP(C)
+- Planing requirement for project: PM(R, A), SP(C)
+- Find main goal: PM(R), SP(A)
+- Traning local personnel: HR(R), PM(A), SP(C)
+- Materal: PM(R), SP(A)
+- Design Store: MD(R), PM(A), SP(C)
+- Marking on social media: MD(R), PM(A), SP(C)
+- Get survey from customers: MD(R), PM(A), SP(C)
+- Final Project: MD,HR(R), PM(A), SP(C)
+
+

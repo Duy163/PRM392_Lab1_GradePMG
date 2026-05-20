@@ -1,0 +1,84 @@
+1)
+Request 1:
+- Project name: Coi's Cafe expansion
+- Justification: Coi's Cafe is famous for its nostalgic space, traditional drink menu, eco-friendly business model ( using reuseable cup, support local farmers by purchasing coffee directly from Dak Lak ), to bring these experiences to more customers across the country, Coi's Cafe introduces the project of expanding the brand to 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), therefore, increasing the brand awareness and profit
+- Project constraint:
+Scope: 
++ Expansion to 5 central provinces, 1 flagship store in each province
++ Surveying and selecting premises
++ Design and construct interior consistent with the brand signature
++ Recruit and train local personnel
++ Building raw supply chain from the region's suppliers
++ Launching campaign for each store
+Time:
++ 5 stores in 5 provinces within 12 months
++ Each store hits break-even point in 8 months
+Cost/budget:
++ Total: VND 8.5 billion from equity and bank loans
+Quality:
++ Preserve the brand's signature characteristics ( nostalgic space, eco-friendly business, traditional drinks )
++ Building raw supply chain directly in place for better cost optimization
+
+Request 2:
+- Recruiting and training employees:
++ Description: Hiring and training the employees to introduce the best services to customers ( friendly, supportive employees )
++ Estimation : Parametic estimation ( VND 25-30 thounsand for part-time empolyees, higher for other roles and bonuses )
++ Person in charge: HR team
+
+- Renting store:
++ Description : Renting the right places to balance between attracting customers and prices
++ Estimation : Parametic estimation ( renting price approximately equal to the local area )
++ Persion in charge: Owner, founder
+
+- Designing and constructing interior:
++ Description: Constructing the suitable interior design to preserve brand's signature and unique nostalgic space
++ Estimation : Bottom-up estimation ( Designing fees, interior purchase ( chairs, tables,etc ), electricity bills )
++ Person in charge: Owner
+
+- Building raw supply chain in place:
++ Description: Building supply chain directly within province to preserve the ingredients freshness and optimizing cost ( reducing logistic cost )
++ Estimation : Parametic estimation ( paid in kilos of ingredients )
++ Person in charge: Owner, manager
+
+- Marketing campaign
++ Description: Introducing brand to both the locals and the tourists through social media and offline campaigns
++ Estimation : Bottom-up ( Hiring KOLs/KOC to promote brands, paid for advertising in place  ( prepare standee, mascots,..)
++ Person in charge: Marketing team
+
+Request 3:
+- Risk 1: Not launching flagship store in time
++ Description: To successfully lanch all 5 stores in 5 different provinces within 12 months is challenging since licensing for renting, training employees, running marketing campaigns are all time-consuming tasks
++ Possibility : Medium
++ Impact : High - Affecting overall expansion plan, pressure from banks and equily since it is loans, losing the interests of investors
++ Mitigation: Careful preparation ( be realistic ), monitoring the progress regularly for better managing and changing plan if needed
++ Contingency: If cannot launch all 5 stores within 12 months, avoid rushing to launch all 5 which would result in poor quality, affect the brand overall, carefully preparing and adjusting the existed store to produce the best customer's experience, therefore, help stabilize the brand awarness and profit
+
+- Risk 2 : Competition from local's coffee shop
++ Description : Expanding brand to major provinces means there are already many stores there including both big/famous brands, and the small/medium local shops
++ Possiblity: High
++ Impact: Medium - If the store cannot attracts enough customers, it would affect directly to store's revenue, decrease in brand awareness
++ Mitigation: Addressing the uniqueness of the brand ( what only the brands can bring to customers ), increasing fund in R&D, introducing new drinks every special occasions so that the customers could have new experiences, getting feedbacks from customers to improve store's quality
++ Contingency: If the stores cannot attract the desired number of customers, the solution is to research and find the reason ( boring drinks, unfriendly employees, overpricing ) then taking the customer's feedbacks and immediately improving the store's quality
+
+- Risk 3 : The store's traditional drinks menu doesn't fit the appetizes of local customers
++ Description : The store's unique drinks could be not suitable for the appetizes of the local customers, therefore, requires carefull adjustments to preserve both the store's characteristics and the locals' appetizers
++ Possibility : Medium
++ Impact : Medium - Customers still may come for great atmosphere and reasonable prices. But over time, if the drinks are not good, they would leave, affect the store's long-term revenue and stability
++ Mitigation : Taking customer's feedbacks, improving and adapting the drink to suitt the locals but still preserving the brand's unique tastes, the priority is to maintain balance, make drinks suitable but not lose the brand's characteristics
++ Contingency: Taking feedbacks and improve the drinks immediately
+
+Request 4:
+1/ 3 project roles: Project Manager ( PM ), HR leader, Marketing leader, Owner
+2,3/ Activies/Tasks and each role's responsibily
+- Planning the expansion schedule : PM ( R,A ), HR leader( I ), Marketing leader ( I )
+- Funding the project: Owner ( R,A ), PM ( C ), HR leader ( I ), Marketing leader ( I )
+- Finding the local supplies: Owner ( A ), PM ( R ), HR leader ( I ), Marketing leader ( I )
+- Recruiing and training employees: HR leader ( R,A ), PM ( C ), Owner ( I, C ), Marketing leader ( I )
+- Designing and constructing interior: Owner ( R ), PM ( A ), HR leader ( I ), Marketing leader ( C )
+- Marketing campaign : Marketing leader ( R,A ), PM ( C ), HR leader ( I ), Owner ( I )
+- Managing and ensuring employees' overall performace: HR leader ( R,A ), PM ( R ), Marketing leader ( I ), Owner ( I )
+- Finding investors : Owner ( R, A ), PM ( C ), HR leader ( I ), Marketing leader ( I )
+- Monitoring and improve customer's expeiences : PM ( R, A ), HR leader ( C ), Marketing leader ( C ), Owner ( I )
+- Research and improve drink's quality : PM ( R,A ), HR leader ( I ), Marketing leader ( I ), Owner ( I,C )
+
+2)

@@ -1,0 +1,92 @@
+1)
+question 1: 
+
+project name: coi cafe
+ 
+justification:project coi's management decided  to implement an expansion project into 5 central provinces (da nang, hue, quang nam, quang ngai, binh dinh) with 1 flagship store in each province within 12 months
+
+project constraints:
+the project scope is limited to surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material suppy chain from central region suppliers, and launching campaigns for each store.
+
+the project must be completed within 12 months with the total budget is vnd 8.5 billion (approximately vnd 1.7 billion/store) and all project activites must be managed within this approved budget
+
+quality will be evaluated by the amount of customers, the rating after visit coi cafe and  each store must reach the break-even point within 8 months after opening.
+
+
+question 2: 
++) surveying and selecting premises cost
+
++)designing and constructing interiors cost 
+description: this cost is used for design the architecture of the coffee store
+estimation: vnd 800 million
+way to estimate: the cost is estimated by pm, based on market rate 
+person in charged: the interior design team will responsible for planning, spending control, and reporting for this budget item. 
+
++)recruiting and training personnel cost 
+desctiption: this cost is used for recruiting and training staff, store manager
+estimation: vnd 150 million 
+way to estimate: the cost is estimated by pm, based on market rate 
+person in charged: the hr team will  responsible for planning, spending control , and reporting for this budget item 
+
++) building a raw material supply chain from central region suppliers cost 
+description: this cost is used for building a raw material supply chain 
+estimation: vnd 250 million
+ way to estimate: the cost is estimated by pm, based on market rate
+person in charged: the logistic team will responsible for planning, spending control  and reporting for this budget item
+
++) launching campaigns for each store cost
+description: this cost is used for content production, media buying/ads, community management , materials/ printing
+estimation: vnd 450 million
+way to estimate: the cost is estimated by pm, based on market rate
+person in charged : the marketing team will responsible for planning, spending control and reporting for this budget item 
+
++) kols/ influencers collaboration cost 
+description: this cost is used for invite and collaborate with kols/ influencers 
+estimation: vnd 150 million 
+way to estimate: the cost is estimated by pm, based on market rate 
+person in charged: the store manager and marketing team will resposible for planning, find and invite suitable kols/ influencers
+
+
+ 
+2)
+question 3: 
++) risk: delay in complete key projects activities (12 months)
+description: there is a risk that key activities such as: approval, surveying and selecting premises , designing and constructing interiors, recruiting and training may take longer than planned because the project has short deadline and depends on serveral stakeholders . 
+impat on scope/ quality: some non- critical features, materials, or communication content may be simplified , quality review may be rushed .
+impact on time: the project may miss milestones and the final launch/ operation date may be delayed 
+impact on cost: extra overtimr, fast delivery fees, or additional support may be required 
+mitigration plan: build detailed schedule, set early internal deadlines, track progress daily/ weekly, adn prepare buffer time for approval, testing, or vendor delivery 
+contingency plan: if delay occurs, prioritize critical deliverables, reassign team members, use backup vendors or resources, and formally commnunicate the revised schedule to stakeholders
+
+
++) risk: budget overrun ( vnd 8.5 billion, vnd 1.7 billion/ store)
+description: there is a risk that actual project costs may exceed the approved budget because prices, vendor fees, labor effort, rework or promotion costs are higher than estimated.
+impact on scope/ quality: the team may need to reduce low priority scope, use cheaper materials, or reduce optional promotional.
+impact on time: extra approval for additional funds
+impact on cost: the project may exceed the cost constraint and reduce expected profit or financial performance.
+mitigation plan: estimate cost based on quotation/ market rate , keep the contingency reverse, approve spending before purchase , and track actual cost against budget regularly.
+contingency plan: if overrun occurs, use contingency reverse, remove non essential items, request sponsor approval  for justified change 
+
+risk: deliverable quality does not meet stakeholder expectation
+description: there is a risk that the final project , campaign , retail experience, profit  may not meet quality requirement because the requirements are unclear ,customers are not sastified
+impact on scope/ quality: the deliverable may fail acceptance criteria, customer sastifaction target or quality standard, rework may be needed
+impact on time: rework, redesign or additional training may extend the project schedule 
+impact on cost : additional labor, replacement materials, compensation, or extra marketing/ customersupport cost maybe incurred
+mitigation plan: clarify acceptance criteria early, review requirements with stakeholders, collect early feedback and train team before launch 
+contingency plan: if quality is below target , fix critical defect first.  
+
+question 4: 
+1) project role:
+the market development director as pm
+design team
+hr team
+marketing team 
+logistic team 
+
+2)
+task: survey and selecting permises
+designing and constructing interiors consistent with the brand 
+recruiting and training local personnel 
+building a raw material supply chain from central region suppliers
+launching campaigns for each store 
+invite and collaborate with kols/ influencers 

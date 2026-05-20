@@ -1,0 +1,130 @@
+1)
+Request 1: 
+   1.Project name: Coi Cafe Development
+   2. Justification:
+        Pupose: Expanse market and develop brand all of province in VietNam
+         Reason: All of 12 store just in HaNoi and HoChiMinh City and Coi Cafe want to expanse market in anthor province, and build fagship store in each province to build brand development.
+
+   3. Project constrains:
+          In terms of scope:  
+             Expansion into 5 Central provinces(Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province. 
+              Surveying and selecting perrmises, designing and constructing interiors consistent, recruiting and training local personel, buiding a raw merterial supply chain from Central region supplier, and launching campaign for each store.
+          Time: Total duration implement is 12 months include 1 flagship store in each province, and each store must reach the break-even point withing 8 months after opening.
+           Cost/Budget: Total budget is VND 8.5 bilion (approximately VND 1.7 bilion/store) from equity and commercial bank loans.
+
+           Quality: Implememt and launching each store must be success with full functions and high statifacitions of customer.
+
+
+
+
+Request 2:  
+  1. Cost forconstructor each store
+       Name: Cost for constructor store 
+       Description: Each store may have a build or hire.
+       Budget: VND 700 milion
+       How to estimate: fist step to estimating cost for constructions it is a largest cost. 700 milion constructor or hire store.
+       Person in charged: Market Development Director
+
+  2. Cost for training personnal 
+       Name: Cost training
+       Description: To provide best service for customer each store must be training staff it very improtance
+       Budget: 100 milion
+       How to estimate: Each store at least 10 staff, cost for trainning each staff estimating 10 milion
+       Person in charged: HR team leader
+
+   3. Cost for maketing store
+        Name: Cost marketing
+        Description: To customer know about store we must pay for marketing such as: booking pages write content about store and create event 
+        Budget: 100 milions
+        How to estimate: Market current estimate about 10 milions for booking page write status marketing store and 50 milion for event. 5 status x10 milion +  50 milion event.
+         Person in charged: Marketing team leader
+
+  4. Cost for buy meterial to lauching store
+        Name: Buy meterial 
+        Description: To store execution we must buy meterial such as: chair, table, cup, meterial for batender
+         Budget: 250 milion
+         How to estimate: Compare for market we have cost for each merterial 
+         Person in charged: PM
+
+  5. Cost for design store 
+    Name: Design store
+    Description: After buid store we must to design for suitable trend it lead to have a lot of new customer
+     Budget: 300 milion
+     How to estimate: Compare market current we estimate cost for  design.
+     Person in charged: Design team leader.
+
+
+
+
+Request 3: 
+   
+     1.
+         Name: Risk for hire or build store
+         Description: Place of store is very improtance for bussiness, if place is not suitable for bussiness coffe we will lose alot of money 
+         Impact: quality
+         Mitigation plane: pay about 1 month or more to servey place of store 
+         Contingency: Delay time to open store to survey place
+    
+      2. 
+          Name: Risk for training
+          Description: Training staff may have a risk because staff do not suitable for store or communication poor. Cost for training and time for training will increase
+          Impact: Cost and time
+          Mitigation: Hire more staff than store need if they do not suitable we can layoff them
+          Contingency: Parallel excution and hire staff to find staff suitable
+
+
+     3.
+        Name: Risk for budget
+        Description: Budget milion do not enough for build and launching store it lead to store cannot excutions
+        Impact: Cost
+        Mitigation: add more budget for build and launching store
+        Contingency: Reduce function and excution main function first
+        
+
+
+Request 4: 
+
+Market Development Director: who have high author and manage project as PM
+HR team leader: who respone for hire staff and training staff
+Marketing team leader: who response for marketing 
+Design team laeder: who response for design or build store 
+
+- Create project charter: PM (R) ,HR team leader (C), Maketing team leader (C), Design team Leader(C)
+
+- Analysis market: PM (A), HR team leader (C), Marketing team leader(R), Desgin team leader(C)
+
+- Hire or buid store: PM(A), HR team leader(C), Marketing team leader(C), Design team leader(R)
+
+- Design concept: PM (A), HR team leader (I), Marketing team leader(C), Design team leader(R)
+
+- Create marketing plan: PM(A), HR team leader (I), Marketing team leader(R), Design team leader(I)
+- Create event:  PM(A), HR team leader(A), Markting team leader (R), Desing team leader (C)
+- Create hire employee plan: PM (A), HR team leader(R), Marketing team leader(I), Design team leader(I)
+
+- Hire Employeed: PM (A), HR team leader(R), Marketing team leader(I), Design team leader(I)
+
+- Execution store plan: HR (A), HR team leader (C), Marketing team leader(C), Design team leader (C)
+
+- Executed store: PM (A), HR team leader(C), Marketing team leader(C), Design team leader (C)
+
+
+
+
+
+
+
+. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+2)

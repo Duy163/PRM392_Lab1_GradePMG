@@ -1,0 +1,82 @@
+1)
+Request 1: 
+1. Project name: Coi Cafe - Vietnamese coffee local brand 
+
+2. Justification:
+- Purpose: make foreigners can enjoy the Vietnamese drink which is a traditional in every morning, decrease the lot of trash to enviroment when using a reusable cups to friendly the earth.
+- Reasons: 
++ Make the traditional drink be more popular.
++ Update the habit of using the cup and throw out, got harm to enviroment in real life.
++ Got many coffee shop on around of Vietnam.
+
+3. 
+- Scope: Become the good, fresh, trending drink for everyone comes, got at least 500 customers for each day.
+- Time: 20 months
+- Budget: VND 8.5 billion
+- Quality: 5 Central provinces in Vietnam(Da Nang, Hue, Quang Nam,...) and 1 flagship store in each province.
+
+Request 2:
+
+The project includes:
+1. Design the background in the store
+ - Design team will planning the decoration, the first things is become the nostalgic space, the place without noise can be easier to connect a lot of types of people, the modern items aren't be hard to find, otherway, it wil be make a different with many coffee shop in the local
+.
+2. Training the staff to service
+ - Hire the employees, train them for making drink skill or service customers.  So they can fight to get "the best employee" in website and got celebrate it.
+
+3. Supply the material 
+ - Got the coffee in Dak Lak farmers, checking the supply, it must be pass by Central region suppliers. The product analysist will be update in systems.
+
+4. Run the campaigns to marketing store
+
+ - Make the video social (Tiktok, Youtube,...) with the trending, collabration the famous person, KOLs,.. 
+ -  Give customers more sales, example: buy 2 cups get 1 free or when Valentines day, if customers go date will be free or discount 50%. The cheap cost can connect amount of people to checkin.
+
+5. Wedsite to manage the flow in store
+ - Manage the vote of customers, and reponse their comment.
+ - Data of the staff in each store.
+ - Manage the view analysis and the survey of the user.
+ - Got social media to connect with foreigners, the informations of coffee(what, where are they, how can make a great coffee cups) can be useful to them.
+
+Request 3:
+The project risks include: 
+1. The campaigns can not be explore
+ - Description: the content in social media very boring because it can make focus on drink, and only focus the trend. 
+ -  Scope: Remake the trend to connect viewers feel interesting with the menu in the screen or want get cheap moment with their idols (when collab with many KOLs, singers, famous people,..) . Marketing team need meeting with the customers and got their survey.
+ - Time: 6 months
+ -  Cost: Invite the num of the people with VND 20-50 million for each. Besides push up the sale to make students interesting.
+
+2. The website will be secured
+ - Description: The security functional will be break down and make lost data or leak the private informations.
+ - Scope: allways checking data, update, testing them with (Trello, Jira, ...), don't use the third secure,dev team allways get online meeting or meeting 2 times in week.
+ - Time: 6-8 months
+ - Cost: depend on the quality of the website.
+
+3. Allways find new idea to build the coffee
+ -  Description: the store will lost the personal, signature of the store.
+ -  Scope: Making new but don't make too far the Vietnameses traditional coffee. 
+ - Time: 2-3 months
+ - Cost:  depend on the material to make.
+
+
+2)
+Request 4:
+The project roles:
+ - Project Manager (PM):
+Manage the project, planning, meeting the customers.
+ - Business Analysis (BA):
+Checking the cost, the budget, equal the loans at the bank, count correctly
+ - Developer (Dev) :
+Create the website to tracking the information, tracking the view, the list menu.
+
+ 1/ Campaign the social media or promote in store: PM (R,A); BA (C); Dev (I).
+ 2/ The budget don't over 8.5 billion: PM (A); BA (R); Dev (I)
+ 3/ Manage the 5 store in 5 province: PM (R,A); BA (I); Dev(I)
+ 4/ Collect the customers comment: PM(R); BA (R,A); Dev(I)
+ 5/ Design the place nearly witj user: PM(R.C); BA(A); Dev(I).
+ 6/ Manage the staff: PM(R); BA(C); Dev(I)
+ 7/ Connect with celebrators: PM(R,A); BA(C); Dev(I)
+ 8/ The supply will pass from region suppliers: PM(R); BA(A); Dev(I)
+ 9/ Protect the information: PM(R,C); BA(R); Dev(R,A)
+ 10/Develop website : PM (R); BA (C,I); Dev(R,A)
+

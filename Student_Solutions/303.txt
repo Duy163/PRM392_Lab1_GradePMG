@@ -1,0 +1,118 @@
+1)
+Request 1:
+1. Project name: Coi's management
+2. Justifications: Coi's management decided to implement an expansion project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 months. The project includes: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store
+3. Project constraints, in terms of scope, time, cost/budget and quality:
+- Contraints: The project includes: surveying and selecting premises, designing and constructing interios consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store
+- Scope: Coi's management decided to implement an expansion project into 5 Central provinces
+- Time: 1 flagship store in each province within 12 months. 
+- Cost/Budget: The total budget is VND 8.5 billion (approximately VND 1.7 billion/store) from equity and commercial bank loans
+- Quality: Each store must reach the break-event point within 8 months after opening
+
+Request 2:
+- Surveying and selecting premises:
++ Give gift or voucher for who take the survey to 
++ Cost/Budget: 100 milion/store
+- Designing and constructing interiors consistent with the brand:
++ Design menu, cups, branding, webstie landing page, photo post to social media
++ Cost/Budget: 600 million/store
+- Recruiting and training local personnel:
++ Pay to recruting plaforrm. Trainning course
++ Cost/Budget: 200 million/store
+- Building a raw material supply chain form Central region suppliers:
++ Cost/Budget: 300 million/store
+- Launching campaigns for each store:
++ Cost/Budget: 500 million/store
+2)
+Request 3:
+- Not enough time to design (time):
++ Design team need more time to design
++ Risk response plans: Add more workers
+- Poor data survey (quality):
++ Survey miss more information to analyze
++ Risk response plans: Extends survey such as age, location. 
+- Marketing cost high (budget):
++ Marketing cost 
++ Risk response plans: Optimize gift send client mini gift, booking KOL, KOC with low price but good quality
+
+Request 4:
+1. Define at leats three project roles:
+- Market Development Director as PM 
+- Design team 
+- HR team
+- Marketing team
+2. List out at least ten tasks, activities, or deliverables
+- Make survey
+- Analyze survey
+- Planning 
+- Design
+- Recruiting
+- Trainning
+- Building a raw material supply chain
+- Find supplier
+- Marketing 
+- Launching campaigns
+3. For each task/activity/deliverable, list out the responsibilities of the project roles:
+- Make survey:
++ PM (A)
++ Design team (I)
++ HR team (I)
++ Marketing team (R)
+
+- Analyze survey:
++ PM (A)
++ Design team (I)
++ HR team (I)
++ Marketing team (R)
+
+- Planning:
++ PM (A)
++ Design team (R)
++ HR team (I)
++ Marketing team (R)
+
+- Design:
++ PM (A)
++ Design team (R)
++ HR team (I)
++ Marketing team (C)
+
+- Recruiting:
++ PM (A)
++ Design team (I)
++ HR team (R)
++ Marketing team (C)
+
+- Training:
++ PM (A)
++ Design team (C)
++ HR team (R)
++ Marketing team (C)
+
+- Building a raw material supply chain:
++ PM (A)
++ Design team (I)
++ HR team (R)
++ Marketing team (R)
+
+- Find supplier:
++ PM (A)
++ Design team (I)
++ HR team (C)
++ Marketing team (R)
+
+- Marketing:
++ PM (A)
++ Design team (C)
++ HR team (I)
++ Marketing team (R)
+
+- Launching campaigns:
++ PM (A)
++ Design team (C)
++ HR team (C)
++ Marketing team (R)
+
+
+
+

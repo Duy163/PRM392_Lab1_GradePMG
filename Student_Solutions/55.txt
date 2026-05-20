@@ -1,0 +1,174 @@
+1)
+REQUEST 1
+
+Project charter statement
+
+Project name
+
+Coi Cafe Central Region Store Opening Project
+
+This project is designed to support the expansion of Coi Cafe into the Central region of Vietnam. The main objective of the project is to open five flagship coffee stores in five important locations, including Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh. The project duration is 12 months. By the end of the project, each province or city must have one operating Coi Cafe store that follows the companys brand style and service standards.
+
+The project will cover all major activities needed to open the new stores. These activities include studying the local market, choosing suitable store locations, signing rental contracts, designing the stores, completing construction, buying equipment, preparing ingredients, recruiting employees, training staff, and launching marketing campaigns. The project will also include a soft opening period so the team can test store operations before the official grand opening.
+
+The project manager will be the Market Development Director. This person will manage the whole project and make sure that all teams work together effectively. The main teams involved in the project are the finance team, design and construction team, HR team, marketing team, and operations team. The project manager will report progress to the companys management board and solve problems that happen during the project.
+
+Project justification
+
+Coi Cafe has already developed its brand in large cities such as Hanoi and Ho Chi Minh City. The company has a strong image as a Vietnamese coffee brand that combines traditional drinks, nostalgic store design, reusable cups, and sustainable coffee purchasing from Dak Lak farmers. Because of this, expanding to Central Vietnam is a suitable step for the companys growth.
+
+The Central region is a good market for coffee stores. Da Nang and Hue have many tourists, students, and office workers. Quang Nam, Quang Ngai, and Binh Dinh also have growing urban areas and local customers who enjoy coffee culture. If Coi Cafe enters these markets early, it can create brand awareness and build customer loyalty before the market becomes more competitive.
+
+This project is also important because it helps the company reduce dependence on only two big cities. When Coi Cafe has stores in more regions, the company can increase revenue sources and become a more national brand. The flagship stores can also act as brand centers in each province. Customers can experience the design, menu, service, and values of Coi Cafe directly.
+
+The project also brings social benefits. It can create new jobs for local workers in the Central region. It also helps promote Vietnamese coffee and supports coffee farmers in Dak Lak through larger purchasing demand. In addition, the companys use of reusable cups can help build a more responsible and modern brand image.
+
+Project constraints
+
+The first constraint is the scope constraint. The project only focuses on opening five flagship stores in the selected Central provinces and cities. It does not include opening small take away kiosks, franchising stores, or expanding to other regions during this project. All new stores must follow the main identity of Coi Cafe.
+
+The second constraint is the time constraint. The project must be completed within 12 months. This means that many activities must be done carefully but quickly. If location selection or construction is delayed, recruitment, training, and marketing activities may also be delayed.
+
+The third constraint is the budget constraint. The total budget is VND 8.5 billion. This budget must be used for all five stores, so the project team must plan spending carefully. The company needs to control rental cost, construction cost, equipment cost, marketing cost, and operating preparation cost.
+
+The fourth constraint is the quality constraint. The stores must meet Coi Cafes standards in design, drink quality, service, cleanliness, and customer experience. Even though the project has a limited time and budget, the company should not reduce quality because poor quality can damage the brand image.
+
+
+REQUEST 2
+
+Main cost and budget items
+
+1. Market analysis cost
+
+This cost includes collecting information about customers, competitors, local coffee habits, rental areas, and traffic levels in each province. Before opening a store, the company needs to understand where customers are, what price they can accept, and what competitors are doing. This cost can be estimated by calculating travel expenses, staff working time, local survey cost, and any research service fee. The Marketing team and Project Manager will be responsible for this estimate.
+
+2. Store rental and deposit cost
+
+This cost includes store deposit, advance rent, brokerage fee if any, and legal cost for checking lease contracts. This is a very important budget item because a coffee shop needs a good location to attract customers. The estimate can be made by asking landlords or agents for rental quotations in each selected area. The Finance team and Project Manager will compare the rental cost with expected sales before making a final decision.
+
+3. Design and renovation cost
+
+This cost includes store layout design, wall decoration, floor work, lighting, ceiling, counter area, furniture arrangement, restroom setup, and outside signboard. Coi Cafe needs a warm and nostalgic atmosphere, so the design must be consistent with the brand image. The estimate can be made by giving design requirements to contractors and asking them to provide quotations. The Design and Construction team will be responsible for this cost.
+
+4. Equipment purchasing cost
+
+This cost includes coffee machines, grinders, refrigerators, blenders, water filters, POS system, security cameras, speakers, reusable cups, and other tools needed for store operation. The estimate can be prepared by listing all equipment needed for one store and then multiplying by five stores. The Operations team should compare supplier prices, warranty terms, and equipment quality before purchasing.
+
+5. Staff hiring and training cost
+
+This cost includes recruitment advertisements, interview preparation, uniforms, training materials, trainer cost, and salary during the training period. Each new store needs employees who can prepare drinks correctly and serve customers professionally. The estimate can be based on the number of employees per store, training days, salary level, and uniform cost. The HR team will manage this budget item.
+
+6. Marketing launch cost
+
+This cost includes social media advertisements, posters, banners, local opening events, discount programs, loyalty cards, and cooperation with local influencers. New customers may not know Coi Cafe at first, so marketing is needed to attract attention. The estimate can be made by preparing a launch plan for each store and setting a budget for online and offline activities. The Marketing team will be responsible for this item.
+
+7. Raw material and inventory cost
+
+This cost includes coffee beans, milk, tea, sugar, syrup, packaging, cleaning materials, and other supplies for the first operating period. The company must prepare enough inventory before opening so the stores can operate without shortage. The estimate can be based on expected sales volume, menu items, material usage, supplier prices, and delivery fees. The Operations team will manage this cost.
+
+8. Logistics and supplier setup cost
+
+This cost includes transportation, storage arrangement, supplier coordination, delivery planning, and backup supplier preparation. Since the stores are located in different provinces, the company needs a stable supply system. The estimate can be made by calculating delivery distance, delivery frequency, storage needs, and supplier service fees. The Operations team and Procurement team will be responsible for this item.
+
+9. Project control and contingency cost
+
+This cost includes project supervision, team travel, project meetings, document preparation, quality inspection, and emergency reserve. Unexpected problems may happen, such as material price increase, late construction, equipment problems, or additional marketing needs. The contingency budget can be estimated as 5 percent to 10 percent of the total project budget. The Project Manager and Finance team will control this cost carefully.
+
+
+REQUEST 3
+
+Project risks and response plans
+
+Risk 1
+
+The selected locations may not bring enough customers
+
+One important risk is choosing locations that do not attract enough customer traffic. A store may look suitable on paper, but after opening it may not have enough students, office workers, tourists, or local customers nearby. If the location is weak, daily sales will be low and the store may take longer to reach break even.
+
+This risk can affect cost because the company still has to pay rent, salaries, utilities, and marketing expenses even when sales are low. It can affect time because the payback period becomes longer. It can affect quality because the company may feel pressure to reduce operating costs, which can reduce customer service quality.
+
+The mitigation plan is to create clear location selection criteria before signing any contract. The team should check customer traffic, nearby schools or offices, parking space, rental price, competitor density, and visibility of the store. The contingency plan is to increase local marketing, add delivery channels, create student or office worker promotions, and review the location performance after the first three months.
+
+Risk 2
+
+The project may exceed the approved budget
+
+Another risk is budget overrun. Construction materials, rental deposits, equipment, or marketing costs may be higher than expected. Since the total budget is VND 8.5 billion for five stores, overspending in one store can reduce the budget available for the others. This can create financial pressure for the company, especially if bank loans are used.
+
+This risk affects cost directly because the company may need extra capital. It can also affect quality if the company tries to save money by choosing cheaper materials or reducing training. It may also affect time because the project may need approval for extra spending.
+
+The mitigation plan is to prepare a detailed budget for each cost item and get at least three quotations for large purchases. The Finance team should review actual spending every month. The contingency plan is to use contingency budget only for important needs, delay non essential decoration items, or renegotiate supplier prices if costs become too high.
+
+Risk 3
+
+Employees may leave after training
+
+The company may spend time and money to recruit and train new employees, but some employees may quit before or shortly after opening. This can create a shortage of staff and affect store operations. Coffee stores need stable employees because drink quality and customer service depend heavily on trained staff.
+
+This risk affects cost because the HR team must recruit again and pay for more training. It affects time because new staff need time to learn the job. It affects quality because inexperienced employees may make mistakes, serve slowly, or prepare drinks inconsistently.
+
+The mitigation plan is to recruit more candidates than the minimum number needed and create a clear training schedule. The company should explain job expectations, salary, working hours, and career opportunities clearly from the beginning. The contingency plan is to keep a backup list of candidates and temporarily send experienced staff from existing stores to support new stores.
+
+Risk 4
+
+Marketing campaigns may not be effective
+
+The marketing team may spend money on advertisements and opening events, but the campaigns may not attract enough customers. This can happen if the message does not match local customer interests or if the chosen advertising channels are not suitable. For example, a campaign that works in Hanoi may not work the same way in Hue or Quang Ngai.
+
+This risk affects cost because the marketing budget may be used without enough return. It affects time because the store may need longer to build awareness. It also affects sales because fewer customers visit during the important opening period.
+
+The mitigation plan is to design marketing campaigns based on each local market. The team should study which social media channels, local influencers, and promotions are popular in each area. The contingency plan is to test small campaigns first, measure customer response, and then increase budget for the most effective channel.
+
+Risk 5
+
+Supplier delivery may be delayed
+
+The stores need regular delivery of coffee beans, milk, tea, packaging, and other materials. If delivery is late, some menu items may be unavailable. This can make customers unhappy and reduce sales. Since the stores are in different provinces, logistics may be more complicated than in Hanoi or Ho Chi Minh City.
+
+This risk affects cost because emergency delivery or emergency purchasing can be more expensive. It affects quality because using a different supplier without checking quality may change drink taste. It affects time because store staff may spend more time solving inventory problems instead of serving customers.
+
+The mitigation plan is to build delivery schedules before opening and check supplier capacity carefully. The company should also keep safety stock for important materials. The contingency plan is to prepare backup suppliers, transfer inventory between nearby stores, and temporarily promote available products if some ingredients are delayed.
+
+
+REQUEST 4
+
+RACI chart
+
+Roles
+
+PM  = Project Manager
+FIN = Finance Team
+DES = Design and Construction Team
+HR  = Human Resources Team
+MKT = Marketing Team
+OPS = Operations Team
+
+RACI meaning
+
+R = Responsible
+A = Accountable
+C = Consulted
+I = Informed
+
+
+No  Task                                                PM   FIN  DES  HR   MKT  OPS
+1   Approve project plan and budget         A    C    I    I    C    C
+2   Research Central Vietnam market       A    I    I    I    R    C
+3   Select store locations                           AR   C    C    I    C    C
+4   Sign rental contracts                            AR   C    I    I    I    I
+5   Prepare store design concept              A    I    R    I    C    C
+6   Manage construction and decoration   A    I    R    I    I    C
+7   Buy machines and store equipment     A    C    C    I    I    R
+8   Prepare suppliers and inventory          A    C    I    I    I    R
+9   Recruit local employees                      A    I    I    R    I    C
+10  Train store staff                                  A    I    I    R    C    C
+11  Create opening marketing plan           A    C    I    I    R    C
+12  Run soft opening and operation test   A    I    C    C    C    R
+13  Open stores officially                          A    I    C    C    R    R
+14  Review sales and project performance   A    R    I    C    C    C
+
+
+
+
+2)
+. 

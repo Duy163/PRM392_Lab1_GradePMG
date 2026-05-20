@@ -1,0 +1,77 @@
+1)
+Request 1:
+     1. Project name: Building more Coi Cafe stores in each provinces(Da Nang, Hue, Binh Dinh, Quang Nam, Quang Ngai).
+     2. 
+     Purpose: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store in 5 Central provinces(Da Nang, Quang Ngai, Hue, Binh Dinh, Quang Nam).
+     Reasons: Coi's managment decide to implement an expansion project into 5 Central provinces(Da Nang, Hue, Quang Nam, Quang Ngai,Binh Dinh) 
+     3. 
+     Scope:  1 flagship store in each province(Da Nang, Hue, Quang Ngai, Quang Nam, Binh Dinh).
+     Time: 12 monhths.
+     Budget: VND 8.5 billion, approximately VND 1.7 billion/store from equity and commercial bank loans.
+     Quality: reach the break-event point within 8 months, launch campaigns for each store.
+Request 2:
+     1. Name: Renting premises/locations.
+         Description: Cost for renting house or location to building store, high cost if it's benefit location(near school, entertainment Building, vv at Central province).
+         Estimate:150 million/store/month.
+         Responsibility: PM
+      2. Name: Designing and Building store.
+          Description: set up and design store to be suitable with style of Coi Cafe, buy items like trees, chairs, tables, vv.
+          Estimate: 400 million/store.
+          Responsibility:  Design team.
+      3. Name: Training and hiring staff for new store.
+          Description: training new staff for sale and service professional, hiring staff, paid salary for managers of each store.
+          Estimate: 450 million/store.
+          Responsibility: PM, HR team
+     4. Name: Marketing/PR new store.
+         Description: marketing for new store, make videos to introduce/sale off/PR.
+         Estimate: 250 million/store
+         Resposibility: Marketing team
+     5. 
+2)
+Request 3:
+  Risk 1: Run out of budget
+     -Description: not enough budget for running store, too high premises renting cost and building cost.
+     -Possibility: Medium
+     -Impact: High
+     -Mitigation: survey and select a suitable premises to rent.
+     -Contigency:
+     -Responsibility: Project management
+  Risk 2: Can not control project process.
+     -Description: Building a store in each province at the same time, can not manage the operation of project.
+     -Possiblity: high
+     -Impact: high
+     -Mitigation: List tasks  to do, have a task management, control project process.
+     -Contigency:
+     -Responsibility: Project management
+  Risk 3: Lacks of professional staff
+     -Description: Training staff fail, not enought staff to launch store,
+     -
+Request 4:
+   1.
+   2. Tasks:
+Record Marketing videos(A)
+Edit videos(B)
+Add graphics/sounds(C)
+Survey premises(D)
+Select premises(E)
+Design store(F)
+Clean store(G)
+Training new staff(H)
+Prepare seats(I)
+Set up working schedule for staff(J)
+Hire new staff(K)
+
+   3. 
+A - marketing team
+B - marketing team
+C - marketing team
+D - project management
+E- project manegement
+F- design team
+G- HR team
+H- staff team
+I- staff team
+J- HR team
+K- HR team
+
+

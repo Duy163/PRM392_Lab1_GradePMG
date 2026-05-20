@@ -1,0 +1,152 @@
+1)
+Request 1:
+- Project name: Coi Coffee community
+- Justifications:
+  + Purpose:To expand more 12 stores not only in Hanoi and Ho Chi Minh City, Coi Cafe want anyone know their brand with in other famous provinces which people experience with  sustainable buniness model , stay nostalgic space, get traditional drink menu
+  + Reasons:with grow rapidly coi cafe with 12 stores in Hanoi and Ho Chi Minh and mix with  nostalgic sace, traditional drink , sustainable business model (using reusable cups , purchasing coffee directly form Dal Lak farmers) that reason for the project establish. 
+- Projects constraints:
+  + in term sope: implement an expansion project into 5 central provinces, serveying and selecting permises, designing and contructing interiors consistent with the brand, recruiting ad traning local personnel. bullding a raw material supply chain from Central region suppliers, launching compaingns for each store.
+  + time:12 months 
+   + cost: The tootal budget is VND 8.5 billion (1.7 billion/store)
+   +quality: each sotre must reach the break-event point within 8 months after open, traiing local personel with their style, take high-quality material supply.
+  +Out scope: Try to expand other smaller province,
+develop online platform for customer , add more policies after each msotre reach the break-event point.  
+
+  
+2)
+Request 2:
+Five main cost/budget items:
+ 1
+ +Name: Labor cost
+ + Description:The cost is used to payment for manager, staff, marketing team,Hr team designer based on their working time.
+ +How to estimate: Base on an hour working , quaility jobs
+ + Cost: 300 milion VND/Each store
+ + Person in charged: Project manager
+ 2
+ + Name:Marketing cost
+ + Description: the cost is used for run ads, PR for drink , brand which  anyone know stores in social media such as tiktok, facebook, zalo.. as result people come to stores.
+ + Cost: 150 million VND/Each store
+ + Person in charged: Marketing leader
+ 
+3
++ Name: Select the place to open the store
++ Description: The cost is used to choose the nice or center place in each province for people can easily seeking or looking the store.
++How to estimate: Seeking and check place may develop
++ Cost: 100 million/months , (total 800 million)
+ +Person in charged: Project manager
+4
++ Name: Raw material , devices 
++ Description: The cost is used for buying table, desk, material for drink , food, decorate store , coffee machine...
++Cost: 300 milion
++Person in charged: Designer 
+5
+ + Name: Maintaince store
+ + Description: the budget is used for stable each store and extra-cost such as fix decoration, add or change drink, food menu
+ + Cost : 150 milion
+ + Person in charged: Leader Staff in each store
+
+Request3:
+Three project risks:
+1
+Name : Over run budget
+Description: The budget is not used correctly for place with high price , war in the world orccur which effect petro gas, material.transportation.
+Quality: Low-experience of visitors 
+Time: Delay process expand store  more than12 months
+Cost: extra-payment for the project
+Mitigation:Choose time for implement develop each  store, update knowledge every day, ensure task in plan is calculated clearly.
+Contigency: cut down cost low-priority, and unesscessary tasks, request buget if need
+
+2
+Name: Poor managerment
+Description: the manager is lack of knowledge and real experience  when expand store in other place, inactively join activities about schedule plan
+Quality: Bad performance when launch project
+Time: Get more time for reschedule plan
+Cost: extra-payment for make plan
+Mitigation: Looking for a nice manager with more than 10 year experience in develop and manage coffee project, meeting everyday with paricipating all team such HR team, Marketing team,
+Contigency: Replace the manager , immediately reschedule plan in 2 week, take idea from other teams.
+
+3
+Name: Issues raw material.
+Decription: Not safe in raw material like outdate or expired , waste  raw material 
+Quality: Not good drink, food which people dont back again
+Cost: waste money for buy more material
+Mitigation: Check carefully material before approved
+produce food or drink..
+Contigency:Buy other place with nice price and quality.
+
+
+Request 4:
+Descrube the RACI
+1. three prject role:
+Project manager(PM): Daily task update, follow process of each team , meeting with other team, manage risks, budget and trade requirement with brand
+
+Leader Staff each stores: manage other smaller staff, update process for manager, ensure budget and revenue for the store
+
+Marketing team: run ads, choose KOL , influencers to PR the brand, prepare long-time stragety for develop  the store
+
+Design team: design context in each store. decorate suitable with Vietnamese coffee style or come out unique and modern idea. 
+
+2. Ten task, activities:
+1.Building plan project
+Project manager:A, R
+Staff: I
+Marketing team: C
+Design team: C
+
+2. Write script project
+Project manager : R
+Staff: I
+Marketing team:  C
+Design team: C
+
+3. Review and check plan project
+Project manager: R,A
+Staff: C
+Marketing team: C
+Design team: C
+
+4.Select place for implement stores
+Project manager :A
+Staff: C
+Marketing team: R
+Design team :I
+
+5.Design and decorate
+Project manager: A
+Staff: C
+Marketing team: C
+Design team: R
+
+6.Review design and take feedback
+Project manager : A
+Staff: C
+Marketing team: C
+Design team :R
+
+7.Run ads and select KOLs
+Project manager: A
+Staff: I
+Marketing team:R
+Design team: I
+
+8.Training local personel
+Project manager : A
+Staff: R
+Marketing team: I
+Design team : I
+
+9. Launch campaigns for each store
+Project manager A
+Staff : C
+Marketing team: R
+Design team :I
+
+10. Publics project
+Prohect manager : A, R
+Staff : C
+Marketing team : C
+Design team : C
+
+
+
+

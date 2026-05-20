@@ -1,0 +1,152 @@
+1)
+Request 1:
+Project name: Coi Cafe's Flagship store in 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+Purpose: famous Coi Cafe brand in 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+Constraints:
+- Scope:
+  + Surveying and selecting premises
+  + Designing and constructing interiors consistent with the brand
+  + Recruiting and training local personnel
+  + Building a raw material supply chain from Central region suppliers
+  + Lauching campaigns for each store
+- Time: 12 months
+- Cost: VND 8.5 billion (approximately VND 1.7 billion/store)
+- Quality: 
+  + Each store must reach the break-even point within 8 months after opening.
+  + Positive feedback from customers about nostalgic space and drink of brand up to more than 95%.
+
+
+
+Request 2: 
+Five main cost items:
+1.
+- Name: Local region space
+- Description: must have a small space to place the store
+- How to estimate: paid for a comfortable space in those region for 12 months
+- Person on charged: PM
+
+2.
+- Name: Raw material chain from Central region suppliers:
+- Description: buy raw material supply chains from Central region supppliers, so that preparing for customers when they go to flagship store.
+- How to estimate: based on the market price of raw material chain in there region.
+- Person in charged: PM 
+
+3. 
+- Name: Marketing for Coi Cafe's  flagship store event
+- Description: Make some video or ads and post to some social media to marketing for this event
+- How to estimate: Based on the price of Tiktok, Youtube to make sure that there are at least 100 person/1 region ( total 500 person) interested in this project
+- Person on charged: Marketing Lead
+
+4. 
+- Name: Recruiting and training local employees
+- Description: Paid to recruiting and training for employees
+- How to estimate: based on the hours that employees work on
+- Person on charged: HR Lead
+
+5.
+- Name: Designing and constructing stores consistent with brand
+- Description: design stores that can make consumers interested in and decided to go to store
+- How to estimate: 
+- Person on charged: Design Lead
+
+2)
+Request 3:
+1. Overrun budget (cost)
+- Description: the total cost  for 5 stores more than VND 8.5 billion (approximatelt VND 1.7 billion/store) 
+- Posibility: Medium
+- Impact: High
+- Mitigation: PMs must take care of the cost for each store in each month, make sure that it will not overlap so much when compare to plan.
+- Contingency: 
+  + need to reduce cost in the next months
+  + if the cost is over than the plan because of right reasons, can request more cost from investors.
+
+2. The break-even point without 8 months after opening(time & quality)
+- Description: after 8 months opening, there are some stores can not reach the break-even point
+- Posibility: High
+- Impact: High
+- Mitigation: take care of the marketing process of marketing team, video and ads of this events. Make sure that this maketing can find many focusing of customers.
+- Contingency: held some small events and discounts for customers that improved store's revenue.
+
+3. Nagetive feedback from customers about nostalgic space(quality):
+- Description: More than 5% customer's  feedback that they are not interested in the nostalgic space of stores.
+- Posibility: Medium
+- Impact: High
+- Mitigation: careful in the research market process, because it will make clear the concept of customers want.
+- Contingency: ask customers about what they like and do not like, discuss with the interior design team and PM for this issue, and can held some discount events aims to take customers' focusing.
+
+
+
+
+Request 4:
+1. Project roles: the Market Development Director (PM), the interior design team, HR team, Marketing team, Customers
+2. Ten tasks, activities, deliverables:
+- Survey and select premises: 
+  + PM: A
+  + The interior design team: I
+  + HR team: C
+  + Marketing team: I
+  + Customers: I
+
+- Design and construct interiors consistent with the brand:
+  + PM: A
+  + The interior design team: R
+  + HR team: C
+  + Marketing team: C
+  + Customers: I
+
+- Recruit and train local personnel:
+  + PM: A
+  + The interior design team: I
+  + HR team: R
+  + Marketing team: I
+  + Customers: C
+
+- Build a raw material supply chain from Central region suppliers:
+  + PM: A
+  + The interior design team: R
+  + HR team: C
+  + Marketing team: C
+  + Customers: I
+
+- Lauch campaigns for each store:
+  + PM: A
+  + The interior design team: R
+  + HR team: C
+  + Marketing team: R
+  + Customers: I
+
+- Research market in 5 Central provinces:
+  + PM: A
+  + The interior design team: I
+  + HR team: I
+  + Marketing team: R
+  + Customers: I
+
+- Marketing for expansion project: make and post video and ads in social media 
+  + PM: A
+  + The interior design team: I
+  + HR team: I
+  + Marketing team: R
+  + Customers: I
+
+- Develop Project Charter:
+  + PM: A/R
+  + The interior design team: I
+  + HR team: I
+  + Marketing team: I 
+  + Customers: I
+
+- Following revenue of 5 stores aims to change the plan when it is necessary:
+  + PM: A/R
+  + The interior design team: I
+  + HR team: C
+  + Marketing team: I
+  + Customers: I
+
+- Hired local region for build stores:
+  + PM: A
+  + The interior design team: I
+  + HR team: R
+  + Marketing team: C
+  + Customers: I 
+ 

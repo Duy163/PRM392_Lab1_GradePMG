@@ -1,0 +1,46 @@
+1)
+Request1:
+Project name: Coi Cafe Management and Development  5 News Store 
+
+Justufications
+-Purpose : surrveying and selecting premises, designing and constructiing interior consistent wwith the brand, recruiting and training local personnel, buiding a raw meterial supply chain from Central region suppliers, and launching campaigns for each store.
+
+Constraints 
+- Time: 12 month
+- Budget: 8.5 billion VND (aprroximately 1.7 billion VND/store)
+-Quallity: Each store must reach the break- even point with 8 after opening
+
+Request 2:
+ -budget1: recruiting and training local personne
+ -budget2: serveying and selecting premises
+ -budget3: designing a raw material supply chain from central region suppliers
+ -budget4: launching campaigns for each store
+ -budget5:complete project with 1 flagship store in each province within 12 months
+
+
+Request3:
+ Risk 1: recruiting and training local personel fail.
+ P: medium/ I: medium 
+ Plan: 
+ Risk 2: The total budget is not enought.
+ P:high / I: high  
+Risk 3: The time to complete the project late, after 12 months 
+ P: high / I: high
+Plan: add employees, do 2 task ( Start-Start)
+
+
+Request 4:
+  3 project roles: Fullstake developer, Maketing team, Project managerment, desing team, hr team 
+  10 tasks, activities, deliverrables
+     1. Design UX/UI : Fullstake developer, and design team choose the template and design UX/UI on Figma
+     2. Servey : Maketing team send email or GG Form 
+     3.Design Database Schema: Fullstake developer
+     4.Design poster, standee,...: design team
+     5.Implement soure code back end: Fullstake developer
+     6. Promotion on social media (Facebook, Tiktok,Instagram,...): maketing team build social media chanel
+     7. Analyze the matket; maketing team recivece the respon from ther servey and analysis
+     8.Decord store: maketing team after analysis maket will meeting design team and give the suitable decord with each place
+     9. training local personal: hr team
+     10. Catchup the project: PM check and report the project to Coi's management
+     
+2)

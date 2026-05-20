@@ -1,0 +1,47 @@
+1)
+Request 1:
+- project name: Coi Cafe
+- purpose: Coi's project implement an expansion project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+- in terms of scope: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain form Central region suppliers, and launching campaigns for each store 
+- project constraints: the project led by the Market Development Director, coordinating with the interior desgin team, HR team and marketing team.
+- time: the project within 12 months. Each store must reach the break-even point within 8 months after opening
+- buget/cost: The total buget is 8.5 billion VND (approximately 1.7 billion each store)
+Request 2: 
+Total buget for each store = 1,7 billion 
+ cost 1: 
+name: table, chair, fan,....
+estimation: 800 million
+cost 2:
+name: employees, managers
+estimation: 250  million
+cost 3:
+name: coffee, milk,....
+estimation: 350 million
+cost 4:
+name: decor 
+estimation: 130  million
+cost 5:
+name: tax
+estimation: 170 million
+Request 3:
+project risk 1: discount for each new drink
+time: 3 days
+cost: 150 million
+project risk 2: coffee error 
+time: 7 days
+cost: 200 millon
+project risk 3: store don't have customer when opening
+Request 4:
+Roles 1: desgin team
+task: desgin web, decor and launch
+responsibilities by: PM
+Roles 2: HR team
+task: manager and training employees in project
+responsibilities by PM
+Roles 3: marketing team
+task: create survey, introduction product
+responsibilities by: PM
+Roles 4: Market Development Director (PM)
+task: manager KPI , buget and tesing product
+
+2)

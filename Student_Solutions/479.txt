@@ -1,0 +1,78 @@
+1)
+Request 1:
+ 1. project name:Coi Cafe
+
+ 2. purporse: Coi cafe decided to  expansion to 5 central provinces with 1 flagship store in each province within 12 months.
+
+ 3. constraints:
+   -time: 12 months
+   -cost/budget:VND 8.5 billion
+   -scope:surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material,launching campaign for each store. Each store must reach the break-even point within 8 months after opening
+
+Request 2:
+ +cost 1 : rent store
+ description: need to find out place that customer can easy to find.
+ estimation: 1-10 day base on finder and acceptance by PM .
+
++cost 2 launching campaigns cost
+description: each store need different campaign because of culture of provinces
+estimation:1-2month base on baseline.
+
++cost 3 : marketing cost
+ description: need to run marketing advertisments for store and brand.
+estimation:VND 100-200 million for brand
+
++cost 4: designing various thing for each store
+description: because of variou culture province , project need to design match with provinces.
+estimation:VND 100-200 million/store
+
++cost 5 : Store decorate 
+description : project need to decorate for each flagship store to hold brand siprit.
+estimation :VND 700-800 million/store 
+  
+
+2)
+Request 3:
+
+Risk 1:
++name: recruiting and training local personel
++description: if staffs,stores can not work smoothly,it can effect brands.
++mitigation:need expert to training before launch new store.
+
+Risk 2:
++name:overrun when launching campaigns for each store.
++description: different store have different culture, so it may run out budget if not manage it strictly.
++mitigation: need acceptance plan , budget for each campaigns and create contingency reverse for each campaign.
+
+Risk 3:
++name: late timeline of designing and constructing interios consistent with the brand.
++description: this part need to accept by many stakeholder and take time to complete.
++mitigation: Add more resource,can rent third-party service to make sure it not break timeline.
+
+Request 4:
+1.project roles: PM,Design team ,HR team,marketing team.
+
+2.list task: 
+surveying (A)
+planning(B)
+selecting premises(C)
+designing (D)
+constructing interiors consistent (E)
+recruiting (F)
+training local personne (G)l
+build a raw material supply chain(H)
+launching campaign(K)
+Communicate stakeholder (I)
+
+3.
+        PM | Design | HR | Marketing
+(A)    A       I            I        R
+(B)    A       I            I        R
+(C)    A       I            I        R 
+(D)    A       R          I        C
+(E)     A       R         I         C,R
+(F)     A       I           R       I
+(G)    A       I            R       I
+(H)    A       R           I        C
+(K)    A        I            I         R
+(I)      R       I            I          I

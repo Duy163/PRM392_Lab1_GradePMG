@@ -1,0 +1,124 @@
+1)
+Request 1:
+1.Project Name: Coi Cafe Store 2026
+2. Justification
+- The problem is that development, promotion and explore Coi Cafe because the coffee brand famous for nostagic space, traditional drink menu and sustainable business model (using reusable cups, purchasing coffee directly from Dak Lak farmers.
+- This project aims to implement an expansion project into 5 Central provinces ( Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+- It will help reach the break-even point within 8 months after opening.
+3. Project contraints
+- Scope: survery and select premies, design and construct interiors consistents, recruiting and training local personel, building a raw material supply chain from Central region suppliers, launching campaigns for each store.
+- Time: 1 flagship store in each province within 12 months.
+- Cost: 8.5 billion VND (approximately 1.7 billion VND/store)
+- Quality: each store must reach the break-even point within 8 months after opening
+
+Request 2: 
+1. Name: Rental store in each province
+Description: place buy the coffee
+Estimated method:  the price rental place x 
+Estimated cost: 50 million VND/1 month/1 store
+Person in charge: Project Manager
+2. Name: Rental staff 
+Description: service buy coffee
+Estimated method: hourly working rate x bouns good service
+Estimated cost: 7 million VND/ person (with full time) 30 thounsand VND/1 hour (with part time)
+Person in charge: HR Lead
+3. Name: Product, machine and other
+Description: Using reusable cups, coffee directly from Dak Lak famers, table and chair
+Estimated method: the price buy product and build with famers
+Estimated cost: 150 million VND/1 month
+Person in charge: Project Manager
+4. Name: Design store 
+Description: Design store space, menu and arrary space
+Estimated method: space x design idea
+Estimated cost: 70 million/1 store
+Person in charge: Design Lead
+5. Name: Content and Promotion
+Description: create content and promotion brand
+Estimated method: the number content x hourly rate 
+Estimated cost: 10 million/ 1 content or promotion
+Person in charge: Marketing Lead
+
+Request 3:
+1. Can not reach the break - even point within 8 months after opening
+Description: can not reach the beak -even point within 8 months make impact time and cost 
+Possible impacts: Cost and Time
+Mitigation:  improve launching campaigns
+Contingency: prolong a time promotion
+2. Over cost
+Description: using a lot of cost with other things
+Possile impacts: Cost
+Mitigation: Control and check the price using
+Contingency: down scope
+3. Customers satisfition low
+Description: Service is not good make the feedback is bad
+Possible impacts: Quality
+Mitigation: Control the staff 
+Contingency: traning staff and answer feedback 
+
+Request 4: 
+1. Role: Project Manager, Design Team, Marketing team, HR Team
+2. List task
+- Define Requirement
+- Survey
+- Idea
+- Design
+- Find place
+- Traning
+- Marketing
+- Launch
+- Campaigns
+- Fix
+- Develop
+- Product and material 
+3. Reponsibilities of the project roles
+ 1. Define requirement: 
+- Project Manager - A
+- Marketing team - R
+- Design team - C
+2. Survey
+- Project Manger - A
+- Marketing team - R
+- Design team - C
+- HR team - C
+ 3. Idea
+- Project Manger - A
+- Marketing team - R,C
+- Design team - C
+4. Design
+- Project Manger - A 
+- Marketing - C
+- Design team - R
+5. Find place
+- Project Manager - A
+- Marketing team - R
+- HR team - C
+6. Tranning
+- Project Manager - A
+- HR team - R
+- Marketing team -  C
+7. Marketing 
+- Project Manger - A 
+- Marketing team - R
+8. Launch
+- Project Manager - A
+- Marketing team - R,C
+- HR team - R,C
+- Design team - C
+9. Campaigns
+- Project Manger - A
+- Marketing team - R
+- Design team - C
+10. Service
+- Project Manager - A
+- HR team - R
+- Marketing team - C
+11. Develop
+- Project Manager - A
+- HR team - R,C
+- Marketing team - R,C
+- Design team - C
+12. Product and material
+- Project Manager - A
+- Marketing team - R
+
+2)

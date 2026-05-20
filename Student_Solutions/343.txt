@@ -1,0 +1,83 @@
+1)
+Request 1:
+1. Project name: Coi Cafe
+2. Justification:
+Problem: Coi's managemnet decided to implement an expansion project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flasgship store in each  province within 12 months. Coi's management wanted to open more store to apprach more customers in 5 Central procinces.
+Need: Surveying and selecting premises, designing and constructing interiors consistent with brand, recruiting and training  local personnel, building  a raw material supply chain from Central region suppliers, and launching campaigns for each store.
+Solution: The project is led by the Market Development Director  as PM, coordinating with the interior design team, HR team, and marketing team.
+The total budget is VND 8.5 billion (approximately 1.7 billion/ store) from equity and commercial bank loans. 
+3. Project constraints
+Scope: An expansion project into 5 Central provinces, (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) with 1 flagship store each province
+Time: 12 months
+Budget: VND 8.5 billion (approximately 1.7 billion per store)
+Quality: Each store must reach the break-even point within 8 months after opening
+
+Request 2:
+
+Name: Selecting premises
+Description: Take a good place to build that mean take a good appearence
+Estimation: PM after discustion, feedback and survey will make a final deceision to comfirm position to build store
+Person in charge: PM 
+
+Name: Designing and constructing interiors
+Description: The designing and contructing interiors consistent will follow the brand signature tp approve it.
+Estimation: Following brand signature is thing make all store synchronize but not same, people know that  Coi cafe brand but it suitable with each provinces.
+Person in charge: Design team 
+
+Name: Recuiting and training local personnel
+Description: Hire staff is needed for each store, they will interview choose the people suitable with position empty
+Estimation: HR intervew a group of people want to join this job and choose person and train for them.
+Person in charge: HR
+
+Name: Building material
+Description: The building a raw material  supply chain from Central region suppliers.
+Estimation: The building material was supply by Central region suppliers will take low cost than delivert from other provinces, easy to control quality and building
+Person in charge: Designer team
+
+Name: Launching campaigns for each store
+Description: Marketing team will make a plan and stragety to do an event which will attract customer
+Estimation: Each store in 5 provinces will have different traditional then marketing team have different way to make plan attract customer.
+Person in charge: Marketing team
+
+Request 3:
+
+Building raw material supply chain from central region suppliers need controll to prevent buy materail low quality and hight cost.
+Scope: each province
+Time: 1 month
+Cost: Medium (30-50% budge fort each store)
+Plan: This task need  people have knowledge and experience in this feature like designer,PM,.. take care and controll quality
+
+Training with lack of step and knowledge will lead to risk with income and truth of customer
+Scope: each store
+Time: 2 weeks - 1 month
+Cost: Low (10-20%)
+Plan: HR need to take care a lots with new staff or employee, training from easily to difficulty with details, give them some experiences solution to solve popular problem, trainning for  them include skills and attitude.
+
+Designing interiors consistent with the brand will lead to bad feedback if designer dont understand about local and traditional of the store
+Scope: each store
+Time: 1 month
+Cost: (10-20%)
+Plan: designer need reseach, make ideas, discussion with team, make final decision then take a quality design suitable for province and brand signature.
+
+Request 4:
+1. Project role:
+Internal : Dev team
+Organization: Coi Cafe
+External : Customer
+
+2,3. 10 tasks
+-Design Database: responsibilitiesDev
+-Design UX/UI: responsibilitiesDev
+-Design system contruction: responsibilituesDev
+-Deploy server: responsibilitiesDev
+-Test whole system: responsibilitiesDev
+-Demo System :  responsibilitiesDev
+-Test and improve Perfomance: Dev
+-Discuss with team: Dev
+-Demo with PM: Dev
+-Demo for customer: Dev
+
+
+
+
+2)

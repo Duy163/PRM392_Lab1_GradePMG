@@ -1,0 +1,105 @@
+1)
+Request 1:
+1. Project name: Coi Cafe Expansion Project
+
+2. Justifications (purpose & reasons to implement this project): 
+
+- Coi's management decided to implement an expansion project into 5 Central Provinces
+- Surveying and selecting premises
+- Designing and constructing interiors consistent with the brand
+- Recruiting and training local personnel
+- Building a raw material supply chain from Central region suppliers
+- Launching campaigns for each of the 5 store throughout the 5 Provinces
+
+3. Project constraints, in terms of scope, time, cost/budget, and quality:
+
+- The project must be completed within 12 months.
+- The total budget is VND 8.5 billion from equity and commercial bank loans.
+- Each store must reach the break-even point within 8 months after opening.
+
+Request 2:
+Main cost/budget items and details:
+
+1. Interior designing
+- Description: Budget used to pay for interior designers to try and implement new design concepts/styles.
+- Estimation: Fixed budget for each applicable, appropriate design for a store.
+- Way to estimate: The entire design team will work on each store's interior at a time. After one design has been approved and applied, budget for one design will be paid.
+- Person in charged: Leader of the design team
+
+2. Store building
+- Description: Construction cost of the 5 stores.
+- Estimation: Approximately 50% of budget.
+- Way to estimate: The 5 stores would resemble each other. Therefore, fixed budget for each.
+- Person in charged: Project Manager be in charged of monitoring construction teams.
+
+3. Training local personnels
+- Description: Budget used to pay for trainers.
+- Estimation: One trainer will be in charged of one class of local personnels with scheduled training time. Fixed budget for the whole training period.  
+- Way to estimate: budget is divided into the number of training sessions, which is fixed at the beginning. 
+- Person in charged: Leader of HR team.
+
+4. Building raw material supply chain from Central region suppliers
+- Description: Connects and sign contracts with suppliers from the Central region.
+- Estimation: Depends on the contract's policies but not over 30% of the budget.
+- Person in charged: Project Manager
+
+5. Launching campaigns for each store
+- Description: Marketing team will start a campaign attracting customers in these regions via social media platforms such as Facebook/Tiktok/Instagram. Applying opening sales and discounts is also a part of the campaign.
+- Estimation: 7% of budget will be spent on 2 on-airs.
+- Way to estimate: The two on-airs must attract at least 1500 people interacting on social media platforms. 
+
+Request 3: 
+Project risks and details:
+
+1. Trainer drops out unexpectedly
+- Description: The trainer, who is responsible for training local personnels, be dropped out unexpectedly due to accident, family issue,...
+- Impacts: Quality (Medium), Time (High), Cost (High)
+- Response plan: 
+ + Mitigation: Have training program well-documented so that the next trainer taking over shortens the time to be qualified for training.
+ + Contingency: Have reserved trainers who are ready to join in anytime.
+
+2. Suppliers get bankrupt
+- Description: A supplier suddenly gets bankrupt after signing official contract.
+- Impacts: Quality (Medium), Time (High), Cost (Medium)
+- Response plan: 
+ + Contingency: Connects in advance with several different potential suppliers.
+
+3. Copyright issue with interior design
+- Description: The interior design of a store coincidentally assembles another firm's logo or design that is formerly registered.
+- Impacts: Quality (Medium), Time (Medium), Cost (High)
+- Response plan: 
+ + Contingency: Do careful research of other firm's logo, symbols or design that might interfere with the project.
+
+Request 4:
+- Roles: Project Manager, Design Team, HR Team, Marketing Team
+- Deliverables and responsibilities:
+1. Conduct survey: 
+Project Manager (C, I), Marketing Team (R, A)
+
+2.  Designing Interiors:
+Project Manager (C, I), Design Team (R, A)
+
+3. Recruit local personnel: 
+Project Manager (I), HR Team (R, A)
+
+4. Recruit trainer: 
+Project Manager (C, I), HR Team (R, A)
+
+5. Monitor training program:
+Project Manager (C, I), HR Team (R, A)
+
+6. Finding potential suppliers: 
+Project Manager (R, A)
+
+7. Launching commercials:
+Project Manager (C, I), Marketing Team (R, A)
+
+8. Building operation plan:
+Project Manager (R, A)
+
+9. Implementing opening program:
+Project Manager (C, I), Marketing Team (R, A), HR Team (R)
+
+10. Review project documentation:
+Project Manager (R, A)
+2)

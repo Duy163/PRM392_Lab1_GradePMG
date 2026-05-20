@@ -1,0 +1,105 @@
+1)
+Question 1:
+
+1. project name: Coi's management
+
+2.
+
+-  purpose: implement an expansion project into 5 central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) with 1 flagship store in each province within 12 month.
+
+- reason: They want to expand  the project in 5 central provinces to the sustainable business model(using reusable cups, purcharsing coddee directly form Dak Lak farmers) beacuse of famousing for its nostalgic space, traditional drink menu.
+
+3. 
+
+- Project constraints: The Coi Cafe need to have survey and selecting premise, designing and constructing interiors consistent with the brand recruiting and training local personnal building a raw material supply chain form Cantral region suppliers, and campaigns for each store for.
+
+- scope: within the Coi Cafe
+
+- time: each province within 12 months
+
+- cost/budget: approximately VND 1.7 billion/store
+
+- quality: Each store must reach the break-even point within 8 months after opening
+
+Question 2: main cost/store
+
+1. 
+name: gather the customer survey
+description:  for survey and selecting premises activity,  
+cost estimation: 2 month, 8 person, fee: 300.000 VND/person/day: approximately VND 144 milion 
+
+2.
+name: brand advertisment
+description: design and constructing interior consistent with the brand
+cost estimation: 1 logo: approximately VND 46 million 
+
+3.
+name: traning program 
+description: recuiting and training local personel.
+cost estimation: 10 person, 10 million/person: approximately VND 100 million.
+
+4. cost of luanch campaingn and application
+description: building a raw material supply chain from Canteal region suppiers, and luanching campaingns for each store.
+cost estimation: raw material include application approximately: VND 1 billion( 500 million for application management), launching campaings: approximately VND 240 million
+
+5. Cost for risk
+description: cost for risk happen if we can not in the target
+cost estimation: approximately VND 170 million
+
+Question 3:
+
+1. Survey with wrong result
+
+description: We hire the survey team for the survey result, they don't want to do and give Coi Cafe with the fake data
+
+quality: the Cafe can't understand the customer and give the wrong decision.
+
+time: cost for 2 month later to have a good result. 
+
+cost: about 144 million VietNam dong.
+
+2. Major Training person unregistration
+
+description: The training person have the problem and they need to unregistration for any reason. We need to find another person to training local personal
+
+quality: The training local program can't in the schedule and we need to do the another traning with a lower quality. 
+
+time: about 1 month for hire new traning person.
+
+cost: about 50 million for handle any thing
+
+3. thirst party API downtime: 
+
+description: We need to have a payment method for each bill, and the payment gateway can't do the good way. The payment method don't do every thing.
+
+quality: Customer will feed unstatisfy for the payment and they need to have a cash for change. The Coi Cafe can't management the total money for this payment.
+
+time: 1 month to understand the problem
+
+cost: about 100 million for everyone to know total money and give it into the management application
+
+Question 4: 
+
+at least 3 project roles: PM, design team and marketing team, developer and HR team
+
+1. Gather the user requirements: PM (C), marketing team(R,A),
+design team (I)
+
+2. Analysis the requirement: PM (I), marketing team (R,A), design team (I)
+
+3. Understand the user requirement: PM (I), marketing team (R,A), design team (I)
+
+4. design the logo brand: PM (C), marketing team (C), design team (R,A)
+
+5. Hire development to do the management application: PM(I), HR team (R,A), marketing team (C)
+
+6. training local personnal: HR (R,A), PM (I), marketing team(C)     
+
+7. prepare for raw material: PM(R,A), Marketing team (C), design team (I)
+
+8. launching campaign for each store: PM(R,A), Marketing team (I), design team(C)   
+
+9. Make the final project: PM(R,A), marketing team (C), design team (C), HR team (I)
+
+10. Checking aganst after finish: PM (I), marketing team (R,A), design team (C), HR team (C).
+2)

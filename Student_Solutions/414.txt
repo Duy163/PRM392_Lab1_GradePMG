@@ -1,0 +1,108 @@
+1)
+Request 1:
+1, Project name is Coi's Cafe Store.
+2. The purpose is to implement an expansion project into 5 Central province (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 months. The reason is to help Coi's brand is have in the Central in Viet Nam. The project includes: surveying and selecting premises, designing and constructing interios consistent with brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store.
+3. 
+- Scope: 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) with 1 flagship strore in each province.
+- Time: 12 months
+- Budget: The total budget is VND 8.5 billion and approximately VND 1.7 billion/store
+- Quality: After 12 months have 5 store in Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh). Each store reach the break-even point within 8 months after opening, the rate of survey increase 30%.
+
+Request 2: 
+1. Money for employee:
+ - Name: salary
+ - Decription: Each employee is pay about VND 30000/hour
+ -  Estimation: 
+
+2. Money for ads:
+ - Name: ads
+ - Decription: About VND 50 million for ads in Facebook/Tiktok/Instagram
+ - Estimation:
+
+3. Money for collaboration with KOLs: 
+ - Name: Money to pay for KOLs
+ - Decription: About VND 100 million for KOLs to marketing for store
+ - Estimation:
+
+4. Money for organization competition mini:
+ - Name: organization mini game
+ - Decription: About VND 50 million for mini game
+ - Estimation
+
+5. Money for rent store:
+ - Name: rent store
+ - Decription: About VND 30 million/months 
+ - Estimation:
+2)
+Request 3:
+1. Not enough money to open store: (cost)
+ - Rate of risk: medium
+ - Impact: high
+ - Mitigation: Borrow money from bank too countinue project.
+ - Contingency:  Meeting team to solve money, then focus on to countinue build store.
+
+2. The poject be able to overtime: (time)
+  - Rate of risk: medium
+  - Impact: high
+  - Mitigation: Should be have planning about timeline and conferm with PM everyweek.
+  - Contingency: Pay more money for employee to everyone overtime.
+
+3. Don't reach quality: (quality)
+  - Rate of risk: low
+  - Impact: high 
+  - Mitigation: PM review quality project everyweek 
+  - Contingency: Meeting with teams leader to find solution to improve quality.
+
+Request 4:
+1. - Market Development Director (PM)
+    - HR team leader (HR)
+    - Marketing team leader (MK)
+
+2. 
+A - Meeting with PM to decide plan for project
+B - Meeting with marketing team to talk about plan for everyone in team
+C - Build plan for marketing team
+D - Caculator cost for marketing
+E - Survey business
+F - Survey customer in each province
+G - ADS in Facebook/Tiktok/Instagram
+H - Collaboration with KOLs to marketing for store
+I -  Organization some competion mini 
+K - Report for PM everyweek
+
+3.
+A - B : FS
+B - C : FS
+C - D : FS
+D - E : FS
+E - F : SS
+F - G : SS
+G - H : SS
+I - H : SS
+I - K : FS
+
+A : PM - R
+     HR & MK - A
+
+B : MK - R & A
+
+C : MK - R & A
+
+D : MK - R & A
+
+E : MK - R & A
+
+F : MK - R & A
+
+G : MK - R & A
+
+H : PM - R
+      MK - A
+
+I : MK - R 
+    HR & MK - A
+
+K : PM - R
+     HR - A
+
+   

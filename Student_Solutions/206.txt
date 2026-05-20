@@ -1,0 +1,158 @@
+1)
+Request 1:
+1. Project name: Coi Cafe Expansion
+2.
+- Purpose: Implement an expansion project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) with one flagship store in each province and launch campaigns for each store.
+
+3. Constrains:
++ Scope: Open new cofffee store in 5 Central provinces
++Time: Within 12 months,
++ Cost/Budget: VND 8.5 billion from equity and commercial bank loans 
++ Quality: Reach break-even point within 8 months after opening.
+ 
+Request 2: 
+6 main cost budget items:
+1. Infrastructure cost
++ Description: Monthly amount of money to sell coffee
++ Estimation: Analogous (VND 200 million/store)
++ Person in charge: Branch management
+
+2. Designing and interiors cost
++ Description: Designing and buying appropriate store's item to fit the nostalgic vibe and each province's culture.
++ Estimation: Bottom-up (about VND 500 million/store)
++ Person in charge: Design Leader
+
+3. Hiring and training cost
++ Description: Budget to recruit and training local personnel for the local store.
++ Estimation: Parametric, Cost = Training + ( Salary * Amount of person)
++ Person in charge: Store manager
+
+4. Marketing and advertising cost
++ Description: Promote the shop in order to attract customer in each province
++ Estimation: Analogous, based on previous marketing campaigns (about VND 50 million/store)
++ Person in charge: Marketing Manager
+
+5. Create and adjust menu cost
++ Description: Analyze the local's taste and create new products or modify existing products.
++ Estimaion: Analogous, based on previous attempts.
++ Person in charge: Store manager 
+
+6. Store Construction cost
++ Description: main budget to build up the coffee store
++ Estimation: Analogous based on previous buildings with 20% more cost (roughly VND 1 billion/store)
++ Person in charge: Construction leader
+
+Request 3:
+1. Infrastructure price risk (cost)
+- Description: The rapid increase of infrastructure cost in good places may increase any time.
+- Impact:
++ Infrastructure cost exceeds the budget
+- Mitigation: Increase the budget for infrastructure, pick the destination before the project's initiation.
+-  Contigency: Reduce menu cost and marketing cost or pick a backup place.
+
+2. Chaotic during grand opening (quality)
+- Description: Due to inexperience local staff and the outbreak of grand opening ceremory, products and services may not be able to meet up to customer's expectancy.
+- Impact:
++ Bad experience for customer
++ Bad review in social media
+- Mitigaton: Hire experienced manager, create backup plan.
+- Contigency: Hire part-time employee, limit the ammout of customer and post notification in social media to make amend for the customers.
+
+3. Construction delay risk (time) 
+- Description: Unexpected weather, storm, pandemic disrupts the construction process.
+- Impact:
++ Delay planned opening time
++ Increase of labour cost
++ Delay the other steps
+- Mitigation: Select appropriate season in every province to begin building, spend more budget in construction to complete fast.
+- Contigency: Delay opening, completing the crucial parts first, then complete the reamaining later.
+
+Request 4:
+1.Project roles:
+- Store manager 
+- Construction leader
+- Marketing leader
+- Project manager
+- Interior design leader
+
+2.
+10 Tasks, activities, deliverables:
+
+1. Complete the store
++ Store manager: A
++ Construction leader: R
++ Marketing leader: I
++ Project manager: A
++ Interior desgin leader: R
+
+2. Training a complete staff team
++ Store manager: R
++ Construction leader: I
++ Marketing leader: I
++ Project manager: A
+
+3. Complete menu
++ Store manager: R
++ Construction leader: C
++ Marketing leader: I
++ Project manager: A
++ Interior design leader: I
+
+4. Advertise the campaigns
++ Store manager: C
++ Construction leader: I
++ Marketing leader: R
++ Project manager: A
++ Interior design leader: I
+
+5. Monitoring the given budget
++ Store manager: R
++ Construction leader: R
++ Marketing leader: R
++ Project manager: A
++ Interior design leader: R
+
+6. Designing interior
++ Store manager: C
++ Construction leader: C
++ Marketing leader: I
++ Project manager: A
++ Interior design leader: R
+
+7. KOL collaboration
++ Store manager: C
++ Construction leader: I
++ Marketing leader: R
++ Project manager: A
++ Interior design leader: I
+
+8. Project status report
++ Store manager: C
++ Construction leader: C
++ Marketing leader: C
++ Project manager: R
++ Interior design leader: C
+
+9.Building material supply chain
++ Store manager: R
++ Construction leader: I
++ Marketing leader: I
++ Project manager: A
++ Interior design leader: I
+
+10. Risk management
++ Store manager: C
++ Construction leader: C
++ Marketing leader: C
++ Project manager: R
++ Interior design leader: C
+
+11. Shop destination selection
++ Store manager: I
++ Construction leader: R
++ Marketing leader: I
++ Project manager:A
++ Interior design leader: I
+
+
+2)

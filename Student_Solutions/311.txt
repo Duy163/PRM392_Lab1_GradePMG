@@ -1,0 +1,79 @@
+1)
+Request 1:
+1. Project name: Coi Cafe
+2. Purpose & reasons: 
+Program: implement an expansion project into 5 Central provinces(Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh).
+Need: 1 flagship store in each province within 12 months.
+Solution: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and traning local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store.
+3. 
+Scope: implement an expansion project into 5 Central provinces(Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh). 
+Time: 12 months
+Cost/budget: 8.5 billion VND(approximately VND 1.7 billion/store).
+Quality: Each store must reach the break-even point within 8 months after opening.
+
+Request 2: Five main Cost/budget items.
+1. Name: Labor
+Description: Salaries for PM, 2 devs, 1 design, HR team, marketing team(5 month)
+Estimation:370.000.000 VND
+Way to estimate:Bottom-up
+Person: PM
+2. Name:Infrastructure: 
+Description: Unity licenses & Cloud server
+Estimation: 60.000.000 VND
+Way to estimate: Analogous
+Person: Tech lead
+3. Name: Equipment
+Description: web for testing
+Estimate: 45.000.000 VND
+Way: parametric
+Person: purchasing
+4. Name: Consulting :
+Description: managememt  fees for script review
+Est: 20.000.000 VND
+way: Expert judment
+Person: PM
+5. Name: Contingency
+Description: 10% risk fund
+47.500.000 VND 
+way: percentage
+Person: sponsor
+
+Request 3: 
+Three project risks by listing out the risk title/name: 
+- Designing and contructing interiors consistent with the brand.
+- Recruiting and training local personnel
+- Building a raw material supply chain  from Central region suppliers.
+
+Recruiting and traning local personnel
+Quality: find labor for store with another roles
+Time: 5 months
+Cost: 45.000.000 VND
+
+Building a raw material supply chain from Central region suppliers 
+Quality: build store, connect everyone, 
+Time: 6 months
+Cost: 48.000.000 VND
+
+Designing and contructing interiors consistent with the brand
+Quality: designing and constructing interiors consistent with the brand.
+Time: 2 months
+Cost: 19.000.000 VND
+
+Request 4:
+1. Project roles: Market Development Director as PM, coordinating with the interior design team, HR team, and marketing team.
+2. 
+- PM
+tasks: manage progress of project
+activities: connect beween dev team and organization
+- Marketing team
+tasks: bring experience for customers anywhere
+activities: build store on the facebook, tiktok, zalo
+- Design team:
+tasks: design a page for Coi Cafe store, decore store  activities: designing and contructing interiors consistent with the brand.
+3. For each task/activity/deliverable, list out the responsibilities of the project roles
+- Responsibilities of PM: Management
+- Responsibilities of Marketing team: PM
+- Responsibilities of Design team: PM.
+
+
+2)

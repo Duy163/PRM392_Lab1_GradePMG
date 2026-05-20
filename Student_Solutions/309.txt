@@ -1,0 +1,106 @@
+1)
+Request 1:
+1. Project name: Coi Cafe expansion project
+2. Purpose: expand to 5 Central provinces and reach more customers at more region
+3. Contraints:
+- Scope: 
+  + build 1 flagship store in each province
+  + survey and select premises,
+  + design and construct interior consistent with the brand
+  + recruite and train local personnel
+  + build a raw meterial supply chain from Central region suppliers
+
+- Time: 12 months
+- Budget: 8.5 billion (approximately 1.7 billion per store
+- Quality: Each store reach the break-even point within 8 months after opening
+
+Request 2:
+Five main cost  items:
+1.
+- Name: paint 
+- Description: decorate wall and roof
+- Estimation: 20 can of paint for each store
+estimated by measure area of wall
+2.
+- Name: table
+- Description: to serve customer and some counters for staff
+- Estimate: 16 unit for each store 
+estimate by calculating the area of floor 
+3. 
+- Name: chair
+- Description: to serve customer and for staff
+- Estimate: 64 unit per store
+estimate by calculate number of table
+4. 
+- Name: decorate item (picture, lamb, light bulb, poster)
+- Description: to decorate store
+- Estimate: 10 picture per store, 5 lamb per store, 20 light bulb per store, 7 poster per store)
+estimate by calculate space of each store
+5. 
+- Name: drink material
+- Description: to make coffee, and drink
+- Estimate: 3kg per day per store
+estimate by counting number of customer per day
+6.
+- Name: ads
+- Description: to attract customer
+- Estimate: 50 million per store per month
+estimate by public market and cost for ads
+
+7. 
+- Name: place
+- Description: place for locate store 
+- Estimate: 1 billion VND per store per year
+estimate by local price, and market price at the region store located
+2)
+Request 3:
+- Risk 1: Buget burn out (over cost)
++ Description: The cost of design, construct interior consistent and train local personnel and build a raw material supply may caught higher cost than budget plan.
++ Possibility: medium
++ Impact: High
++ Mitation: prepare detail budget plan, and minimize cost for design and train local personnel
++ Contingency: use reserve budget, find sponso to invest more.
+
+- Risk 2: The project is slow as expected time
++ Description: budget runout or slow delivery of material supply may effect to plan and make project behind the plan time
++ Possibility: medium
++ Impact: High
++ Mitation: check time plan, check budget plan
++ Contingency: find supply material early, use multi supply material 
+
+- Risk 3: The number of customer is low
++ Description: store cannot attract or not reach the customer at specific region caught the break-even point more than expected
++ Possibillity: Medium
++ Impact: High
++ Mitation: run ads at that region, and discount at the beginning ( buy 1 gift 1)
++ Contingency: Hire KOLs to review store to attract customers
+
+Request 4: 
+1. Three project roles:
+- PM
+- Design team
+- HR team
+- Marketing team
+2. Ten activities:
+A. Analystic 5 regions 
+B. Find place to build store
+C. Find material suppliers
+D. Design building for the store
+E. Recruite employee
+F. Make script for training
+G. Train new employee
+H. Running ads
+I. Implement supply chain
+J. Make Final Report
+
+3. Resposibility
+A. PM: A,C; Design team: R; HR team: I; Marketing team: R
+B. PM: A,R; Design team: I; HR team: I; Marketing team: C
+C. PM: A, R; Design team: I; HR team: I; Marketing team: I
+D. PM: A, C; Design team: R; HR team: I; Marketing team: I
+E. PM: A; Design team: I; HR team: R; Marketing team: I
+F. PM: A, C; Design team: I; HR team: R; Marketing team: I
+G: PM: A; Design team: I; HR team: R; Marketing team: I
+H: PM: A, C; Design team: I, HR team: I; Marketing team: R
+I: PM: R; Design team: I; HR team: I; Marketing team: I
+J. PM: R; Design team: I; HR team: I; Marketing team: I

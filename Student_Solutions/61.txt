@@ -1,0 +1,70 @@
+1)
+Request 1:
+Project name: Expansion coffee store  at 5 Central provinces.
+
+Justifications: Wanting many people can try coffee and help location people have  job. Besides, Coi can expand many store at Viet Nam and expand total sales.
+Scope of constraints:
+Surveying abd selecting premises,designing and constructing interiors with the brand,recruiting and training local personnel,building a raw material supply chain from Central region suppliers and launching campaigns for each store.
+Time constraints:
+Store in each province within 12 months.
+Cost/budget contraints:
+The total budget is 8.5 billion VND(approximately 1.7 billion VND/store)
+ 
+Quality contraints:
+Each store must reach the break-even point within 8 months after opening.
+
+Request 2:
+Main 1: Selecting premises
+Description: Selection stuiation area where can people can see store easily
+How to estimate: Depend on area want to hire with city or street.
+Estimate: 100000000 VND
+Person in charged: Project Managerment.
+Main 2: Designing brand 
+Description: Designing unique brand at each store to attractive customer
+How to estimate: Depend on production to use to design
+Estimate: 50000000 VND
+Person in charged: Design Team
+Main 3: Tranining staff
+Description: Traning staff about envinronment word and how to create coffee
+How to estimate: Staff * hour* total staff
+Estimate: 80000000 VND
+Person in charged: Project Management
+Main 4: Marketing
+Description: ADS at arround the store with social media.
+Estimate:50000000 VND
+Person in charged: Marketing team.
+Main 5: Launching campaigns:
+Description:Get to permision and people can know to coffee store
+Estimate 100000000 VND
+Person in charged: Marketing Team
+
+Request 3:
+Risks 1: Estimate wrong budget
+Possibility: Low
+Impacts: High
+Mitigation Plan: Add the amount of buffer of the budget (around 10%)
+Contigency Plan:Reduce non-essential(nice to have)
+Risks 2: Schede is too fast and not completed on time
+Possibility: Low
+Impact: High
+Mitigation Plan:Reduce not essential scope contraints
+Contigency Plan: Add more resource and fore team OT time.
+Risks 3: Project Management is not control
+Possibility:High
+Impact:High
+Mitigation Plan: Add more sub-project management to support project management
+Contigency Plan: Replace new Project Management
+
+Request 4:
+1. Create the project:PM(R),Coordinating(C),Customer(A)
+2.Planning the project:PM(R),Coordinating(C),Customer(A)
+3.Writing scrips about project:PM(A),Coordinating(R),Customer(C)
+4. Selection area to building:PM(A),Coordinating(R),Customer(C)
+5.Design store:PM(A),Coordinating(R),Customer(I)
+6. Training personel:PM(A),Coordinating(R),Customer(I)
+7. Launching campaigns:PM(A),Coordinating(R),Customer(I)
+8.Marketing about the project:PM(A),Coordinating(R),Customer(I)
+9.Controlling project:PM(A),Coordinating(R),Customer(I)
+10,Closing the project:PM(R),Coordinating(C),Customer(A).
+
+2)

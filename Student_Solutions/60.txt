@@ -1,0 +1,101 @@
+1)
+1.
+- Project name: Coi Cafe expansion project
+
+- Justifications: implement an expansion project into 5 Central provinces, with 1 flagship store in each province to have more fame in about country
+
+- Project constraints:
++ Scope:
+. Surveying and selecting premises
+. Designing and constructing interios consistent with the brand
+. Recruiting and training local personnal
+. Building a raw material suppy chain from Central region suppliers
+. Launching campaigns for each stores
++ Time: within 12 months
++ Cost: total budget is VND 8.5 billion
++ Quality: Each store must reach the break-even point within 8 months after opening
+
+2.
+- Permit and Liscence fee:
++ Description: cost to get permission to run the campaign and the store
++ Estimation: VND 2 billion
++ How to estimate: look up city fee and event price
++ Person in charged: Project Manager
+
+- Traing staff:
++ Description: traning staff prepare for event for each store
++ Estimate: VND 1 billion
++ How to estimate: training with high quality teacher
++ Person in charged: Lead staff
+
+- Fee materials:
++ Description: build a raw material supply chain from Central region suppliers
++ Estimate: VND 3 billion
++ How to estimate: compare price with order shop
++ Person in charged: Lead staff
+
+- Marketing and promotion:
++ Description: cost for ad in social media to contact more people
++ Estimate: VND 0.5 billion
++ How to estimate: choose large social media like Facebook, Tiktok
++ Person in charged: Project Manager
+
+- Design and construct
++ Description: design interios consistent
++ Estimate: VND 2 bilion
++ How to estimate: design an easy eye-contact
++ Person in charged: Project Manager
+
+- Total estimate cost : VND 8.5 billion (on the plane)
+
+
+3.
+- High material losing:
++ Description: inexperience staff make error, loosing material when buiding 
++ Impact: cost higher. Make the budget is over
++ Risk response
+. Mitigation: training staff
+. Contingency: redesign campaign to high value, more security
+
+- Employee absent: 
++ Description: staff unexpected miss shift or conflict time
++ Impact: time and quality. Cause waist time and reduce satitfaction 
++ Risk response:
+. Mitigation: hire backup staff and offer attendence bonus
+. Contingency: project manager step into operate campaign
+
+- Falling break even point:
++ Description: low foot trafic or customer not like the drink 
++ Impact: effective to project
++ Risk response:
+. Mitigation: distribute remotional, create and eye-contact store
+. Contingency: launch immediate flash sale or bundle
+
+
+4.
+- Project roles 
++ Project Manager (PM)
++ Leader of design team, HR team, marketing team
++ Staff
+
+-Task, activity
++ Task update daily: staff update task in project manager software (Jira)
++ Production timeline: staff managing the survey, design, campaign
++ Report, statistic: project manager manage report every week
++ Risk tracking: project manager log the risk and fixxing in time
++ Planning design interios:
++ Do survey after the event
++ Training local personal
++ Planning campaign
++ Launching campaign
++ Training staff
+
+
+
+
+
+
+
+
+
+2)

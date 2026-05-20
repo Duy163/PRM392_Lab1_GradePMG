@@ -1,0 +1,112 @@
+1)
+Request 1:
+1.1. Project Name: "One flagship store in each province"
+
+1.1.1. Project Discription: Coi's management decide to implement an expansion project into 5 Central provinces (Da Nang, Hue, Quang Ngai, Quang Nam, Binh Dinh), with one flagship store in each province within 12 months. The project includes: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personal, building a raw material supply chain from Central region suppliers, and launching campaigns for each store.
+
+1.2. Justifications (Purpose and Reasons): 
+- Coi Cafe's management decided to implement an expansion project into 5 Central provinces with one flagship store in each province. The project is aiming to build the brand stronger in the Northside, increaseing the compete in the coffee market and grow up their marketshare. Nowsaday, many teenagers and young adults, almost GenZ aged 15-27 who is usually come to flagship coffee store to study, meeting and work are crowded year by year. This project is planning to find a great location, customer-behaviors, recruiting and training, building a raw material supply chain.
+
+1.3. Constraints:
+- Duration: 12 months
+- Budget/Cost: VND 8.5 billion (approximately VND 1.7 billion/store)
+- Timeline:
++ Initation (Month 1 - 1/1/2026) - Find Location - Supplier - Employers
++ Planning (Month 2-12 - 1/12/2016) - Marketing plan, Booking KOLs/Influencers, Design/Decoration
++ Close project: (Month 12 - 2/12/2026) - The operation is running stable .
+
+- In terms of scope: 
++ One flagship store in each province within 12 months
++ Into 5 Central provinces (Da Nang, Hue, Quang Ngai, Quang Nam, Binh Dinh)
++ Surveying and Selecting premises
++ Designing and Constructing interiors consistent with the brand
++ Recruiting and Training local personal
++ Building a raw material supply chain from Central region suppliers
++ Launching campaigns for each store
++ Reach the break-even point within 8 months after opening.
+
+- Quality:
++ The project finnish at the right time in 12 months
++ Find a great location and design marketing strategic (high total video views on social medias TikTok, Instagram, Facebook)
++ Recruiting and Training: Control cost salary and training to prepare opening-day, bring high quality services and drinks for customers because of flagship coffee store.
++ Building a raw material supply chain from Central region suppliers: Deal a resonable price but high quality coffee 
++ Reach the break-even point within 8 months after opening.
+
+Request 2;
+Five main cost items:
+
+2.1. Name: Location Hiring-Cost
++ Description: Hiring a location in each province with large and fresh-air, large vehicals-park
++ Estimation: Hiring Cost x Months 
++ Estimation cost: VND 2 billion
+
+2.2. Name: Recuiting and Training Local Personal
++ Description: Recruiting 10 employers and training in 2 weeks (high quality services training, make drinks training) for each store
++ Estimation: total (employer numbers x salary x bonus) +  each store
++ Estimation cost: VND 1 billion
+
+2.3. Name: Coffee Store Supply Chain From Central Region Suppliers
++ Description: Find all Central region suppliers and surveying which is resonable cost and high quality material. 
++ Estimation: (Drinks Cost + Transportations + Operational) / each cup
++ Estimation Cost: VND 2 billion
+
+2.4. Name: Marketing and Design The Brand
++ Description: Marketing and Design in every month, make impact and attract customers in the store's location, promotion for special days. 
++ Estimation: Coi Coffee spend VND 3 billion for Marketing and Design Department
++ Estimation cost: VND 2 billion
+
+2.5. Name: Cost of Documents, Contracts, Poster, Banners 
++ Description: Document scripts for announcement, PR posters/banners, Contracts hiring, colaborational
++ Estimation: Coi Coffee spend VND 1 billion for 1 years operational.
++ Estimation cost: VND 1 billion
+2)
+Request 3:
+Three project risks and relevant risk response plans
+
+3.1. Name: Wrong estimation budget/cost
+- Discription: The estimation at VND 8.5 billion (approximately VND 1.7 billion) is not enough, because the price of hiring, material cost is unstable.
+- Quality: Large and Fresh air is not expectation
+- Time: 12 months hiring
+- Cost: estimated VND 2.5 billion for each store
+
+3.2. Name: The poor management of 5 stores in difference locations
+- Discription: The manger in the store is not enough skills to control and manage employers or materials in the store, make reducing and increase cost 
+- Quality: Reduce store quality, drinks, and services
+- Time: 4 months if the management is weak
+- Cost: VND 500 million
+
+3.3. Name: Videos marketing brand is low compare to marketing budget
+- Discription: Videos on sicial media are not growth highly as expectation while comparing to the marketing budget.
+- Quality: Budget is run out, unable to reach the break-even point within 8 months after opening
+- Time: Longer to reach break-even point early, may be 10-12 months.
+- Cost: VND 2 billion just in rest 50% and can not reach the high views about the brand.
+
+Request 4:
+4.1. Three Project Role:
+- Project-Internal: Market Development Director as PM, Design Team, HR Team and Marketing Team.
+- Organization-Internal: Booking KOLs/Influencers for PR the brand
+- Project External: Equity and Commercial Bank
+
+4.2. Ten tasks, Activities, Deliverables
+A - Find Location
+B - Design Furniture 
+C - Decoration strore
+D - Find suppliers
+E - Recruiting
+F - Training
+G - Marketing Scripts
+I - Marketing Content Designs
+J - Colaboration KOLs/Influencers
+K - Surveys Customers
+
+4.3. Relationships:
+A - B (SS)
+B - C (FS)
+C - D (FS)
+D - E (FS)
+E - F (FF)
+F - G (FS)
+G - I (FS)
+I - J (FS)
+J - K (SF)
+J - I (FS)

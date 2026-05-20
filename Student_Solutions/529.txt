@@ -1,0 +1,69 @@
+1)
+Request 1:
+1. Project name: Coi Cafe Expansion
+2. Justifications:
+- Purpose: Expand the brand coffee to more  Contral Provinces(Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh).
+3. Project constraint:
+- Scope: Surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers and launching campaigns for each store.
+- Time: 12 months
+- Cost: Total buget is VND 8,5 billion(approximately VND 1.7 billion for each store).
+- Quality:  Each store must reach the break-even point within 8 months after opening.
+
+Request 2:
+Cost item 1:
+- Name: Location rental cost
+- Decription: This cost for renting location for each Central province.
+- Estimate: VND 600 miillion for each store(Total: 3 billion) for 1 year.
+- Method: Survey to find the best place for each.
+Cost item 2: 
+- Name : Recruiting and tranning cost
+- Decription: This cost is in order to hire and train the local personnel for each store.
+- Estimate: VND 300 million for each store(1.5 billion total) for a year.
+- Method: 
+Cost item 3:
+- Name: Marketing compaign cost
+- Description: This cost is used for marketing compaign like rent KOLs, influencers, discount compaign,...
+- Estimate: VND 240 million for a year for each store(VND 1,2 billion total) 
+Cost item 4:
+- Name: Operation cost
+- Descriptions: This cost is used for launching store, purchasing reusable cups, coffee,...)
+- Estimate: 360 million for each store(1,8 billion total) for a year.
+Cost item 5:
+- Name: Alternatiive funds
+- Description: This funds are used when the cost of each store is over the budget.
+- Estimate: 200 million for each store(Total 1 billion)
+
+
+Request 3:
+Risk 1: Not reach the revenue point after 8 months
+- Decriptions: Not meet the break-even point from organization-internal after apply launching campaigns.
+- Possible: Medium and impact on the quality of project constraints.
+- Mitigation: Planning a clear stategy, tracking the revenue of each store monthly.
+- Contigency: Find the main reasons for this misreach, planning to improve the revenue.
+Risk 2: Over budget risk
+- Descriptions: The actual budget can be excessive when lauching campaigns.
+- Possible: Medium and impact on the cost of project constraints.
+- Mitigation: Make a budget plan clearly and traking it exactly when purchasing somethings. Analysis the budget and make a report monthly.
+- Contigency: Make a clear report for each purchasing and meeting to up the budget, descrease costs is not effective.
+Risk 3: Competitive Risk
+- Descriptions: The location can have many competitor in F&B like coffee.
+-Possible: High and impact on the quality of project constraints.
+- Mitigation: Detemine the specification goods like tratitional coffee from Dak Lak Farmers and sustainable business model and attract it to customers.
+ - Contingency: Using the famous brand from 12 stores in Hanoi and Ho Chi Minh City to maketing.
+
+Request 4:
+1. Three roles: Project manager(PM), Operation Team(OT)and Marketing Team(MKT)
+2. Ten activities and the responsibilities:
+- Project Initiationt(define requirements, budgets,..): PM(R, A), OT(C), MKT(I).
+- Planning project(Define timeline, features,...):
+PM(R, A), OT(C), MKT(C).
+- Survey and selecting premises: PM(A), OT(R), MKT(I).
+- Designing and constructing interiors consistent: PM(A), OT(R), MKT(I)
+- Recruiting and training local personnel: PM(A), OT(R), MKT(R)
+- Building a raw material: PM(A), OT(R), MKT(I).
+- Marketing campaign: PM(A), OT(C), MKT(R).
+- Monthly report: PM(R, A), OT(C), MKT(C).
+- Exame the break-even point after  months: PM(R, A), OT(C), MKT(I)
+- Closure(Finally report): PM(R, A), OT(C), MKT(C)
+
+2)

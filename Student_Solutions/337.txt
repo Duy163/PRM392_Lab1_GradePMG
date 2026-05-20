@@ -1,0 +1,102 @@
+1)
+Request 1:
+1. Project name: 
+- Coi Cafe
+2. Justifications:
+- Purpose: Coi management want to expand Coi Cafe into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) with 1 flagship store in each province within 12 months.
+3. Project constraints
+- Scope: into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+- Time: each province within12 months
+- Cost: total budget is 8.5 billion VND
+- Quaility: Each store must reach the break-even point within 8 months after opening. 
+
+Request 2:
+1. Labor Cost:
+- Pay money for staff or teams. local personnel every months
+- Estimation: 150 000 000 VND
+2. Advertisting Cost:
+- Pay for social media to advertising their brand 
+- Estimation: 15 000 000 VND
+3. Rent house Cost
+- Pay for house where open the store in the province every months.
+- Estimation: 20 000 000 VND
+4. Material Cost
+- Pay money for suppliers who provide material to store
+5. Equipment Cost
+- Pay money for buying equipment like table, chair, cub, computer, paper, ... 
+- Estimation: 50 000 000 VND
+
+
+
+
+
+2)
+Request 3:
+Three project risk:
+1. Suppliers can not provide enough material for 5 Central provinces as the same time.
+- Description: Material like traditional drink menu is not sufficent to provide for brand caused store is using a bigf amount in the short time. 
+- Possible impact:  Central region suppliers cannot allocate to different department. leading to another store has limited material. 
+- Response plan;
++ Mitigation: Inform to suppliers early about amout that store will need to use at least 2 months. So suppliers can prepare enough to vendor. 
++ Contigency: Inform to customer that drink menu is sold out and it will open in an specific day.
+2. Suppliers stop provide material for Coi Cafe
+Description:
+- Cetral region suppliers stop provide material lead to store do not have matertial
+- Impact: Store can not prepare material to sell lead to big problem if they do not have material, it will effect to revenue of store
+- Response plan:
++ Mitigation: Must prepare small contingency reserve to pay when they alternative suppliers urgently. 
++ Contigency: Find another suppliers early to cover this problem, inform customer that it sold out and tell them waiting to open again
+3. Rent house to open store is expensive than revenue
+- Description: give a lot of money to rent the house to open the store, but revenue can not cover that
+- Impact: Store can not continous open if statement is become urgent. do not have enough money to pay the house. 
+- Response plan:
++ Mitigation: HR team must survey in local to find house appropriately and budget can cover that before open the store and get constract has limite timely at leat 3 years.
++ Contigency: focus on advertising by soical media or KOLs, collect feedback to expand in social media...
+
+Request 4:
+RACI chart
+1. 
+Three project role:
+- PM(Market Development Director), Design team, HR team, marketing team
+2.
+Ten task:
+1. Survey province to identify key design or constructure consitent with the brand
++ Activity: go to province or explore in the internet to identify charatertistic of each province 
++ Deliverables: Give an appropriately design that can use into each province lead to attract people in here come to store.
++ Responsible:Design team(R, A), PM (I), HR team (I), marketing team (C)
+2. Recuiting local personnel 
++ Activity: HR team find people live in province
++ Deliveribles: Local people will have knowlegde about that province lead to easily to communicate or create job for people in here. 
++ Responsible: HR team(R, A), PM (I), Design team (I), marketing team (C)
+3. Implement advertising to social media into each province
++ Activity: advertinsing about the store in social media like  Facebook, Youtube, Tiktok, Instgaram...
++ Deliveribles: cover a lot of view rate, expand store to large people know.
++ Responsible: Marketing team(R,A), PM(I), Design team (C), HR team (I)
+4. Prepare content, image, video to upload in social media
++ Activity: implement take a lot of photo about drink menu, store,... upload to Facebook, Tiktok, Instagram, ...Create content appropriately about the store to attract people
++ Deliveribles: completely content and good image, video to prepare advertising.
++Responsible: Design team(RA), marketing team(C), PM (I), HR team (I)
+5. Make a plan lauching campaigns:
++ Activity: make a specific plan, steps to carry out, allocate differrent departmant and sure they adhere these guidlines in the plan. 
++ Deliverible: completely report plan by excel for each store
++ Responsible: PM(I, C, R), marketing team(R, A), Design team (I), HR team (I)
+6. Implement to communicate with suppliers about material
++ Activity: Repesent about store and what material will be use, amout of material, timely, cost, ...
++ Deliveribles: give a constract with suppliers about material 
++ Responsible: HR team(R, A), marketing team (R,I), PM (I, C), Design team (C)
+7. Implement customer participate workshop to try menu
++ Activity: open workshop to attract customer come to try drink menu in the store with sale off from 25% to 50% for the first time they come  or for ten people they come early in the day
++ Deliveribles: inceasing level of customer'support after they try menu of store.
++ Responsible: marketing team(R, A), PM (I), HR team (C), design team (I, C)
+8. Prepare sufficient equipment to the store
++ Activity: buy equipment to serve selling, table, chair, carton, computer, cup, paper,...
++ Deliveries: sufficent equipment to ready for open store
++ Responsible: HR team(R, A), design team (C), marketing team (I), PM (I)
+9. Hiring KOLs to support 
++ Activity: find famous KOLs or infulencers who can have knowledge about foot or drink to work together smoothy.
++ Deliveries: nice KOLs can attract people know about the store lead they come to try
++ Responsible: HR Team(R,A), Markerting team(I, C), design team (I), PM (I)
+10. Training local personnel
++ Activity: training people to have knowledge about store, drink menu, ...
++ Deliveries: people have knowledge to sell about product
++ Responsible: HR Team (R, A), PM (I),  design team (I), marketing team (C)

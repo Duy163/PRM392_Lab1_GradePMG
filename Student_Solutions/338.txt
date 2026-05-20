@@ -1,0 +1,63 @@
+1)
+Request1: 
+1. Project name: Campaign communication for Vietnamese coffee "Coi Cafe"
+2. Justification(Purpose and Reasons): The primary of this project is the address critical for maketing the Vietnamese coffee brand "Coi Cafe". To implement this project, we need focus on surveying and selecting premises,  building a raw material supply chain from Central region suppliers, and launchung campaigns for each store. 
+3. Project contraints: This project must implement in 5 Central provinces 
+   - Scope: 5 Central province
+   - Time: Each tstore must reach the break-even point within 8 months after opening.
+   - Cost/budget: Total budget is VND 8.5 bilion(approximately VND 1.7 billiom/store
+   - Quality: asuarane this project
+Request 2: Five main cost/buget items (for total budget):
+1.Content production fees
+- Description:  this cost pay for scriptwritting content and design brand for maketing plan.
+- Estimation: 
+- Way to estimate: each store approximately 300000VND ( 5 store is VND 1.5 billion)
+- Person is charged: Interior design team
+2. KOL booking cost
+- Decription: find influencer in social media like Tiktok, Facebook, Instagram... to tell the coffee story and come to Coi cafe review.
+- Estimation: VND 2 billion 
+- Way to estimation: follower of influencer
+- Person in charged: Project mananger
+3. Recruiting and training
+- Description: training for support staff 
+- Estimation: VND 1 billion
+- Way to estimate: 2 person x 100000 VND/day x 5 days
+- Person in charged: Project manager
+4. Cretae a raw material supply chain
+- Description: build a material  supply chain from Central region supplier
+- Estimation: VND 1 billion
+- Way to estimate: fix the cost 
+- Person in charged: Market Development Director
+5. Fees build even for project
+- Decription: make the even after complete content to attention a lot of customer, introduction nostalgic space, traditional drink on menu..
+- Estimation: VND 3 billion
+- Way to estimate: 8.5 - 1.5 - 2 - 1 -1 =  VND 3 billion
+- Person in charged: Maketing lead
+
+
+2)
+Request 3: Three project risks:
+Risk 1. The budget is overrun: 
+- Description: when the cost of maketing plan (each store) over VND 1.7 billion we must get a littel cost in total budget cover lead to overrun the budget.
+- Scope: total buget impact
+- Time: in the end timline
+- Cost: over VND 1.7 billion/store
+- Mitigation: only use on budget by way reduce cost unnescescery
+- Contigency: 
+Risk 2: Social media flop or useless
+- Desciption: the video and content not attention to people in Tiktok or Facebook, good content but flop and we need to advertising or viral content but people still don't come to Coi Cafe.
+- Possible impacts: Scope: high; Time; medium; Cost: medium (approximately 1/4 total budget)
+- Mitigation: change content on social media, create video trend on Tiktok will make more people know. 
+- Contingency:
+Risk 3: Timline of the project is overrun
+- Description: over 8 months after opening
+- possible impact: high
+- mitigation: do with timeline 
+
+Request 4: 
+1. Project manager (PM): control overall project
+Lead design time (LD): designing and constructing interiors consistent with the brand
+Maketing team (MT): create, scriptwritting, do even for project
+2.
+- Do even: PM(A), LD(R), MT(R/I)
+- Run social media: PM(A), LD(C), MT(R)

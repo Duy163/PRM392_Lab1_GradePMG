@@ -1,0 +1,136 @@
+1)
+Request 1:
+1. Project name: Coi Cafe - Coffee to business
+
+2. Justifications:
+ - Purpose: Currently, coffe is not only a daily drink but also perform Vietnamese' style, many big brands such as Starbuck, Milano with foreigner stakeholder and local brand like Trung Nguyen Legend, Highland coffee, Coi Cafe. Each brand has special style, unique drink menu and Coi Cafe is not exception. Aiming to expend project into 5 central provinces is a big improvement for this local Brand. The Vietnamese coffee brand provides local materials (reuseable cups, coffee from Dak Lak), tradtional drink and bring the high quality, services, and priceless value to customer, building a loyal community.
+
+3. Project constraint
+ - Scope: 
+Implementing an expansion coffee brand into 5 Central provinces ( Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) .
+
+ - Time: 
+1 flagship store in each province within 12 months.
+ Each store must reach the break-encen point within 8 monthns after opening
+
+-  Cost/Budget: 
+The total budget is 8.5 billion for 5 stores
+ Aprroximately 1.7 billion/store from equity and commerical bak loans 
+  
+- Quality: 
+Nostalgic space, tradional drink menu
+Using reusablecup,purchasing coffee directly from DakLak
+
+Request 2: At leastfive main cost/buget tme
+
+Name: Place
+Description: Surveying, selecting premsies
+Method: Surveying the and rate the ability to develop
+Time: 2-week to 1 month for each store
+Budget: 200 million for paying rent house
+Person in charged: Project Manager
+
+Name: Materials
+Description: Building a raw mateial supply chain from Central region suppliers, launching campaings for each store
+Time: About 1 to 1.5 month before operating store
+Budget: Around 60 million/month 
+Persion in charged: Project Manager
+
+Name:  Adtivertisement
+Description: Attracting new customer resources, new stakeholders
+Method: Using  platform such website, social media , hire KOLs, create videos, etc.
+Budget: 50 million/ month ( about more than 1 million/day for marketing )
+Time: Parrell time operating store
+Person in charged: Marketing team
+
+Name: Trainning
+Description: Recruiting and training local personnel
+Method: HRs are directly hiring and training employees with the services for  customers
+Budget: Based on employee quantity,  ( about 25.000VND/hour/employee
+Time: All the time ( if needed )
+Person in charged: HR team
+
+Name: Finace
+Description: TheMarket Development Director (PM) is possibility provider to expend and operate all the system
+Method: Calculating total budget for each store, money form equity and loaning bank
+Time: From the start of milestone
+Person in charged: PM
+
+
+
+
+
+
+
+            
+
+
+
+2)
+Request 3: Identify 3 risk
+1. 
+Name: Lack of materials
+Description: The supplier cannot supply enough  raw material on time
+Impact: High
+Relevant risk:Drink menu not meet customers'  requirement,
+Contigency: Coordinating backup with another Central suppliers
+
+2. Name: Service rating
+Desciption: The most importan thing is customer's experience and price
+Impact: High
+Relevant risk: The resitant, advoid brand, take lots of time to re-build brand.
+Time: During project period
+Mitigation: Report daily
+Contigency: Trainning, doing the best thing to sastify customer and impoving the product quality.
+
+3. Name: The attractive content
+Description: During provide good product, nostalgic space for customer, the best way to atrtract new customer resources is ads. The marketing team, KOLs  produce not enough contents, videos
+Impact: Medium
+Time: During project period
+Mitigation: Meeting per week
+Contigency: Hiring backup KOLs, update the viral content frequently.
+
+
+
+Request 4 : RACI chart
+1. Three project role:
+ - Market Developmet Director (PM) is leader, communicating and coordinating with the interior team, financial responsibility .
+- HR team: Surveying, recruiting and training localpersonnel
+- Interior design team: Designing and constructing interiors consistent with the brand, sustainable business model.
+- Marketing team: Adtiverse products, services, ads and coodinate with Influencers, KOLs
+
+2.List out ten tasks, activities or deliverables
+
+- Find places suitable for bussines
+- Surveying, rating the improvemnet of the project
+- Manage finance and bank loans
+- Design and construct interiors
+- Find suppliers from Central region
+- Hiring and training employees
+- Set up to operate
+- Response customers feedback
+- Survey customer behavior and improve  product quality
+- Produce contents to attract new customers
+- Organize coffee campains to attract stakeholders, widen customer knowledge about local coffee brand
+ 
+
+3. 
+- Project Manager : 
+Find places for business
+Manage finance
+Organize coffee campaing
+
+- Interiror design team:
+Degign and constructing interirors
+
+- HR  team:
+Recruiting and training local personel
+Building a raw material supplier
+
+-Marketing team:  
+Responsing customers feedback
+Produce content, response to customer, organize campain
+
+
+
+                         

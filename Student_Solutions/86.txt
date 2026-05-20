@@ -1,0 +1,111 @@
+1)
+Request 1:
+1. New COI store at 5 Central provinces.
+2. an expansion project into 5 Central provinces, with 1 flagship store in each province within 12 months
+3. Scope:
+- surveying and selecting premises
+- desiging and constructing interiors consistent with the brand
+-  recruiting and trainning local personnel
+- building a raw material supply chain from Central region suppliers
+- launching campaigns for each store
+Time: 12 months
+Budget: 8.5 billion VND (approximately VND 1.7 billion/store)
+Quality: Each store must reach the break-even point within 8 months after opening
+
+
+Request 2:
+Material Items cost: 1.5 billion
+- The cost for entry items for coffee store include chain, table, decor, ...
+
+Trainning cost: 500 million
+- The cost use to training local personnel inlucde staff, manager, marketing and design team,...
+- Invent people who have experience and exellent about each side to trainning and sharing.
+
+Marketing cost and design: 1 billion
+- The cost to make people know more about brand
+- Hire marketing team.
+- Design space and menu, social media page,...
+
+Human resource cost: 1 billion
+- Hire staff, manager , PM, HR team every month
+
+Local cost: 4 billion
+- The cost pay for local where need to open the store. 
+
+
+
+2)
+Request 3:
+Budget risks:
+- The plan budget have not budget enogh to finish project if have extra budget out plan 
+- Impact: high
+- Mitigation: Caculate carefully about any cost must use 
+- Contingency: Use backup budget, report extra cost and reason why it happen.
+
+Shedule risks:
+- The project have not time enogh to finish project if have milstone or scope is late.
+- Impact: high
+-Mitigation: Caculate carefully about time need to finish each milstone, need have backup plan if any milstone is late.
+Contingency: Use backup plan, report extra time and reason why it is late,
+
+Manager experience risks:
+ - The manager (PM, store manager,  team leader) can have no skills and experience enogh to manage.
+- Impact: high
+- Mitigation: Select and training carefully, Collect staff 's feedback about manager and custumer's feedback about service.
+- Contingency: Complain if any manager or staff is not good about their job. Can finish the policy if it is necessary.
+
+
+Request 4:
+1. Project manager (PM), marketing team (MT), design team (DT).
+2. 
+a. selecting premises
+b. Designing and contructing interiors consistent with the brand
+c. select human resource
+d. training local personnel
+e. building a raw material supply chain 
+f. launching campaigns for each store
+g. Decore nostalgic space
+h. building page on social media 
+i. Buy material items and equitment
+k. Report customer feedback
+3. 
+a. Selecting premises
+- PM : A
+- DT : I
+- MT: C
+b. Designing and contructing interiors consistent with the brand
+- PM: A
+- DT: R
+- MT: C
+c. Select human resource
+- PM: A
+- DT: I
+- MT: I
+d. Training local personnel
+- PM: A
+- DT: I
+- MT: I
+e. building a raw material supply chain
+- PM: A
+- DT: C
+- MT: C
+f. launching campaigns for each store
+- PM: A
+- DT: I
+- MT: I
+g. Decore nostalgic space
+- PM: A
+- DT: R
+- MT: C
+h. building page on social media
+- PM: A
+- DT: R
+- MT: R
+i. Buy material items and equitment
+- PM: A
+- DT: C
+- MT: I
+k. Report customer feedback
+- PM: A
+- DT: I
+- MT: I

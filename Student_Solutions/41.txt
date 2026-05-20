@@ -1,0 +1,142 @@
+1)
+Request 1: Narrative Charter Statement
+1. Project Name
+Coi Cafe Central Vietnam Expansion Project
+
+2. Project Justifications
+Coi Cafe is a pure Vietnamese coffee brand that currently operates 12 stores in Hanoi and Ho Chi Minh City. The brand is well-known for its nostalgic Vietnamese-style space, traditional drink menu, and sustainable business model, including the use of reusable cups and direct purchasing of coffee from Dak Lak farmers.
+
+The purpose of this project is to expand Coi Cafe into five Central provinces: Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh. The project will open one flagship store in each province within 12 months.
+
+This project is justified for several reasons. First, Central Vietnam is a potential market with growing tourism, urban development, and increasing demand for branded coffee experiences. Cities such as Da Nang and Hue attract both domestic and international visitors, creating strong opportunities for a Vietnamese cultural coffee brand like Coi Cafe.
+
+Second, expanding into the Central region helps Coi Cafe strengthen its national brand presence. Instead of being concentrated only in Hanoi and Ho Chi Minh City, the company can build recognition across three major regions of Vietnam: North, Central, and South.
+
+Third, the project supports Coi Cafe’s sustainable business model. By building a raw material supply chain with Central region suppliers while continuing to maintain relationships with Dak Lak farmers, Coi Cafe can reduce transportation costs, support local suppliers, and improve operational efficiency.
+
+Finally, the project is expected to create long-term financial value for the company. Each store is required to reach the break-even point within eight months after opening, which supports the company’s growth and profitability objectives.
+
+3. Project Constraints
+Scope Constraint
+
+The project scope includes opening five flagship stores in five Central provinces: Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh.
+The main scope includes:
+
+Surveying and selecting suitable premises.
+Designing and constructing store interiors consistent with Coi Cafe’s nostalgic Vietnamese brand identity.
+Recruiting and training local staff.
+Building a raw material supply chain from Central region suppliers.
+Preparing and launching marketing campaigns for each store.
+Opening one flagship store in each province.
+
+The project does not include opening more than five stores, expanding to other provinces, changing the core brand concept, or developing new product lines outside the traditional Vietnamese coffee menu.
+
+Time Constraint
+
+The total project duration is 12 months. All five flagship stores must be completed and opened within this period.
+
+Suggested project timeline:
+Month 1-2: Market research and location survey.
+Month 2-4: Premises negotiation and rental contracts.
+Month 3-6: Store design and construction planning.
+Month 5-9: Interior construction and equipment installation.
+Month 6-10: Recruitment and training.
+Month 8-11: Marketing preparation and launch campaigns.
+Month 10-12: Store openings and initial operation monitoring.
+
+Each store must reach its break-even point within 8 months after opening.
+
+Cost/Budget Constraint
+
+The total project budget is VND 8.5 billion, equivalent to approximately VND 1.7 billion per store.
+
+Quality
+
+
+
+
+Request 2: Cost/Budget Items
+1. Store Construction Cost
+Description:
+- Interior design, renovation, furniture, and decoration for each store.
+
+Estimation: ~VND 900 million/store
+
+How to Estimate: Based on previous store construction costs + quotations from contractors.
+Person in Charge: Interior Design Team + Project Manager
+
+2. Equipment & Machinery Cost
+Description: 
+- Coffee machines, grinders, POS systems, kitchen equipment.
+Estimation: ~VND 300 million/store
+
+How to Estimate: Supplier quotations and benchmarking with existing stores.
+
+Person in Charge: Operations Manager
+
+3. Human Resource Cost
+Description:
+ Recruitment, training, and initial salaries for staff.
+
+Estimation: ~VND 200 million/store
+
+How to Estimate: Based on HR salary standards and training program costs.
+
+Person in Charge: HR Team
+4. Marketing & Launch Campaign Cost
+Description:
+ - Grand opening events, promotions, advertising campaigns.
+Estimation: ~VND 150 million/store
+How to Estimate:
+Based on past campaign budgets and marketing plan.
+Person in Charge: Marketing Team
+
+5. Supply Chain Setup Cost
+Description: 
+Sourcing raw materials, logistics, and supplier contracts in Central region.
+Estimation: ~VND 150 million/store
+How to Estimate: 
+Supplier negotiation + logistics cost estimation.
+Person in Charge: Supply Chain Manager
+
+
+
+
+2)
+Request 3: Project Risks
+1. Risk: Delay in Construction
+Request 3: Project Risks
+1. Risk: Delay in Construction
+Description: Construction or renovation takes longer than planned.
+Impacts:
+Time: Project timeline delayed.
+Cost: Increased labor and material costs.
+Scope/Quality: Rushed work may reduce quality.
+Mitigation:
+Select experienced contractors.
+Regular progress monitoring.
+Contingency:
+Allocate buffer time (2–4 weeks).
+Use backup contractors if needed.
+2. Risk: Difficulty in Local Recruitment
+Description: Unable to recruit or train qualified staff in new regions.
+Impacts:
+Time: Delayed store opening.
+Quality: Poor service quality.
+Cost: Increased training cost.
+Mitigation:
+Early recruitment planning.
+Partner with local job platforms.
+Contingency:
+Transfer experienced staff from existing stores temporarily.
+3. Risk: Supply Chain Disruption
+Description: Issues with sourcing raw materials or logistics delays.
+Impacts:
+Scope/Quality: Inconsistent product quality.
+Cost: Increased supply cost.
+Time: Operational delays.
+Mitigation:
+Diversify suppliers.
+Sign long-term contracts.
+Contingency:
+Use backup suppliers from other regions.

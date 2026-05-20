@@ -1,0 +1,123 @@
+1)
+Question 1: 
+Project name: Expansion market lauching campaign store of Coi Cafe
+Justifications (purpose and reason to implement this project)
+- Coi Cafe is a pure Vietnamese coffee brand, famous for its nostalgic space, traditional drink menu, and sustainable business model. The project aims to expand the market penastration into 5 Central provinces include Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh,  due to explore the lauching campaign for flagship store in each province within 12 months. And more, the project also hope that Coi Cafe become the most popular with customer in here.
+- The reason to implement this project that in 5 central provinces have the potential customers as the population of there is rapidly increasing in the most day, The peopler delivers as more as, tourisms come to 5 provinces due to thousandly people every month. So, Coi Cafe will implement this project effectively.
+Project constraints:
+- In term of scope: the project includes surveying and selecting premises, designing and constructing interiors consistent with the brand, recruitong and training local personnel, biulding a raw marterial supply chain from Central region suppliers, and lauching campaigns for each store.
+- Time: The project during 12 months (this time included initiating, planning, executing, mornitoring and closing in project, but each store must reach the break-even point just within 8 months after opening)
+- Cost/Budget: The total budget is VND 8.5 billion (approximately VND 1.7 billion/ store)
+- Quality: The project will operate effectively and implement these in scopes timely, correctly.
+
+2)
+Question 2: Cost/Budget items in the project:
+1.Venue Rental Costt:
+Description: With the market penastration in 5 other provinces will cost the venue rental in each provinces by renting the location to set up the store to put the product and lauch campaigns in each one.
+Estimate: Parametric cost is based on the retal cost in 12 stores in Hanoi and Ho Chi Minh City to caculate that 20 million VND x 5 x 12 months equal to 1.2 billion VND (each store will be cost 240 millions for 12 months)
+2. Marketing team:
+Description: Activities in Marketing such as Ads in social media to lauch the campaigns, surveying the insight of people in provices,... This all to the project will expanse successfully.
+Estimate: Bottom-up is used to caculate the cost for each task in marketing team for each member. 
+3. Training and recruiting cost:
+Description: Training and recruiting also cost a lot of cost in the total budget. the activities include trainning the discipline, rule and process for new staff, recruiting at least 4 employees for each store.
+Estimate: Analoguos is based on the similar in the salary of the old store is 4 staffs x 8 hours x 25 thousand VND x 5 stores equal to 40 million VND (each store can be costed by 800 thousand VND for each day) and the recruiting is 25 thousand VND for each hour to training.
+4. Design Team
+Description: the designer has the cost of apps for designing the poster, banner,... for consisten with the brand
+Estimate: Analoguos that designer use 3 apps for designing is 3 x 2 million VND for 12 months equal to 72 million VND for each store
+5. Raw material:
+Description: The cost of material to buy from supplier
+Estimate: Analoguos is similar with the old of the store.
+
+Question 3: Three project risk
+Risk 1: The overrun budget during the project
+Description: During the project, the budget can be overrun to the total budget is planned. This can occur as the rental cost may increase, the team marketing may use over the budget is estimated or the timeline is under the milstone plan lead to the budget incerase.
+Possible: High
+Impact: High
+Risk response plans:
+- Mitigation plan: to reduce this risk in the project, the project manger can control the budget in this team and tasks by estimate correctly budget, control the timeline is on time as plan and survey first to price of these things, location.
+- Contingency plan: have the contingency reserve for this risk when the risk occur in the project.
+Risk 2: The venue rental
+Description: The venuer can cancel or increase the budget of location ahead of the duration.
+Possible: Medium
+Impact Medium
+Risk response plans:
+- Mitigation plan: the project manager must manage the agreement possively and search for the location and venuer quality to mitigate the agreement is cancalled.
+- Contingency plan: have the back up location for the risk 
+Risk 3: The staff training
+Description: The employees is recruitrd by HR team can not understand correctly about the rule, progress of the drink or having another staff do not accept the job despite of training.
+Possible: Medium
+Impact: Medium
+Risk response plan:
+- Mitigation Plan: the HR team must have the effective progress training for the new employees, test them before the real job and have the quality assurances and quality control regular review and test them to control the perfect training staff.
+- Contingency plan: Have more new staff in this job to backup the risk and have the budget to reserve recruitment again.
+
+Question 4:
+1. At least 3 project roles:
+- Project manager
+- Marketing team
+- HR team
+- Stakeholder
+- Design team
+2. Ten tasks. activities, or deliverables:
+- Estimate the cost/budget items during the project
+Description: The cost will be used in each store, tasks or activities can be listed to control the budget
+Project manager: R
+Marketing team: I
+HR team: I
+Design team: I
+Stakeholder: A
+- Create the content and design the banner, poster in the project for consisten with the brand
+Project manager: A
+Marketing team: R
+HR team: I
+Design team: R
+Stakeholder: C
+- Training and recruiting the employees for the froject
+Project manager: A
+Marketing team: I
+HR team: R
+Design team: I
+Stakeholder: C
+- Build the raw material supply chain
+Project manager: R
+Marketing team: R
+HR team: I
+Design team: I
+Stakeholder: A/C
+- Surveying and selecting location in provinces
+Project manager: A
+Marketing team: R
+Design team: I
+HR team: I
+Stakeholder: C
+- Control the risk management
+Project manager: R
+Marketing team: I
+HR team: I
+Design team: I
+Stakeholder: C/A
+- Ads on the social media 
+Project manager: A
+Marketing team: R
+HR team: C
+Design team: I
+Stakeholder: I
+- Edit video due to content to engage the customer
+Project manager: A
+Marketing team: R
+HR team: I
+Design team: R
+Stakeholder: C
+- Quality assurance and quality control the project aim to need the quality regular.
+Project manager: R
+Marketing Team: I
+HR team: I
+Design team: I
+Stakeholder: A
+- Create a WBS distionary during the project
+Project manager: R
+Marketing team: I
+HR team: I
+Design team: I
+Stakeholder: A
+

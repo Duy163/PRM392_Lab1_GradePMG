@@ -1,0 +1,208 @@
+1)
+Request 1: Narrative Charter Statement
+Project Name:
+Coi Cafe Central Market Entry and Store Launch Project
+Project Purpose / Justification:
+The purpose of this project is to support Coi Cafe in entering the Central Vietnam market by opening five flagship stores in Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh. The company currently has 12 stores in Hanoi and Ho Chi Minh City, so this project is a major step to expand the brand beyond its existing markets.
+The project is justified because Coi Cafe has a strong Vietnamese coffee concept, including nostalgic store space, traditional drinks, reusable cups, and direct coffee purchasing from Dak Lak farmers. These strengths can help the brand attract customers in Central Vietnam, where coffee culture and local community experience are important.
+By implementing this project, Coi Cafe can increase market share, build brand awareness in five new provinces, create additional revenue, and reduce dependence on Hanoi and Ho Chi Minh City. The flagship stores will also help the company test the Central market before deciding whether to open more stores in the future.
+Project Constraints:
+Scope Constraint:
+The project scope includes opening five flagship stores, one store in each selected province. The major activities include surveying and choosing store premises, designing and constructing store interiors, recruiting and training local employees, setting up raw material supply from Central region suppliers, and organizing opening campaigns for each store.
+The project scope does not include opening more than five stores, expanding to provinces outside Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh, selling franchise rights, or changing Coi Cafe’s main brand identity and traditional drink menu.
+Time Constraint:
+The project must be completed within 12 months. All five stores must be launched within the project period. In addition, each store must reach its break-even point within 8 months after opening.
+Cost / Budget Constraint:
+The total approved budget is VND 8.5 billion, approximately VND 1.7 billion per store. The budget is funded by company equity and commercial bank loans. The project team must control all spending carefully to avoid budget overrun.
+Quality Constraint:
+All stores must provide a consistent Coi Cafe experience. This means consistent nostalgic interior design, traditional drink quality, sustainable operation, reusable cup usage, customer service standards, and food safety standards. The construction quality and store operation process must also meet local legal and safety requirements.
+
+
+
+
+Request 2: Main Cost / Budget Items
+Cost Item 1: Market Survey and Premises Acquisition
+Description:
+This budget item covers customer traffic research, competitor observation, location visits, rental comparison, lease negotiation, broker support, and rental deposits for the five flagship stores.
+Estimated Amount:
+Around VND 1.25 billion.
+Way to Estimate:
+The estimate is made by calculating deposit cost for five stores and adding market survey, travelling, and broker costs.
+Formula:
+Estimated cost = Average monthly rent x deposit months x 5 stores + survey cost + travelling cost + broker fee
+Person in Charge:
+Market Development Director and Finance Manager
+Cost Item 2: Store Fit-out and Brand Interior Development
+Description:
+This cost is used to turn each selected premise into a Coi Cafe flagship store. It covers concept design, construction work, decoration materials, lighting, wall decoration, flooring, counter setup, furniture layout, and brand-related interior details.
+Estimated Amount:
+Around VND 2.9 billion.
+Way to Estimate:
+The estimate is based on the average store area and the average fit-out cost per square meter for five stores.
+Formula:
+Estimated cost = Average area per store x fit-out cost per square meter x 5 stores
+Person in Charge:
+Interior Project Lead
+Cost Item 3: Coffee Equipment and Store Operating Assets
+Description:
+This cost covers machines and assets needed for store operation, including coffee machines, grinders, refrigerators, POS devices, kitchen tools, tables, chairs, shelves, reusable cups, and service counters.
+Estimated Amount:
+Around VND 1.45 billion.
+Way to Estimate:
+The project team will prepare one standard asset package for one store, calculate the package value, and multiply it by five stores.
+Formula:
+Estimated cost = Standard operating asset package per store x 5 stores
+Person in Charge:
+Procurement Manager and Store Operations Manager
+Cost Item 4: Local Staff Hiring and Capability Building
+Description:
+This cost is used to hire and prepare local employees for all stores. It includes job posting, interview activities, onboarding, barista training, service training, operation training, and sustainability practice training.
+Estimated Amount:
+Around VND 650 million.
+Way to Estimate:
+The estimate is calculated based on the number of employees required for five stores, recruitment cost per employee, and training cost per training day.
+Formula:
+Estimated cost = Number of employees x hiring cost per employee + number of training days x training cost per day
+Person in Charge:
+HR Manager
+Cost Item 5: Supplier Development and Opening Inventory
+Description:
+This cost is used to identify and prepare suppliers in the Central region. It includes supplier searching, supplier audits, product testing, logistics setup, and opening inventory for coffee, tea, milk, ingredients, packaging, and other store materials.
+Estimated Amount:
+Around VND 850 million.
+Way to Estimate:
+The estimate is made by adding supplier audit cost, testing cost, logistics setup cost, and opening inventory cost for all five stores.
+Formula:
+Estimated cost = Supplier audit cost + product testing cost + logistics setup cost + opening inventory for 5 stores
+Person in Charge:
+Supply Chain Manager
+Cost Item 6: Grand Opening and Local Promotion
+Description:
+This cost is used for launching and promoting the new stores. It includes online advertisements, local KOLs, opening events, banners, posters, promotional vouchers, loyalty programs, and community engagement activities.
+Estimated Amount:
+Around VND 950 million.
+Way to Estimate:
+The estimate is calculated by setting a promotion budget for one store and multiplying it by five stores.
+Formula:
+Estimated cost = Launch promotion budget per store x 5 stores
+Person in Charge:
+Marketing Manager
+Cost Item 7: Project Contingency Fund
+Description:
+This reserve is used for unexpected cost increases, such as construction changes, rental changes, supplier delays, equipment replacement, or additional promotion needed after opening.
+Estimated Amount:
+Around VND 500 million.
+Way to Estimate:
+The contingency fund is calculated as a percentage of the total project budget, normally around 5% to 10%.
+Formula:
+Estimated cost = Total project budget x contingency percentage
+Person in Charge:
+Project Manager and Finance Manager
+Total Estimated Budget:
+The total estimated budget is approximately VND 8.5 billion.
+
+
+
+Request 3: Project Risks and Response Plans
+Risk 1: Wrong Market Positioning in Central Provinces
+Description:
+Coi Cafe may not position its stores correctly in the new Central markets. The nostalgic concept, price level, drink menu, or promotion message may not fully match local customer preferences.
+Possible Impacts:
+Scope / Quality:
+The stores may not attract the target customers or may fail to create a strong flagship store image.
+Time:
+The team may need additional time to adjust promotion messages, menu focus, or store operation approach after opening.
+Cost:
+Extra marketing cost and operating cost may be required to correct the positioning problem.
+Risk Response Plans:
+Mitigation:
+The marketing team should conduct customer research in each province before launch. The team should study local coffee habits, competitor pricing, customer age groups, and preferred store experiences. Marketing messages should be localized while still keeping the main Coi Cafe identity.
+Contingency:
+If customer response is weak after opening, the team should quickly adjust local campaigns, test new promotional bundles, collect customer feedback, and improve the store experience without changing the core brand concept.
+Risk 2: Interior Design Inconsistency Across Stores
+Description:
+Because five stores are built in different provinces, there is a risk that contractors may implement the design differently. Some stores may not fully reflect the nostalgic and traditional Coi Cafe concept.
+Possible Impacts:
+Scope / Quality:
+The brand image may become inconsistent, and some stores may not meet flagship store quality.
+Time:
+The team may need extra time for redesign, correction, or rework before store opening.
+Cost:
+Rework and additional decoration cost may increase the project budget.
+Risk Response Plans:
+Mitigation:
+The Interior Project Lead should prepare standard design guidelines, material specifications, layout standards, and quality checklists. Contractors should be briefed clearly before construction, and design inspections should be conducted during construction.
+Contingency:
+If a store does not meet the design standard, the team should correct only the key brand-touchpoint areas first, such as entrance, counter, seating area, lighting, and wall decoration, so the store can still open on time with acceptable brand quality.
+Risk 3: Cash Flow Pressure from Loan and Slow Store Revenue
+Description:
+The project uses company equity and commercial bank loans. If store revenue grows slowly or opening costs are higher than planned, the company may face cash flow pressure during the expansion period.
+Possible Impacts:
+Scope / Quality:
+The company may need to reduce non-essential spending, delay some activities, or limit marketing support for later stores.
+Time:
+Some store openings may be delayed if payment to contractors or suppliers is affected.
+Cost:
+Interest expenses and operating losses may increase if stores do not reach break-even within 8 months.
+Risk Response Plans:
+Mitigation:
+The Finance Manager should prepare a monthly cash flow plan, monitor spending carefully, and control loan usage. The project team should prioritize expenses that directly support store opening and early revenue generation.
+Contingency:
+If cash flow becomes tight, the company should renegotiate payment schedules with suppliers, reduce low-impact marketing expenses, delay non-critical decoration items, and focus resources on stores with the fastest revenue potential.     
+
+
+Request 4: RACI Chart
+RACI Legend:
+R means Responsible.
+A means Accountable.
+C means Consulted.
+I means Informed.
+Project Roles:
+1.Market Development Director / Project Manager:
+This role is accountable for the entire expansion project. The Project Manager controls the project scope, schedule, cost, risks, and coordination among different teams.
+2.Finance and Budget Controller:
+This role is responsible for cost estimation, budget tracking, loan planning, payment control, and monthly financial reporting.
+3.Site Acquisition Lead:
+This role is responsible for researching local markets, evaluating potential premises, supporting lease negotiation, and recommending final store locations.
+4.Interior and Construction Lead:
+This role is responsible for interior concept development, construction supervision, contractor management, and store design quality control.
+5.People and Training Lead:
+This role is responsible for hiring local staff, organizing training, preparing employees for opening, and ensuring service quality readiness.
+6.Supply and Operations Lead:
+This role is responsible for supplier preparation, inventory readiness, store operating assets, pre-opening checks, and daily operation setup.
+7.Brand Launch Lead:
+This role is responsible for market communication, grand opening plans, advertising, local promotion, and customer acquisition activities.
+Tasks / Activities / Deliverables and RACI Responsibilities:
+Task 1: Approve Expansion Business Case
+Market Development Director / Project Manager: A/R
+Finance and Budget Controller: C
+Site Acquisition Lead: C
+Interior and Construction Lead: I
+People and Training Lead: I
+Supply and Operations Lead: C
+Brand Launch Lead: C
+Task 2: Prepare Detailed Project Schedule
+Market Development Director / Project Manager: A/R
+Finance and Budget Controller: C
+Site Acquisition Lead: C
+Interior and Construction Lead: C
+People and Training Lead: C
+Supply and Operations Lead: C
+Brand Launch Lead: C
+Task 3: Create Store-level Budget Plan
+Market Development Director / Project Manager: A
+Finance and Budget Controller: R
+Site Acquisition Lead: C
+Interior and Construction Lead: C
+People and Training Lead: C
+Supply and Operations Lead: C
+Brand Launch Lead: C
+Task 4: Conduct Local Market Research
+Market Development Director / Project Manager: A
+Finance and Budget Controller: I
+Site Acquisition Lead: C
+Interior and Construction Lead: I
+People and Training Lead: I
+Supply and Operations Lead: I
+Brand Launch Lead: C
+2)

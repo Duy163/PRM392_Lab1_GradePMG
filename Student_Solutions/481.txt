@@ -1,0 +1,101 @@
+1)
+Request 1:
+The project is named “Coi Cafe Central Expansion Deployment Project”. The objective is to launch five flagship stores in Central Vietnam to expand business operations and increase brand reach. This project helps Coi Cafe enter new markets, attract new customers, and strengthen its competitive position. It also supports operational efficiency by building a regional supply network and reducing transportation distance from suppliers.
+The project has key constraints. In terms of scope, it must deliver five complete stores including site selection, construction, staffing, supply chain setup, and marketing activities. In terms of time, all stores must be opened within 12 months, requiring strict schedule control. In terms of cost, the total budget is limited to VND 8.5 billion, so spending must be carefully managed. In terms of quality, all stores must follow brand standards and achieve break-even within 8 months after opening.
+
+Request 2:
+The first cost item is Rental and Legal Cost. This includes lease payments, deposits, and legal documentation. The estimation is based on local rental market analysis and negotiation results, handled by the procurement team.
+The second cost item is Construction and Interior Cost. This includes building work, decoration, and finishing. The estimation is based on detailed design drawings using bottom-up estimation, prepared by the design team.
+The third cost item is Equipment and Furniture Cost. This includes coffee machines, POS systems, and furniture. The estimation uses supplier quotations and past data, managed by procurement.
+The fourth cost item is Staffing and Training Cost. This includes recruitment, salaries during training, and training programs. The estimation is based on workforce planning and salary benchmarks, prepared by HR.
+The fifth cost item is Marketing and Promotion Cost. This includes advertising, campaigns, and opening events. The estimation is based on previous campaign data and expected market demand, handled by the marketing team.
+
+Request 3:
+Risk 1: Delay in Project Schedule
+Description: Project activities may be delayed due to poor planning or unexpected issues during execution.
+Impact:
+Scope/Quality: Some deliverables may not fully meet required standards
+Time: Overall project timeline may be delayed by 1–2 months
+Cost: Additional labor and management cost may increase by 8–12%
+Mitigation: Develop a detailed schedule and monitor progress regularly.
+ Contingency: Adjust timeline and allocate additional resources when delays occur.
+Risk 2: Low Staff Retention
+Description: Newly hired staff may leave early due to job mismatch or low engagement.
+Impact:
+Scope/Quality: Service quality may be unstable due to frequent staff changes
+Time: Additional recruitment and training may delay stable operations by 1–2 months
+Cost: Recruitment and training cost may increase by 6–10%
+Mitigation: Improve recruitment process and provide clear training and incentives.
+ Contingency: Maintain a backup candidate pool and quickly replace staff when needed.
+Risk 3: Ineffective Cost Control
+Description: Spending may exceed planned budget due to weak financial management.
+Impact:
+Scope/Quality: Some project elements may need to be reduced
+Time: Financial adjustments may slow down project progress
+Cost: Total cost may exceed budget by 10–15%
+Mitigation: Apply strict budget tracking and regular financial reviews.
+ Contingency: Reallocate budget and prioritize critical activities.
+
+Request 4:
+The main roles include Project Manager (PM), Design Team, HR Team, Marketing Team, and Procurement Team.
+Task 1: Project Setup
+ PM – A
+ Design Team – C
+ Marketing Team – C
+ HR Team – I
+ Procurement Team – I
+Task 2: Market Study
+ PM – A
+ Marketing Team – R
+ Design Team – C
+ HR Team – I
+ Procurement Team – I
+Task 3: Site Selection Approval
+ PM – A
+ Design Team – R
+ Procurement Team – C
+ Marketing Team – C
+ HR Team – I
+Task 4: Design Execution
+ PM – A
+ Design Team – R
+ Marketing Team – C
+ Procurement Team – I
+ HR Team – I
+Task 5: Construction Implementation
+ PM – A
+ Design Team – R
+ Procurement Team – C
+ Marketing Team – I
+ HR Team – I
+Task 6: Equipment Procurement
+ PM – A
+ Procurement Team – R
+ Design Team – C
+ HR Team – I
+ Marketing Team – I
+Task 7: Hiring Activities
+ PM – A
+ HR Team – R
+ Marketing Team – C
+ Design Team – I
+ Procurement Team – I
+Task 8: Training Activities
+ PM – A
+ HR Team – R
+ Marketing Team – C
+ Design Team – C
+ Procurement Team – I
+Task 9: Marketing Implementation
+ PM – A
+ Marketing Team – R
+ Design Team – C
+ HR Team – I
+ Procurement Team – I
+Task 10: Opening Execution
+ PM – A
+ Marketing Team – R
+ HR Team – R
+ Design Team – C
+ Procurement Team – I
+2)

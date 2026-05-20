@@ -1,0 +1,123 @@
+1)
+- Request 1
+The project name is Coi Cafe expansion
+
+The purpose and reason of the project is to let local people in central provinces know more about the brand Coi Cafe.
+
+Constraints:
+The scope of the project is to expand into 5 central provinces, each provinces with 1 flagship store, survey and select premises, design and construct interiors, recruit and train local personel, build a raw material supply chain from Central region suppliers, and launch campaigns for each store.
+
+The project will take 8 months to complete.
+
+The budget for the project will be 8.5 billion VND.
+
+The quality of the project is each store must reach the break-even point within 8 months after opening.
+
+- Request 2
+First main cost/budget item
+Name: Chairs and tables
+
+Description: A cafe store need chairs and tables for customers want to stay and drink right at the store.
+
+Estimate: 2 billion VND
+
+Person in charged: Design team.
+
+Second main cost/budget item
+Name: Cafe making machines, cups, straws.
+
+Description: Cafe making machines, cups, straws are essentials things for a cafe store.
+
+Estimate: 3 billion VND
+
+Person in charged: Design team.
+
+Third main cost/budget item
+Name: Advertise 
+
+Description: To let people who have know or not knowing the brand see advertises about Coi cafe store.
+
+Estimate: 500 million VND
+
+Person in charged: Marketing team
+
+Fourth main cost/budget item
+Name: Decoration items
+
+Description: Buy decoration items for each store to decorate the whole store, drink menu.
+
+Estimate: 2 billion VND
+
+Person in charged: Design team 
+
+Fifth main cost/budget item
+Name: Materials for making coffee.
+
+Description: To make a coffee cup, the store need materials like coffee beans, milk, ice, sugar.
+
+Estimate: 1 billion VND 
+
+Person in charged: PM
+
+- Request 3
+Three project risks can happen when doing this project are
+
+Risk name: Run out of coffee materials
+Description: When the store run out of a coffee material like coffe, milk, sugar. The customer have to choose another item from the menu and it will lower the customer sastification about the store.
+Mitigation: Always check for materials before opening the store to make sure every items in the menu are available for customers.
+Contigency: Apologize to the customer, and give them a discount voucher that can apply for the next time when they come by.
+
+Risk name: Not enough seats for customer
+Description: When a customer want to stay to enjoy the space of the store and there is no more available seats, and they have to take it away.It will lower the customer sastification about the store.
+Mitigation: Add more seats for customer in the store, provide seats outside the store and on the roof (if needed)
+Contigency: Apologize to the customer and tell them to enjoy staying in the next time.
+
+Risk name: The machines broken.
+Description: When the machines in the store broke down, customers come by and have to wait for fixing, or maintaining the machines and even worse it the store have to close for days to fix.
+Mitigation: Always clean and check the machine before closing the store or opening it.
+Contigency: Apologize to customers came by, give the customer a discount voucher. 
+2)
+- Request 4 
+Three project roles are: Project manager, desgin team, marketing team.
+
+Ten tasks, activities, deliverables are:
+Task 1: Make a proper project plans
+PM R A
+Design team C
+Marketing C
+Task 2: Survey and selecting premises
+PM I A
+Marketing R 
+Design team C
+Task 3: Design and construct interiors
+Design team R
+Marketing team C
+PM I A
+Task 4: Recruiting and training local personnel
+PM I A
+Marketing team C
+Design team C
+Task 5: Build a raw material supply chain from Central region suppliers
+PM I A
+Marketing team R
+Design team C
+task 6: Launch campain
+PM R A
+Marketing team I
+Design team C
+Task 7: Get chairs and tables to set up seats for customer
+PM I A
+Marketing team C
+Design team R
+Task 8: Run advertise to attract more customers
+PM I A
+Marketing team R
+Design team C
+Task 9: Get materials to make coffee.
+PM I A
+Marketing team C
+Design team C
+Task 10: Find a good place to set up cafe store
+PM I A
+Marketing team C
+Design team R 

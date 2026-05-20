@@ -1,0 +1,176 @@
+1)
+Request 1
+
+Project name: Coi Cafe Central Vietnam Expansion Project
+
+Coi Cafe plans to expand to 5 Central provinces: Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh. The project will open 1 flagship store in each province within 12 months. The project is managed by the Market Development Director as Project Manager. The PM works with design team, HR team, marketing team, and suppliers.
+
+The purpose of this project is to grow the business and reach more customers in Central Vietnam. It also helps increase brand awareness and sales. Central Vietnam has many customers such as tourists, students, and workers.
+
+Project scope includes location survey, selecting premises, designing and building stores, hiring and training staff, building supply chain, and running marketing campaigns.
+
+Time constraint: 12 months to open all 5 stores.
+Cost constraint: total budget is VND 8.5 billion.
+Scope constraint: must open 5 stores in 5 provinces.
+Quality constraint: stores must follow brand style and reach break-even within 8 months.
+
+Request 2
+
+Cost item 1: Premises survey and rental deposit
+Description: find locations and pay deposit for store rent
+Estimation: based on local rental price and deposit rule
+Person in charge: Project Manager
+
+Cost item 2: Interior design and construction
+Description: design and build the store inside 
+Estimation: based on cost per square meter and contractor quote
+Person in charge: Design team
+
+Cost item 3: Equipment and furniture
+Description: buy coffee machines, tables, chairs, POS system
+Estimation: based on supplier quotation and number of stores
+Person in charge: Purchasing team
+
+Cost item 4: Staff recruitment and training
+Description: hire and train employees for each store
+Estimation: based on number of staff and training cost
+Person in charge: HR team
+
+Cost item 5: Supply chain setup
+Description: find suppliers and prepare raw materials
+Estimation: based on supplier price and transport cost
+Person in charge: Supply chain team
+
+Cost item 6: Marketing and launch
+Description: run ads, events, and promotion for opening
+Estimation: based on marketing plan and campaign cost
+Person in charge: Marketing team
+2)
+Request 3
+
+Risk 1: Cannot find good location
+Description: hard to find suitable premises
+Impact:
+scope or quality: location is not good
+time: delay opening
+cost: higher rent
+Mitigation: survey early and prepare backup locations
+Contingency: choose second best location
+
+Risk 2: Construction delay
+Description: building work is late
+Impact:
+scope or quality: design may be reduced
+time: delay opening
+cost: extra cost for labor
+Mitigation: choose good contractor and check progress
+Contingency: add more workers or change contractor
+
+Risk 3: Staff not ready
+Description: cannot hire enough staff
+Impact:
+scope or quality: service is not good
+time: delay opening
+cost: more training cost
+Mitigation: recruit early and use training plan
+Contingency: use experienced staff from other cities
+
+Request 4
+
+Roles: PM, Design team, HR team, Marketing team, Supply chain team, Finance team
+
+Task 1: define project plan
+PM: A R
+Design: C
+HR: C
+Marketing: C
+Supply chain: C
+Finance: C
+
+Task 2: survey locations
+PM: A R
+Design: C
+HR: I
+Marketing: C
+Supply chain: C
+Finance: I
+
+Task 3: select premises
+PM: A R
+Design: C
+HR: I
+Marketing: C
+Supply chain: C
+Finance: C
+
+Task 4: prepare budget
+PM: A
+Design: C
+HR: C
+Marketing: C
+Supply chain: C
+Finance: R
+
+Task 5: design store
+PM: A
+Design: R
+HR: I
+Marketing: C
+Supply chain: I
+Finance: C
+
+Task 6: construction
+PM: A
+Design: R
+HR: I
+Marketing: I
+Supply chain: C
+Finance: C
+
+Task 7: find suppliers
+PM: A
+Design: I
+HR: I
+Marketing: I
+Supply chain: R
+Finance: C
+
+Task 8: recruit staff
+PM: A
+Design: I
+HR: R
+Marketing: I
+Supply chain: I
+Finance: C
+
+Task 9: train staff
+PM: A
+Design: I
+HR: R
+Marketing: C
+Supply chain: C
+Finance: I
+
+Task 10: marketing plan
+PM: A
+Design: C
+HR: I
+Marketing: R
+Supply chain: I
+Finance: C
+
+Task 11: launch store
+PM: A R
+Design: C
+HR: C
+Marketing: R
+Supply chain: R
+Finance: I
+
+Task 12: check break even
+PM: A
+Design: I
+HR: I
+Marketing: C
+Supply chain: C
+Finance: R

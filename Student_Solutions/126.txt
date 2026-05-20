@@ -1,0 +1,159 @@
+1)
+request 1 : 
+1. coi cafe 
+2. set up for its nostalgic space , traditional drink menu , and sustainable business model
+3.
+coi's management decided to implement an expansion project into 5 central provinces
+time : with 1 flagship store in each province within 12 months 
+cost/budget : the total budget is vnd 8.5 billion (approximately vnd 1.7 billion/store)
+quality : each store must reach the break-even point within 8 months after opening 
+
+request 2 : 
+1. project setup & approach cost 
+description : cost for permit, licenses and initial approval 
+estimation method : project setup need to be focus and carefully 
+estimation cost : 1.7 billion 
+person in charge : project manager 
+
+2. equipment & material 
+description : tools , equipment or material need for project 
+estimation method : market cost comparison and supplier quotes 
+estimation cost : 1.5 billion 
+person in charge : technical lead 
+
+3. member(staff/labor)
+description : cost for teamwork , salary
+estimation method : hourly rate x working hour x the number of staff
+estimation cost : 1.7 billion 
+person in charge : hr/lead 
+
+4.communication & marketing 
+estimation cost : 1.7 billion 
+person in charge : marketing team 
+
+
+
+  
+2)
+request 3 : 
+risk 1 : budget estimation error 
+posibility : medium 
+impact : high (cost,scope)
+migration : add 10% buffer , estimation carefully 
+contingency : reduce scope 
+
+risk 2 : schedule delay 
+posibility : high 
+impact : high (cost,time)
+migration : prioritize task , track process
+contingency : extend deadline 
+
+risk 3 : risk management 
+posibility : medium 
+impact : high ( time,quality)
+migration : training , follow process
+contingency : assign support PM
+
+risk 4 : communication 
+posibility : medium 
+impact : medium ( time , quality )
+migration : regular meeting , clear role
+contingency : adjust teamwork 
+
+request 4 : 
+1. project mamager 
+    business analyst
+    developers
+    tester 
+    system architer 
+
+2. requirement gather 
+    design project 
+    development of core modules 
+    development of user interface 
+    integration testing 
+    user acceptance testing 
+    system deployment 
+    training user 
+    data backup implementation 
+    project clossure 
+
+3. a) requirement gather 
+    PM : A
+    BA : R
+    Dev1 : C
+    Dev2 : C
+    Tester : I
+    System architer : C
+
+    b) design project 
+    PM : A
+    BA : R
+    Dev1 : C 
+    Dev2 :  C 
+    Tester : I
+    System architer : R 
+
+    c) development of core modules 
+    PM : I
+    BA : C
+    Dev1 : C
+    Dev2 : C
+    Tester : R
+    System architer : A
+
+    d) development of user interface 
+    PM : I
+    BA : C
+    Dev1: A
+    Dev2:  A
+    Tester : R
+    System architer : C
+    
+    e) integration testing 
+    PM : A
+    BA :  I 
+    Dev1 : R  
+    Dev2 :  R 
+    Tester :  R 
+    System architer : C 
+
+    f) user acceptance testing : 
+    PM : A
+    BA : R
+    Dev1: C
+    Dev2: C
+    Tester : R
+    System architer : I
+
+    g) system deployment
+    PM : R
+    BA : C
+    Dev1 : I
+    Dev2 : I
+    Tester : A
+    System architer : A
+ 
+    h) training user 
+    PM : R
+    BA : C
+    Dev1 : A
+    Dev2 : A
+    Tester : I
+    System architer : I
+
+    i) data backup implementation 
+    PM : A
+    BA :  C
+    Dev1: R 
+    Dev2 : R 
+    Tester : R 
+    System architer : C
+
+    j) project clossure
+    PM : A
+    BA :  R
+    Dev1:  C 
+    Dev2 : C
+    Tester : I
+    System architer : I 

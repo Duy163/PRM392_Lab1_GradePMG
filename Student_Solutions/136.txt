@@ -1,0 +1,72 @@
+1)
+Request 1:
+1.Project name: Coi Coffee Project
+2. Justification: a pure VietNamese Coffee with nostalgic space, traditional drink menu, sustainable business model to make customer feel happy, relax , unique when drink coffee
+3.
+1/Scope: Scope of whole project is open at 5 provinces with surveying and selecting premiese, designing and constructing interiors consistent with the brand, recruiting and training local personal, building a raw material supply chain from Central region suppliers and lauching campaigns for each store
+2/Time: Within 12 months.
+3/ Cost: Total budget is VND 8.5 billion from equity and commercial bank loans.
+4/Quality: Each store must reach the break- even point (VND 1 billion) within 8 months after opening
+Request 2:
+1. Preparation cost
+- Description: Purchasing the necessary material and basic thing  to setup project  
+- Estimate: VND 2 billion
+- Method: Supplier quotation
+- Responsible: Project Manager
+2. Marketing
+- Description: Social media boosting and printing poster.
+- Estimate: VND 2 billion
+- Method : Base on previous campaign
+- Responsible: Marketing team
+3. Admin/Staff Training
+- Description: Training the member team and parperwork
+- Estimate: VND 1.5 billion
+- Method : Expert Judgment
+- Responsible:  HR team
+4. Coffe Brand
+- Description: To make unique logo and style 
+- Estimate:VND 1 Billion 
+- Method: Designer
+- Responsible: Design team
+5. Contingency Serve
+- Description: Unexpected risk occur during project
+- Estimate:VND 2 Billion
+- Method : Calculation report
+- Responsible: Project Manager
+Request 3:
+1/Fail to reach final target
+- Description: Each store does not reach the break-even point(VND 1 billion) within 8 months after opening
+- Impact : Wasting time and budget
+- Respone:
++ Mitigation: Resolve the problem as soon as posible and host meeting more than
++ Contigency: Push marketing early
+2/ Bad feedback of customer
+- Description: Customer not happy about service
+- Impact: Bad customer experience
+- Response:
++ Migitation: Assign admin and improve service early  from feedback 
++ Contingency: Receive feedback customer from multi platform
+3/ Unexpected Cost
+- Description: The unexpected cost more than budget estimate.
+- Impact : Not enough budget to maintance 
+- Respone:
++ Migitation: Research market and update material 
+posible
++ Contingency: Using the contingency serve backup
+Request 4:
+1/Role
+1. Project Manager 
+2. Design Lead
+3. Marketing Lead
+2/ Task 
+1. Define project scope : Project Manager (A,R), Design Lead (C), Marketing Lead (I)
+2. Assign role team: Project Manager (A), Design Lead (C), Marketing Lead (I)
+3. Purchasing matetiral
+4. Excute main plan
+5. Implement Matketing  
+6. Conduct  production
+7. Traning member team
+8. Design brand
+9. Track on working status
+10. Host meeting
+2)

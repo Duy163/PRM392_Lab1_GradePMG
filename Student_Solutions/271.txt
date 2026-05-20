@@ -1,0 +1,92 @@
+1)
+Question1: 
+1. Project name: Coi Cafe expansion project
+2. Purpose, reasons:
+Expand Coi Cafe into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store each province .
+3. Project contraints:
+In terrm of scope: 
++ surveying and selecting premises
++ designing and constructing interiors consistent with the brand
++ recruiting and training local personal
++ building a raw material supply chain from Central region suppliers
++ lauching campaigns
+Time: 12 months
+Budget/cost:  total is VND 8.5 billion (VND 1.7 billion/store)
+Quality: each store must reach the break-even point within 8 months after opening.
+
+
+Question 2:
+1.Human resources:
+description: budget spent for all employees
+estimation: VND 1.2 billion in 12 months
+way: VND 120 millions for a  month
+
+2. Maketing Campaigns fee:
+estimation: VND 2 billion
+way: top-down estimation
+
+3.Raw material supply chain:
+estimation: VND 2.4 billion
+way: top-down estimation
+
+4.Coperating with brand:
+estimation: VND 700 millions
+way: contact with brand
+
+5. Training local personel:
+estimation: VND 600 millions
+way: asking the expertises 
+
+
+2)
+Question 3:
+1. Poor results from marketing campaigns
+description: marketing campaigns are not acttractive for people in these places.
+impacts: increase  budget/ cost
+responses:
+mitigation: change another plan for accessing and attracting customers  more
+contingency: have many marketing plans for subtitiles.
+
+2. The lack of raw material from supply chains.
+description: in some cases,there are not enough  raw materials in some amount of time in year.
+impacts: delay time, increae cost, decrease store's income
+responses:
+mitigation: buy materials in other farm with high cost,
+create program for sale another products.
+contingency: have many resources of coffee or other materials that have same quality
+
+3. PM is absent in a part of project's time.
+description: in some cases, project manager can not participate on the project with members.
+impacts: delay tasks, project, misleading, conflicts.
+responses:
+mitigation: offer PM leave all  informations, requests, document for new lead to manage and continue the project
+contigency: the  report, wbs or other important documents are always clearly and available for backup and PM absence.
+
+Question 4:
+1. PM (Project Manager), Marketing team,HR team, Design team
+2 .
+Tasks:
+1.surveying and selecting premises:
+2.designing and constructing interiors consistent with brand
+3. rescruiting and training local personnel.
+4.building a raw material supply chain from Central resion suppliers
+5.lauching campaingns for each store
+6. create wbs documents
+7.write report for each milestone of project
+8. collect feedbacks from customers.
+9. convey marketing on the social platforms and follow customer responses
+10.manage employees and human resourses
+
+3. Responsibilities
+(R): resonsible, (A) :accoutable, (I): informed, (C): consulted
+Task\Role  PM,       Design,      HR ,    Marketing
+1.                A               I                I             R
+2.                C              R               I              I
+3.                I                I               A, R         I
+4.                R,A           I                I              I
+5.                A              C                C            R
+6.               R,A           C                C            C
+7.               R,A            I                 I             C
+8.               I                 I                 I             R,A
+9.               C                I                 I             R
+10.            A                 I                R             I

@@ -1,0 +1,79 @@
+1)
+Request 1:
+1. Project name: Bring Coi Cafe to central of VietNam.
+2. Justification:
+- Reasons: Coi's management desired to implement an expansion project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh).
+- Purpose: Open 1 flagship store in each province within 12 months in order to open up the Coi Cafe brand to more customers.
+3.
+- Scope:
++ Surveying and selecting premises.
++ Designing and constructing interiors consistent with the brand.
++ Recruiting and training local personnel.
++ Building raw material supply chain from Central region suppliers
++ Lauching campaigns for each store.
+- Time: 12 months
+- Cost/Budget: Total budget is VND 8.5 billion (VND 1.7 billion/store) from equity and commercial bank loans.
+- Quality:
++ Reach milestone of 1 store in each province within 12 months with expected budget (VND 8.5 billion)
++ Each store must reach the break-even point within 8 months after opening.
+
+Request 2:
+1. Design team hiring cost.
+- Description: Cost for design team who can edit video, image and create trending content to attract local citizens in each provinces.
+- Estimate method: bottom-up. Example: the salary per hours * number person in team in each province * number of store
+2. Marketing team hiring cost
+- Description: Cost for maketing team who can advertise the brand and organize campagins in order to encourage customer to try products.
+- Estimate method: bottom-up
+3. Cost for development team.
+- Description: Cost for backend, frontend team who develop platform (such as website, application) to help customer easier to purchase in digital platform. Moreover, they can build dashboard for managers to manage and monior store effectively.
+- Estimate method: bottom-up
+4. Cost for deploy infrastructure.
+- Description: Cost for infrastuctures (such as AWS, Azure) for hosting, deploy or even file storage.
+- Estimate method: Base on vendor cost and before experiences
+5. Cost for coffee raw material or space
+- Description: Cost for material (such as cups) can be expected and based on before openned stores. Cost for spaces depends on location where managers want to build.
+- Estimate method: Use bottom-up method for cups cost. Based local price to compute space cost.
+
+
+2)
+Request 3:
+1. Key member leaving
+- Description: Memers (Example: Team leader) who take responsibility for important tasks leaving without any reasons.
+- Impact:
++ Time: PM may need more time to hire new member and new member also need time to learn project tasks. It can lead to schedule delay and affect negatively project quality overall.
++ Cost: It can lead to hiring cost promotion because forcing to hire new leader quickly.
++ Quality: This risk can delay expected schedule, affcect project budget, leading to negative project outcomes.
+- Response plan: Mitigation - Build and maintain documentation or dashboard during progress and encourage knowledge sharing meeting or events to reduce dependency in individuals, teams. If key member leaves, the team always have alternative people to take responsibility.
+2. Third-party API downtime
+- Description: Deployment services (such as AWS) issues make the website, application shut down.
+- Impact: 
++ Time: Managers can find difficulty when manage and monitor store and financial status becase the dashboard is down. It takes more time when no technology support. 
++ Cost: Customer who want to buy coffee online will have obstacles and buy other coffee stores because online website is down. It can affect revenue when platform have issues.
++ Quality: This risk affect the improvement of brand negatively because no assistance of online purchase platform.  
+- Response plan: Mitigattion - Implement callback mechanism such as retry, caching. Prepare small budget for other API services if necessary.
+3. Marketing activites have issues.
+- Description: Marketing actitvies can not attract customers.
+- Impact:
++ Time: It make the time of brand improvement longer or even delay schedules.
++ Cost: The project use huge amount of money but it can not encourage customer to try coffee.
++ Quality: The risk directly project quality and budget overall.
+- Response plan: Mitigation - Make video producing progress with KOLs/Influencers cooperation to create trending content.
+
+Request 4:
+1, 3 project roles:
+- Market Development Director (PM)
+- Design Team (DT)
+- Marketing team (MT)
+
+Resposibilities:
+- Make communication plan: PM (C), DT(C), MT(A, R)
+
+- Write content and script: PM(C), DT(C), MT(A, R)
+- Review script content: PM(A, R), DT(C), MT(C)
+- Collaborate with KOLs/influencers: PM(C), DT(A, R), MT(C)
+- Create video for advertising: PM(C), DT(A, R), MT(C)
+- Content review: PM(C), DT(C), MT(A, R)
+- Content fixing: PM(C), DT(R), MT(A)
+- Publish image and video to socail media: PM(C), DT(C), MT(A, R)
+- Keep track and monitor views and customer comments: PM(I), DT(I), MT(A,R)
+-  Review achievable results and evaluate progress: PM(A, R), DT(C), MT(C)

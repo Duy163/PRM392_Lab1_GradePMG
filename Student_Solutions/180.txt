@@ -1,0 +1,103 @@
+1)
+_REQUEST 1:
+- The project is named: “Coi Cafe Central Expansion Project”. 
+- The main objective is to establish five new flagship stores in Central Vietnam to expand operational capacity and increase brand coverage. This project enables Coi Cafe to access new customer segments, improve national brand. It also supports supply chain optimization by sourcing materials closer to the new market, which helps reduce logistics cost and improve eficiency.
+- The project is constrained by key factors. In terms of scope, the project must deliver five complete stores including planning, construction, staffing, supply chain setup, and marketing launch. In terms of time, all stores must be opened within 12 months, requiring strong coordination between teams.
+-  Budge: The total budget is limited to VND 8.5 billion, so all activities must be controlled within budget.
+- In terms of quality, each store must meet brand standards in design, service, and operations, and must achieve break-even within 8 months.
+
+_REQUEST 2:
+- The first cost item is Facility Cost. This includes rental payments, deposits, and legal processing fees. The estimation is based on rental benchmarks and local market data, prepared by the procurement team.
+ - The second cost item is Construction and Fit-out Cost. This includes building work, interior finishing, and decoration. The estimation uses bottom-up estimation based on technical drawings, prepared by the design team.
+ - The third cost item is Equipment Procurement Cost. This includes coffee machines, POS systems, and furniture. The estimation is based on supplier quotations and historical purchase data, handled by procurement.
+ - The fourth cost item is Personnel Cost. This includes recruitment expenses, salaries during training, and onboarding. The estimation is based on workforce planning and salary standards, prepared by HR.
+ - The fifth cost item is Promotion and Branding Cost. This includes advertising, campaigns, and launch events. The estimation is based on previous campaign budgets and expected market conditions, 
+prepared by the marketing team.
+ 
+2)
+_REQUEST 3:
+- Risk 1: High Competition in Target Areas
+  + Description: Existing coffee brands in Central provnces may create strong competition, reducing market share for new stores.
+ Impact:
+   + Scope/Quality: Difficulty in achieving expected customer volume and brand positioning
+    + Time: Break-even period may extend by 2–4 months
+    +  Cost: Additional marketing and promotion cost may increase by 10–15%
+     + Mitigation: Conduct competitor analysis and differentiate products and services.
+     + Contingency: Increase promotional campaigns and introduce localized offerings.
+- Risk 2: Delayed Supply Delivery
+ + Description: Suppliers may fail to deliver materials and equipment on time.
+ + Scope/Quality: Store setup and product availability may be affected
+ + Time: Opening schedule may be delayed by 2–3 weeks
+  + Cost: Emergency procurement cost may increase by 5–10%
+  + Mitigation: Establish clear contracts with suppliers and monitor delivery schedules.
+ Contingency: Use backup suppliers and maintain buffer stock.
+- Risk 3: Weak Operational Control
+  + Description: Poor management during early operations may lead to inefficient.
+  + Scope/Quality: Service quality and operational consistency may decrease
+   + Time: Stabilization period may be extended by 1–2 months
+    + Cost: Additional management and correction cost may increase by 5–8%
+    + Mitigation: Implement clear operational procedures and regular supervision.
+     + Contingency: Assign experienced managers from existing stores to support operations.
+
+_REQUEST 4:
+-  Roles in project is: Project Manager (PM), Design Team, HR Team, Marketing Team, and Procurement Team.
+  - Task 1: Strategy Planning
+ PM – A
+ Design Team – C
+ Marketing Team – C
+ HR Team – I
+ Procurement Team – I
+  - Task 2: Customer Analysis
+ PM – A
+ Marketing Team – R
+ Design Team – C
+ HR Team – I
+ Procurement Team – I
+  - Task 3: Location Decision
+ PM – A
+ Design Team – R
+ Procurement Team – C
+ Marketing Team – C
+ HR Team – I
+  - Task 4: Design Preparation
+ PM – A
+ Design Team – R
+ Marketing Team – C
+ Procurement Team – I
+ HR Team – I
+  - Task 5: Construction Supervision
+ PM – A
+ Design Team – R
+ Procurement Team – C
+ Marketing Team – I
+ HR Team – I
+  - Task 6: Equipment Purchasing
+ PM – A
+ Procurement Team – R
+ Design Team – C
+ HR Team – I
+ Marketing Team – I
+  - Task 7: Recruitment Execution
+ PM – A
+ HR Team – R
+ Marketing Team – C
+ Design Team – I
+ Procurement Team – I
+  - Task 8: Training Process
+ PM – A
+ HR Team – R
+ Marketing Team – C
+ Design Team – C
+ Procurement Team – I
+  - Task 9: Marketing Activities
+ PM – A
+ Marketing Team – R
+ Design Team – C
+ HR Team – I
+ Procurement Team – I
+  - Task 10: Store Opening Operation
+ PM – A
+ Maketing Team – R
+ HR Team – R
+ Desig Team – C
+ Procurement Team – I

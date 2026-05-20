@@ -1,0 +1,58 @@
+1)
+Request 1:
+1. Project name: Coi Cafe
+2. Justifications: Coi Cafe is famous Vietnamese Coffee brand in Ha Noi and Ho Chi Minh city. Coi' management decided to implement an expansion project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh). So that Coi Cafe develop project includes: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers and launching campaigns for each store.
+3. Project constraints:
+- Scope: Surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain and launching campaigns.
+- Time: Each province within 12 months
+- Cost/Budget: The total budget is VND 8.5 billion (VND 1.7 billion/store)
+- Quality: Each store must reach the break- even point within 8 months after opening.
+
+
+
+Request 2:
+
+1. Cost/Budget for survey and select premises
+2. Cost/Budget for design and construct interiors with the brand
+3. Cost/Budget for recruitand train local personnel
+4. Cost/Budget for build a raw material supply chain
+5. Cost/Budget for launch campaigns for each store
+
+
+
+Request 3: 
+
+1. Fequenty requirement changes
+- Description: You will often have a lot of requirement changes during develop project. This risk has high impact to project.
+- Possible impacts: Scope, Quality, Time and Cost
+- Relevant risk response plan: 
+Mitigation: Create clearly requirement changes document, mus bet monitor, analyzis and solve.   
+
+2. Poor communication among team members
+- Description: Communication between team member  is  important for the project. If team members have poor communication, it may get a lot of trouble in develop project . This rick has high impact to project.
+- Possible impacts: Quality, Time and Cost
+- Relevant risk response plan:
+Miligation: Team members have regular meeting, use communication tools such as Jira,Trello.
+
+3. Team members absent, staff turnover
+- Description: During design and develop project, your team may have team member turnover. This risk has medium impact to project.
+- Possible impacts: Quality, Time and Cost
+- Relevant risk response plan: 
+Miligation: Prepare backup resources, training staff, clearly development documnetation.
+
+
+
+Request 4:
+
+1. Collect requirements : PM(I), HR team(C), Marketing Team(R,A)
+2. Analyzis busicess processes : PM(I), HR Team(R,A), Marketing Team(C)
+3. Survey and select premises : PM(I), HR Team(R,A), Marketing Team(C)
+4. Create marketing plans : PM(I), HR Team(C), Marketing Team(R,A)
+5. Develop marketing processes : PM(I), HR Team(C), Marketing Team(R,A)
+6. Build a raw material supply chain : PM(I), HR Team(C), Marketing Team(R,A)
+7. Launch campaigns : PM(I), HR Team(C), Marketing Team(R,A)
+8. Deploy project : PM(R,A), HR Team(R), Marketing Team(R)
+9. Monitor project : PM(R,A), HR Team(C), Marketing Team(C)
+10. Prepare final release documentation : PM(R,A), HR Team(C), Marketing Team(C)
+
+2)

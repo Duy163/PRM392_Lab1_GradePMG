@@ -1,0 +1,84 @@
+1)
+Request1:
+          1.Project name:The Coffee House Web App
+          2.Justification: The project help user order coffee from suppliers easily, it help suppliers easy to sale, reach more customer and improve service quality
+          3.1 Project constraints and scope:
+          Scope:Build web app for order coffee and tracking delivery
+          Time: Complete project before 8 month
+          Cost: Maximum budget 8.5 billion VND, using ~2.2 billion vnd for develop web
+          Quality: Rating website >= 4,2 Stars, no major order and payment error
+
+Request 2:
+At least five main cost:
+    1.Infrastructure:
+     Detail: AWS service, Bucket S3, EC2, Lambda,Amplify, RDS Database, CI/CD Pipeline 
+     Description: Deploy Server
+     Estimate: ~7000$
+     Responsible: Devops, Solution architect, Project manager
+
+     2.Contigent Reserve
+     Discription: Backup cost
+     Estimation: ~ 750$ 
+     Method: Reserve method
+     Responsible: Project manager
+
+    3. Development Team
+    Discription: Salary for developers
+    Estimation: ~15,000$
+    Method: Bottom-up estimating
+    Responsible: Project manager
+    
+    4.Marketing:
+    Discription: online ads and promotion
+    Estimation: ~2000$
+    Method: Base on past campaigns
+   Responsible: Marketing team, Project manager
+
+   5. Testing tools
+   Discription: Tool and testing website
+   Estimation: ~800$
+   Method: Market Research
+   Responsible: QA team
+   
+
+
+2)
+Request 3: 
+ Risk management:
+
+Risk1: Server downtime
+Description: website cannot run due to server fairlure
+Impact: Affected service and user expeariences
+Mitigation: use stable hosting service 
+Contingency: switch to backup service
+
+Risk2: Payment error
+Description: User cannot complete payment
+Impact: Lose order and reduce trust
+Response:
+Mitigation:Test payment system carefully
+Contingency: allow cash on delivery option
+
+Risk3: Delay in development
+Description: Task take longer than plan
+Impact: Delay projectimeline and increase cost 
+Mitigation: takecare task and cost
+Contingency: Add more  developer and budget
+
+
+
+
+
+Request 4:The RACI Chart:
+    1. At least three project roles: Bussiness Analysist(BA),Project Manager(PM), Solution Architect(SA), Software Developer(Dev), Devops,Tester, Designer, HR team, Marketing Team.
+    2 & 3.Out at least ten tasks,activities, or deliverables and who resonsibilities of the project:
+      1. Gather requirement from client(BA)
+      2 Design figma UI/UX(Designer)
+      3 Write code,API,set up source code
+      4 Design and draw architecture ( Solution Architect)
+      5 Test product (Tester)
+      6 Deploy product, infrastructure, CI/CD(Devops)
+      7 Project plan and manage timeline(PM)
+      8 Create campaigns marketing stategy( Marketing Team)
+      9 find human resource ( HR Team)
+      10 Success citeriar (PM)

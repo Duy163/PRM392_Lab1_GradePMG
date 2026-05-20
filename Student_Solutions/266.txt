@@ -1,0 +1,86 @@
+1)
+1) Project name: " Coi Cafe"
+ Justufication purpose: surveying and selecting premises designing and constructing interiors consistent with the brand recruiting and training local personnel and launching campaigns for each store.
+ Project constraints: 
+  Scope: famous for its nostalgic space traditional drink menu and sustaunable business model. surveying and selecting premises designing and constructing interiors consistent with the brand recruiting and training local personnel
+ Time: 8 months 
+ Cost/budget: VND 8.5 billion
+ Quality: ensure quaility coffe directly from Dak Lak, quaility traditinonal drink menu. sustaninable business model.
+
+2) 
+  1) Human cost
+      Description: Cost for team members, labor or staff join the project
+      Estimation:
+      How to estimate : Number of people * price(day/month/week)
+      Person in charger: project managers
+   2) Marketing/ Communication Cost 
+       Description: cost for social media, promotion, marketing run the project
+       Estimation: 
+       How to estimate: campain budget ( daily cost * duration)
+       Person in charged: Marketing lead 
+   3) Training/Quality cost 
+        Description: cost for training testing quailty control improment process
+         Estimation:
+         How to estimate: Number of session * cost per sesion, cost of tool resource for quality ensure
+         Person in charged: project managers
+    4) Equiment cost
+        Description: cost for equiment 
+        Estimation: 
+        How to estimate: buy and rent opintion, market price reseach
+        Person in charged: hr and operation lead
+    5) Resrve fund
+        Description: cost for risk or change
+        Estimation: 5 % to 10% total budget
+        How to estimate : base on percent
+        Person in charged: project manager
+
+3)
+ Risk 1: schedule delay
+ Description: the project may experience delay due to resource contracion poor planing 
+  Possible impacts: 
+               Scope: reduced quality due to rushed
+                Time: delay in milestons and deadline
+                Cost : Increase cost due extendent resource
+ Response plans 
+            Mitigation: develop a detail schedule with better time 
+             Contingency: Reallocate resource prioritize critical 
+
+Risk 2 :Budget Overrun
+ Description: actual cost may exceed the planing budget due inaccurate estimation 
+  Possibile impacts: 
+                Scope: Reductionin scope on quality
+                Time: Delay due to funding issue
+                 Cost: Exceeding the budget
+Response plans
+               Mitiagtion: create detail cost estimation, track expenses, clade contingency resever
+                Contingency: Reduce non critical activities, request additional
+
+Risk 3: Quality issue
+ Description: the final deverable may not meet stakeholed expecation or quality standards
+ Possibile impacts: 
+               Scope:Failuse to meet requiment
+               Time: rework required
+                Cost: Increase cost due conrection
+Response plans
+                 Mitiagtion: Pefine cleare requiment and quality standards condecnt reguloir testing and review train team member is need 
+                 Contingency: Perfom rework provide fixed or support to stakeholdes
+
+
+4) 
+ Define three poject roles
+ - Market Development Director (PM)
+ - Coordinating with the interior desgin team (DM)
+ - Marketing team (TM)
+
+ Activites 
+ - Reseach market
+ - Analyze reseach 
+ - Up idea desgin
+ - Join desgin
+ - Prepare desgin 
+ - Fix desgin
+ 
+ 
+ 
+     
+2)

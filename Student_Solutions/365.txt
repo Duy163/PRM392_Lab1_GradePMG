@@ -1,0 +1,122 @@
+1)
+Request 1:
+
+Narrative Charter Statement:
+
+- Project name: "Coi Cafe" - A vietnamese coffee brand
+
+- Justification: This project was implemented because we want the brand to span across the country, introducing pure local Vietnamese coffee to customers from within and outside the country. We also want people to have a place that's nostalgic to go to and enjoy a cup of coffee.
+
+- Project constraints:
+Scope: The management team wants to expand Coi Cafe into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with one flagship store in each province. Each store must reach the break-even point within 8 months after opening.
+
+Time: The project must be done within 12 months from the starting point. Each store must break-even within 8 months after opening.
+
+Cost/Budget: Coi Cafe's total budget for this project is VND 8.5 billion (approximately VND 1.7 billion/store) from equity and commercial bank loans.
+
+Quality: Each of the stores inside of the provinces must be at least at the baseline of quality or higher. The coffee suppliers must be legitimate, offering pure Vietnamese coffee beans to each of the stores. The premises must be at a spot that a lot of people go by. The interiors must have a nostalgic vibe to it, making people want to stay. Local personnels must be trained effectively so that people are satisfied with our services.
+Campaigns for each week, it must be eye-catching and tailored towards target customers.
+2)
+Request 2:
+
+Five main cost/budget items:
+
+- Rent
+Description: Rent a place that a lot of people go by
+Cost estimation: 30% of the total budget for each store (VND 0.51 billion).
+Since the place has to be at a place that is good for photographing, chill, a lot of people go around, the rent price wouldn't be cheap, we  can estimate this by looking at prices of places in those certain provinces and by square meters, location, that's what I used to estimate for the cost.
+Person in charge: PM
+
+- Coffee beans from Central region suppliers
+Description: Buying coffee beans from suppliers
+Cost estimation: 10% of the total budget for each store (VND 0.17 billion).
+The Coffee beans must be pure Vietnamese coffee beans of high quality, time to find the suppliers, finding the right suppliers, testing all types of coffee beans, that's what I use to estimate for the cost.
+Person in charge: PM
+
+- Interior design and construction
+Description: Fees for the interior design team to design and also fees for constructing the place.
+Cost estimation: 30% of the total budget for each store (VND 0.51 billion).
+The interiors must have a nostalgic vibe to it, it has to be something that's unique and also make people feel close and comfortable. I estimated the cost by taking in account the time that it takes, the brain power of the designers, materials for construction, finding a good factory.
+Person in charge: Interior design team for designing, PM for construction.
+
+- Recruiting and training personnels
+Description: Fees for workers and training personnels to work in the shop
+Cost estimation: 20% of the total budget for each store (VND 0.34 billion).
+Since we'll be opening a whole new branch, good staffs are needed at first, so the money will go into their salary, people who can manage the stores and make good coffee, I also took the training into account, paying more for staffs who trains new personnels.
+Person in charge: HR Team
+
+- Ad campaigns
+Description: Running ads for out-reach and views
+Cost estimation:10% of the total budget for each store (VND 0.17 billion).
+By just having a good location, nostalgic space and good coffee isn't enough to make us break-even, we need out-reach, we need people to know about Coi Cafe, because it's new in each of the provinces, it will take more time and money to make this work. Campaigns should be run on Tiktok, Facebook, Instagram, Google Ads, this will sky-rocket our cost.
+Person in charge: Marketing Team
+
+
+Request 3:
+
+Three project risks that would affect our plan:
+- Can't find good local personnels
+Description: No one fit our job description for the job title
+Mitigation: We can move good personnels from other branches to the new branches or increase the salary for the job listing.
+Time: 1 week
+Cost: Adding on the current salary roughly 10-20% depending on the job title.
+Impact: This can delay the time that the shop opens, and the time to train new personnels.
+
+- Delayed interior design and construction
+Description: Blank idea from interior design team, don't have paperwork at the time of construction.
+Mitigation: Hiring more people to do designs, hiring more people to do the constructions.
+Time: 2 weeks
+Cost: Rougly 30% more on the current budget for design and construction
+Impact: This can delay the time that the shop opens
+
+- Ad campaigns
+Description: Ad campaigns doesn't bring in enough customers
+Mitigation: Running ads by hiring cyclists to cycle around the city, eye-catching.
+Time: 1 week
+Cost: VND 40-60 thousand per hour for each of the cyclists
+Impact: Hard to break-even, losing potential customers
+
+
+Request 4:
+
+Project roles:
+- PM
+- Owner
+- HR
+- Designers
+- Real Estate Agent
+- Coffee Taster
+- Quality Control
+- Member of Staff team
+- Marketing
+
+Tasks:
+- Finding a location to rent
+PM (R), Owner (A), Real estate agent (C), HR (I)
+
+- Finding coffee bean suppliers
+PM (R), Owner (A), Coffee Taster (C), HR (I)
+
+- Checking if the coffee beans are of high quality
+Coffee Taster (R), PM (A), Quality Control (C), Owner (I)
+
+- Finding a good factory for interiors
+PM (R), Owner (A), Quality Control (C), HR (I)
+
+- Hiring personnels
+HR (R), PM (A), Quality Control (C), Owner (I)
+
+- Training personnels
+Member of Staff team (R), PM (A), Quality Control (C), Owner (I)
+
+- Designing interiors
+Designers (R), PM (A), Owner (C), Marketing (I)
+
+- Checking interior quality
+Quality Control (R), PM (A), Designers (C), Owner (I)
+
+- Thinking of new ideas for ad campaigns
+Marketing (R), PM (A), Quality Control (C), Owner (I)
+
+- Running ad campaigns
+Marketing (R), PM (A), Quality Control (C), Owner (I)

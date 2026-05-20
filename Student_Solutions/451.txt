@@ -1,0 +1,167 @@
+1)
+Question 1 
+1.1 . The Project name is : Coi Cafe 
+1.2 . Purpose : 
+  Implement an expansion project into 5 Central provinces ( Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+Reasons:
+1.3. 
+Cost:VND 8.5 billion (approxiamtely VND 1.7 billiom/store)
+Time: 1 flagship store in each province within 12 months .
+Quality: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store .
+
+Question 2 :
+COST 1:
+  Name : Labor Cost 
+  Description:  Design team , HR team , and marketing team .
+  Estimation method : Bottom -  up estimation
+    
+   4 Design = 30.000/hours x 12 x 180  x 4 = 
+259.200.000 VND 
+    6 Hr =  25.000/ hours x 12 x 100 x 6 = 180.000.000 VND 
+    4 Marketing = 30.000/ hours x 12 x 180 x 4 =
+259.200.000 VND 
+  
+Estimate cost : 698.400.000 VND
+Person im charged : Project Manger 
+
+COST 2 : 
+    Name : Marketing 
+    Descrpition : Boooking KOL , Influencer for marketing .
+    Estimation method : notologyus  estimation
+   
+    3 KOL , influencer = 100.000.000 VND/Person x 3 = 300.000.000 VND 
+     
+ Estimate cost 300.000.000 VND
+ 
+Person in charged : Project Manager 
+
+COST 3 ;
+    Name ;Training cost 
+    Description : 3 leader leading 3 team 
+   Estimation method : Expert Judgement 
+
+   3 Leader = 130.000.000 VND/Person x 3 = 390.000.000 VND 
+
+ Estimate cost : 390.000.000 VND 
+ 
+Person in charged : Project Manager 
+
+COST 4 ; 
+   Name ; Material 
+   Desciption : This Project same with project  ( 2023 ;200.000.000 VND   ) but smaller = - 50%
+
+    Estimate cost : 100.000.000 VND 
+ 
+Person in charged :  Project Manager 
+
+COST 5 ;
+   Name ; Contingency reverse 
+   Description : 10% of Budget 
+   Estimation method : Contingency ( % Revese ) 
+   
+Estimate cost : 170.000.000
+Person in Charged ; Project Manager
+
+Total : 1.658.400.000 VND 
+
+
+  
+
+
+ 
+
+
+   
+
+  
+2)
+Request 3 :
+ Risk 1 :
+  Name : Scope creep 
+  Description : impacts on the budget and schedule to completed the project 
+   Impacts : High on Time , cost and quality
+   Level : Medium 
+Respone :
+Mitigate : Apply clean processes , continuos monitoring and having a backup plan for reduce risk .
+Risk 2 : 
+  Name : Over Budget 
+  Description : actual cost is bigger than budget 
+  Impacts : High on cost and quality
+  Level : HIgh 
+Respone :
+Mitigate : Apply clean processes , continuos monitoring, increase  the contingency reverse 
+ 
+Risk 3 :
+  Name ; Over Schedule 
+  Description : Time to complete Project is over deadline 
+ Impacts : Medium on time 
+  Level : Medium 
+Respone:
+Mitigate ; Apply clean processes , continous monitoring , having a backup plan for reduce risk 
+
+
+Request 4 :
+4.1 . 3 project role : Project manager , Design team , Marketing team .
+
+4.2 . 
+1. Gather customer Information 
+2. Meeting for plan 
+3. Leader of the orthers team give misssion for their teams 
+4.  Design team designing interiors consistent with the brand , ads .
+5.Design team review to PM 
+6 .  Design team give information to marketing team 
+7. Marketing team post content on Social 
+8 . Booking KOL , Influencer. 
+9. Posting video on Tiktok , Facebook , Instagram ,...
+10 . Gather customer feedback 
+
+4.3 
+1.Gather customer Information
+  Projectmanager : R, A
+  Design team : C
+  Marketing team :C  
+
+2.Meeting for plan 
+ PM ; R,A 
+ DT ; C
+ MT : C 
+
+3. Leader of the others team give mission for their teams 
+ PM : C
+ DT : R,A 
+ MT : R, A
+
+4. 
+PM : I
+DT: R,A
+MT : C
+
+5.
+PM : C
+DT : R,A
+MT : I
+
+6.
+PM :C
+DT: R,A
+MT: C
+
+7. 
+PM : C 
+DT : I 
+MT: RA 
+
+8.
+PM:C 
+DT:I
+MT: R,A
+
+9
+PM;I
+DT: I
+MT: R,A
+
+10. 
+PM; C
+DT: I
+MT: R,A

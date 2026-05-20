@@ -1,0 +1,88 @@
+1)
+------Request 1--------
+1.Project name: Open larger model business Coi Cafe
+2. Purpose and reasons: The project help Coi Cafe increase incomes and reach the break-even point within 8 months after opening.
+3. Constrains:
+ - Scope: 1 flagship store in each province(Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+ - Time: Within 12 months
+ - Budget: Total budget is 8,5 billion VND (approximately 1,7 billion/store)
+ - Quality: Each store must reach the break-even point within 8 months after opening.
+-------Request 2------
+1. Rent office
+- Money to pay for rent a place to open flagship store
+2. Salary
+- Budget to pay for employee
+3. Design and decord
+- Budget for design and decord flagship store
+4. Logistis
+- Money pay for tranfer coffee from Dak Lak farmers to flagship stores
+5. Ad and communication
+- Budget for ads, marketing and communication.
+ ------Request 3--------
+1. The key employee quits project
+- Impact: High
+- Response plan: Write document for work and give for 2 people work together.
+2. Commercial bank pay money late.
+- Impact: High
+- Response plan: Connect to bank to solve the problem quickest availible.
+3. Rent office is failed
+- Impact: High
+- Response plan: Always have some office in plan to change. 
+2)
+------------Request 4--------------
+1. Role project
+- Project Manager
+- Design 
+- Marketing
+- HR
+2 & 3. 
+- Create Plan Schedule
+  + Project manage: R, A
+  + Design: C
+  + Marketing: I
+  + HR: I
+- Gather information customer
+  + Project manager: R, A
+  + Design: I
+  + Marketing: I
+  + HR: I
+- Design and decord flagship store
+  + Project manager: A
+  + Design: R
+  + Marketing: I
+  + HR: I
+- Design panner to advertise.
+  + Project manager: A
+  + Design: R
+  + Marketing: C
+  + HR: I
+- Find employee:
+  + Project manager: C
+  + Design: I
+  + Marketing: I
+  + HR: R, A
+- Create advertise and communication
+  + Project manager: C
+  + Design: I
+  + Marketing: R, A
+  + HR: I
+- Caculate budget
+  + Project manager: R, A
+  + Design: C
+  + Marketing: C
+  + HR: C
+- Research place to open flagship store
+  + Project manager: R, A
+  + Design: C
+  + Marketing: C
+  + HR: I
+- Tranning employee
+  + Project manager: A
+  + Design: I
+  + Marketing: I
+  + HR: R
+- Survey percentage satify of customer
+  + Project manager: C
+  + Design: I
+  + Marketing: R, A
+  + HR: I

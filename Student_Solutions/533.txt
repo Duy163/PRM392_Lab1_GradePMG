@@ -1,0 +1,89 @@
+1)
+Request 1 :
+Project name : CoicafeEx - Coi Cafe expansion project
+Justification : Coi cafe is a pure Vietnamese coffe brand with 12 stores in Ha noi and Ho Chi Minh city which very famous now ,Therefor CoicafeEx aims to open each flagship store in 5 central provinces to improve the appearance and make more reveneu.
+Scope : A Coi Cafe store in 5 central provinces go to active.
+Time : Each store must done in 12 months and reach the break point within 8 months after opening.
+Budged : The toatal budged is VND 8.5 billion ( approximately VND 1.7 billion/store)
+Quality : Each store achieve at least 4,4.5 star rate in the google map.
+
+Request 2 :
+1.
+Name: Selecting premises
+Description:5 BA working in 1 month , each ba  survey and select premises for each store
+Estimation : VND 500 million
+How to estimate : paramatric ( base on last project )
+Person in charged : PM
+2.
+Name: Designing, Contructing
+Description: 10 inteior designers working in 3 month , designing and 60 builders constructing interiors consistent with the brand.
+Estimation : VND 3.6  billion 
+How to estimate : bottom-up ( VND 30 million/designer x 2 designers x 5 stores  x 3 months + 15 million/builder x 12 builders x 5 stores x 3 months  ) 
+Person in charged : Designer leader
+3.
+Name : Recruiting
+Description: HR team recruit the local personnel within 12 months
+Estimation : VND 720 million
+How to estimate : bottom-up ( VND 12 million x 5 HR x  12 months )
+Person in charged : HR leader
+4.
+Name : Marketing and advertising
+Description: Marketing team will annoucement the local perople by content , social media and advertising , ...
+Estimation : 1.44 billion
+How to estimate : bottom-up ( VND 12 million x 10 marketing x 12 months )
+Person in charged : PM
+5.
+Name : Training
+Description: prepare the space , equipment and mentor for traning the junior , staff
+Estimation : 500 million
+How to estimate : Expert judgment
+Person in charged : Trainer
+2)
+Request 3:
+1.
+Type: Human resource
+Description: employee quit at the middle of the project 
+Impact: Project get slow , waste amount of time
+Mitigation: always recruit even when already enough.
+Contingency: Find the freelancer or rent from the third party to fullfill fast.
+2.
+Type : Out of budged
+Description : the project have consume out of the budged
+Impact : Project could be cancle or have to lower the quality to maintain
+Mitigation : Always have meeting daily of the team and weekly of the department to adjust the plan which maintain the the project in the budged
+Contingency : Investment more to refill the budget or reduce the scope
+3.
+Type: Out the scope
+Description : the project migh add more things which can impact to the cost
+Mitigation : Always prepare research and scope document so project can stick on.
+Contingency : Do the meeting to adjust the scope which fit the currently situation.
+
+Request 4:
+Tasks          |  PM   |   Designer   | Marketing | BA
+------------------------------------------------------------------------------
+Surveying    |          |                    |                 |
+Selecting     |    A    |       I            |        C       |   R
+premises      |          |                    |                 |
+-------------------------------------------------------------------------------
+Designing    |     A   |       R          |        C       |     C
+plan             |          |                    |                 |          
+-------------------------------------------------------------------------------
+Contructing |      A  |        R          |        I        |     C
+-------------------------------------------------------------------------------
+Recruiting   |     A    |        I           |        R      |     I
+------------------------------------------------------------------------------
+Advertising  |      C   |        R         |        A      |     C  
+------------------------------------------------------------------------------
+Store interface|   A  |         R        |        C       |      C
+Design         |          |                    |                 |         
+-------------------------------------------------------------------------------
+Task, timeline|    A  |         C         |         C     |   R    
+managerment |        |                    |                 |
+-------------------------------------------------------------------------------
+Employee     |     A   |         I          |           I     |    R
+management|          |                    |                 |     
+-------------------------------------------------------------------------------
+Rating , trial |     A    |        C         |          R     |     R
+run test        |           |                    |                 |
+--------------------------------------------------------------------------------
+Reporting     |      A   |        I         |        C       |    R

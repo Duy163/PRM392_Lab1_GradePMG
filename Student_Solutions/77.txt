@@ -1,0 +1,48 @@
+1)
+Request 1 :
+- Project name :CMS -  Coi Cafe management system 
+- Purpose : to develop the Coi Cafe and build their coffee brand in 5 Central provinces .
+- Reason : this project want to bring the traditional drink , nostalgic space to 5 Central province , and so on , they want to develop and make the trend to protect  environment through  they use reusable cups .
++ Project constrain: 
+. 1 flagship store in each province within 12 months 
+. each store mus reach the break-even point within 8 months after opening 
+. the total budget is VND 8.5 billion ( approximately VND 1.7 billion/store ) from equity and commercial bank loans. 
+. building a raw material supply chain from Central region suppliers , lauching campains for each store 
++ scope : surveying and selecting premises , designing and constructing interiors consistent with the brand , recruiting and traning local personnel , building a raw material supply chain from Central region suppliers , and launchig campains for each store 
++ time : 60 months ( 1 flagship store in each  province within 12 months )
++ cost : VND 8.5 billion 
++ quality : Each store must reach the break-even point within 8 months after opening 
+
+request 3 
+- Risk 1 : Difficult communication ( contingency)
++ Team member from each team may have some difficult to communite with each other , if they have some bug in the survey , they have to talk through their manager'team
++ quality : the project may have some problem or they can not understand or have some different opinion.
++ time : 3 days
++ cost : 15 million VND
+- Risk 2 : Over budget (miligation)
++ the project includes 3 difference teams and 1 PM , so if 1 team is behind schedule , the total budget will increase . That is not neccessary for the project .
++ quality :
++ time : 2 days 
++ cost : 10 million VND
+- Risk 3 : personal information ( contingency)
++ the project must be ensure that personal information must be hidden and being protect , If the personal information is leaked , the project customer may reduce because they don't trust your project . So it very difficult to make another survey or project
++ time : 12 months 
++cost : 1.7 billion VND
++quality :  
+2)
+request 4
+1 .three project roles: HR   , Market Development Director ( PM) , designer 
+2 .
+- take customer's request .HR(R,A) , designer(C),PM(I)
+- analysis the customer's request .HR(A,R),designer (C),PM(I) 
+- set up the surveys and select premises HR(C),designer (R,A) , PM(I)
+- build a raw material supply chain from Central region suppliers . HR(R,A),designer (C),PM(I)
+- view and control dashboard about survey . HR(C),designer (R,A),PM(I)
+- control the project schedule and speed up if need.PM(R,A,I),designer(C),HR(C) 
+- calculate the cost , check the current status of the project . PM(R,A,I),HR(C),designer(C)
+- test the survey before public . HR(C),designer(R,A),PM(I)
+- public the survey and find the participants . HR(R,A),designer(C),PM(R,A,I)
+
+request 2 :
+- over budget
+- employee salary 

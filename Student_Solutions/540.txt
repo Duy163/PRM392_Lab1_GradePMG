@@ -1,0 +1,84 @@
+1)
+Request 1:
+1. Project name: Coi Cafe
+2. Justifications:
+- Purpose: Coi Cafe is a pure Vietnamese coffee brand with 12 stores in Hanoi and Ho Chi Minh City, famous for its nostalgic space, traditional drink menu, and sustainable business model (using reuasble cups, purchasing coffee directly from Dak Lak farmers). Coi's management decided to implement an expansion project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each provice within 12 months.The projecct includes: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain fronm Central region suppliers, and launching campaigns for each store.
+
+-Reasons to implement this project: Coi's management decided to implement an expansion project in to 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 months.
+
+3. Project constraints:
+- Scope: Expansion project in to 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 months. 
+- Time: With 1 flagship store in each province within 12 months, Each store must reach the break-even point within 8 months after opening.
+- Cost/budget: VND 8.5 billion (approximately VND 1.7 billion/store) from equity and commercial bank loans. 
+
+Request 2:
+1. 
+- Name: Shipping coffee
+- Description: Shipping coffee from Dak Lak farmers to each store in all Central provinces
+- Estimate: Find the good shipment company, deal with them about shipping the coffee, time and how many... Person in charged: Coi's management.
+
+
+2. 
+- Name: Design the space in each normal store
+- Description: Make the place in each store be nostalgic, with reusable cups, purchasing coffee from Dak Lak farmers.
+- Estimate: Find the numbers of height in the store, how tall and big is it? Which type of nostalgic space, find that type and demo the design, give it to the director feedback. Person in charged: Design team, the Market Development Director.
+
+3.
+- Name: The store's place
+- Description: The place for the store need to big for the nostalgic traditional drink menu, and sustainable business model; need to easy to see for customer get to it easy; need to be good for the flagship store.
+- Estimate: Find the place on social media, rent house web or go around find it. Person in chagred: HR team, staff and Coi's management.
+
+4. 
+- Name: Design the place in each flagship store
+- Description: Make the place to be nostalgic, with traditional drink menu, sustainable business model. Most important flagship store need to be different to all each normal store.
+- Estimate: Find the number of height in the store, how tall and big is it? Define how it different from the normal store. Demo the design and give to the director. Person in charged: Design team, Market Development Director.
+
+5. 
+- Name: Launching campains for each store. 
+- Description: Notification for the customer the new campains in each store
+- Estimate: Launching in place, on social media, design the poster and videos. Person in charged: Marketing team, design team.
+
+6. 
+- Name: designing and construction interiors with the brand
+- Description: Find the name of the brand, type of design and construction of the brand
+- Estimate: Rebrand or make the brand be know with their customer. Person in charged: Design team, marketing team.
+
+
+Request 3: 
+1.
+- Name: Can't find raw material supply
+- Description: can't find or hard to find the raw material supply chain from the Central region suppliers. 
+- Impacts: Make the time to launching the campaigns longer. Rasing the cost of the project
+Response: Find the orther suppliers in orther Central region and find shipment company for shipping
+
+2. 
+- Name: Less number of surveying and selecting.
+- Description: Don't have much number of surveying and selecting premises
+- Impact: Hard to know abount people in the Central region. Cost more money for the project
+- Response: Find more people for surveying and more place to selecting. 
+
+3. 
+- Name: Launching campaingns fail
+- Description: Can't launching the campains for each store because the place, the weather, timeline, team management, or less people know it...
+- Impact: Store can't break-even point, cost more money for the project.
+- Response: Demo the launching the campains first.
+
+Request 4: 
+1. HR, Designer, marketing member, manager.
+2. 
+- Find people 
+- Find place
+- Find suppliers
+- Take surveying 
+- Selecting premises
+- Design poster
+- Design brand
+- Build media plan
+- Build media timeline
+- Manage all team
+- Manage the money 
+- Make game for the launching campains...
+
+3. 
+
+2)

@@ -1,0 +1,54 @@
+1)
+Project name: Coi Cafe - Vietnamese coffee brand
+- Purpose: The cafe is built for nostalgic space, traditional drink menu, and sustainable business model (using resuable cups, purchasing coffee directly from Dak Lak farmers).
+- Constraints: Decided to implement an expansion project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store
+- In terms of scope: The project is led by the Market Development Director as PM, coordinating with the interior design team, HR team, and marketing team.
+- Time: For 12 months
+- Budget: VND 8.5 billion (approximately VND 1.7 billion/store) from equity and commercial bank loans.
+Quality: Each store must reach the break-even point with in 8 months after opening.
+
+Five main cost items:
+1. Surveying and purchase/rent a house/building/empty zone
++ Description: design team will find a place in each provinces that can build a cafe in their requirement in their designs.
++ Estimation: for at most 3 months
+2. Nostalgic space design materials
++ Description: designer team will prepare for materials for each nostalgic designs for each store in 5 Central provinces.
++ Estimation: design team will find for building materials to decorate following their nostalgic design for at most 2 months
+3. Drink materials
++ Desciption: cooperate with farmers from Dak Lak as partners and purchasing coffee directly from these partners
++ Estimation: for 2 months
+4. Reusable cups provider:
++ Description: PM, designer and marketing teams will find for reusable cups provider that claim requirements such as cup quality and cup design with the least cost.
++ Estimation: for 1 months
+5. Furnitures:
++ Description: PM, designer and marketing trams will find and purchase tables and chairs that claim requirements such as good quality and good design for a large quantities 
++ Estimation: for 1 months
+2)
+Three project risks
+1. Quality of drink source
++ Description: aware of weird chemical or false integents in each drink sources
++ Possible impact 
+2. Aware of increasing building materials price
+3. Aware of drink maker staff quality
+
+RACI charts
+1. Survey and purchase/rent a house/building/empty zone
+PM (A), Design team (R, I), Marketing team (C)
+2. Prepare building and decorating material
+PM (A), Design team (R, I), Marketing team (C)
+3. Find and purchase coffee material from Dak Lak farmers
+PM (R, A), Design team (C), Marketing team (C), HR team (I) 
+4. FInd a purchase resuable cups prodiver
+PM (R, A), Design team (C), Marketing team (C), HR team (I)
+5. Applying drink maker staff
+PM (A), HR team (R, I)
+6. Create a planning meeting
+PM (I), Design team (A, C), HR team (A, C), Marketing team (A, C)
+7. Poster designing
+PM (A), Design team (I), Marketing team (R, C)
+8. Approve new creative drinks from drink maker staff
+PM (R, C, I), Design team (C), Marketing team (C)
+9. Creating campaign and marketing plan
+PM (A), Design team (C), Marketing team (R, I)
+10. Find shipping parters
+PM (R, A), Marketing team (C), HR team (I)

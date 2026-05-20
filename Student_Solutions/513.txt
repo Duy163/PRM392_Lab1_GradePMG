@@ -1,0 +1,35 @@
+1)
+Request 1.
+1. Project name: Coi Cafe
+2. Justifications: This project aim to implement an expansion into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh). The main reasons to implement this project are to expands increase total amount and store in 5 Central Provinces. 
+3. Project Constraints:
+- Scope: Serveying, selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material suppliers, and launching campaigns for each store.
+- Time: 12 months
+- Cost/Budget: VND 8.5 billion
+- Quality: Each store must reach the break- event point within 8 months after opening.
+
+Request 4.
+- RACI Chart (Roles: PM - Project Manager, BA - Business Analysis, Dev - Developer).
+
+1. Project Initation: PM(A), BA(R), Dev(I)
+2. Brief gathering: PM(A), BA(R), Dev(I)
+3. Documentation approval: PM(I), BA(A, R), Dev(C)
+4. Campaign design: PM(A), BA(C), Dev(R)
+5. Media planning: PM(I), BA(C), Dev(A, R)
+6. Content production: PM(A), BA(I), Dev(R)
+7. Content Scheduling: PM(A), BA(C), Dev(R)
+8. A-B Testing: PM(A), BA(R), Dev(C)
+9. Content revison: PM(A), BA(C), Dev(R)
+10. Campaign launch: PM(A), BA(C), Dev(R)
+2)
+Request 2:
+1. Name: Excution Salary | Description: Copywriting and design excution | Estimation: $2500 |  Way to estimate: Bottom-up(Hourly rate x total hour) | Person in charge: PM
+2. Name: Infrastruture & Media | Description: As spend on Facebook/Google | Estimation: $300 | Way to estimate: Parametric(Vendor's Pricing) | Person in charge: Dev/BA
+3. Name: Software Tools | Description: SEO & Analysis tools like Ahrefs | Estimation: $200 | Way to estimate: Analogous (Based on similar projects) | Person in charge: BA
+4. Name: Optimization Activities | Decription: A/B Testing budget for ads | Estimation: $600 | Way to estimate: Bottom-up | Person in charge: Dev
+5. Name: Project Manager Tools | Description: Collaboration tools & tracking like Jira | Estimation:$400 | Way to estimate: Expert Judgment | Person in charge: PM
+
+Request 3.
+1. Title: Scope Creep | Description: Client expands the target audience midway | Impacts: Increases cost and delay time | Response: Mitigation(Implement strict brief approval process);  Contingency (Use schedule reverse).
+2. Title: Key Staff Resignation | Description: Lead video editor leaves | Impacts: Halts production, reduces quality | Response: Mitigation (Ensure proper documentation and file sharing); Contingency (Hire freelancers quickly).
+3. Title: Platform/API Downtime | Description: Facebook Ads Manager crashes during lauch | Impacts: Degrades quality and delays timeline | Response: Mitigation (Prepare backup plans); Contingency (Switch a backup platform/API).

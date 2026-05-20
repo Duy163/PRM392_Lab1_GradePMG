@@ -1,0 +1,221 @@
+1)
+Request 1: Narrative Charter Statement 
+Project Name: Coi Cafe Central Region Expansion Project
+
+Justifications (Purpose & Reasons):
+
+Purpose: To successfully expand the Coi Cafe brand into the Central region of Vietnam by opening 5 flagship stores.
+
+Reasons: To leverage Coi Cafe's established success, traditional menu, and sustainable business model in Hanoi and HCMC, capturing a new market segment in 5 major Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) and increasing overall brand footprint and revenue.
+
+Project Constraints:
+
+Scope: Exactly 5 flagship stores must be opened (1 in each specified province). The project must also include building a local raw material supply chain, recruiting/training local personnel, and launching localized campaigns.
+
+Time: The entire expansion project must be completed within 12 months. Additionally, each store must reach the break-even point within 8 months after its opening.
+
+Cost/Budget: The total budget is strictly capped at VND 8.5 billion (averaging approx. VND 1.7 billion per store), funded by equity and commercial bank loans.
+
+Quality: Store interiors must consistently reflect the brand's "nostalgic space". Operations must adhere to the brand's sustainable model (e.g., using reusable cups, directly purchasing from farmers) and maintain the traditional drink menu standards.
+
+Request 2: Main Cost/Budget Items
+Premises Leasing & Deposits
+
+Description: Costs associated with securing locations, including 6-12 month rent deposits for 5 flagship stores in prime locations.
+
+Estimation: VND 1.5 Billion.
+
+Way to estimate: Analogous estimating (using historical data from HN/HCMC stores) and Market Research in Central provinces.
+
+Person in charge: Project Manager (PM).
+
+Interior Design & Construction
+
+Description: Costs for renovating the premises, installing lighting, plumbing, and building the "nostalgic space" interiors (furniture, decor).
+
+Estimation: VND 4.0 Billion.
+
+Way to estimate: Parametric estimating (cost per square meter based on standard store size blueprints).
+
+Person in charge: Interior Design Team.
+
+Equipment & Machinery
+
+Description: Procurement of coffee machines, grinders, POS systems, refrigerators, and initial stock of reusable cups for 5 stores.
+
+Estimation: VND 1.5 Billion.
+
+Way to estimate: Vendor Bid Analysis (obtaining quotes from preferred suppliers).
+
+Person in charge: PM / Procurement.
+
+Recruitment & Training
+
+Description: Costs for job postings, interviewing, and conducting training programs for new local staff to meet brand standards.
+
+Estimation: VND 0.5 Billion.
+
+Way to estimate: Bottom-up estimating (cost per trainee multiplied by the number of staff needed per store).
+
+Person in charge: HR Team.
+
+Marketing & Launch Campaigns
+
+Description: Advertising, PR, grand opening events, and promotional materials for each of the 5 locations.
+
+Estimation: VND 1.0 Billion.
+
+Way to estimate: Expert Judgment and percentage-of-budget allocation.
+
+Person in charge: Marketing Team.
+
+Request 3: Project Risks 
+Risk 1: Construction and Renovation Delays
+
+Description: Local contractors in the Central provinces may fail to complete store interiors on schedule due to material shortages or labor issues.
+
+Possible Impacts: Time: Pushes back the store opening dates, risking the 12-month project deadline. Cost: May incur extended leasing costs without generating revenue.
+
+Risk Response Plans:
+
+Mitigation: Vet contractors thoroughly, include strict penalty clauses for delays in contracts, and add schedule buffers.
+
+Contingency: Have backup local contractors pre-selected to take over immediately if the primary contractor defaults.
+
+Risk 2: Local Supply Chain Failure
+
+Description: Inability to establish a reliable raw material supply chain in the Central region that meets Coi's strict sustainability and quality standards.
+
+Possible Impacts: Quality: Inconsistent drink taste violating brand standards. Cost: Higher logistics costs if forced to ship supplies from Dak Lak or HCMC.
+
+Risk Response Plans:
+
+Mitigation: Begin scouting and auditing Central region suppliers immediately during the Planning phase.
+
+Contingency: Temporarily utilize the existing Dak Lak supply chain to ship ingredients to the Central stores while continuing to search for local alternatives.
+
+Risk 3: Failure to Reach Break-even
+
+Description: A newly opened flagship store fails to hit its target sales volume and does not reach the break-even point within the mandated 8 months.
+
+Possible Impacts: Cost: Drains operational cash flow and impacts the ability to repay the commercial bank loans. Scope: May force the closure of underperforming stores.
+
+Risk Response Plans:
+
+Mitigation: Conduct intensive local market research before selecting premises; execute strong pre-launch localized marketing campaigns.
+
+Contingency: Allocate an emergency marketing fund to launch aggressive promotions or adjust the local menu slightly to boost immediate foot traffic.
+
+Request 4: RACI Chart Mapping
+Defined Project Roles:
+
+PM: Project Manager (Market Development Director)
+
+ID: Interior Design Team Lead
+
+HR: HR Team Lead
+
+MKT: Marketing Team Lead
+
+2 & 3. Tasks and Responsibilities Mapping (R = Responsible, A = Accountable, C = Consulted, I = Informed):
+
+Task 1: Create Project Charter & Project Plan
+
+PM: A/R
+
+ID: C
+
+HR: C
+
+MKT: C
+
+Task 2: Survey & select premises in 5 provinces
+
+PM: A/R
+
+ID: C
+
+HR: I
+
+MKT: C
+
+Task 3: Design "nostalgic" store interiors
+
+PM: A
+
+ID: R
+
+HR: I
+
+MKT: C
+
+Task 4: Execute interior construction & renovation
+
+PM: A
+
+ID: R
+
+HR: I
+
+MKT: I
+
+Task 5: Build Central raw material supply chain
+
+PM: A/R
+
+ID: I
+
+HR: I
+
+MKT: I
+
+Task 6: Procure store equipment & reusable cups
+
+PM: A/R
+
+ID: C
+
+HR: I
+
+MKT: I
+
+Task 7: Recruit local store personnel
+
+PM: A
+
+ID: I
+
+HR: R
+
+MKT: I
+
+Task 8: Conduct staff training (brand standards)
+
+PM: A
+
+ID: I
+
+HR: R
+
+MKT: I
+
+Task 9: Develop launch campaigns for each store
+
+PM: A
+
+ID: I
+
+HR: C
+
+MKT: R
+
+Task 10: Execute Grand Opening events
+
+PM: A
+
+ID: I
+
+HR: C
+
+MKT: R
+2)

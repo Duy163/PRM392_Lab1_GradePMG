@@ -1,0 +1,99 @@
+1)
+1.1. Project name is a Coi Cafe's expansion. Coi Cafe will be expanded into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 months.
+
+1.2. -The purpose to implement this project is to expand its nostalgic space, traditional drink to the community, so that everyone can try Coi Cafe from everywhere not just in Hanoi and Ho Chi Minh City.
+-The reason to implement this project is to make Coi Cafe a big brand in coffee bran field. So that it can attract more customers.
+
+1.3. Scope constraints:
+Surveying and selecting premises, designing and constructing interiors consistent with te brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, launching campaings for each store. Each store must reach the break-even point within 8 months after opening.
+
+Time constraints:
+Expand into 5 Central provinces with 1 flagship store in each province within 12 months
+
+Budget:
+The total budget is 8.5 billion VND (approximately 1.7 billion/store) from equity and commercial bank loans.
+
+Quality:
+The project is led by the Market Development Director as PM, coordinating with the interior design team, HR team, and marketing team.
+
+2. 5 main cost/budget items:
+- Name: Selecting premises.
+Description: Coi Cafe will choose a suitable premise after surveying and selecting.
+Estimate: If they select a premise it would cost 50 to 80 million a month becase coffee store usually pretty large.
+Person in charged: Market Development Director
+
+- Name: Recruit and train local personnel
+Description: They have to hire employee to work and manage the store
+Estimate: For employee maybe 7 to 8 million per person. That is a decent salary for a coffee shop employee
+Person in charge: HR team
+
+- Name: Build a raw material supply chain from Central region suppliers
+Description: To have suppliers for each store to save time from delivery supplies.
+Estimate: Maybe 50 million per month or more because coffee' prices are raising.
+Person in charge: Market Development Director
+
+- Name: Launch campaing
+Description: Launch campaing to attract new customer from the provinces to the store.
+Estimate: 2 million per campaing
+Person in charge: Marketing team
+
+- Name: Design interiors 
+Description:  Design interiors for the brand
+Estimate: 10 million
+Person in charge: interior design team
+
+3. 3 risks:
+- Name: Failure campaing
+Description: Campaing not attractive enough for customer to try
+Impact:
++Quality/ Scope: Can not reach break-even point within 8 months
++Time: Maybe a month of waste for marketing team and store
++Cost: More than 5 million per campaing or more because the ingredients are wasted as well.
+-Relevant risk response plans: Launch another campaing and lower the prices, as well as adding some vouchers to attrack customers to try
+
+-Name: Not good location
+Description: Can not attract many new customers to to the store
+Impact
++Quality/Scope: Can not earn enough incomes to reach break-even point
++Time: 8 months 
++Cost: 1.7 billion per store
+-Relevant risk response plans: find new location as soon as possible before losing more money
+
+-Name: Drink quality is bad
+Description: Drinks are not good enough for customer to come again
+Impact:
++Quality/Scope: Can not attract new customers
++Time:8 months
++Cost: 1.7 billion per store
+-Relevant risk response plans: Change the drink, ingredients or taste to suitable new customer 
+
+4.1. P roject roles:
+-Marketing Developement Director (MDD)
+-Interior design team (IDT)
+-HR team (HRT)
+-Marketing team (MT)
+
+4.2. 10 tasks, activities or deliverables:
+- Survey premises
+- Selecting premises
+- Recruit personnel
+- Train personnel
+- Build supply chain
+- Launch campaing
+- Design interior
+- Construct interior
+- Survey market growth
+- Check incomes
+
+4.3 R: responsible, A: assign matrix, C: consulted, I: informed
+- Survey premises: RACI: Marketing Development Director
+- Select premises: R: MDD, A: MDD, IDT, C: IDT, I: MDD
+- Recruit personnel: R: HRT, A: HRT, C:HRT, I: MDD
+- Train personnel: R: HRT, A: HRT, C: HRT, I: HRT
+- Build supply chain: R: MDD, A: MDD, C: MDD, I: MDD
+- Launch campaing: R: MT, A: MT, C: MT, I: MDD
+- Design interior: R: IDT, A: IDT, C: IDT, I:IDT
+- Construct interior: R: IDT, A: IDT, C: IDT, I: IDT
+- Survey market growth: RACI: MDD
+- Check incomes: R: MDD, A: HRT, C:HRT, I: MDD
+2)

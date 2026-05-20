@@ -1,0 +1,174 @@
+1)
+Request 1:
+1. Project name: Coi Cafe expansion in 5 Central provinces
+2. Justifications:
+- Coi's management decided to implement project in 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) to survey, select premises, design and construct interiors to development and expansion the Coi Cafe brand in other provinces.
+3. Project constraints:
+- In terms of scope: The project scope includes: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store.
+- Time: The project duration is strictly limeted in 12 months.
+- Cost: The project total cost is capped at VND 8.5 billion with VND 1.7 billion VND for each store from equity and commercial bank loan.
+- Quality: Each store must reach the break-even point within 8 months after opening. 
+
+Request 2:
+- Five main cost/budget items:
+
+1. The cost to build flagship store 
+- The cost of maintain store, electric , water in 12 months
+- Esimated: Approximately 500.000.000 VND billion 
+- Way to estimate: Based on position of store and provinces 
+- Person in charged: Market Development Director
+
+2. The cost to hire and train staff
+- The budget to hire staff, recruiting and training local personel.
+- Estimated: Approximately 200.000.000 VND billion
+- Way to estimate: Based on program training and the amount of staff each store
+- Person in charged: HR Leader
+
+3. The cost to design and construct the brand
+- The cost to design and contruct interiors consistent with the brand
+- Estimated: Approximately 300.000.000 VND billion
+- Way to estimate: Based on what design leader want to implement
+- Person in charged: Design Leader
+
+4. The cost to survey and select permises
+- The cost to conduct survey and select data
+- Estimated: Approximately 100.000.000 VND billion 
+- Way to estimate: Hire people to conduct survey, and create a program to select data
+- Person in charged: Marketing Leader
+
+5. The cost to building raw material supply chain and lauching campaigns
+- The cost to build a raw material supply chain from Central region suppliers
+- Estimated: Approximately 400.000.000 VND billion
+- Way to estimate: Connect with central region suppliers and launching campaigns
+- Person in charged: Market Development Director
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2)
+Request 3:
+
+Risk 1: Overcost 
+- Description: The cost is higher compare with the cost planned
+- Impact: The budget of whole project would be affected and impact to quality of project
+- Mitigation: Add buffer approximately 10% of project , caculate cost carefully
+- Contingency: Focus on core features of project and reducing some unnecessary activities.
+
+Risk 2: Delay schedule
+- Description: The duration of project will be stretch.
+- Impact: The time of project will be affected by deadlines of each store,  and the cost maybe affected.
+- Mitigation: Should put deadlines for each scope to each store can be on time with deadlines.
+- Contingency: Add more staff , adjust timeline
+
+Risk 3: Week collaboration 
+- Description: Teamwork not good between design team, HR team, marketing team.
+- Impact: The time of project will be affected
+- Mitigation: Meeting frequency, clear role and deadline for each team
+- Contingency: Reasign tasks for each team, more meeting, and solve problems together.
+
+Request 4:
+1. Define 3 project roles:
+- Market Development Director: responsible for whole project, plans, create project charter 
+- HR Leader: responsible for hiring and training for staff
+- Marketing Leader: responsible for launching campaigns
+- Design Leader: responsible for designing and constructing interiors consistent with the brand
+2. List out at least ten tasks:
+1. Create project charter
+2. Choose positon of provinces to put flagship store
+3. Survey and select premises
+4. Design and contruct the store
+5. Recruit and train local personnel
+6. Building raw materials supply chain
+7. Launching campaigns
+8. Approve designing and constructing
+9. Approve launching campaigns
+10. Evaluate surveys and conduct final reports
+
+3. 
+- Responsible: does the task
+- Accountable: make final decision
+- Consulted: give advices
+- Informed: receive updates
+
+1. Create project charter:
+R/A: Market Development Director
+C: HR Leader, Marketing Leader
+I: Design Leader
+
+2. Choose position of province to put flagship store
+
+R/A: Market Development Director
+C: Marketing Leader
+I: HR Leader, Design Leader
+
+3. Survey and select permises
+
+R: Marketing Leader
+A: Market Development Director
+C: HR Leader
+I: Design Leader
+
+4. Design and construct store
+R: Design Leader
+A: Market Development Director
+C: Marketing Leader
+I: HR Leader
+
+5. Recuit and train local personnel
+R: HR Leader
+A: Market Development Director
+C: Marketing Leader
+I: Design Leader
+
+6. Building materials supply chain 
+R/A: Market Development Director
+C: HR Leader, Marketing Leader
+I: Design Leader
+
+7. Launching campaign
+R: Marketing Leader
+A: Market Development Director
+C: HR Leader
+I: Design Leader
+
+8. Approve design and contruct
+R: Design Leader
+A: Market Development Director
+C: Marketing Leader
+I: HR Leader
+
+9. Approve launching campaigns
+R: Marketing Leader
+A: Market Development Director
+C: HR Leader
+I: Design Leader
+
+10. Evaluate surveys and conduct final report
+A/R: Market Development Director
+C: Marketing Leader, HR Leader
+I: Design Leader
+
+
+
+
+
+
+
+
+
+
+

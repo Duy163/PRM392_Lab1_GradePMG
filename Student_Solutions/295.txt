@@ -1,0 +1,83 @@
+1)
+Request 1: 
+Project name: Expantion of Coi Cafe
+ Purpose: implement an expansion project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai).
+ Constraints:
+ - Scope: 
+  + Expand Coi Cafe into 5 Central provines (Da Nang, Hue, Quang Nam, Quang Ngai).
+  + Surveing and selecting premises.
+  + Designing and constructing interiors consistent with the brand.
+  + Recuiting and training local personnel.
+  + Building a raw material supply chin from Central region suppliers.
+  + Launching campaigns for each store.
+ - Time: 70 months (1 flagship store in each province within 12 months).
+ - Cost: VND 8..5 billion (approximately VND 1.7 billion/store).
+ - Quality: Each store must read the break-even point within 8 months after opening.
+
+2)
+Request 2:
+1.
+Name: Buy the land.
+Description: Find locate in province and buy the land  at it.
+Estimation:
+ + Buy the locate about 15 m2
+ + Person in charged: Coi's management
+Cost: VND 1.0 billion.
+2.
+Name: Building store.
+Description: Build store sustaible.
+Estimation: 
+ + Buy material and find buiders.
+ + Person in charged: Design team.
+Cost:VND 300 million.
+3.
+Name: Design store.
+Description: Design nostalgic space.
+Estimation:
+ + Buy material .
+ + Person in charged: Design team.
+ Cost: VND 200 million.
+4.
+Name: Training employee.
+Description: Find local people.
+Estimation:
+ + During training the can make some mistake and cost for interm employee
+ + People in charged: HR team
+Cost: VND 20 milltion
+5.
+Name: Colapborate with Central region supliers
+Description: Find suplier can provide reusable cup or drink material
+Estimation:
+ + Cost for reusable cup and drink material.
+ + People in charged: PM
+Cost: VND 120 million (10 million/months in 12 months )
+
+- Total: VND 1.64 billion.
+Request 3:
+1. Risk: Out of budget.
+Description: 
+Impact: High.
+Risk respsone:
+ - Mitigation:
+ - Contigency:
+2. Risk: Not enough time.
+ Description : 
+ Impact: High.
+
+3. Risk: Can not read KPI.
+Description:
+Impact: High.
+
+Request 4:
+- Project roles: Project Manager (PM), Designers, HR, Marketing.
+Task and responsiblilites of the project roles:
+1.Take requirements: PM (R,A), Designer (I), HR  (I), Marketing (I).
+2. Create plan for project: PM(R,A), Designer (I), HR (I), Marketing (I).
+3. Find land for store: PM(R,A), Designer (I), HR (I), Marketing (I).
+4. Design blueprint for store building: PM (A), Designer  (R), HR (I), Marketing (I).
+5. Find builder: PM (A), Designer (R), HR (I), Marketing (I).
+6. Fiind employee: PM (A), Designer (I), HR (R), Marketing (I).
+7. Trainning employee: PM (A), Designer (I), HR (R), Marketing (I).
+8. Find suplier store: PM (R,A), Designer (I), HR (I,C), Marketing (C,I).
+9. Create adverstisment: PM (A), Designer(C,I), HR (I), Marketing (R).
+10. Create report complete project: PM (A,R), HR (I), Designer (I), Marketing (I)

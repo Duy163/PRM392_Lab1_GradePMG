@@ -1,0 +1,100 @@
+1)
+Request 1: 
+1. Coi Cafe Project
+2. Purpose is Coi's management decided to implement an expansion project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 months
+3. Project constrains
+ - Scope:
+    + Have a flagship store in each province within 12 months.
+    + Each Store must reach the break- even point within 8 months after opening.
+    + Surveying and selecting permises.
+    + Designing and constructing interior consistent with brand.
+    + Recruiting and training local personnel.
+    + Building a raw material supply chain from Central region suppliers.
+    + Lauching campains for each store
+ - Time: 12 months
+ - Cost/budget: VND 8.5 billion ( approximately VND 1.7 billion/store )
+ - Quantity: 
+   + Famous for it nostalgic space.
+   + traditional drink menu.
+   + using reusable cups.
+   + purchasing coffee directly from Dak Lak farmers.
+
+Request 2:
+ - Budget 1:
+    + Name: Buy a coffee from Dak Lak farmers. 
+    + Description: We need to find a good coordinatior about coffee in Dak Lak ( Dak Lak always called is City of Coffee , this is a place have many type of famous coffee in Viet Nam ) and long term.
+    + Estimation:
+ - Budget 2:
+    + Name: Find a good place buy coffee
+    + Desctiption: Store must to have a good place in big city or contries do not know coffee 
+    + Estimation: 
+ - Budget 3:
+    + Name: Ads for store
+    + Description: Using Social Medial includes TikTok/Youtube/Facebook/Instagram or booking KOLs for many people know Coi Cafe
+    + Estimation: 
+ - Budget 4: 
+    + Name: Spend money for staff or members.
+    + Description: We need to spend money for gift or money for staffs or members. it make will have a good attitude with customer.
+    + Estimation: 
+ - Budget 5: 
+    + Name: 
+    + Description: 
+
+Request 3:
+ 1. Risk 1
+   - Name:Have many bad products in store
+   - Description: A some problem when you can not test a product form coordinator and after customer buy it will make them feeling angry about product
+   - Possible impact:
+      + Quanlity: Customer will reduce if it will make customer do not belive in products.
+   - Mitigation: You must to test prodcut with many step.
+  2. Risk 2
+    - Name: Overcome total budget VND 8.5 billion and approximately VND 1.7 billion/store.
+    - Desctiptoion:Price of products is always to change up or down, you can not control this price product
+    - Possible impact:
+         + Cost: Price of Product can increase very high so budget can overcome approximately VND 1.7 biilion/Store.
+         + Time: it will happen in 2 - 3 months
+         + Scope: Can not achive VND 1.7 billion/Store and total budget is VND 8.5 billion.
+    - Mitigation: reduce a product in store from 1000 products decrease to 800 products.
+   3. Risk 3
+     - Name: Attitude of staff is not good
+     - Description: When a PM can not tranning soft skills for staff , it will make customer do not like it
+
+Request 4:
+4.1 Project Role 
+ A. Market Development Director ( PM ). 
+ B. Coordinationg with interior design team.
+ C. HR Team
+ D. Marketing team
+4.2 and 4.3 ( A , B , C , D is a Project Role in request 4.1 )
+ - Create a Survey:    A - I ,   B - I   ,  C - A , D - R
+ - Request Survey for new customer or old customer:    A -  C , B - I , C - R ,  D - R
+ - Design logo for product: A - C , B - R , C - I , D - I 
+ - Find a suppliers for flaghip store: A - R , B - I , C - I , D - I
+ - Tranning local personnel: A - R , B - C , C - C , D - C 
+ - Create Marketing plant: A - A , B - I , C - A , D - R
+ - Excute Marketing plant: A - I , B - I , C - R , D - R
+ - Building a raw material suppy chain: A - R , B - A , C - I , D - I
+ - Lauching campaigns for each store: A - R, B - A, C - I , D - I 
+ - Analysis Market Size: A - C, B - I , C - A , D - R
+3.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2)

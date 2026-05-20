@@ -1,0 +1,65 @@
+1)
+Request 1:
+1 Project Name:  Coi Cafe F&B Campaign
+
+2 Justifycations : Coi's management decided to implement an expansion project into 5 Central provinces (Danang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 months.  
+
+3 
+ -Scope : 5 Central provinces ( Da Nang. Hue, Quang Nam, Quang Ngai, Binh Dinh ), with 1 flagship store in each province.
+ -Time : 12 Months, must reach the break- even point within 8 months after opening 
+ -Cost/Budget: VND 8.5 biliion (approximately VND 1.7 biliion per store)
+ - Quality: sustainable business model (using reusable cups, purchasing coffee directly from Dak Lak farmers), The project include: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and trainning local personnel, building a raw material supply chain form Central region suppliers, and launching campaign for each store, 
+
+
+Request 2: 
+
+Item 1 : Reusable Cups 
+ -Description: Glass coffee cups decided base on the traditional style. 
+ -Estimation : buy large amounts from the local store.
+
+Item 2: Daklak Coffe Beans
+  -Description : Signature coffee beans of the Coi Cafe with unique scent and taste.
+ -Estimation: purchasing directly from Dak Lak farmers.
+
+Item 3: Building material
+ -Description: The Coi Cafe is for its nostalgic space so the building material must be selected perfectly.
+ -Estimation: Finding the right material base on the classic design. 
+
+Item 4 : Nostalgic chairs and table 
+ -Description : A suitable funiture base on the nostalgic space, can be considered with the province local style.
+ -Estimation : Chose the desgin carefully and order large amount  from the funiture store.
+ 
+Item 5 : Coffee filter and coffee machine
+ -Description: Coffee filter for making the traditional Vietnamese coffee and the coffee machine for the Espresso coffee making.
+ -Estimation: Order a large amount of coffee filter with high quality from the local store and order 1 high quality coffee machine per flagship store.
+
+
+2)
+Request 3: 
+Project Risk: 
+1,  Low amount of customers. 
+ - Description: Becase of the brand Coi Cafe is new with the local people, so the early opening time would be low amount of customers. 
+ - Possibility: High
+ - Impact: Medium. Break-even point would be delayed, staff hiring salary cost but no revenue.  
+- Response: Mitigate.
+- Strategy: Have a advertisement  campaign (social media, poster, sale off). Focus on the quality of the coffee and the customer experience. 
+
+2. Out of coffee
+- Description: Because  the coffee are purchased directly from Dak Lak Farmer so there is a possibility that some season in the year the coffee could not enough 
+- Posibility : Low
+- Impact: Medium . The quality of the coffee would be down, customers would be dissapointed if  the coffee out of stock. Take more time for waiting the coffee supply, and cost more budget for coffee sources. 
+- Response : Transfer.
+- Strategy: Buy and save a large amount of coffee beans. Find at least 5 sources of coffee from Dak Lak 
+
+3. The risk of the flood in the middle of VietNam
+- Desciption: The campaign is focus in Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh. So would be many disadvantages from the flood from the July to December every year.
+ - Posibility : High 
+ -Impact: High . The amount of customers would decrease, staff can not go to work because of the traffic and weather , The store would be close during the flood days, Building and funiture would be harm by the causes of the flood. 
+ - Response: Accept. 
+- Strategy: At first the store should be built on high place and using the high quality of building material to avoid least damage. The store should be closed during the hard weather days. 
+
+Request 4: 
+1. Project Role : Project Manager (R, A), Business Analyst (R) , Developer ( R), Designer (R),
+
+
+2, 

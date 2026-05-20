@@ -1,0 +1,112 @@
+1)
+REQUEST 1
+Project Name: Coi Cafe Expansion Project
+Purpose & Reasons: To make the coffee brand more popular within the country and to generate more revenue for the company
+Project constraints:
+- Scope: 
+  + 1 flagship store in each provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+  + There should be campaigns for each store.
+  + Surveying and selecting premises
+  + Designing and constructing brand interiors consistently
+  + Recruiting and training local personnel
+  + Establish a raw material supply chain from Central region suppliers
+- Time: 
+  + Able to have 1 flagship store in each Central provinces within 12 months
+- Cost: The total budget for this project is 8.5 billion VND with approximately 1.7 billion per store
+- Quality: 
+  + Each store reach its break-even point witihin 8 months after opening
+  + Each store have their local personnel trained, premises ready and supply chain built before opening. And there are launching campaigns for each store.
+2)
+REQUEST 2
+1.
+- Name: Interiors preparation cost
+- Description: Each store need to buy the interiors in order to decorate.
+- Estimation: 100 million VND to 200 million VND per store
+  + The estimation can be forecast when the desigin team select the interiors that fit the brand. It also depends on the contract with the suppliers. However, it is clear that the interiors needed to buy for the stores is consistent and the estimation price is not too varied between stores.
+- Person in charged: Interior design team
+
+2.
+- Name: Marketing campaigns cost
+- Description: It is the cost for marketing team to launch marketing campaigns on social media platforms for attracting customers
+- Estimation: 50 million VND per campaign on each social media platform (Tiktok, Facebook, Instagram)
+ + The price can be references from each social media marketing center for estimation
+- Person in charge: Marketing team
+
+3.
+- Name: Premises survey cost
+- Description: For a high quality survey, there should be gifts, prizes after completing a survey.
+- Estimation: 5 million VND to 10 million VND for each survey campaign
+  + The price depends on the number of people that survey campaign wants to take and also the prize chosen for the survey. Also it can be deferred to the expert research team for more accuracy.
+- Person in charged: 3rd party research expertises or marketing team.
+
+4.
+- Name: Raw material import cost
+- Description: Coi Cafe is a coffee brand so that is is a must for importing raw coffe beans to make their drinks.
+- Estimation: 5 million VND to 20 million VND each time
+  + The estimation price can be estimated via the coffee beans price at the time. The coffee beans selected for importing can impact on the price. The import negotiation between the store and the suppliers is also critical for the estimation.
+- Person in charged: Supplier and Store employees
+
+5.
+- Name: Recruiting and Training cost
+- Description: There shall be a cost for a whole recruiting and training process in order for looking for local personnels and preparing samples for them to train on
+- Estimation: 5 million VND per hiring campaign and another 5 million for training course samples.
+  + For hiring campaigns, each hiring platform shall have a price for each campaign.
+  + For samples, the price is highly depends on the quality of the coffee beans and other materials that newcomers are able to test out in the training process.
+- Person in charge: HR team
+
+REQUEST 3:
+1.
+- Risk: Not enough budget
+- Description: The project runs out of budget while in execution
+- Impact: High
+  + Scope: The scope may need to be modified or reduced in order to continue the project without exceeding budget
+  + Time: The time may be longer for raising more money or may be shorter because of reduced scope
+- Mitigation: There should be clearly defined estimation price for each criteria before getting the final budget.
+- Contingency: The company can raise more money in exchange for more risks, redefine the scope, or reduce some quality for lower cost.
+
+2. 
+- Risk: In short of raw material
+- Description: The supplier doesn't have enough specified material for supplying to the store
+- Impact: Medium
+  + Quality: The store may not have enough material to create the product for the customers.
+- Mitigation: The store can prepare a list of supplier so that if any supplier ran out of materials, there are always a backup
+- Contingency: Use the reserved material (if available) or accept the fact that the store is not able to deliver the product to the customer at that time.
+
+3. 
+- Risk: Unavailable place for the store
+- Description: There are no places to be able to place the store.
+- Impact: High
+  + Time: The project may be longer due to this
+  + Quality: If the selected place is not quality assurance, it can cause disatisfaction to the customers.
+- Mitigation: Contact to real estates for faster land looking.
+
+REQUEST 4
+
+Activities:
+A. Finding land for each province
+B. Renting land
+C. Surveying premises
+D. Selecting premises
+E. Designing interiors
+F. Constructing interiors
+G. Recruiting local personnel
+H. Training local personnel
+I. Building raw material supply chain
+O. Launching store opening campaigns
+Project roles:
+- Project Manager:
+  + Responsible: A, B
+  + Accountable: A, B, C, D, E, F, G, H, I, O
+- Interior Design:
+  + Responsible: E, F
+- HR:
+  + Responsible: G
+- Marketing:
+  + Responsible: C, D, O
+- Store Worker:
+  + Responsible: H, I
+- CEO:
+  + Informed: A, B, C, D, E, F, G, H, I, O
+  + Consulted: C, D, E, F, G, H, I, O
+- Real estate:
+  + Consulted: A, B

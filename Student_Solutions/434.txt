@@ -1,0 +1,45 @@
+1)
+Project Name: Coi Cafe
+1 Project Justifications:
+   This project is a pure Vietnamese coffee brand with 12 stores in Hanoi and Ho Chi Minh City, famous for its nostalgic space, traditional drink menu, and sustainable business model (using reusable cups, purchasing coffee directly from Dak Lak farmers).
+    This project decided to implement an expansion project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 months.
+
+2 Scope and Features:
+This project is high quality performence
+
+A. Project Scope
+- Surveying and selecting premises
+- Designing and constructing interiors consistent with the brand
+- Recruiting and training local personnel
+- Building a raw material supply chain from Central region suppliers
+- Launching campaigns for each store
+
+B. Project Deadline and Budget/Cost
+Coi Cafe total budget is VND 8.5 billion (approximately VND 1.7 billion/store) from equity and commercial bank loans. Within 8 month, each store must reach the break-even point after opening
+
+C. Cost/Budget Estimate
+( Market Development Directior=PM, coordinating with the interior design team=IDT, HR team=HR, marketing team=MT)
+- Coffee Interiors: where the store choose to design and constructing consistent with the brand (PM and IDT)
+- Coi Fishes: Coi coffee must have its brand feature (PM)
+- Drink Menu: which it has many drink option like coffee, juice, smoothie,...(HR and MT)
+- Sustainable business model: Reusable cups, coffee from Dak Lak farmers (PM and HR)
+- Coi Fish food: For keep the fish healthy and grown up, maintain its beauty and customer can choose to feed the fish by themselves. (PM, HR and MT)
+- Recruiting and Training: Employees for the Coi Coffee store (HR and MT)
+2)
+3. Project Risk Impacts
+(Possible Impact: from 1 (low) to 5 (high)
+A. Risk: Stealing case inside the store(possible impacts: 4)
+- Some people trying to steal from other customers personal stuffs
+- Mitigation: Security camera 24/7 on each area and retrieve it back soon as possible, 
+
+B. Risk: Customer not willing to buy drink because of the poor drink Menu (Possible impact: 3)
+- The menu of the drink sometimes not good enough to make customers choose to buy when they come in or ingredient of the drink not suitable for them
+- Mitigation: Adding more drinks into the menu, stock up new fresh materials for every drink and maintain the storage cleanest
+
+C. Risk: Coi Fish not beautiful or health issues (possible impact: 5)
+- Coi fish might lost or being illness, affect the efficiency for the store brand
+- Mitigation: Maintain the Coi Fishes food every weeks, keep it healthy with some fish medicine and change the water once per week.
+
+4. RACI Chart
+(R=Responsible, A=Accountable, C=Consulted, I=Informed)
+Market Development Director as PM, Interior design team as IDT, HR Team, Marketing team as MT

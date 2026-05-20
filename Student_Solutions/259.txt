@@ -1,0 +1,95 @@
+1)
+Request 1
+1. Project name: Coi Cafe expansion project
+
+2. Justifications
+    2.1: Purpose: this project aim to bring custumers a nostalgic space, traditional drink menu, and sustainable business model by reusable cups, purchasing coffee directly from Dak Lak farmers
+    2.2: Reason: in the mordern day, people who lives 
+in city need a space does not releated city to reduce stress.
+
+
+3.  Project constrains
+    3.1:  Building a raw material supply chain
+            3.1.1: Scope: to increasing quality of traditional drink
+            3.1.2:  time: during construct flagship store (12 Months)
+            3.1.3: Cost/Budget: 100 million VND
+            3,1,4: Quality: must be qualified from farmers
+    3.2: Expansing project into 5 Central provinces:
+           3.2.1: Scope: to increase revenue and expanse market.
+           3.2.2: time: 12 months/store
+           3.2.3: cost/budget: total is VND 8.5 billion (approximately VND 1.7 billion/store)
+           3.2.4: Quality: each store must reach the break-even point within 8 months after opening
+
+
+
+
+Request 2: 
+2. five main cost:
+   2.1: name: Building 5 flagship stores
+         description: to expanse and broad market Coi's  management decided to implement project into 5 central provinces
+         estimate: ~1.45 billion/store
+         how to estimate: base on other previous stores.
+         person in charged: PM
+   2.2: name: building a raw material supply chain
+          description: to increase the quality of the drinks
+          estimate: ~100 million/store
+          how to estimate: base on other previous stores
+          person in charged: PM
+  2.3: name:  recruiting and training local personel
+         description: training waitor, barista including uniform
+          estimate: about 40 million VND
+          how to estimate: base on other previous stores
+          person in charged: HR manager
+  2.4: name: marketing cost
+         description: to attract new customers by using banner ads, videos promotion, free voucher, free product fist week...
+          estimate: about 60 million VND
+          how to estimate: base on other previous stores
+          person in charge: CMO
+  2.5: name:  contingency cost
+         decription: to make sure the plan can keep continue even scope creep happen
+         estimate: about 50 million VND
+         how to estimate: base on other previous stores
+         person in charged: PM
+
+
+2)
+Request 3:
+3.1 lack of suppling chain
+   description: some Central provinces may not near the central region suppliers
+   scope: can be lack product to sale
+   quality: can be affected because the distance
+   time: increasing due to supplier have to delivery longer
+   cost: increasing due to supplier have to delivery longer
+   mitigation: PM can consider add more suppliers
+   contigency: using another coffee in another region
+
+3.2 low customer demand
+   description: customer may not interest with due to have another choice or strong competitor
+   scrope: may not reach the break-even point within 8 months after opening
+   qualiy: not affected
+   cost: increasing because can not sale as plan
+   mitigation: research competitor and apply strong strategy
+   contingency plan: implmenting marketing campain to attract new custumers 
+
+3.3 lack of cost
+   description: may not loan enoungh money
+   scope: the project can be delayed
+   quality: can not reach the break-even point
+   cost: reducing due to can not development project
+   mitigation: using another commercial bank loans
+   contingency plan: reducing scope of project
+
+Request 4:
+1. CEO, PM, CMO, HR team(HR), Marketing team
+2. planning, surveying, select premise, designing, constructing store, training local personel. building a raw material supply chain, marketing, equity and commercial bank loans, launch project
+3.
+ 1- planning: CEO(A), PM(R), CMO(C), HR team(i), Marketing team(i)
+2 - surveying: CEO(i), PM(C), CMO(A), HR team(i), marketing team(R) 
+ 3- select premise: CEO(A, R), PM(C), CMO(i), HR team(i), marketing team(i)
+ 4- designing: CEO(i), PM(A, R), CMO(R. C), HR team(i), marketing team(i)
+ 5 - constructing store: CEO(i), PM(A, R), CMO(R, C), HR team(i), marketing team(C)
+ 6- training local personel: CEO(i), PM(C), CMO(C), HR team(A, R), marketing team(i)
+ 7 - building a raw material supply chain: CEO(A, R), PM(C), CMO(C), HR team(I), marketing team(i)
+ 8 - marketing: CEO(i), PM(i), CMO(A, R), HR team(i), marketing team(R)
+ 9- quity and commercial bank loans: CEO(A, R), PM(i), CMO(C), HR team(i), marketing team(i)
+ 10- lanch project: CEO(R, C), PM(A, R), CMO(R, C), HR team(i), marketing team(R)

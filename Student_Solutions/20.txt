@@ -1,0 +1,111 @@
+1)
+Request 1:
+1. Project name: Coi Cafe expansion
+2. Justification: 
+Purpose: This project to implement an expansion Coi Cafe in to 5 Central provices.
+Reasons: Coi Cafe has 12 stores in Ha Noi and Ho Chi Minh City. The Coi's management want to make Coi Cafe more famous into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+
+3. Project constraints:
+Scope: The project includes: surveying, selecting premises, designing and constructing interiors consistent with the brand,  recruiting training local personnal, building a raw material supply chain from reagion suppliers. and lauching campaigns for each store
+
+Cost/budget: The total budget is VND 8.5 billion (approximately VND 1.7 billion/store) from equity and commercial bank loans.
+
+Time: winthin 12 months
+
+Quality: Each store must reach the break - even point winthin 8 months after openning.
+
+Request 2: 
+Five main cost/buget items:
+1. Permit and rental space
+Description: Fees for permit and rental local spce for each store
+Estimation: total VND 3 billion
+How to estimate: bottom-up, each store spent VND 500 million, total of 5 stores is VND 3 billion)
+Person in charged: Project manager
+
+2. Designning and construting interiors
+Description: This cost for buy materials for designing and constructing interiors such as poster, tables
+Estimate: VND 350 million total
+How to estimate: bottom-up, each store spent VND 70 million
+Person in charged: Design Lead
+
+3. Trainning staff
+Description this cost for trainning the staff
+Estimate: VND 200 million 
+How to estimate: bottom-up, each store spent VND 40 million for trainning 8 staffs
+Person in charged: Marketing lead
+
+4. Contigency serve
+Description: This is backup cost for unexpected problems such as rainning days, staff no-show, lost materials
+Estimate: VND 2 billion 
+How to estimate: Analognous, this cost based on the past project
+Person in charged: Project manager
+ 
+5. Promote and marketing
+Description: This cost is use for promote on social media
+Estimate: VND 1 billion
+How to estimate: Analognous, based on the past project
+Person in charged: Marketing Lead
+2)
+Request 3: 
+1. Staff no - show:
+Description: The staff may be absent by personal reasons
+Impact: High, the store can not open on time so affter high on quality, time and cost
+Relevant: 
+Mitigation: Build the backup staff, and clear the schedule of staff
+Contigency: The backup staff handle or PM can handle
+
+
+2. Store not reach the break-even point
+Description: The problem is some of store does not reach the target winthin 8 months after opening
+Impace: hight 
+Relevant: Afftect on the target each store must reach the break-even point
+Migtigation: analytics at month 5, and add more money to make it fast
+Contigency: 
+
+
+3. Over budget
+Description: The budget may be over winthin 12 months
+Impact: High
+Relevant: Affect on total budget of project
+Mitigation: PM need to build to back up budget, and analytics every month to control it
+Contigency: Analytics at the months 5 if the budget reach 6 billion, PM review and use the backup budget
+
+
+
+Request 4: 
+1. Three project role: 
+ - Project manager: manage and assign tasks, set timeline, approve  and make important decisions, 
+ - Marketing Lead: promote on social media, trainning staff, 
+ - Design Lead: design and construct interios
+
+2. 
+1. Define scope and target  
+2. Survey and select premises
+3. Set up timeline
+4. Choose the rental space
+5. Design and construct interios
+6. Trainning local personnel
+7. Build raw material supply chain 
+8. Promote on social media
+9. Review the result
+10. Lauching campaigns
+
+
+3.
+
+task 1: PM (A/R), ML (I), DL (I)
+task 2: PM(I), ML(A/R), DL(I)
+task 3: PM(A/R), ML(I), DL(I)
+task 4: PM(A/R), ML(C), DL(I)
+task 5: PM(I), ML(I), DL(A/R)
+task 6: PM(I), ML(A/R), DL(I)
+task 7: PM(A/R), ML(I), DL(I)
+task 8 PM(C), ML(A/R), DL(I)
+task 9: PM(A/R), ML(I), DL(I)
+task 10: PM(A/R), ML(I), DL(I)
+
+
+
+
+
+

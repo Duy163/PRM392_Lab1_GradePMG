@@ -1,0 +1,71 @@
+1)
+Request 1
+ 1. + Project name is Coi Cafe
+
+  2. Purpose: the project implement an exxpansion into 5 Central provinces(Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 months
+
+ 3. + Scope:The project surveying and   selecting premises, dessigning and construngting interiors consisten with the barnd, recruiting and training local personcel, building a raw material supply chain  from Central region supplier, and launching campaigns for each storte
+  + Cost VND 8.5 bilion
+  +Time : 12 months
+  +Quality: Each store reach the break-even point within 8 months after openning
+
+Request 2
+Five main cost is:
+  1  +Name: Training local persone cost
+     +Description: each store need employe, so the cost will pay for manage, make drink, take care drink qality.. 
+  2  + Name : decore local store 
+       +Description: to make customer have frenly with store, the store need to pay money to decore in local store like, light, chair, table.....
+ 3  +Name:design and constructing cost
+      +Decription: to accept the request from Coi cafe, store need to design and constructing store and make it accept by brand
+4  + Name: Building cost
+     + Dectiption: the store need a raw material supply chain from Central region suppliers, and launching campaigns for each store
+5.  +Name: Traditional material cost
+     +Description: the cost will pay for drink meterial, cups..in the store
+
+
+Request 3: Three risks in project
+ 1. Name: Time inscre of store when reach the break-even point within 8 month after opening
+    Description: time burnout will make store will make store have low qualilty at work
+    posible impacts: high
+    Mitigation: having plan and push time of each store at orgnization role and local role. 
+    Contingency:reducing afew process not too importance at all project, pusing time at importace role, like leading project
+
+2 . Name: The number of cuestomer can know project
+   Description: At 5 central provinces, the number of customer come to store is the key to improve businiess.
+    Posible impacts: low
+    Mitigatio: having marketing plan at 5 central provinces. like open marketing zone on cocial(tiktok, facebook, instagram), 
+    Contingency: raising more coupon, use marketing by drop paper, colap with KOL to marketing at central provincess
+
+3. Name 
+     
+Request 4:
+1 +Project Manager (PM)
+   +Marketing Lead
+   +Design Lead
+2  10  task
+    - Survey market at 5 Central Provinces
+    - Planing for Marketing team
+    - Found famus cocial for maketing team
+     - Conneting with KOL for marketing 
+     - Survey structure of bulding at 5 central procinces
+     - Found  matrial desgin for each store
+     - Plaining decore at store
+      -Trainning local personnel
+      - Surveying and selcting premises 
+      - Decore at each store 
+3 
+  + Survey market at 5 Central Provinces (PM)
+      desciption: to know each Central province having difference market, to chosse good plan for each store
+  + Plaing for Marketing team (Marketing lead)
+  +Found Famus cocial for marketing team( Marketing lead)
+  + Connecting with KOL for maketing(Marketing Lead)
+  +Survey structure of buling at 5 Central Provinces(Design lead)
+  +Found material design for each store(Design lead)
+  +Plaing decore at store(Design Lead)
+ + Traning local personnel(PM)
+ +Surveying and lelecting premieses(PM)
+ +Decore at each store(Decore lead)
+   
+
+ 
+2)

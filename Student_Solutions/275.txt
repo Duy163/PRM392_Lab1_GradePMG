@@ -1,0 +1,121 @@
+1)
+Request 1:
+1. Name: "Expansion project".
+ - Description: implement fragship store into 5 Central provinces.
+2. Justification: increase the Coi Cafe's size as a business, with 1 fragship store in each province within 12 months.
+3. Constrains:
+- Scope: 
++ 1 fragship store in each province within 12 months.
++ Surveying and selecting premises.
++ Designing and constructing onteriors consistent with the brand.
++ Recruiting  and training local personnel.
++ Building a raw material supply chain from Central region suppliers.
++ Launch campaigns for each store.
+
+- Time: 12 months.
+
+- Quality: Each store reach the break-even point within 8 months after opening.
+
+
+
+Request 2:
+1. Main cost:
+- Material 
+- Training
+- ...
+
+
+
+Request 3:
+1. Risk 1: Overrun budget
+- Description: the price of building a raw material supply chain may cost more than the plan.
+- Possibility: Medium
+- Impact: High
+- Mitigation: plan a details using budget, compare price, check the spending and budget weekly.
+- Contingency: use backup budget, reduce money spend to decoration.
+
+2. Risk 2: Delay on implement store
+- Description: Constructor get hurt while work, the materials delivery late.
+- Possibility: Medium
+- Impact: High
+- Mitigation: Find many constructor for backup, check the status of the delivery daily to make sure it is on time.
+- Contingency: Hire other constructor to replace the one who got hurt, use local material supply
+
+3. Risk 3: Not make any profit
+- Description: only have small amount of customer, not fit with people in local.
+- Possibility: Low.
+- Impact: High.
+- Mitigation: do many survey about the lifestyle of people around the location about to place the store to make sure everybody at there familiar with the product, do some ads to pronounce to people in local.
+- Contingency: create a sale-off deal to get attention of people and do more advertising the product.
+
+
+
+
+Request 4:
+1. Roles:
+- PM.
+- Marketing.
+- HR.
+- Interior design.
+
+2. Activities:
+- Create survey of local demand:
++ PM: A.
++ Marketing: R.
++ HR team: C.
++ Interior design: I.
+
+- Analysis survey result:
++ PM: A.
++ Marketing: R.
++ HR: C.
++ Interior design: I.
+
+- Create recruiting form for local personnel:
++ PM: A.
++ Marketing: C.
++ HR: R.
++ Interior design: I.
+
+- Check and sort recruiting form:
++ PM: A.
++ Marketing: C.
++ HR: R.
++ Interior design: I.
+
+- Train people who recruited:
++ PM: A.
++ Marketing: I.
++ HR: R.
++ Interior design: I.
+
+- Design interiors consistent with the brand:
++ PM: A.
++ Marketing: I.
++ HR: I.
++ Interior design: R.
+
+- Construct interiors:
++ PM: A.
++ Marketing: I.
++ HR : I.
++ Interior design: R.
+
+- Build a raw material supply chain:
++ PM: A.
++ Marketing: R.
++ HR: C , I.
++ Interior design: I.
+
+- Create plan campaigns for each store:
++ PM: A.
++ Marketing: R.
++ HR: I.
++ Interior design: I.
+
+- Launch campaigns be prepared for each store:
++ PM: A.
++ Marketing: R.
++ HR: C , I.
++ Interior desgin: I.
+2)

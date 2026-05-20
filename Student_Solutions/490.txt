@@ -1,0 +1,130 @@
+1)
+REQUEST 4:
+Project roles:
+Project Manager (PM)
+Design & Construction Team
+Human Resources Team
+Marketing Team
+Tasks / Deliverables:
+Conduct feasibility study
+PM: A
+Design: C
+HR: I
+Marketing: R
+Select and confirm sites
+PM: A/R
+Design: C
+HR: I
+Marketing: C
+Complete leasing procedures
+PM: A/R
+Design: I
+HR: I
+Marketing: I
+Finalize store concept and layout
+PM: A
+Design: R
+HR: I
+Marketing: C
+Implement construction work
+PM: A
+Design: R
+HR: I
+Marketing: I
+Procure equipment and materials
+PM: A
+Design: C
+HR: I
+Marketing: I
+Execute hiring process
+PM: A
+Design: I
+HR: R
+Marketing: I
+Deliver staff training program
+PM: A
+Design: I
+HR: R
+Marketing: C
+REQUEST 2:
+Name: Location acquisition cost
+Description: Includes deposit and early-stage rental payment for each site.
+Estimation: Approximately 420–500 million VND per store.
+How to estimate: Review market rental levels, evaluate foot traffic, negotiate terms with property owners.
+Person in charge: Project Manager and expansion officer.
+Name: Store fit-out cost
+Description: Covers interior finishing, lighting, furniture, and branding elements.
+Estimation: About 550–620 million VND per store.
+How: Collect bids from contractors, adjust based on store size and design complexity.
+Person: Design team leads, PM reviews budget.
+Name: Operational equipment
+Description: Essential machines such as espresso machines, grinders, cooling units, and POS.
+Estimation: 240–310 million VND per store.
+How: Identify required equipment list, request quotations from suppliers, consider bundle deals.
+Person: Operations team with PM approval.
+Name: Staffing and onboarding
+Description: Recruitment process and training program before store launch.
+Estimation: 100–140 million VND per store.
+How: Define staffing plan, calculate training sessions and initial salaries.
+Person: HR department.
+Name: Launch marketing activities
+Description: Includes advertising, promotions, and opening events.
+Estimation: 140–180 million VND per store.
+How: Analyze previous launch campaigns, allocate budget based on city size.
+Person: Marketing manager.
+Name: Opening stock and logistics
+Description: Initial supply of ingredients and delivery setup.
+Estimation: 90–120 million VND per store.
+How: Forecast early demand, confirm supplier pricing and delivery costs.
+Person: Supply chain coordinator.
+REQUEST 1:
+Project name: Coi Cafe Five-Province Rollout Project.
+This project focuses on launching 5 flagship Coi Cafe stores across Central Vietnam, specifically in Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh within a 12-month period. The main objective is to extend the company’s footprint beyond its current cities and capture new customer segments. The Central region shows strong tourism activity and a rising urban population, which creates demand for café experiences. In addition, the project helps strengthen the company’s sustainable model by sourcing materials closer to the new stores, improving efficiency and supporting local producers.
+The project is limited by several key constraints. Regarding scope: Only five stores will be delivered, and each must strictly follow the established brand identity, including store layout, menu, and service approach. Regarding time: The full rollout must be completed within 12 months, so delays in one phase can affect the entire plan. Regarding cost: The budget is capped at VND 8.5 billion, which requires careful allocation for each store. Regarding quality: Consistency is critical, as all new locations must match the existing standards in product quality, customer experience, and design.
+REQUEST 3:
+Risk 1: Demand overestimation
+Description: Expected customer volume is higher than actual demand.
+Impact: Revenue lower than plan (cost pressure), longer break-even time, possible reduction in service quality due to cost cutting.
+Response:
+Mitigation: Conduct realistic demand forecasting and competitor analysis.
+Contingency: Introduce promotions, adjust pricing strategy, optimize operating hours.
+Risk 2: Coordination issues between teams
+Description: Miscommunication between design, HR, and marketing teams.
+Impact: Delays in timeline, inconsistent quality output, increased cost due to rework.
+Response:
+Mitigation: Set clear communication plan, regular meetings, shared progress tracking.
+Contingency: PM intervenes directly, reassign responsibilities if needed.
+Risk 3: Regulatory or legal delays
+Description: Delays in permits or local approvals.
+Impact: Schedule delay, additional administrative cost, possible change in project scope.
+Response:
+Mitigation: Prepare documents early, understand local regulations in each province.
+Contingency: Adjust project sequence or prioritize other locations first.
+Develop promotional strategy
+PM: A
+Design: C
+HR: I
+Marketing: R
+Manage store launch events
+PM: A
+Design: C
+HR: C
+Marketing: R
+Establish supplier network
+PM: A
+Design: I
+HR: I
+Marketing: I
+Review operational performance
+PM: A/R
+Design: I
+HR: C
+Marketing: C
+2)
+Project quality is amount from each store reach the break-even point within 8 months after opening.
+Request 2:
+Main cost iterms are application expense (buy or borrow application can use in long time), humance expense (who can plan, manage, build project and builing or store),  implement cost (10% budget)
+Request 3:
+Three core ricks are humance shortage, equity shortage and can not reach KPIs in social. To the first rick, brand need finding everywhere and interview to choose enough people or more. To the second one, brand need to wait have enough equity to run project. To the last one, brand to try use ADs and media by all brand best.
+Request 4:
+1. 

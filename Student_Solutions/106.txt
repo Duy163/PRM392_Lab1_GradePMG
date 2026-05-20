@@ -1,0 +1,177 @@
+1)
+Request 1 : Project Charter Statement
+1. Title of project:
+Coi Cafe Central Vietnam Flagship Expansion Project 
+2. Rationale:
+Coi Cafe has so far opened 12 stores in Hanoi and Ho Chi Minh City.
+The project will assist Coi Cafe in enhancing its brand presence in Central Vietnam.
+The five target provinces are Da Nang, Hue, Quang Nam, Quang Ngai and Binh Dinh.
+The central region of Vietnam has high potential thanks to its tourism, urbanization and increasing demand for coffee shops.
+The project promotes the sustainable business model of Coi Cafe thanks to the application of reusable cups and direct coffee purchase from farmers in Dak Lak.
+The expansion can help boost revenue and strengthen Coi Cafe as a Vietnamese coffee brand nationally.
+3. Project limitations:
+Scope restriction:
+5 flagship stores to be opened, one in each target province.
+Full premises selection, interior design, construction, recruitment, training, supply chain setup and marketing campaigns.
+Time limit:
+All five stores are to be opened within 12 months.
+Cost constraint: 
+Total budget is limited to 8.5 billion VND.
+Average budget is around 1.7 billion VND per shop.
+Quality requirement:
+The stores should reflect the nostalgic and sustainable brand concept of Coi Cafe.
+All stores are required to offer the same level of service and quality of drinks.
+Each store must achieve break-even point in 8 months after opening.
+
+Request 2: Major Cost/Budget Items
+1. Inspection of premises and deposit for rent
+Study of the market, verification of customer traffic, legal check, deposits for rental of five stores.
+Estimated cost: 1.5 billion VND.
+How it is estimated: Based on expected rental deposits and market rental prices in each province.
+Arrested: Director of Market Development.
+2. Design and Construction of the Interior
+Description: Store layout, decoration, furniture, lighting, counter area, nostalgic Vietnamese coffee design.
+Cost estimate: 3.0 billion dong.
+Estimate method : Estimated about600 million/store (contractor quotation basis)
+Responsible Person: Interior Design Manager.
+3. Equipment and materials 
+Description: Coffee machines, grinders, refrigerators, POS systems, reusable cups, tables, chairs, kitchen tools.
+Estimated cost: 1,300,000,000 VND.
+Estimation Method : Supplier price quotations and historical store purchase data.
+Charged person: Operations Manager
+4. Hiring and training
+Description: Recruiting baristas, store managers, service staff, and arranging training sessions.
+Estimated cost: 700 million VND.
+Estimate Method: Expected employees per store and training cost per store.
+Person charged: HR Manager. 
+5. Marketing campaign launches
+Social media ads, grand opening events, local KOL/KOC promotion, posters, vouchers, customer activities.
+Estimated cost: 1.0 billion VND.
+Estimate way: Around 200 million VND/store
+Marketing Manager charged.
+6. Contingency fund
+Description: Contingency for unexpected increase in costs, construction delay or change of supplier.
+Estimated cost: 1,000,000,000 VND.
+Estimate Method: Approx 12% of total budget
+Charged Person: Project Manager
+Total estimated budget: 8.5 billion VND
+
+2)
+Request 3.Project risks 
+1. Risk of construction delays 
+Description: 
+Delay in interior construction may be due to contractor problems or material shortages.
+Possible effects:
+Time: Store opening could be late 
+Cost: There may be extra costs for labor or rental
+Quality: Construction may be rushed and lower store quality.
+Mitigation plan: 
+Employ skilled contractors.
+prepare a detailed building schedule.
+Monitor construction progress on a weekly basis.
+Plan B: 
+Employ backup contractors.
+Open stores in phases if some stosers are late.
+2: risk: inappropriate location selection
+Description: 
+Some stores may be in areas with low customer traffic or weak demand.
+Potential impact: 
+Scope/quality: the store may not achieve the intnded market coverage.
+TIme: the beak-even period maybe longer.
+Cost higher marketing and rental costs.
+Mitigation plan:
+Boost local promotion.
+Review lease and renegotiate lease term or move.
+3. Risk: Varied quality of service
+Description
+New local staff may not deliver the same standard of service as exisiting store staff.
+potential effect: 
+Quality: customer satisfaction may decline
+Cost" Addtional training and supervision maybe neccesart
+Time: perfomance may gradually improve.
+response plan:
+Standardized training.
+Use check lists and serrvices manuals.
+Backup plan:
+Suport new stores a the lauch time by sending experienced staff from Hanoi or HO CHI MINH city.
+
+Request 4: RACI Chart
+Project roles:
+PM:Project Manager / Market Development Director.
+ID: Interior Design Team
+HR:Human Resources Team.
+MKT: Marketing Team.
+OPS: Operations Team.
+RACI responsibilities:
+1 Approve expansion plan
+PM:A/R
+ID:C
+HR:C
+MKT:C
+OPS:C
+2 Conduct market research
+PM:A/R
+ID:I
+HR:I
+MKT:C
+OPS:C
+3 Select store locations
+PM: A/r
+ID:C
+HR:I
+MKT:C
+OPS:C
+4. Negotiate leases contracts
+PM: A/R
+ID:I
+HR:I
+MKT:I
+OPS: C
+5. Design store concecpt
+PM:S
+ID:R
+HR:I
+MKT:C
+OPS:C
+6 Manger construction and decoration
+PM:A
+ID:R
+HR:I
+MKT:I
+OPS:C
+7 purchase equipment and materials
+PM:A
+ID:C
+HR:I
+MKT:I
+OPS:R
+8 recruit local staff
+PM:C
+ID: I
+HR:A/R
+MKT:I
+OPS:C
+9 train store emplyoess
+PM:A
+ID:I
+HR:R
+MKT:I
+OPS:R
+10 prepare marketing campaign
+PM:A
+ID:C
+HR:I
+MKT:R
+OPS:C
+11. lauch opening events
+PM:A
+ID:C
+HR:C
+MKT:R
+OPS: R
+12 Monitor break- even performance
+PM:A/r
+ID:I
+HR:I
+MKT: C
+OPS:R

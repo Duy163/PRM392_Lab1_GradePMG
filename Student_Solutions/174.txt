@@ -1,0 +1,149 @@
+1)
+request 1: 
+
+1. the project name is "coi cafe traveling vietnam" 
+2. 
+the purpose of the project is launching and rasing awearness coi cafe to 5 central provinces customers with 1  flagship store in each province and each store must rach the break-even point within 8 months after opening.
+
+the reasons to implement this project are the brand wants opening brand and connect to customexers in 5 central provinces of vietnam.
+
+3. project constraints
+the scope of project: implement and expension project into 5 central provinces (da nang, hue, quang nam, quang ngai, binh dinh) with 1 flagship store in each province. 
+time: 12 months
+cost: vnd 8.5 billion 
+quality: customers at 5 central provinces (da nang, hue, quang nam, quang ngai, binh dinh) know and use products of the brand. with 1 flagship store in each province and each store must reach the break - even point within 8 months after opening.
+
+request 2:
+
+- the cost for place opening store
+name: the cost place
+description: the budget item for buy and rent place such as store, place to make event,.. to connect to customers.
+estimation: 35% total the buget of the project
+person in charged: the founder of brand 
+
+- the cost for booking kols, celeb,...
+name: the cost booking 
+description: the budget item for booking kols, celeb, talent,..who have affect to customers to customers know brand and trust brand. 
+estimation: under 500 milions
+person in charged: the founder of the brand
+
+- the cost for rent media (design, edit, script)
+name: the cost rent media
+description: the budget item for media such as design, edit video,...to make social effective on tik tok, facebook,... to connect to customers.
+estimation: under 500 milions 
+person in charged: the founder of the brand
+
+- the cost for event
+name: the cost for event
+description: the budget item for make event to connect to customers and for customers experience to more understand about the brand.
+estimation: under 1 billion
+person in charged: the founder of the brand
+
+- the cost for equipment, document
+name: the cost for equipment, document
+description: the budget item for equipment, document to help make the project commplete. 
+estimation: under 1 bilion
+person in charged: the founder of the brand
+
+request 3: 
+- the project risk 1
+the risk name: do not enough money to connect the project
+description: the project have to pay over target budget of the project
+possible: medium
+mitigation:reduce the cost of other item and reduce the scope of the
+contingency: reduce the scope of the project
+
+- the project risk 2
+the risk name: the project do not enough interesting to connet to customer at 5 central provinces 
+description: customers at 5 central provinces do not accessible and know to the brand
+possible: high
+mitigation: pushing the media, make event, booth exeperiences to connect to customers.
+contingency: reduce target reach of media, event of the project
+
+- the project risk 3
+the risk name: the project delay schedule 
+description: the project 
+possible: medium
+mitigation: reduce duration of other activies, task to right schedule
+contingency: set up again schedule of the project 
+
+request 4: 
+1. three project roles are
+market development director as pm (project manager) 
+the interior design team 
+marketing team
+
+2. ten tasks, activities or deliverables for the project are
+- brainstorm idea for the project (a)
+- write script for video (b)
+- edit video (c)
+- surveyving and selecting premises (d)
+- designing and constructing interiors consistent with the brand, recruiting (e)
+- training local campaigns for each store (f)
+-  building a raw material supply chain from central region suppliers (g)
+- launching campaigns (h)
+- meeting with all member team of the project (i)
+- find the place for the store (k)
+
+2)
+3. 
+the responsibilities of the project roles uses raci
+resposibiliity (r)
+accountable (a)
+cosulted (c)
+inform (i)
+
+i will use item a, b, c, d, e, f, g, h, i, k to description activies i used in part 2 of request 4
+
+the responsibilities of the project roles uses raci
+a 
+project manager - a
+the interior design team - i
+marketing team - r
+
+b
+project manager - a
+the interior design team - i
+marketing team - r
+
+c
+project manager - a
+the interior design team - i
+marketing team - r
+
+d
+project manager - a
+the interior design team - i
+marketing team - r
+
+e 
+project manager - a
+the interior design team - r
+marketing team - c
+
+f
+project manager - a
+the interior design team - i
+marketing team - r
+
+g
+project manager - a
+the interior design team - i
+marketing team - r
+
+h
+project manager - a
+the interior design team - i
+marketing team - r
+
+i
+project manager - a
+the interior design team - c
+marketing team - c
+
+k
+project manager - a
+the interior design team - i
+marketing team - r
+
+

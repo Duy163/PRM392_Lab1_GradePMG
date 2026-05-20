@@ -1,0 +1,51 @@
+1)
+REQUEST 1:
+- Project Name: CoiCafe expansion Campaign
+- Justification: This is a campaign that expansion brand into 5 Central provinces with 1 flagship store in each province within 2 months after opening
+- Project constraints:
++ Scope:
+   Surveying and selecting premises
+   Designing and constructing interiors consitent with        the brand 
+   Recruiting and training local personnel
+   Building a raw material supply chain fron Central        region suppliers 
+   Launching campaigns for each store
++ Cost/budget: Buget: VND 8.5 Billion total from equity and commercial bank loans
++ Time: Each store much reach the break-even point within 8 months after opening
++ Quality:
+   Expansion  project into 5 Central provinces
+  Achive that each store must reach the break-even point within 8 months after opening 
+   
+REQUEST 3:
+- Tight Schedule:
++ Description:
++ Possible impacts: impacts high to time and cost 
++ Risk reponse plans: break work into small tasks, prioritize key features and buffer times.
+- Communication Breakdown
++ Decription:
++ Possible impacts: impact high to cost and time
++ Risk response plans:use stack and jira, hold regular standups, set clear communication rules
+- Budget Overrun
++ Decription: 
++ Possible impacts: impact high to cost
++ Risk response plans: Track cost weekly, keep a backup budget, avoid unnecessary scope changes
+
+REQUEST 4:
+1. Define project Roles:
+Project Manager(PM): Market Development Director
+ - Plan a schedule and budget
+ - Tracks progress and handles risks
+Business Analyst(BA): marketing team 
+- Gather and analyst requiment, campaign
+- Write documents and bridgets communication 
+Design compaigns: design team
+- Design interiors consistent with the brand.
+- Design raw material supply chain.
+2. List out at least ten tasks, activities, or deliverables. Then list the reponsibilities of the project roles:
++ Gather and analyst requiment, campaigns => PM and Design compaigns will be informed, BA will reponsbile and Accountable
++ write documents and bridgets communication => PM and Design campaign will be informed, BA will be responsible and consulted
++ Plan a schedule and budget => BA and Design compaign will be informed, PM will be responsible
++ Design interiors consistentwith the brand, and desgin raw material supply chain => BA and PM will be informed and consulted, Design compaign will be responsible
+
+
+ 
+2)

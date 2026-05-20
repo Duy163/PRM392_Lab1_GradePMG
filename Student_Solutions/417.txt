@@ -1,0 +1,100 @@
+1)
+Request 1: 
+project name: The "Implement of Coi Cafe into 5 Central provinces" campaign
+
+justification: Because of the fame of nostalgic space and excellent traditional drink menu, Coi's manager want to bring the Coi Cafe business model and drink spread widely in the country. 
+
+project constraints: 
+scope: each central province (5 central provinces include: Da nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)  will have 1 Coi's flagship store. 
+
+time: 12 months
+
+Cost: 8.5 billion VND (approximately 1.7 billion/ store)
+
+Quality: After 12  months, all 5 provinces will have 1 flagship store each place. And the budget not over 8.5 million, each store must reach the break-even point within 8 months opening
+
+
+Request 2: 
+
+Item 1:  Rent store cost
+Description: Each place will have different rent cost for flagship store
+Estimation: 
+
+Item 2: Designing visual for the store 
+Description: Each store will be put in different place so they have to have different design to avoid guest from boring
+Estimation: Designer fee, overtime designer's fee, printing poster fee
+
+Item 3: Training cost
+Description: The Coi's manager and bartender will have to training Coi Cafe introduction and execution culture for the local store 
+Estimation: online and offline training fee, manager and bartender execution fee
+
+Item 4: Raw material supply chain cost
+Description: Coi's fame also came from good drink. if you want to make the good drink, you have to had the good and sustainable supply chain
+Estimate: supply chain fee, raw material for each store fee 
+
+Item 5: Launching new store event cost
+Description: We have to pr the new store in each province for local customer
+Estimate: event execution fee, event management fee
+
+
+Request 3: 
+
+Risk 1: The renting fee in each place will higher than expectation
+Description: the renting fee in each place is one of the major reason will reach the over budget risk (especially in central provinces)
+Impact: over budget for the campaign
+Response: Mitigate
+
+Risk 2: the raw material supply chain not as good as the store in Hanoi and Ho Chi Minh City
+Description: the mateiral will affect directly to the drink, this will not achieve the equal of quality by Hanoi and Ho Chi Minh store
+Response: Transfer
+
+Risk 3: under builiding new store schedule
+Description: this risk can be affteced by building execution plan
+Response: Avoid
+
+
+
+Request 4: 
+
+Market Development Director - Project Management:
+-Choosing place to biuld flagship store (R)
+-Following the training execution (A)
+-Checking the visual for flagship store (C)
+-Checking the content to comunicate new store on social media (C)
+-Following the total budget of campaign (R)
+-Following the building raw material suply chain (A)
+-Following the hiring local team members in each store (I)
+-Following the launching event for each store (A)
+-Checking the reactions of customer for each store about the quality (I)
+-Connect all teams to achieve best performance result (R)
+
+
+Marketing team:
+-Making the content to comunicate new store (R)
+-Make a schedule to air the content (R)
+-Coordinated with design team to intergrate the visual post for fanpage (R)
+-Make a communication plan for a new store launching event (R)
+-Receive the budget from project manager  (I)
+-Fix the content according to project manager feedback (A)
+-Executed a launching new store event (A)
+-Booking KOC to pr new Coi Cafe store (R)
+-Following the reactions of followers from Coi Cafe social platform (A)
+-Push KOC air booking video on schedule (R)
+
+
+Design team: 
+-Make sure the intergration of Coi Cafe vibe in all stores (R)
+-Create a unique visual for each local flagship store (R)
+-Cooporate working with marketing team to make social visual (A)
+-Fix the visual post according to PM feedback (C)
+-Receive the content and budget from marketing team (I)
+-Executed a launching event (I)
+-Edit content video from media team (I)
+-Coordinate with the marketing team to make sure the campiagn on schedule (I)
+-Helping media team in filming content if needed (R)
+-Develop the visual of content video (C)
+
+ 
+ 
+
+2)

@@ -1,0 +1,108 @@
+1)
+Request 1: Project Charter Document
+1. Project Title
+
+Coi Cafe Central Vietnam Market Expansion 2026
+
+2. Project Rationale and Objectives
+Expand Coi Cafe is operational footprint into Central Vietnam to achieve wider national coverage.
+Leverage growing consumer interest in traditional Vietnamese coffee culture and sustainable consumption practices.
+Enhance brand visibility through the development of flagship stores in strategically selected provinces.
+Strengthen and diversify the supply chain by engaging with Central region suppliers.
+Support long-term revenue growth and reduce dependence on existing metropolitan markets.
+3. Project Constraints
+
+Scope
+
+Establish five flagship outlets in Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh.
+Project scope includes site acquisition, store design and construction, recruitment and training, supply chain development, and marketing implementation.
+
+Timeframe
+
+The project must be completed within a 12-month period.
+Each store is expected to achieve break-even within 8 months after launch.
+
+Budget
+
+Total allocated budget is VND 8.5 billion, equivalent to approximately VND 1.7 billion per store.
+Funding sources include internal equity and commercial bank financing.
+
+Quality Requirements
+
+Maintain consistent brand identity featuring nostalgic design and traditional beverage offerings.
+Ensure sustainability through eco-friendly materials and responsible sourcing practices.
+Deliver consistent service quality through structured staff training programs.
+Request 2: Cost Structure Overview
+1. Property Leasing and Store Development
+Description: Covers lease deposits, rental payments, interior construction, and decoration works.
+Estimated Cost: Approximately VND 700 million per store.
+Estimation Method: Based on benchmarking from existing outlets and contractor quotations.
+Responsible Party: Project Manager and Interior Design Team
+2. Equipment and Store Furnishings
+Description: Includes coffee machines, brewing tools, refrigeration units, tables, and seating.
+Estimated Cost: Approximately VND 300 million per store.
+Estimation Method: Bottom-up estimation derived from supplier pricing lists.
+Responsible Party: Operations and Procurement Teams
+3. Human Resource Costs
+Description: Recruitment, salaries, onboarding, and initial training programs.
+Estimated Cost: Approximately VND 200 million per store.
+Estimation Method: Parametric estimation based on workforce size and salary benchmarks.
+Responsible Party: Human Resources Department
+4. Marketing and Launch Activities
+Description: Advertising campaigns, brand promotion, and store opening events.
+Estimated Cost: Approximately VND 150 million per store.
+Estimation Method: Derived from historical campaign data and projected revenue ratios.
+Responsible Party: Marketing Department
+5. Supply Chain Establishment
+Description: Supplier onboarding, logistics setup, and initial inventory procurement.
+Estimated Cost: Approximately VND 150 million per store.
+Estimation Method: Based on supplier quotations and pilot procurement agreements.
+Responsible Party: Supply Chain Management Team
+Request 3: Risk Identification and Mitigation Plan
+Risk 1: Construction Schedule Overruns
+Description: Delays may arise due to permitting procedures, contractor performance issues, or material shortages.
+Impacts:
+Time: Extension of project timeline
+Cost: Increased operational and rental expenses
+Quality: Reduced construction quality under time pressure
+Response Strategy:
+Mitigation: Engage reliable contractors and enforce strict timeline tracking
+Contingency: Include a buffer of 2–3 weeks per store
+Risk 2: Insufficient Revenue Performance
+Description: Stores may fail to generate expected revenue within the planned timeframe.
+Impacts:
+Cost: Reduced profitability and cash flow challenges
+Time: Extended break-even period
+Response Strategy:
+Mitigation: Conduct thorough market research and implement strong pre-launch marketing strategies
+Contingency: Adjust pricing models and increase promotional activities
+Risk 3: Supply Chain Instability
+Description: Disruptions or inconsistencies in supply quality and delivery from regional partners.
+Impacts:
+Quality: Variability in product standards
+Cost: Increased procurement expenses
+Time: Operational disruptions
+Response Strategy:
+Mitigation: Develop multi-supplier arrangements and enforce strict quality control systems
+Contingency: Maintain backup suppliers from Dak Lak region
+Request 4: RACI Responsibility Framework
+1. Project Roles
+Project Manager (PM): Responsible for overall coordination, governance, and final decision-making
+Interior Design Team (ID): Responsible for store design development and construction execution
+Human Resources Team (HR): Responsible for recruitment and employee training activities
+Marketing Team (MKT): Responsible for branding, promotional strategy, and campaign execution
+2. Task Responsibility Allocation
+Project planning
+PM: A | ID: C | HR: C | MKT: C
+Site selection
+PM: A | ID: C | HR: I | MKT: C
+Lease negotiation
+PM: A | ID: I | HR: I | MKT: I
+Store design
+PM: C | ID: R | HR: I | MKT: C
+Construction execution
+PM: A | ID: R | HR: I | MKT: I
+Supplier selection
+PM: A | ID: C | HR: I | MKT: R
+
+2)

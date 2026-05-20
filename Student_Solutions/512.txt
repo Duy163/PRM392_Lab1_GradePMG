@@ -1,0 +1,85 @@
+1)
+Request 1:
+ 1.Project name : Coi Cafe Expension Project
+ 2.Justifications:
+    Purpose : Coi's management implement an expansion project into 5 Central provinces, with 1 flagship store in each province.
+    Reason to implement: Coi sCafe is a pure Vietnamese coffee brand, famous for its nostalgic space, traditional drink menu, and sustainable business model, but only have 12 store in HaNoi and Ho Chi Minh City, so Coi's management want their brand is more famous and a lot of people can have experience.
+ 3.Project Constraints:
+   Scope Constraint: there are four main scope: Surveying and selecting premises - Designing and constructing interiors consistent with the brand - Recruiting and training local personnel -  Building a raw material supply chain from Central region suppliers, and launching campaigns for each store.
+   Time Constraint: expension project into 5 Central provinces, with 1 flagship store in each province within 12 months.
+    Cost/Buget Constraint: The total budget is VND 8.5 billion ( approximately VND 1.7 billion/store ) from quity and commercial bank loans.
+     Quality Constraint: The project is led by the Market Development Director as PM, coordinating with the interior design team,HR team, and marketing team. Each store must reach the break-even point within 8 months after opening.
+
+Request  2:
+ +Rental Retail :
+        Description: The price for rental only estimate and around one price because each region has other price.
+         Cost/buget: VND 0.3 billion 
+         Estimate : Analogous Estimate, searching, research and analystic about retail price in each region.
+         Person in charged : PM
+ +Labor Cost :
+          Description: the salary for staff, manager,... in each store.
+           Cost/budget : VND 0.15 billion
+           Estimate : bottom-up estimate, total the number of staff, manager,...Each role has other salary.
+            Person in charged: PM
+ +Decorate Store: 
+            Description: decoring and fixing for each store to synchonous style and experience.
+            Cost/budget: VND 0.7 billion
+            Estimate : bottom-up estimate and analogous estimate
+            Person in charged : PM
+  +Marketing and Media :
+            Description : run ads and post content to get react and a lot people know. Help the brand have a label proficient and good quality in the eyes of the customer.
+             Cost/Budget : VND 0.2 billion 
+             Estimate : Bottom-Up Estimate
+             Person in charged : Marketing Team
+ +Raw material Supply Chain: 
+            Description: building a raw material supply chain from Central region suppliers.
+            Cost/Budget: VND 0.35 billion
+            Estimate: Analogous Estimate
+            Person in charged: PM
+
+Request 3: 
+ +Over price for retails: 
+          Description: the price for retail is over the plan.
+          Level Impact : medium
+          Mitigation: Deals with owner or finding other retails.
+          Contingency: the price for rentail is not over 5% of the price in the plan.
++Ove price for labor :
+          Description: Each region have other salary
+          Level Impact : low
+          Mitigation : Analystic about the salary of workers in each region and decide the salary.
+          Contingency: The total price for staff, manager,... are not over 10% of the price in the plan, if over pice, can decrease the number of workers
++ Marketing Failed : 
+          Description: the mistake of the content about  culture of each region during marketing or marketing stategy is not efficency .
+          Level impact : High 
+          Mitigation : Research about the culture and the food and the people in each region before marketing.
+          Contingency: Replace stategy to make calmdown the social media in each region.
+
+Request 4: 
+a) 1.Market Development Director (PM)
+     2.Desgin Team (DT)
+     3.Marketing Team (MT)
+b) 
+1 Project charter and identify the sponsor completed
+2 Finding and Searching retail in each region
+3 Make decorate stategy for each store
+4 Draft the content script
+5 Internal Review and check script
+6 Oversee decoring in each store
+7 Assign work for each team
+8 Surveying about the expact of people
+9 Make marketing stategy for each store
+10 Revew and check maketing stategy for each store.
+c) 
+activity 1 : PM(RA), DT(C), MT(C)
+             2: PM(RA), DT(I), MT(I)
+             3: PM(A), DT(R), MT(I)
+             4: PM(A), DT(I), MT(R)
+             5: PM(RA), DT(I), MT(I)
+             6: PM(A), DT(R), MT(I)
+             7: PM(RA), DT(I), MT(I)
+             8: PM(A), DT(I), MT(R)
+             9: PM(A), DT(I), MT(R)
+             10: PM(RA), DT(I), MT(I)
+             
+  
+2)

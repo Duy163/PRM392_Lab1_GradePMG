@@ -1,0 +1,72 @@
+1)
+Request 1 : 
+1. Project name : Coi Cafe expansion opening store
+2.Justifications : 
+- Purpose : expansion project into 5 central provinces with 1 flaship store
+- Needed to marketing , make more money , famous with their brand 
+3. 
+- Project contrains : surveying and selcting premises , designing and constructing interiors consistent with the brand , recruiting and training local personnel , building a raw material supply chain from central region suppliers , and launching campaigns for each store 
+- Scope : to open store into 5 central provinces , each store must reach the break-even point within 8 months after opening
+- Times: complete within in 12 months 
+- Cost/Budget : The total budget is 8.5 billion VND( approximately vnd 1.7 billion/store) from equity and commercial bank loans
+- Quality : The project is led by the Market Development Director as PM , coordinating with the interior design team , HR team , and marketing team
+
+----------------------------------------------------
+
+Request 2 : 
+1. Name : Design and Building for each store 
+ + Description : we need to design and building store for compatible for location we need to do , so we need to rent a people who have professional for designing and building then the store will more famous with that condition
+ + The way to estimate : Coi cafe need to charge in person who need to design for store , and charge in for building the store about 1,2 billion (a price for rent a designer for building , and constructing , a price will depend on what Coi Coffee want to construct)
+2. Name : Marketing 
+ + Description : Coi is a Cafe store so they need to advertising in TV ,facebook , or in tiktok 
+ + The way to estimate : depend on price in their social what they want to advertising we can estimate , example on tiktok they need to buy time and charge in person to make video to marketing 
+3.Name : Labor cost
+ + Description : A store or anything will need a staff for opening and serve customer , so we need play salary for staff
++ Estimation : 100.000.000vnd
++ The way to estimate : Depend on salary a staff in market staff a serve person about 25.000/1hour for each person , and Management about 20 million / 1 month so they can estimate how to pay this money for staff for activity from store(person x salary x month work)
+4.Name : Cafe of Coi cafe equipment 
+ + Description : They need to pay a material for their coffee
+ + The way to estimate : pay for coffee like traditional drink , material into coffee (price equipment x a number want to buy equipment)
+5. Name : A website , or app for order 
+ + Description : A customer and staff will be easily to order with monitor so they need to rent a dev for building web/app , this web/app will help a store more convenience a fast order more than order basically 
+ +  The way to estimate : A web app for order is about 200.000.000 million for building with start up companion (number of dev x salary of dev , infrasture cost for maintain website/app)
+2)
+Request 3 : 
+Three project risks :
+1. A key developer building website/app resgination : 
+- Quality of website will not good have a bad UI/UX or error website app 
+- Time : if Coi Cafe need 8months for opening , a website/app need to build before store opening , if delayed a store will dont have convenience for order or manage staff 
+- Cost : ruin out of money for this company
+2. Cant find logistic company to ship material for coffee 
+- Scope : A store coffee so coffee or drink is a main of sales for make money 
+- Time : dont have material for coffee so Coi Coffee cant open store need to delayed to
+- Cost : Coi cafe will lost their revenue if cant open store 
+3. A store has damage by natural or something else 
+- Scope : A building store of Coi Coffee is really need if dont have store or cant open after opening that cant make revenue and project we be failed 
+- Time : a building store will be delayed , fail requirement project
+- Cost : Coi Cafe will need more money for building again , repair the store 
+
+Request 4 : 
+A website/app will help a store more easily to manage staff , order coffee so CoiCafe will be rent a company to outsource for this 
+will have three roles project manager (PM), business analyst(BA) , Software Developer(Dev)
+
+Task: 1. Gather Coi Store and customer from their store requirements
+ - PM (I) , BA (R,A) , Dev(C)
+Task: 2, Design database schema 
+- PM (C) , BA (C) , Dev (R,A)
+Task: 3. Design software architecture 
+- PM(C) , BA(C) , Dev(R,A)
+Task: 4. Develop frontend interface UI
+- PM (I) , BA (C) , Dev (R,A) 
+Task: 5 Develop back end system 
+- PM (I) , BA (C) , Dev (R,A) 
+Task 6 : Conduct system testing
+- PM (I) , BA(R) , Dev(C)
+Task 7: Deploy website/app 
+- PM (R,A) , BA (C) , Dev(I)
+Task 8 : Prepare project status report for Coi Cafe for check and modify if they want 
+- PM (I) , BA(C) , Dev(R,A)
+Task 9 : Design UI/UX figma , website/app 
+- PM(I) ,BA(C), Dev(R,A)
+Task 10 : Setup enviroment CI/CD 
+- PM (I) , BA (I) , Dev(R,A)

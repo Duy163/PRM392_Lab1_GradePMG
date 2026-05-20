@@ -1,0 +1,80 @@
+1)
+Request 1:
+Project name:
+The project have name is Expand Coi Cafe Market
+Justification:
+The project aims to expand into 5 Central provinces with 1 flagship store in each province and launching campaigns for each store. This project will help Coi Cafe brings pure Vietnamese coffee, traditional drink to everyone at another provinces.
+Project constraints:
+- Scope: 
++ Include: expand into 5 Central provinces (Da Nang, Hue, Quang Ngai, Binh Dinh), 1 flagship store in each province
++ Exclude: Outside 5 Central provinces had listed, more than 1 flaghip store in each province.
+- Time: Within 12 months
+- Cost/Budget: VND 8.5 billion
+- Quality: each store must reach the break-even point within 8 months after opening.
+
+Request 2:
+1.
+Name: Design And constructing Interiors Consistent
+Description: design space, atmosphere consistent with the brand.
+How to estimate: Design and constructing within 12 months.
+Person in charge: The interior design team
+2.
+Name: Build A Raw Material Supply Chain
+Description: Find provider, check material, ensure material follow citeria of Coi Cafe.
+How to estimate: buid a raw material supply chain can providing for flagship store within 12 months.
+Person in charge: Market Development Director
+3.
+Name: Launching Campaigns
+Description: campaign
+How to estimate: Launching campaigns for each flagship store in each province within 12 months.
+Person in charge: Market Development Director
+4.
+Name: Survey And Select Premises
+Description: research, form survey, evaluate and select premises.
+How to estimate: Both survey and select premises must be finish within 12 months. 
+Person in charge: Market Development Director 
+5.
+Name: Recruit And Training Local Personnel
+Description: Hire and recruit, training, ensure employer clearly understand process work. 
+How to estimate: Recruit and training local personnel within 12 months.
+Person in charge: HR team
+2)
+Request 3:
+Here is three project risk:
+1. Name: Poor material 
+Description: Coi Cafe spending more cost for material supply chain.
+Possible impacts: Poor material led to cost for material high than balance.
+Risk reponse plans: Choose fixed place for provide material
+
+2. Name: Cost And Time Store Place
+Description: Spend more time finding suitable place that fit budget project
+Possible impacts: Get long time >12 months
+Risk reponse plans: Have research plan about place , cost, time before.
+
+3. Name:
+Description:
+Possible impacts:
+Risk response plans:
+
+Request 4:
+Define at least three project roles:
+1. Project-internal: Market Development Director
+2. Originazion-internal: Coi Cafe brand
+3. External: local person in each province
+
+List ten task, activities, deliverables:
+1. survey place
+2. launch campaigns for each store
+3. delivery nostalgic space
+4. hire local person can serve customers
+5. Use cost/budget strategy, make sure not over VND 8.5 billion
+6. Using reusable cups
+7. Purchase coffee directly from Dak Lak farmers.
+8. Keep nostalgic space
+9. Bring 1 flagship store into 5 Central provinces
+10. Build a raw material supply chain from Central region suppliers.
+
+The responseibilities of the project roles (mapping with number):
+1,2,3,5,6,7,9,10 are responsible by PM
+4 are responsible by HR team
+8 are responsible by interior design team

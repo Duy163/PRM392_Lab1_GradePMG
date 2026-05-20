@@ -1,0 +1,58 @@
+1)
+REQ 1:
+Project name Vietnam Coi Cafe. Expansion project includes surveying, selecting premises, designing and contructing interiors consistent with brand, training local personnel, building a raw material supply chain from central region supplies and launching campaigns for each store into 5 central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 month. The project led by Market Development Director (PM), design team, HR team and marketing team. Total budget 8.5 billion. Each store must reach the break-even point within 8 month after opening.
+
+REQ 2:
+Set design for private gym. Design picture for shop. Charge 2 milion each pic for desginer.
+
+Equipment for gym. Account charge 10 milion for shop to get equipment.
+
+Pay salaries for worker. Pay 7 milion for each worker
+
+A place for private gym. Account pay 20 million each month for rent.
+
+Security. Account pay 2 million each month for security
+
+REQ 3:
+Record a project short movie for school:
+- Cameras don't work- scene can't record- ekip can not follow the timeline -> Movie not finish.
+
+A studio outdoor take a picture for actor.
+- Weather rain all day, ekip dont have time to fix -> Burn out the timeline
+
+Creat a server for website
+Error the internet - server cannot follow timline and out of budget to fix it.
+
+2)
+REQ 4:
+
+Creat a website/app include list location all foods, drink in HCM.
+
+-------Agency--PM--Customer
+Survey:
+--------C-----------A-------R/I
+Collect Infomation:
+--------R----------R/A-------I
+Design website:
+--------R----------A-----------I
+Check location:
+--------R/C----------A-------I
+Design app:
+--------R-----------A----------I
+Creat server:
+--------R-----------A----------I
+Run Ads:
+--------R/C-----------A-------I
+Test website
+--------R--------------A-------I
+-Test app
+---------R------------A---------I
+-Feedback
+---------R------------A---------R/I
+
+
+
+
+
+
+

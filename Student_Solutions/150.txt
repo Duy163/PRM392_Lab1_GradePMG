@@ -1,0 +1,68 @@
+1)
+Request 1:
+1. Project name: Coi Cafe's expansion.
+2. Justifications:
+2.1. Purpose: To extend the cafe to 5 Central provines (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh). 
+2.2 Reasons: The Coi Cafe wants to expand their brand to other places in Vietnam for their business.
+3.
+Project constraints:
+- 1 flagship store in each province within 12 months.
+- The total budget is VND 8.5 billion (approximately VND 1.7 billion/store).
+opening.
+In terms of scope: 
+- Surveying and selecting premises.
+- Designing and constructing interiors consistent with the brand.
+- Recruiting and training local personnel
+- Building a raw material supply chain from Central region suppliers.
+- Launching campaigns for each store.
+Time: within 8 months.
+Cost/Budget: VND 8.5 billion.
+Quality: Each store must reach the break-even point within 8 months after opening. 
+Request 2: 
+1. Design and construction cost
+Description: The cost of designing and constructing each store to be consistent with the brand. 
+Estimation: The interior design team needs look for the other store's construction fee to find the suitable price.
+2. Recruitment cost
+Desciption: The fee to hire new employees for the store.
+Estimation: The HR will take responble in hire new employees and decide the ammount of money to pay for them for an hour (1 hour x ammount of money).
+3. Training cost
+Description: Training the new employees to help them do the job right and get used to it.
+Estimation: The HR team will train for the newbie and they will get extra money based on the number of people they train.
+4. Campaign cost
+Description: Launching campaign helps the store to get more people know about it.
+Estimation: The marketing team needs to do a survey to find out the cost that need to launching campaign.
+5. Building a raw supply chain from Central region suppliers
+Description: To have a stable supply chain with the Central region.
+Estimate: HR team need to have find suitable supplier and the price by asking other stores.
+Request 3:
+1. The employee does not performs well
+Description: In working time, the employee does not work like they were trained and the make the customer dissatisfied.
+Possible impacts: The total revenue of the store does not meet the expectation and lose time to train again.
+Risk response: mitigation.
+2. Constructing take too long to finish
+Description: The constructing process being delayed due to external cause.
+Possible impacts: The store will not be completed on the expected day and get more time to construct.
+Risk response: contingency.
+3. Failed to build supply chain
+Description: Failed to find or have agreement with the suppliers.
+Possible impacts: Affecting the store's revenue due to the lack of supply
+Risk response: mitigate 
+Request 4:
+Project roles: PM, HR team, design team, marketing team.
+
+1. Planning: PM (R), HR team (C), design team (I), marketing team (I)
+2. Initiating: PM (A), HR team (R), design team (I), marketing team (I)
+3. Constructing and Designing: PM (I), HR team (C), design team (R)
+4. Checking the design: PM (R), design team (C)
+5. Building supply chain: PM (I), 
+HR team (R)
+6. Planning for campaign: PM (A), 
+HR team (C), design team (I), marketing team (R) 
+7. Launching campaign: PM (I), marketing team (R)
+8. Hiring employees: PM(I), 
+HR team (R)
+9. Training for employees: HR team (R)
+10. Writing reports: PM (R), 
+HR team (I), design team (I), marketing team (I)
+ 
+2)

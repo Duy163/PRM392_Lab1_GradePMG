@@ -1,0 +1,59 @@
+1)
+Request 1: 
+1. Project name: Coi Cafe's expansion into 5 Central provinces Project.
+2. Purpose & reasons: increase the number of store of coffee branch in other regions (5 Central provices).
+3. Constraints: 
+- Scope: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw meterial supply chain from Central region suppilers, and launching campaigns for each store. 
+- Time: 12 months with 1 flagship store in each province
+- Budget: the total is VND 8.5 billion (approximately VND 1.7 billion/store) from equity and commercial bank loans.
+- Quality: each store must reach the break-even point within 8 months after opening.  
+
+
+Request 2: 
+- Training cost: 
++ Description: the budget for training local personel
++ Estimate: 0.5 billion VND. (hour rate times hours)
+- Survey cost:
++ Description: the budget for survey and selecting permises
++ Estimate: 0.5 billion VND. 
+- Building cost:
++ Description: the cost for bulding material supply chain from Central region suppliers. 
++ Estimate: 4 billion VND.
+- Advertising cost: 
++ Description: the cost for store advertising 
++ Estimate: 1 billion VND. (cost for advertising strategis)
+- Designing and constructing cost:
++ Description: the cost for designing and constructing interiors consistent with the brand. 
++ Estimate: 0.5 billion VND. 
+2)
+Request 3: 
+- Risk 1: schedual overun 
++ Description: the project may take a longer time than plane.
++ Possibility: medium 
++ Impact: high
++ Contingency: focus on core feature, core task, track the progress weekly, reduce time for out of scope task.
+
+- Risk 2: cost overun 
++ Description: the budget for training local personnel is overun + Possibility: medium 
++ Impact: medium 
++ Contingency: manage budget carefully, track the cost for each task regularly
+
+- Risk 3: The conflict between teams 
++ Description: the disagreement between memebers of diffterent teams 
++ Possibility: medium
++ Impact: medium
++ Contingency: collab and comunicate between manangers carefully, set meeting regularly
+
+Request 4: 
+Project roles: Project mananger, HR manager, and marketing manager, training staff, building manager, design manager
+- Take requirerments from the brand: PM (R, A), HR manager (C),  marketing manager (I), training staff (I), building manager (I), design manager (I)
+- Track the progess of project and set meeting weekly: PM (A), HR manager (R), marketing manager (I), training staff (I), building manager (I), design manager (I)
+- Buget track: PM (A), HR manager (R), marketing manager (C), traning staff (C), building manager (C), design manager (C)
+- Budget management: PM (A), HR manager (R), marketing manager (C), training staff (C), bulding manager (C), design manager (C)
+- Survey and selecting premises: PM (A), HR manager (I), 
+marketing manager (R), training staff (I), building manager (I), design manager (I)
+- Design and construct interiors consistent with the brand: PM (A), HR manager (I), marketing manager (I), traning staff (I), building manager (C), design manager (R)
+- Traning local personnel: PM (A), HR manager (I), marketing manager (I), traning staff (R), building manager (I), design manager (I) 
+- Build store: PM (A), HR manager (I), marketing manager (I), training staff (I), building manager (R), design manager (C)
+- List advertising strategis: PM (A), HR manager (I), marketing manager (R), training staff (I), building manager (I), design manager (I)
+- Report project milestones: PM (R, A), HR manager (C), marketing manager (C), training staff (C), buliding manager (C), design manager (C)

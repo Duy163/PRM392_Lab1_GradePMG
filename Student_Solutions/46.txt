@@ -1,0 +1,178 @@
+1)
+Request 1:
+
+Project name:
+Coi Cafe Central Loyalty-Based Expansion Project
+
+Justifications:
+Expand Coi Cafe into five Central provinces: Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh.
+Use customer loyalty as the main strategy to help new stores build repeat visits after opening.
+Introduce Coi Cafe’s nostalgic Vietnamese coffee space, traditional drink menu, reusable cup practice, and sustainable sourcing from Dak Lak farmers to Central Vietnam.
+Create a stable customer base through membership offers, repeat-visit promotions, student and office customer programs, and local community engagement.
+Reduce the risk of high opening traffic but low long-term sales.
+Build a Central region supplier and operating system to support five flagship stores.
+Increase revenue outside Hanoi and Ho Chi Minh City and support the target that each store reaches break-even within eight months after opening.
+
+Project constraints:
+Scope:
+Open five flagship stores only, one store in each selected province.
+Project scope includes: market survey, customer loyalty research, premises selection, lease agreement, store design, construction, equipment setup, recruitment, training, supplier setup, launch campaign, loyalty program activation, and break-even monitoring.
+The project does not include franchising, extra stores, unrelated product development, or expansion outside the five assigned provinces.
+Time:
+The project duration is 12 months.
+All five stores must be opened within the approved timeline.
+Loyalty activities must be prepared before each store launch.
+Each store must reach break-even within eight months after opening.
+Cost / Budget:
+Total budget is VND 8.5 billion.
+Average budget is approximately VND 1.7 billion per store.
+Funding comes from company equity and commercial bank loans.
+Budget must be controlled across rent, construction, equipment, staff preparation, supply chain, marketing, and loyalty activities.
+Quality:
+All stores must follow Coi Cafe’s brand standards.
+Store design must reflect the nostalgic Vietnamese coffee concept.
+Drink quality, service quality, hygiene, and reusable cup practice must be consistent.
+Loyalty promotions must support customer retention without damaging the brand image or profit margin.
+
+Request 2:
+
+Part A - Customer loyalty and market research
+Name: Loyalty-based market research
+Description: Cost for studying customer habits, repeat-visit potential, competitor loyalty programs, nearby schools and offices, customer spending levels, and suitable promotion plans.
+Estimation: VND 700 million total, around VND 140 million per store.
+Way to estimate: Based on field survey, customer interviews, competitor checking, local data collection, travel cost, and loyalty concept testing.
+Person in charge: Project Manager and Marketing Team.
+
+Part B - Store premises preparation
+Name: Premises selection and lease setup
+Description: Cost for location search, traffic checking, legal review, lease negotiation, rental deposit, first rental payment, and basic site preparation.
+Estimation: VND 1.5 billion total, around VND 300 million per store.
+Way to estimate: Based on local rental price, deposit requirement, broker fee, legal review cost, and first rent in each province.
+Person in charge: Project Manager and Finance Team.
+
+Part C - Store design and construction
+Name: Nostalgic store construction and interior setup
+Description: Cost for construction, furniture, lighting, seating area, counter, decoration, signage, and brand-standard store finishing.
+Estimation: VND 3.05 billion total, around VND 610 million per store.
+Way to estimate: Based on store size, contractor quotation, material price, furniture list, lighting plan, and approved design concept.
+Person in charge: Interior Design and Construction Team.
+
+Part D - Store operating readiness
+Name: Equipment, recruitment, and training
+Description: Cost for coffee machines, grinders, refrigerators, water filters, POS system, reusable cups, kitchen tools, staff recruitment, uniforms, service training, and pre-opening salary.
+Estimation: VND 2.15 billion total, around VND 430 million per store.
+Way to estimate: Based on standard equipment checklist, supplier quotations, number of employees, training duration, trainer cost, uniform price, and salary support.
+Person in charge: HR Team, Procurement Team, and Operations Team.
+
+Part E - Supply chain and loyalty launch
+Name: Opening inventory, launch campaign, and loyalty activation
+Description: Cost for supplier selection, first inventory, safety stock, delivery setup, quality checking, grand opening event, membership offers, customer vouchers, and social media advertising.
+Estimation: VND 1.1 billion total, around VND 220 million per store.
+Way to estimate: Based on first-month inventory needs, supplier prices, transportation cost, event size, voucher value, loyalty promotion budget, and advertising cost.
+Person in charge: Procurement and Supply Chain Team, and Marketing Team.
+
+Request 3:
+
+Risk 1: Loyalty program reduces profit margin
+Risk name: Promotions are too costly.
+Description: Membership rewards, vouchers, or discounts may attract customers but reduce profit if they are not controlled.
+Impacts:
+Scope / quality: The store may focus too much on discounts instead of brand value.
+Time: More time may be needed to reach break-even.
+Cost: Promotion expenses and lower margin may affect profitability.
+Mitigation plan: Set clear limits for discounts, focus on repeat-visit rewards, and use bundles instead of deep price cuts.
+Contingency plan: Reduce low-margin promotions and shift to non-discount benefits such as priority offers, limited drinks, or reusable cup rewards.
+
+Risk 2: Customers visit only during promotion periods
+Risk name: Low retention after promotions end.
+Description: Customers may come for opening vouchers but not return once promotions stop.
+Impacts:
+Scope / quality: The store may fail to build a stable local customer base.
+Time: Customer loyalty may take longer to develop.
+Cost: Additional marketing and retention activities may be required.
+Mitigation plan: Combine opening promotions with product quality, good service, membership collection, and regular customer engagement.
+Contingency plan: Launch a monthly loyalty calendar, collect customer feedback, and create targeted offers for repeat customers.
+
+Risk 3: Staff do not explain loyalty activities properly
+Risk name: Weak loyalty program execution.
+Description: New staff may not explain membership benefits, reusable cup rewards, or repeat-visit offers clearly to customers.
+Impacts:
+Scope / quality: Customer experience and promotion effectiveness may decrease.
+Time: Additional staff training may be needed.
+Cost: Wasted marketing budget and extra training cost may occur.
+Mitigation plan: Prepare simple loyalty scripts and train staff before launch.
+Contingency plan: Use clear in-store posters, QR instructions, and assign store supervisors to coach staff during the first month.
+
+Request 4:
+
+Project roles:
+Role 1: Project Manager / Market Development Director
+Responsible for project planning, scope, timeline, budget, risk control, approvals, and break-even monitoring.
+
+Role 2: Store Development Team
+Responsible for premises support, interior design, construction, decoration, signage, and physical store readiness.
+
+Role 3: Loyalty Operations Team
+Responsible for recruitment, training, equipment, suppliers, inventory, launch campaign, loyalty program, customer feedback, and sales tracking.
+
+RACI responsibilities:
+R = Responsible
+A = Accountable
+C = Consulted
+I = Informed
+
+Activity 1: Approve project charter and loyalty expansion strategy
+Project Manager: A/R
+Store Development Team: C
+Loyalty Operations Team: C
+
+Activity 2: Research customer loyalty potential
+Project Manager: A
+Store Development Team: I
+Loyalty Operations Team: R
+
+Activity 3: Select and approve store locations
+Project Manager: A/R
+Store Development Team: C
+Loyalty Operations Team: C
+
+Activity 4: Negotiate lease agreements
+Project Manager: A/R
+Store Development Team: I
+Loyalty Operations Team: C
+
+Activity 5: Complete store design and construction
+Project Manager: A
+Store Development Team: R
+Loyalty Operations Team: C
+
+Activity 6: Purchase equipment and prepare inventory
+Project Manager: A
+Store Development Team: C
+Loyalty Operations Team: R
+
+Activity 7: Recruit and train staff
+Project Manager: A
+Store Development Team: I
+Loyalty Operations Team: R
+
+Activity 8: Set up suppliers and delivery process
+Project Manager: A
+Store Development Team: I
+Loyalty Operations Team: R
+
+Activity 9: Prepare loyalty launch materials
+Project Manager: A
+Store Development Team: C
+Loyalty Operations Team: R
+
+Activity 10: Execute grand opening and membership activation
+Project Manager: A
+Store Development Team: C
+Loyalty Operations Team: R
+
+Activity 11: Monitor repeat visits, sales, and break-even progress
+Project Manager: A/R
+Store Development Team: I
+Loyalty Operations Team: C
+2)

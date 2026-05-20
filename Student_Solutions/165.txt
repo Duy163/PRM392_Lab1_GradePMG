@@ -1,0 +1,124 @@
+1)
+Request 1: 
+Project name: Coi Cafe Central
+The project is developed to open 5 new Coi Cafe stores in Central Vietnam, including Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh within 12 months. The main purpose is to expand the brand presence and increase revenue by entering a new regional market. Central Vietnam has a growing number of young consumers and tourists, which creates good business opportunities. In addition, the project supports the company’s sustainable strategy by building relationships with local suppliers and reducing transportation distance.
+There are several constraints in this project. In terms of scope, the project only includes 5 flagship stores and all must follow the same brand concept, design, and product quality. In terms of time, the project must be completed within 12 months, which requires strict schedule control. In terms of cost, the total budget is limited to VND 8.5 billion, so each store must operate within approximately VND 1.7 billion. In terms of quality, all stores must maintain consistent drink taste, service standards, and interior design to protect the brand image.
+Reques 3
+Risk 1: Schedule delay
+Description: delays may happen in construction or preparation activities.
+Impact: affects project timeline, increases cost due to extended rent and labor, may reduce project scope if rushed.
+Response:
+Mitigation: create detailed schedule, monitor progress weekly, select reliable contractors. 
+Contingency: adjust timeline or reallocate resources to critical tasks. 
+Risk 2: Inconsistent service quality
+Description: new staff may not meet service standards.
+Impact: affects quality, reduces customer satisfaction, may impact revenue.
+Response:
+Mitigation: provide standard training programs and clear guidelines. 
+Contingency: assign experienced staff from existing stores to support temporarily. 
+Risk 3: Cost over budget
+Description: actual expenses may exceed planned budget.
+Impact: affects financial performance, may require reducing scope or delaying activities.
+Response:
+Mitigation: track budget regularly, approve expenses carefully. 
+Contingency: use reserve funds or cut non-essential costs. 
+Request 2
+Name: Rental and deposit cost
+Description: payment for store location, including deposit and initial rent.
+Estimation: about 400–480 million VND per store.
+How to estimate: collect rental data from market, compare several locations, negotiate with landlords.
+Person in charge: Project Manager with support from expansion team. 
+Name: Interior design and construction
+Description: designing layout and building the store, including furniture and decoration.
+Estimation: around 520–600 million VND per store.
+How: request quotations from contractors, use cost data from previous stores.
+Person: Interior design team is responsible, PM approves final budget. 
+Name: Equipment and tools
+Description: coffee machines, grinders, refrigerators, POS system, and other tools.
+Estimation: 230–300 million VND per store.
+How: review supplier catalogs, compare prices, consider bulk purchasing discounts.
+Person: Operations team supports, PM monitors. 
+Name: Recruitment and training
+Description: hiring employees and training them before store opening.
+Estimation: 110–140 million VND per store.
+How: estimate number of staff needed and cost per training session.
+Person: HR team is responsible. 
+Name: Marketing and promotion
+Description: advertising, opening event, and online campaigns.
+Estimation: 130–170 million VND per store.
+How: base on previous campaigns and adjust for each local market.
+Person: Marketing team leader. 
+Name: Initial inventory
+Description: first stock of coffee beans, milk, sugar, cups, and other materials.
+Estimation: 90–110 million VND per store.
+How: estimate consumption for the first 1–2 months and check supplier prices.
+Person: Supply chain team. 
+Request 4
+Project roles:
+Project Manager (PM) 
+Interior Design Team 
+HR Team 
+Marketing Team 
+Tasks / Activities:
+Market research
+PM: A
+Design: I
+HR: I
+Marketing: R 
+Site selection
+PM: A/R
+Design: C
+HR: I
+Marketing: C 
+Lease agreement
+PM: A/R
+Design: I
+HR: I
+Marketing: I 
+Store design development
+PM: A
+Design: R
+HR: I
+Marketing: C 
+Construction execution
+PM: A
+Design: R
+HR: I
+Marketing: I 
+Equipment procurement
+PM: A
+Design: C
+HR: I
+Marketing: I 
+Staff recruitment
+PM: A
+Design: I
+HR: R
+Marketing: I 
+Staff training
+PM: A
+Design: I
+HR: R
+Marketing: C 
+Marketing campaign planning
+PM: A
+Design: C
+HR: I
+Marketing: R 
+Grand opening event
+PM: A
+Design: C
+HR: C
+Marketing: R 
+Supply chain setup
+PM: A
+Design: I
+HR: I
+Marketing: I 
+Performance evaluation
+PM: A/R
+Design: I
+HR: C
+Marketing: C 
+(R = Responsible, A = Accountable, C = Consulted, I = Informed)
+2)

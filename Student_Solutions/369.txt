@@ -1,0 +1,65 @@
+1)
+Request 1:
+    1. Project name:Coi Cafe.
+    2. Justtifications:
+        In the context of the popular of Vietnamese coffee. The project aim to open more and more coffe store in 5 provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) .
+     3.Project constraints:
+         Each store must reach the break-een point within 8 months after opening.
+       In terms of scope: The project includes: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central regionsuppliers and launching campaigns for each store.
+       Time: the project duration is 12 months.
+        Budget: The total budget is 8.5 billion VND ( approximatele 1.7 billion VND/store) from equity and commercial bank loans.
+Request 2:
+     1. Name: cost of trainning personnel.
+         Description: HR team need to train local personnel.
+         Estimation: 300.00 VND for each day HR team for train freshman.
+     2. Name : cost of running ads.
+         Description: Run ads on social media for HR team recruiting local personnel.
+          Estimation:200.000VND/ week for each social media.
+     3. Name: cost for launching campaigns for each store.
+         Description: cost for team from the flagship store travel to new store and trainning new staff and lauching campaign for each store.
+         Estimation: 300000VND for each person of the team. 
+Request 3:
+     1. Name: Run out of budget.
+         Description: planning wrong about cost of project lead to run out of budget.
+         Impacts: high impact in cost.
+         Mitigation: creating a substain budget which is 10% eqaul with main budget.
+         Contingency: Change the project target into less than 5 Central province.
+Request 4:
+     1.
+      Project manager: is the Market Development Director.
+      Design team: responsibility to design and construct interiors consistent with the brand.
+      HR team: responsibility to recruiting and training local personnel.
+      Marketing team: responsibility to launching campaigns for each store.
+     2.List out of tasks:
+     Surveying premises.
+     Selecting premises.
+     Designing interiors.
+     Constructing interiors.
+     Recruiting local personnel.
+     Trainning local personnel.
+     Building supply chain from Central region suppliers.
+     Launching campaigns for each store.
+     Planning cost of each part in project.
+     Monitor and control risks.
+     3.
+     - Surveying premises:
+        PM (R/A), Design team(C),HR team (C), Marketing team (C).
+     -Selecting premises:
+        PM (R/A), Design team(C), HR team (C), Marketing team (C).
+     Design interiors:
+       PM(A), Design team(R), HR team (I), Marketing team (I).
+     Constructing interiors:
+        PM(A), Design team(R), HR team(I), Marketing team(I).
+     Recruiting local personnel:
+        PM(A), Design team(I), HR team (R), Marketing team (C).
+     Trainning local personnel:
+       PM(A), Design team(I), HR team(R), Marketing team(I).
+      Building supply chain from Central region supplierss:
+       PM(A), Design team(I), HR team(I), Marketing team(R).
+      Launching campaigns for each store:
+        PM(A), Design team(I), HR team(I), Marketing team(R).
+     Planning cost:
+        PM(R/A), Design team(C), HR team(C), Marketing team(C).
+     Mornitor and control risks:
+        PM(R/A), Design team(C), HR team(C), Marketing team(C).
+2)

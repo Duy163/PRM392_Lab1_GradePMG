@@ -1,0 +1,56 @@
+1)
+1: 
+1.1 Project name: CoiCafe's Expansion 
+1.2 Justification: 
+Purpose: Open 5 flagship store into 5 Central provinces
+Need:  surveying and selecting premises , designing and constructing interiors consistent with the brand, recruting and traning local personnel, building a raw material supply chain from Central region suppliers , and lauching campaign for each store   
+1.3 Scope : surveying and slecting premises, designing and constructing interiors consistent with the brand , recruting and training local personnel , building a raw material supply chain from Central region suppliers, and lauching campaign for  each store
+Time : 12 months 
+Cost: VND 8.5 biilion(approximately VND 1.7 billion/store) 
+Quality: Each store must reach the break-even point within 8 months after opening: 
+2:
+2.1 Design store: Decor the store, designing, constructing interiors consistent with the brand 
+Cost: VND 500 million/store
+2.2 Tranining person: Training the new local person:
+Cost: VND 10 million/store
+2.3 Survey : Survey the local Area to find the best place
+Cost: VND 10 million/store
+2.4 Raw material cost: buy raw material 
+Cost: VND 50 million/store 
+2.5 Hire Store Cost: hire the place to sell  coffee,...
+Cost: VND 500 million/store
+2)
+3. 
+Problem 1 : Marketing Cost over budget: the cost of marketing new store on social media higher than the budget
+Solution: decrease marketing on social media, use the local person of the Coi Coffee to marketing , make video tiktok , 
+ ...
+Cost: Free
+
+Problem 2: Dont have many customer: Coi Cafe is the new brand at 5 Provinces so, cannot attract the local person:
+Solution: Make a discount day like , buy 1 give 2 ,  make outdoor activities for the teenager to attract new customer in (1-2 first weeks) 
+Cost: VND 20 miilion
+ Problem 3: Dont have old person ( person buy over two time )
+Solution: give the ticket point ,  every customer buy enough 10 coffee, Coi Cafe will give them 2 free coffee 
+  
+4 The Market Development Director as PM commission FPT Software to build a app/website to help them manage the person, cost raw material , customer can buy through web,take a seat ,....
+4.1
+Internal: Dev team from Fpt Software 
+Stackholder: Market Development Director as PM 
+External: customer of Coi Cafe, manager of Coi cafe
+4.2
+i Prepare Development Enviroment 
+ii Design System Architecture  
+iii Design Database Schema 
+iiii Implement Core Modules 
+iiiii Implement UI Component
+iiiiii Design MVP 
+iiiiiii Develop API 
+iiiiiiii Integrate Frontend and Backend 
+iiiiiiiii Code Reveiw  
+iiiiiiiiii Fix Bug from Review
+iiiiiiiiiii Integrate Testing 
+iiiiiiiiiiii Prepare Building Package 
+4.3
+Reponsibilities of the project roles: 
+Dev team: i, ii, iii , iiii, iiiii, iiiiii, iiiiiii, iiiiiiii ,iiiiiii iii, iiiiiiiiii , iiiiiiiiiiii , iiiiiiiiiiiii
+PM: iiiiiii Desgin MVP(Feedback MVP) 

@@ -1,0 +1,97 @@
+1)
+Request 1:
+- Project name: Koi Cafe
+- Purpose: Implement an expansion for this coffee brand into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province.
+- Scope:
++ Surveying and selecting premises
++ Designing and constructing interiors consistent with the brand
++ Recruiting and training local personnel
++ Buildding a raw material supply chain from Central region suppliers
++ Lauching campaigns for each store.
+- Time: within 12 months
+- Cost/budget: total is VND 8.5 billion (approximately VND 1.7 billion/store)
+- Quality: Each store much reach the break-even point within 8 months after opening.
+
+
+Request 2: 5 budget items:
+1. Surveys:
+- Description: serveying the local culture and demands. They take place in extistence stores and on social media like facebook, tiktok,...
+- Estimation: VND 0.1 billion/store
+- How to estimate: base on salary of PIC and forms, goods and gifts,..
+- PIC: Marketing team
+2. Interior design and construction:
+- Description: Design and construction for interior are consistent with the brand.
+- Estimation: VND 0.1 billion for design and VND 0.8 billion for construction each store
+- How to estimate: base on design and construction price estimation of each region.
+- PIC: interior design team
+3. Recruiting and training local personnel:
+- Description: Recruiting local employee and holding internal trainning for personnel.
+- Estimation: VND 0.1 billion/store
+- How to estimation: base on previous recruitign and training cost.
+- PIC: HR team
+4. Raw material supply chain:
+- Description: Building  a raw material supply chain from Central region suppliers, which reduces material cost and keeps product quality consistence.
+- Estimation: VND: 0.2 billion/store
+- How to estimate: depends on region suppliers.
+- PIC: Market Development Director (PM)
+5. Campaigns for each store:
+- Description: Campaigns include opening, sale days, holidays,... which improves store identity and sales.
+- Estimation: 0.3 billion/store
+- How to estimation: base on previous campains
+- PIC: PM and marketing team
+
+Request 3:
+1. Risk 1: Design and constructing interior is out of budget
+- Description: the budget in reality may reach out of calculation.
+- Impacts: 
++ Scope: budget shortage prevent the opening progress of store, thus effecting other tasks
++ Time: delay the opening time
++ Cost: may cause labor price go further
+- Response plans: use the emergency budget, change the plan/design for more economical price.
+
+2. Risk 2: Raw materila supply chain is not completed
+- Description: the Central region suppliers are not found or not established the supply chain.
+- Impacts:
++ Scope/quality: if supply chain is not built, new store will face raw material shortage and effect daily activities.
++ Time: The opening of stores should be delayed or stopped.
++ Cost: because of raw material shortage, pre-sale product cost is rising, therefore running cost of each store is higer.
+- Response plans: Change the drink menu for focusing on drinks which have local raw material; establish temporary supply chain from further region for raw materials,...
+
+3. Risk 3: Employee shortage for recruitment
+- Description: local employee is not enough for recruitment.
+- Impacts:
++ Scope: without enough staffs, stores are not running efficiency, customer may have not fully service,..
++ Time: The opening of stores should be delayed or stopped.
++ Cost: rise traning cost for each staffs and recruitment
+- Response plans: temporary move staffs from exists stores; training for staffs to improve efficiency.
+
+
+Request 4: 
+- Project roles:
++ Market Development Director (PM)
++ Interior design team
++ HR team
++ Marketing team
+- Task/activity/deliverable:
+1. Creat surveys: 
++ Marketing team create suitable surveys + PM check for survey quality and select premises.
+2. Design interiors: 
++ Interior design team create design base on the brand consistency.
++ PM make sure the design suitable for brand
+3. Constructing interiors:
++ PM checks for progress and reality design
+4. Recruitment:
++ HR team recruit enough empolyee who suitable and skillful for stores
+5. Training:
++ HR team create traning for local personnel
+6. Build supply chain:
++ PM connect to Central region suppliers for building raw material supply chains.
+7. Create opening campain:
++ Marketing team creates online campaign on social media and offline events for each store.
+8. Quality check:
++ PM follow progress of each store and make sure each store must reach the break-even point within 8 months after opening
+9. Drink menu design:
++ PM and marketing team create drink menu base on local material and our brand
+10. Create sustainable business model:
++ PM build a sustainable business model (using reusable cups, purchasing coffee directly from Dak Lak farmers).
+2)

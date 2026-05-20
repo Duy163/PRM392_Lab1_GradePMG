@@ -1,0 +1,101 @@
+1)
+Request 1:
+Project name: 
+Coi Cafe expansion project
+
+Justifications: 
+For the expansion of an already well-known brand into 5 Central provinces, leave trail of a pure Vietnamese coffee brand in Vietnam coffee's market.
+
+Constraints: 
+Scope : 5 Central provinces (Da Nang, Hue. Quang Nam, Quang Ngai, Binh Dinh
+
+Time: 1 flagship store in each province within 12 months. Each store must reach the break-even point within 8 months after opening
+
+Budget: VND 8.5 billion ( approximately VND 1.7 billion/store)
+
+Quality: Nostalgic space, traditional drink menu and sustainable bussiness model(using reuseable cups, purchasing coffee directly from Dak Lak farmers)
+2)
+
+Request 2: 
+Main cost 1: Goods and furnitures 
+Description: For designing and constructing interiors consistent with the brand 
+Estimate : 100 - 200 million
+Person in charged: interior design team 
+
+
+Main cost 2 : Recruitment and training fee
+Description: For hospitality and professional employees
+Estimate: 30 million for training, 7.5 million /employee/month
+Person in charged: HR team
+
+Main cost 3: Contract with Central region suppliers
+Description: For building a raw material supply chain 
+Estimate:VND 700-800 million 
+Person in charged: PM
+
+Main cost 4: Ads and campaign launching fee
+Description: Building brand's name by launching campaign
+Estimate: VND 500 - 600 million
+Person in charged : marketing team
+
+Main cost 5: Store's location and space 
+Description : Great spot come with more great customer
+Estimate: VND 30 million/store/month 
+Person in charged : PM
+
+REQUEST 3 : 
+Risk 1 : Unsupported weather's condition
+Description: Flood and nonstop rain can affect a lot on the supply chain
+
+Impacts : Flood can stop the delivery which lead to lack of supplyment
+ 
+Mitigation: Fully prepared supplyment for the at least the next month, work with many local suppliers for variety source.
+
+Contingency: Use the supplyment from the storage,contact with any available supplier for the soonest backup
+
+Risk 2 : Employee with bad behavior
+Description : A very well-known risk in F&B market
+
+Impacts : Negative affect to customer, one store can bring the whole brand's reputation down, cost money to media control, time to rebuild the brand's name.
+
+Mitigation: Well trained and clear recruitment process, treat employee as partner, hire a supervisor the first few months
+
+Contigency: Media control as soon as possible, talk to customer and apologize , warn the employee but do not make punishment in the first time.
+
+Risk 3 : Bad rating of product's quality on the social media
+
+Description : Quality of the product is the spirit of a F&B market, the fall down of it can put bussiness in a very bad shape
+
+Impacts : Cost a lot of money to recover from the bad reputation, lost customers and potentially suppliers
+
+Mitigation : Use the best ingredients, always check for the fressness before making the product, well trained and test the trainee carefully, adjust to match the local's preference.
+
+Contigency : Flash sale for customer to comeback, run more campaigns immediately adjust the product, bring new breeze to the menu
+Hope for the best, plan for the worst
+
+
+REQUEST 4:
+Roles : PM, HR team, marketing team
+Format : Tasks
+PM  [Letter]  HR team [Letter]  MKT team [Letter]
+
+Task 1 : Select the shop's concept
+PM [A] HR team [I] MKT team [C]
+Task 2 : Work with local suppliers
+PM [A] HR team [R] MKT team [I]
+Task 3 : Training employee
+PM [A] HR team [R] MKT team[I]
+Task 4 : Design poster for shop
+PM[C] HR team [I] MKT team [A]
+Task 5 : Launching campaign 
+PM[ A] HR team [I] MKT team [R]
+Task 6 : Supervise trainee
+PM[A] HR team [R] MKT team [I]
+Task 7: Publish merchandises
+PM[A] HR team [C] MKT team [R]
+Task 8 : Select the "Best seller" of the shop
+PM[A] HR team [ C] MKT team [R]
+Task 9 : Design the menu 
+PM [A] HR team [I] MKT team [C]
+Task 10 : Divide employee's working shift
+PM[I] HR team [A] MKT team[I]

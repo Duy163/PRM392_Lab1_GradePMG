@@ -1,0 +1,47 @@
+1)
+Request 1:
+1.Coi cafe Platform
+2.Justification:
+-Purpose:expand nostalgic space, traditional drink menu, and sustainable bussiness model(using reusable cups, purchasing coffee directly from Dak lak farmers).
+-Reason: implement an expansion project into 5 Central province( Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province.
+3.Constraints:
+-Scope: expansion project into 5 Central province, -Time: with 1 flagship store in each province within 12 months.
+- Cost/Budget: Total budget is VND 8.5 billion( approximately VND 1.7 billion/store)
+-Quality: Each store reach the break-even point within 8 months after openning.
+
+Request 4:
+1. 
+-Requirements and Analysis Completion.
+-System Development Completion.
+-Testing and Deployment Completion.
+2,3.
+-Development System Enviroment (PM)
+-Design System Architecture(PM)
+-Design databate(Dev,PM)
+-Implement moduel(Dev)
+-Design UI (Designer)
+-Integrate API service(Dev)
+-Intergrate Fornt-end and Back-end(Dev)
+-Reviews code(Tester)
+-Fix bug from code revicews(Dev)
+-Development and deployment package(Dev)
+
+
+
+2)
+Request 3:
+1. Main developer resignation
+-Need to docoments detail task requirements
+so that we reduce risk problem when have issues exit.It can slowly progress project.
+2.API not connection ( third base)
+-Buy and check API and hostname connection daily.Check domain name and deployment activities weekly because it can reduce or not reach the break-even point.
+3.Cost largets more total cost origin(risk in deployment system progress)
+-Over budget by risk and fail when deployment system activities.Or cost about new machine requirements, new AI, new material for product.All above will affect to quality and cost, time for project.So,we needs to prepare cost that we can problem resolve when it exit.
+
+Request2:
+1.Hostname API: deployment system to web and maintain online web.
+2.Human: who working for system
+3.Domain name and maintain system: deployment to everyone easy and ensure.
+4.Machine Requirements: cost for machine support for development system
+5. Marketing: Cost for marketing to everyone and expand system to many people who want know about system.
+

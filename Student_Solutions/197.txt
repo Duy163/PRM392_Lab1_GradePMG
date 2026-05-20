@@ -1,0 +1,63 @@
+1)
+Request 1: 
+1.- Project name: Coi Cafe marketing open many store in VietNamese.
+-Detail description: Coi Cafe is brand coffee famous in VietNamese with 12 Store in Ha Noi and Ho Chi Minh city. Coi's management decidede to implement an expansion project into 5 Central province, wwith 1 flagship store in each province within 12 months.
+2.- Purpose: Open many store Coi Cafe for maketing and can have many people in VietNamese know 
+3.Project constraints:
+-Scope: 
++ Project into 5 Central provinces(Da Nang, Quang Nam, Quang Ngai, Binh Dinh), 
++ Time: 12 months
++ Cost: 8.5 bilion VND(1.7 bilion VND/ store)
++ Quantity: The break-even point within 8 months after opening for each store.
+
+Request 2: 
+ Main cost/budget items:
+1. Budget 1: Design
+- Description:  designing and contructing interiors consitent with the brand.
+- Estimation: Design team, design logo or store place 
+2. Budget 2: Surveying and selecting premises
+- Description: survey and select response form people or form different store cafe
+- Estimation: The maketing team
+3. Budget 3:Recruiting and tranning 
+- Description: The HR select local personal for tranning
+- Estimation: HR team
+4. Budget 4: Buiding a raw material supply chain
+- Description: From Central region suppliers can buiding a raw material supply chain
+- Estimation: PM
+5. Budget 5: Launding campaigns
+- Description:
+- Estimation: PM
+2)
+Request 3: 
+- The project risk 1: Over budget
++ Description: The budget can over when in process has problem as delay time, material increase ...
++ Impact: cost
++ Mitigation: Prepare resece cost 
++ Contingency: Bank loans, reduce material or salary 
+- The project risk 2: Delay Time opening
++ Description: In process has many big problem form the design team, delay dealine
++ Impact: cost, time
++ Mitigation:
++ Contigency: Increase designer for support design team, can reduce time success.
+- The peoject risk 3: Quality not good
++ Description: After opening the store can't break-event point within 8 months
++ Impact: quality
++ Mitigation: Each store must social media in the social and maketing in the provinces
++ Contigency: Store can make event or sale items in the store 
+Request 4: 
+1. Three project role:  design team, HR team, maketing team
+2. Ten Task:
+1. Servey
+2. Analyze
+3. Design logo, menu
+4. Tranning people
+5. Maketing 
+6. Planning
+7. Testing
+8. Select premises
+9. Design store place
+10. Recruiting
+3.
+- Design team: 3,9
+- HR team: 4, 10
+- Maketing team: 1, 2, 5

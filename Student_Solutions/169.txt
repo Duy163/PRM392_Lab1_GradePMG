@@ -1,0 +1,110 @@
+1)
+Request 1: 
+1. Project name: Coffee Chain Expansion Project in Central VietNam
+2. Justifications: The project aims to expand Coi Cafe into central provinces to increase market share, brand awareness, and revenue, it also helps the company reach new customers and strengthen its competitive position.
+3. Project constrains: 
+Scope: Expand to 5 provinces with 1 flagship store
+Cost: Budget limited to VND 1.8 billion
+Time: Complete setup before store opening and achieve break-even in 8 months
+Quality: Maintain consistent brand identity and service quatity across all stores
+Request 2: 
+1. Store Construction Cost
+Description: Build and renovate store locations
+Estimation: Based on previous project 
+Responsible: Construction Team
+2. Interior Design Cost
+Description: Design store layout and decoration
+Estimation: Expert judgment
+Responsible: Design Team
+3. Equipment Cost
+Description: Coffee machine, furniture, tools
+Estimation: Supplier quotation
+Responsible: Procurement Team
+4. Staff Trainning Cost
+Description: Train baristas, and staff 
+Estimation: Based on training plan
+Responsible: HR Team
+5. Marketing Cost
+Description: Promotion and advertising campaign
+Estimation: Based on marketing plan
+Reponsible: Marketing Team
+Request 3:
+1. Risk: Construction delay.
+Impact: Delay store opening (time).
+Mitigation: Choose experienced contractor and monitor progress.
+2. Risk: Low customer demand.
+Impact: Low revenue (cost/quatity).
+Mitigation: Increase marketing and promotions.
+3. Risk: Bugdet overrun.
+Impact: Exceed budget (cost).
+Mitigation: Strict cost control and regular monitoring.
+Request 4:
+Roles:
+Project Manager(PM)
+Marketing Team
+Construction Team
+HR Team
+Sponsor
+Tasks        
+1. Marketing research
+Project Manager: A
+Marketing Team: R
+Construction Team: I
+HR Team: I
+Sponsor: C
+2. Store Design
+Project Manager: A
+Marketing Team: C
+Construction Team: R
+HR Team: I
+Sponsor: I
+3. Construction
+Project Manager: A
+Marketing Team: I
+Construction Team: R
+HR Team: I
+Sponsor: C
+4. Equipment purchase
+Project Manager: A
+Marketing Team: I
+Construction Team: R
+HR Team: I
+Sponsor: I
+5. Hiring Staff
+Project Manager: A
+Marketing Team: I
+Construction Team: I
+HR Team: R
+Sponsor: I
+6. Staff Training
+Project Manager: A
+Marketing Team: I
+Construction: I
+HR Team: R
+Sponsor: I
+7. Marketing campaign
+Project Manager: A
+Marketing Team: R
+Construction: I
+HR Team: I
+Sponsor: C
+8. Store Setup
+Project Manager: A
+Marketing Team: I
+Construction: R
+HR Team: I
+Sponsor: I
+9. Opening event
+Project Manager: A
+Marketing Team: R
+Construction: I
+HR Team: I
+Sponsor: C
+10. Project mornitoring
+Project Manager: A
+Marketing Team: I
+Construction: I
+HR Team: I
+Sponsor: C
+
+2)

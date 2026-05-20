@@ -1,0 +1,102 @@
+1)
+Request 1
+-Project name: Coi Cafe's expansion project.
+ 
+-Purpose: Coi Cafe is the famous coffr brand with 12 stores, the management want to implement an expansion project into 5 Central provinces, with 1 flagship store in each province within 12 months.
+ 
+ Constraints
+  - Scope: + surveying and selecting premises.
+                +  designing and constructing interiors consistent with brand.
+                + recruiting and tranning local personnel, building a raw material supply chain from Center region suppliers.
+                + Launching campaigns for each store.
+ - Time: 12 months.
+ - Cost: VND 8.5 billion.
+ - Quality: Each store must reach the break-even point within 8 months after opening.
+
+
+Request 2:
+
+Budget1:
++ Disign cost
++ The budget in design the brand to have special for  brand
++ To get profestional and famous for the brand.
+
+Budget2:
++Survey.
++ Cost to survey customer.
++ To get favor of customer for each province about coffe type. kind of store,...
+
+Budget3:
++ Sallary.
++ The Employees's sallary in store.
++To the working of store
+
+Budget4:
++Event
++The cost to run the event( sales) to customer.
++ effect to felling of customer.
+
+Budget5:
++maketing
++Cost to pr store in province or social media
++ to make brand and store is more knowlead to customers
+
+
+
+Request 4
+- Project role:
++Market Developement Director (PM)
++Interrior design 
++HR
+- Tasks:
++Survey the customer about coffe shop
+ PM(A)
+ Interrior design (C)
+ HR(R)
++Design Brand
+ PM(A)
+ Interrior design(R)
+ HR(I)
++Building a raw material supply chain 
+PM(A)
+Interrior design(R)
+Customer(C)
++Trainning local persional
+PM(A)
+Interrior design(I)
+HR(R)
++Lauching campain store
+PM(A)
+Interrior design(I)
+HR(R)
++PR brand and store in social media
+PM(A)
+HR(C)
+Interrior design(I)
+
+
+
+Request 3
+ Risk 1: Out of Budget.
+
+Each province could have price of local and items higher, so the budget VND8.5 billion is't enough.
+
+Make the Budget higher but quality not higher.
+
+The plans is take budget from the province have cheap cost  to province need high budget by higher cost.
+
+ Risk 2: Not Balence Quality.
+Quality coffe in each store not balence
+
+Each store have a different wether, employee not have expierient or trainning could make different quality coffe.The member customer could have bad decision 
+
+Solution is trainning staff, give the same condition of coffe in each store.
+ 
+ Risk 3:Delay time.
+ Waste time in each phase
+
+Each phase in product could be improve time and budget of project.
+
+Solution is management each phase by limit time. 
+
+2)

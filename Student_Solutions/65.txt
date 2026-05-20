@@ -1,0 +1,89 @@
+1)
+1.
+1.1 
+Project name: Coi Cafe into Central provinces.
+1.2 
+The purpose of this project is to implement an expansion project into 5 Central province within 12 months, with budget about VND 8.5 billion, This project aim to surveying and selecting premises, designing and constructing interiors cosistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers.
+1.3 
+-Scope constraints: Coi's management decided to implement an expansion project int 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh).
+
+-Time constraints: this project implement and completed in exactly 12 months (1 flagship store in each province).
+
+-Cost constrants: the total budget is VND 8.5 billion (approximately VND 1.7 billion/store) from equity and commercial bank loans. And ensure the cost not exceed.
+
+-Quality constrants: due to customers saticfation when they uses product from store, and had a least 80% an active feedback on survey, increase awerness for Coi cafe brand on customers, surveying and selecting premises, recruiting and training local personnel, building a raw material supply chain from Central region suppliers.
+
+2.
+-Supplier cost
+Description: suppliers (cafes, teas, ices ...) of all stores in campaigns.
+Estimate: VND 1.5 billions.
+Person in charged: PM.
+
+-Materials cost
+Description: all needed materials (tables, chairs, cups, ....) for stores.
+Estimate: VND 2 billions.
+Person in charged: PM.
+
+-Employee cost
+Description: budget of all employees for cafe store and campaigns.
+Estimate: VND 700 millions.
+Person in charged: HR team.
+
+-Design cost
+Description: budget of design banners, posts on social media about campaigns, and menu for all store.
+Estimate: VND 1.5 billions.
+Person in charged: PM/ Design team.
+
+-Promotion cost
+Description: budget of promoting campaigns on social media flatform  and enternal.
+Estimate: VND 2 billions.
+Person in charged: Marketing team.
+
+
+2)
+3.
+- Budget exceed
+Describe: cost in campaigns may be exceed budget.
+Impact:High
+Respon plan
+Mitigation plan: Preparing a clearly budget plan.
+Contigency plan: descreased cost of promoting or descreased employee.
+
+- Fail on trainning local personnel
+Describe: with traditional drink may be not interested for local people, when modern period.
+Impact: Medium- High.
+Respon plan:
+Mitigation plan: reseaching insign of overal customers, updated trendy drinks, name of drinks.
+Contigency plan: booking KOLs, KOC to make products reviews for stores.
+
+- Negative feedback from customers.
+Describe: have an negative feedback from customers about product, attitude of employee,...
+Impact: Medium - High
+Respon plan
+Mitigation plan: ensured about quality of product before selling, training for employee.
+Contigency plan: receive feedback and increase quality serves.
+
+4. 
+- (PM)Project Manager, (DT) Design team, (MT) Marketing team, HR team .
+
+Planning project: PM(A/R), DT(C), MT(I), HR team(C).
+
+-Planning for campaigns of each provinces: PM(A/R), DT(I), MR(I), HR team (I).
+
+-Designing products: PM(R), DT(R/A), MR(I), HR team (I). 
+
+-Preparing suppliers, materials: PM(R/A), DT(I), MR(I), HR team(I).
+
+-Trainning employees: PM(R), DT(I), MT (I), HR team (R/A)
+
+-Apply for permits: PM(R/A), DT(I), MT(I), HR team(I).
+
+-Producting contens for all flatform: PM(R), DT(I), MT(R/A), HR team(I).
+
+-Provided discount program: PM(R), DT(I), MT(C), HR team (I).
+
+-Promotion planning: PM(R), DT(C), MR (R/A), HR team (I).
+
+-Engagement with customers: PM(R/A), DT(I), MR(I), HR team (C).
+
+-Measurable feedback of customers/users: PM(R/A), DT(C), MR(I), HR team (I).

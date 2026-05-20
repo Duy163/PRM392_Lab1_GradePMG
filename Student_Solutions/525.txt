@@ -1,0 +1,70 @@
+1)
+I-REQUEST 1:
+
+1) Project name: Coi Cafe expansion
+2) Purpose: 
+- Expansion project into 5 Central provinces include: Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh.
+3) Project constrains:
+- Quality: Each store must reach the break-even point within 8 months after opening
+- Cost/budget: 8.5 bilion VND
+
+III- REQUEST 3
+
+1) Name: Bad employees
+   1.1.Decription: employees with bad skill
+   1.2.Impacts(High): Quality
+   1.3.Posability: High
+   1.4.Plan: Accept- training employees with clear timeline
+2)Name: people in each Central provinces dont know about store
+   2.1.Decription: the marketing strategy not effective
+   2.2.Impact(High): Quality and time
+   2.3.Posability: Low
+   2.4.Plan: Mitigation- use more platform to marketing 
+3)Name: Bad campaigns
+  3.1.Decription: Campaigns with bad idea and make customer uncomfortable
+  3.2.Impact(High): Quality and time
+  3.3.Posability: Low
+  3.4.Plan: Mitigation - Research on internet and follow healthy trend
+2)
+II-REQUEST 2
+
+Cost/Budget:
+1)Name: store building
+   1.1.Decription: hire external company to build 5 store in each central provinces
+   1.2.Estimation: Bottom-up estimating
+   1.3.Person in charge: PM
+2)Name: Hiring employees
+   2.1.Decription: hire waitress, bartender for each store
+   2.2.Estimation: Parametric estimating
+   2.3.Person in charge: HR 
+3)Name: Lauching campaigns
+   3.1.Decription: design campaign for each store
+   3.2.Estimation: Bottom-up estimating
+   3.3.Person in charge: marketor
+4)Name: building a raw material supply chain
+   4.1.Decription: bulding a supply chain from Central region suppliers
+   4.2.Estimation: Bottom-up estimating
+   4.3.Person in charge: PM
+5)Name: hosting event
+   5.1.Decription: create event to atract customer 
+   5.2.Estimation: Bottom-up estimating
+   5.3.Person in charge: Marketor
+6)Name: Store manager
+  6.1.Decription: manage each store
+  6.2.Estimation: Parametric estimating
+  6.3.Person in charge: PM
+
+IV-REQUEST 4
+
+1) Project role: PM, Designer, HR, Marketor
+2-3)Task:
+  1.Designing interiors: Designer(R), PM(C; A), HR(I), Marketor(I)
+  2.Contructing interiors: Designer(R), PM(C; A), HR(I), Marketor(I)
+  3.Recruitng employees: Designer(I), PM(C), HR(R;A), Marketor(I)
+  4.Training employees: Designer(I), PM(C;A), HR(R), Marketor(I)
+  5.Building a raw material supply chain: Designer(I), PM(R; A), HR(I), Marketor(I)
+  6.Lauching campaigns: Designer(I), PM(C), HR(I), Marketor(R;A) 
+  7.Set up store event: Designer(I), PM(C;A), HR(I), Marketor(R)
+  8.Set up marketing strategy: Designer(I), PM(C), Marketor(R;A)
+  9.Choosing platform to introduce new store (Facebook, Tiktok,...):Designer(I), PM(C;A), HR(I), Marketor(R)
+  10.Set up timeline and method to training employees: Designer(I), PM(A), HR(R), Marketor(I)

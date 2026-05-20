@@ -1,0 +1,126 @@
+1)
+Request 1: 
+- Project name: The expansion of Coi Cafe into 5 Central provinces in Viet Nam
+- Justifications: 
+    + Purpose:  Expanding a traditional Vietnamese coffee brand into 5 central provinces namely Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh.
+    + Reasons: Coi Cafe is famous for its nostalgic space, traditional Vietnamese drink menu and sustainable business model which is using resuable cups, and purchasing coffee directly from Dak Lak farmers. Therefore, Coi's management decided to implement this expansion.
+- Constraints:
+ + Scope: requires to open 5 coffee shops in 5 different province namely Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh in Viet Nam in 12 months.
+ + Time: Have to open 1 flagship store in each province within 12 months.
+ + Cost/budget:: The total expenditure for the project is 8.5 billion VND which is approximately 1.7 billion VND for each store. Also, the budget is from equity and commercial bank loans.
+  + Quality: Newly opened store in each province must reach the break-even point within 8 months after opening.
+
+Request 2:
+- Cost/budget item 1:
+   + Name: Estimated cost for staffs in each store in a specific province.
+   + Description: In each newly opened store in a province, there is a need for hiring and training local people so that they become staff of the coffee store.  
+   + Estimate method: Parametric estimating: Number of  staffs x salary per hour (20.000 VND/hour) x total working time (40 hours/week)
+   + Person in charged: HR Manager
+
+- Cost/budget item 2:
+     + Name: Estimated cost for surveying
+     + Description: Before opening a coffee store, destination is a thing that must be taken into consider. And by doing survey, we will know the place where to put our coffee store. This cost is mainly from printing survey paper and the fee of hiring people to do the work.
+      + Estimate method: Analogous estimating: Comparing with the cost of doing a survey with the recent project which will cost around 30 million VND
+      + People in charged: Marketing team and HR team.
+
+- Cost/budget item 3:
+       +  Name: Estimated cost for launching campaigns for each store
+       +  Description: As a newly opened coffee store, launching campaigns will help the local regconize our brand and the location of our coffee shop
+       +  Estimate method: Analogous estimating: Comparing the planned campaigns with the past campaigns to estimate the cost which will be around 350 millions VND
+       + Person in charged: Marketing manager
+
+- Cost/budget item 4: 
+       + Name: Estimated cost of raw material
+       + Description: The cost of establishing a supply chain from Central region suppliers
+        + Estimate method: Suppliers price: this is a cost after the manager and the suppliers have negotiated with each others which will be around 100 millions VND
+         + Person in charged: PM
+
+- Cost/budget item 5:
+         + Name: Estimated cost for designing and constructing interiors
+         + Description: This is the cost for designing and constructing a new coffee shop so that it has a similar theme with the other coffee shops.
+         + Estimate method: Analogous estimating: Because in the past, there were already 12 stores that had been constructed. Therefore, we can estimate the total cost will be around 300 millions VND.
+          + Person in charged: Interior design manager
+2)
+Request 3:
+- Risk 1: 
+      + Name: The coffee shop runs out of stock
+      + Description: In busy days, when the staffs dont have time to check the storage, some items in the menu can be run out.
+      + Possibility: Low
+      + Impacts: Profits (can be affected to the goal of reaching the break-even point within 8 months), customer satisfaction. 
+      + Mitigation: Implementing a storage management system in each coffee shop so that staff can easily check quantity of the material daily and report it to the staff manager.
+      + Contingency: Immediately contact with supply chain and also tell the staff to take care of the customers.  
+
+- Risk 2:
+      + Name: Few customers come to the coffee shop 
+      + Description: There are not too many customers come to the coffee shop everyday. 
+      + Possibility: Medium
+      + Impacts:  High impact on the quality which is reaching the break-event point. 
+      + Mitigation: Increased the cost of the marketing plan or campaigns so that the local people can know about the coffee shop. Also, there should be a report about the profits of the coffee shop every 2 weeks.
+      + Contingency: Hold a meeting and find an optimized solution for this problem (Ex: Launching new campagins,...). And actively monitor the profits of that coffee shop.
+
+- Risk 3: 
+       + Name: Bad weather
+       + Description: bad weather such as rainy weather can slow down the speed of constructing and surveying and setting up a new coffee shop in a specific province.
+       + Possibility: Low
+       + Impacts: High impact on cost and time as the construction will take longer. Therefore the time of opening the shop will also be delayed.
+       + Mitigation: Should have a detailed plan about how and when to contruct the coffee shop. Also, considering about hiring more people if the task can not finish in time.
+       + Contingency: Accept the cost of hiring more people in order to make the project finish in time.
+       
+Request 4:
+1. Three project roles:
+ - Project manager (PM)
+ - HR manager (HR)
+ - Marketing Manager (MK)
+ - Sponsor (S): the people who own the equity of the company and commercial bank
+ - Interior Manager (IM)
+2. and 3.: 
+- Activity 1: Make the project charter 
+     + R: PM 
+     + A: S
+     + C: IM, MK, HR
+     + I: IM, MK, HR
+- Activity 2: Doing the survey
+     +R: HR, MK
+     +A: PM
+     +C:
+     +I: S
+- Activity 3: Designing the interior for the coffee shop
+     +R: IM
+     +A: PM
+     +C:
+     +I: S, MK, HR
+- Activity 4: Choosing a location for the coffee shop
+     +R: PM
+     +A: S
+     +C: HR, MK
+     +I: IM, HR, MK
+- Activity 5: Constructing the interior for the coffee shop
+     +R: IM
+     +A: PM
+     +C:
+     +I: S, MK, HR
+- Activity 6: Recruiting staff
+     +R: HR
+     +A: PM
+     +C: 
+     +I: S, MK
+- Activity 7: Training staff
+     +R: HR
+     +A: PM
+     +C:
+     +I:S, MK
+-Activity 8: Launching campaigns
+     +R: MK
+     +A: PM
+     +C: 
+     +I:S, HR
+- Activity 9: Build material supply chain
+     +R: PM
+     +A: S
+     +C:
+     +I: HM, MK
+-Activity 10: Write progress report and results 
+     +R:PM
+     +A:S
+     +C:HM, MK, IM
+     +I: HM, MK, IM

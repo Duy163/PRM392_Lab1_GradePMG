@@ -1,0 +1,99 @@
+1)
+REQUEST1
+
+Project name: 
+
+Coi Cafe the Vietnamese coffee from Dak Lak with ambitious expansion.
+
+Justification:
+
+Currently, Coi Cafe is a pure Vietnamese coffee brand with 12 stores in Hanoi and Ho Chi Minh City. They known for not only nostalgic space but also sustainable business model that is using reusable cups. 
+Beside that, many people love Dak Lak coffee and their "green mission" friendly to our planet. They recognize the potention of their brand, therefore Coi's founder willing to opening more and more stores, focus into 5 Central provinces of the middel of VietNam. Especially 1 flagship store in each province.
+
+Project constraints:
+
+Scope: surveying, selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain fron Centrl region suplliers, and launching campaigns for each store.
+
+Time: 1 flagship store for each province within 12 months (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+
+Budget: The total budget is 8.5 billion VND 
+(approximately 1.7 billion/store) from equity and commercial bank loans.
+
+Quality:  Each store must reach the break-even point within 8 months after opening.
+
+   
+
+
+2)
+REQUEST 2
+There are includes 5 five main cost 
+
+1: Renting, permission paper
+The place is very important, it has to be a crowded, in the centre of city, near a office building, school, restaurant for people easy to reach out to us. Avoid roundabout or crossover, although it good place but too expensive. 
+(PM is person in charged)
+
+Estimation: 50 million/month, total 600 million VND per year
+
+2: Salary for the team
+Salary for 3 main team 
+Interior design team, HR team and marketing team 
+(HR team is the person in charged)
+
+Estimation: 20 million/month for Interior design, 20 million/month for HR, 20 millon/month for marketing, total 720 million VND per year
+
+3. Expense of the decoration
+Buy item for interior such as: chair, table... and some essential item for decorate 
+(Interior design team is the person in charged)
+
+Estimation: 100 million VND in total 
+
+4. Expense for the material 
+Purchase coffee directly from Dak Lak famers and reusable cups 
+(PM is the person in charged)
+
+Estimation: 200 million VND for coffee bean, 20 million VND for reusable cups  
+
+5. Expense for marketing campaigns
+Running the campaigns on social media, such as Tiktok, Youtube, Facebook to wide the brand with user in the Internet
+(Marketing team is the person in charged)
+
+Estimation: 60 million VND in total
+ ------------------------------------------------------------------------
+REQUEST 3
+Three project risks 
+
+1: The schedule too tight, it's hard to complete on time 
+Possible: Low
+Impact: High
+Mitigation plan: extend the shedule, recruit more suitable position if need 
+Contingency plan: always follow team's processing, give a KPI and reward to achieve
+
+2: The Project Manager have a poor skill management
+Possible: Low
+Impact: High
+Mitigation plan: contribute and recommend PM to learn the skill
+Contingency plan: recruit a assistant who has a high skills management, can support PM
+
+3: Overbudget, commercial bank loans strictly 
+Possible: Low
+Impact: Low
+Mitigation plan: minimum the cost as possible as could, evaluate the cost out of scope.
+Contingency plan: have a extra backup budget 
+(about 10%) of total
+
+ ------------------------------------------------------------------------
+REQUEST 4
+Project Manager: PM 
+Hiring team: HR
+Marketing team: MKT
+Interior Design team: ID
+QA
+1: Planning the overall statement: PM (R/A), HR(C), MKT(I), ID(I), QA(I)
+2: Building, designing, constructing the space : PM(A), HR(C), MKT(I), ID(R), QA(C)
+3: Recruiting and tranining : PM(A), HR(R), MKT(I), ID(I), QA(C)
+4: Campaigns marketing attraction customer: PM(A), HR(C), MKT(R), ID(I), QA(I)
+5: Make sure the budget is enough to run: PM(R), HR(A), MKT(I), ID(I), QA(I)
+6: Control the process: PM(R), HR(C), MKT(C), ID(C), QA(I)
+7: Purchase a raw material supply: PM(R/A), HR(C), MKT(I), ID(I), QA(I)
+8: Test product and deploy the space: PM(A), HR(I), MKT(I), ID(C), QA(R)
+ 

@@ -1,0 +1,86 @@
+1)
+request 1
+project name: coi cafe expansion project
+
+justifications:
+coi cafe has pride themselves for many years on their traditional drink menu, nostalgic spaces and uses practices to make the world greener such as using reusable cups and using organic coffee beans that comes directly on the farm.
+
+the project aims to expand coi cafe's influence across other central provinces besides hanoi and ho chi minh city, further strengthening the brand's visibility in the mind of the local community with their business models.
+
+project constraints:
+
+scope: the activities within the project include surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, bulding a raw material supply chain from central region suppliers and launching campaigns for each store.
+
+time: the duration expansion must stay within 12 months, with each store reaching break-even point within 8 months after opening
+
+cost/budget: total budget for the project is 8.5 billion vnd with approximately 1.7 biilion per store, which already includes fees for supplies, training staffs and resources needed for the campaigns.
+
+quality: the quality of the products must not deterred from what have already been established (organic coffee beans, using reusables items)
+
+request 2
+
+training local personnel
+description: fees for recruiting and training the staff in each province in preparation for the opening of each store
+budget: 12 million vnd
+estimation: analogous estimating. using the baseline fee use for employess. (in charge: hr team)
+
+launching campaigns' materials
+description: fees needed for the campaigns such as flyers, stand-in welcome mascot (if needed), banners,...
+budget: 8 million vnd
+estimation: vendor bid analysis. (in charge: marketing team)
+
+interior design materials
+description: fees for hiring and working with an interior design team along with the materials needed for constructing the stores
+budget: 20 million vnd
+estimation: bottom-up estimating. (in charge: interior design team)
+
+quality supplies from the supply chain
+description: effectively communicating with suppliers, making sure the materials from the supply chain buildings has satisfactory qualities
+budget: 30 million vnd
+estimation: parametric estimating (in charge: project manager)
+
+
+
+2)
+request 3
+
+wrong estimations for the budget or cost overruns
+probability: low
+impact: highly affects the scope and time of the project
+mitigation plan: adding a buffer of 5% to the budget, try and communicate with the higher ups to recalculate the budget and make changes.
+contingency plan: add a contingency reserve fund from the beginning.
+
+project went behind the schedule
+probability: medium
+impact: medium
+mitigation plan: add more staffs to do different tasks at the same time, this method will add more to the personnel budget, contacting higher ups to add more time for the project
+contingency plan: plan the tasks effectively, continuously monitoring for any mistake to avoid delaying the schedule.
+
+project manager has poor management skills
+probability: low
+impact: high
+mitigation plan: immediately train and update the project manager with the necessary skills needed, this process may affects the time constraint.
+contingency plan: replace with an entirely new project manager
+
+request 4
+
+roles:
+-market development director (pm) - internal stakeholder
+information: responsible for getting the project charter, monitoring the project process, making key decisions
+-interior team - internal stakeholder
+information: communicating with the project manager for informations and get the necessary materials.
+-customers - external stakeholder
+information: stays updated on the relevant information of the project
+- hr team - internal stakeholder
+information: responsible for recruiting and training staffs
+
+create project charter: project manager (r), interior team (i), hr team (i), customers (i)
+get project charter approved: project manager (r), interior team (i), hr team (i), customers (i)
+create a stakeholder register: project manager (r), interior team (i), hr team (i), customers (i)
+create project management plan: project manager (r,a), interior team (i), hr team (i), customers (i)
+surveying and selecting premises: project manager (r,a), interior team (c),hr team (i), customers (i)
+training personnel: project manager (c), interior team (i), hr team (r), customers (i)
+making interior designs: project manager (c), interior team (r), hr team (i), customers (i)
+monitoring the process and risk: project manager (r), inerior team (i), hr team (i). customers (i)
+getting customers' surveys: project manager (r), interior team (i), hr team (i), customers (c)
+archives project documents: project manager (r,a), interior team (i), hr team (i), customers (i)

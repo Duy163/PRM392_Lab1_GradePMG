@@ -1,0 +1,105 @@
+1)
+REQUEST 1:
+1.Project name: Coi Cafe Expansion Project
+2. 
+- Purpose: This project amis to develop brand Coi Cafe expansion 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) 
+- Reasons: Coi Cafe is pure VietNam coffee with 12 stores in Hanoi and Ho Chi Minh City, famous for its nostalgic space, traditional drink menu, and sustainable business model
+3. Product constraints:
+- Scope:
+  + Surveying and selecting premises
+  + Designing and constructing interiors consistent with the brand
+  + Recruiting and training local personnel
+  + Building a raw material supply chain from Central region suppliers
+   + Launching campaigns for each store
+-Time:
+   + 1 Flagship store in each province within 12 months
+- Cost/bugge:
+  + Total budget is VND 8.5 billion
+- Quality:
+  + Each store must reach the break-even point within 8 months after openingt 
+
+
+REQUEST 2:
+ - With each province may has some cost defind: 
+1. Cost Legal
+- This is cost to pay for approve by goverment
+- Method estimate: Base on same project in the past to estimate 
+- Cost: VND 30 million
+
+2. Cost Marketing
+- Use to implement communicate plan and marketing, promotion when store available open
+- Method Estimate: Top-down, estimate base on experience, not exceed 10% budget
+- Cost: VND 100 million
+
+3. Cost traning employees
+- This cost use to training persons to have enough skills to apply in project
+- Estimate: 1 person / VND 7 million per  month, about 6 people
+- Cost: VND 500 million
+
+4. Missellouce and Buffer:
+- Use to managment cost unexpect when has risks
+- Method Estimate: Not over 5% of budget 
+- Cost: VND 80 million
+
+5. Cost change requirment
+- During develop may be have change not follow requirment may be have this cost
+- Method Estimate: Top-down, base on the same project and plan management 
+- Cost: VND 100 million
+2)
+REQUEST 3:
+
+1. Risk Over Budget
+- During executing phase often happen over buget this may influence to project
+- Impact: This cause slow about planing, decresing time complete, may be project not success
+- Mitigation : Maket Development Director need have plan clrealy about budget, regular follwing progess project 
+- Contingency: Managerment payment not esential, can use cost buffer but have planing 
+
+2. Behind of schedule:
+- Time is limit so implement project can not enough to complete right of the plan
+- Impact: This will be make budget increasing, quality may effect bad 
+- Mitigation: Project Managerment ensure task of the team complete right of deadline, regular check progress of project 
+- Contingency: Implement fast-tracking to reduce time this mean the task excute paralle or add recources external if enough budget
+
+3. Traning staff
+- During project may have some people leave of project so need cost to training new resource
+- Impact: Lack knowlegde about project may be make project slow progress to find new resource and training
+-Mitigation: Need to have recource buffer and regular encourage staff and have good plan management task to redule stress and improve ability  complete task
+- Contingency : Orgnize workshop or senimar to training , transfer knowlegede of project  to faster continuos planing
+
+
+REQUEST 4:
+
+1. Project rokes:
+ + Coi Cafe Management Broad (Sponsor)
+ + Market Development Diretor (PM)
+ +Interior design team
+ + HR team
+ + Marketing team
+ + Local personnel
+ 
+2 & 3 : 
+ - Approved Requirment: PM(R) , Sponsor(A), Design team(I), Marketing team (C), HR team (I), Local personnel (I)
+
+- Management budget plan: PM(A/R), Sponsor(C), Design team (I), Marketing team (I), HR team (C), Local personnel (I)
+
+- Buiding the team implement: PM(A), Sponsor(C), Design team (I), Marketing team(I), HR team(R), Local personnel(I)
+
+- Training local personnel: PM(A/C), Sponsor(I), Design team (I), Marketring team (I), HR team (R), Local personnel(I)
+
+- Designing brand: PM(C) , Sponsor(I), Design team (R/A), Marketing team (I), HR team (I), Local personner(I)
+
+- Buiding a raw material supply chain: PM(A), Sponsor (I), Design team (C) , HR team (R), Local personnel(R)
+
+- Lauching campaigns: PM(A), Sponsor (I), Design team (C), Marketing team (R), HR team (C), Local personnel (R)
+
+- Statistic Budget Complete Project : PM (A/R), Sponsor(C), Design team (I), Marketing team (I), HR team (R), Local personnel (I) 
+
+- Deliver Project for the sponsor: PM (A/R), Sponsor(C/I), Marketing team (I), HR team (R), Local personell (I) 
+
+- Final report: PM(R/A) , Sponsor(I), Design team (I), Marketing team(I), HR team (I), Local personnel (I)
+
+
+
+
+
+ 

@@ -1,0 +1,172 @@
+1)
+Request 1:
+Project name:
+Coi Cafe Central Local Signature Store Project
+
+Justifications:
+Expand Coi Cafe into five Central provinces: Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh.
+Build each flagship store as a local signature store that keeps Coi Cafe’s core brand but reflects the atmosphere of its province.
+Introduce Coi Cafe’s nostalgic Vietnamese coffee space, traditional drink menu, reusable cup practice, and sustainable coffee sourcing to new customers.
+Create stronger customer connection by making each store feel familiar to local residents while still belonging to the Coi Cafe brand.
+Increase brand awareness outside Hanoi and Ho Chi Minh City.
+Build a Central region supply chain to support stable store operations.
+Generate new revenue and ensure each store reaches break-even within eight months after opening.
+
+Project constraints:
+Scope:
+Open five flagship stores only, one store in each selected province.
+Project scope includes: market survey, premises selection, lease agreement, local signature design concept, construction, equipment setup, recruitment, training, supplier setup, launch campaign, and performance tracking.
+Each store may include small local design elements, but the main Coi Cafe brand identity must remain consistent.
+The project does not include franchising, extra stores, new product lines, or provinces outside the given five.
+Time:
+The project duration is 12 months.
+All five stores must be opened within the approved timeline.
+Each store must reach break-even within eight months after opening.
+Cost / Budget:
+Total budget is VND 8.5 billion.
+Average budget is around VND 1.7 billion per store.
+Funding comes from company equity and commercial bank loans.
+All costs must be controlled to avoid budget overrun.
+Quality:
+All stores must follow Coi Cafe’s core brand standards.
+Interior design must be nostalgic, consistent, and suitable for flagship store quality.
+Drink quality, customer service, hygiene, and sustainable practices must be consistent across all stores.
+Local design elements must not conflict with Coi Cafe’s Vietnamese coffee identity.
+
+Request 2:
+
+Budget Group 1: Local insight and concept research
+Name: Local insight and store concept research
+Description: Cost for studying customer behavior, competitor stores, local culture, suitable store areas, and design ideas that can support a local signature concept.
+Estimation: VND 700 million total, around VND 140 million per store.
+Way to estimate: Based on field visits, customer interviews, competitor observation, local cultural research, travel cost, and concept testing.
+Person in charge: Project Manager and Marketing Team.
+
+Budget Group 2: Premises acquisition
+Name: Store premises acquisition and lease setup
+Description: Cost for location search, traffic checking, lease negotiation, legal review, rental deposit, and first rent payment.
+Estimation: VND 1.5 billion total, around VND 300 million per store.
+Way to estimate: Based on local rental rates, deposit requirement, broker fee, legal checking fee, and initial rent.
+Person in charge: Project Manager and Finance Team.
+
+Budget Group 3: Local signature interior build
+Name: Store construction and local signature interior
+Description: Cost for construction, furniture, lighting, counter, seating area, signage, nostalgic decoration, and limited local design details for each province.
+Estimation: VND 3.1 billion total, around VND 620 million per store.
+Way to estimate: Based on store size, design drawings, contractor quotations, material prices, furniture list, and approved local decoration items.
+Person in charge: Interior Design and Construction Team.
+
+Budget Group 4: Operating readiness
+Name: Equipment and staff preparation
+Description: Cost for coffee machines, grinders, refrigerators, POS system, water filters, reusable cups, kitchen tools, recruitment, training, uniforms, and pre-opening salary.
+Estimation: VND 2.2 billion total, around VND 440 million per store.
+Way to estimate: Based on standard equipment checklist, supplier quotations, number of staff, training period, trainer cost, uniform cost, and salary support.
+Person in charge: Procurement Team, HR Team, and Operations Team.
+
+Budget Group 5: Supply chain and opening promotion
+Name: Opening inventory and local signature launch campaign
+Description: Cost for supplier selection, first inventory, delivery setup, safety stock, quality checking, grand opening, local promotion, vouchers, and social media content.
+Estimation: VND 1.0 billion total, around VND 200 million per store.
+Way to estimate: Based on first-month inventory needs, supplier prices, transportation cost, event scale, advertising price, and promotion budget.
+Person in charge: Procurement and Supply Chain Team, and Marketing Team.
+
+Request 3:
+
+Risk 1: Local design elements weaken brand consistency
+Risk name: Local signature concept conflicts with Coi Cafe identity.
+Description: If each store uses too many local elements, the stores may become inconsistent and customers may not clearly recognize Coi Cafe’s brand.
+Impacts:
+Scope / quality: Brand identity and flagship quality may become inconsistent.
+Time: Extra design review or redesign may delay construction.
+Cost: Redesign, decoration replacement, or rework may increase cost.
+Mitigation plan: Prepare a brand guideline that defines fixed Coi Cafe elements and limited local elements allowed for each store.
+Contingency plan: Remove or adjust local elements that conflict with the brand before grand opening.
+
+Risk 2: Local concept does not attract customers
+Risk name: Weak customer response to local signature positioning.
+Description: Customers may not value the local signature concept if store location, design, or launch message is not relevant to their preferences.
+Impacts:
+Scope / quality: The store may fail to become a strong flagship location.
+Time: More time may be needed to build customer traffic.
+Cost: Extra marketing and promotion costs may be needed.
+Mitigation plan: Test local concept ideas through customer interviews and competitor analysis before finalizing design and campaign.
+Contingency plan: Adjust launch message, add customer promotions, and emphasize Coi Cafe’s core Vietnamese coffee experience.
+
+Risk 3: Supplier and staff quality varies by province
+Risk name: Uneven operating quality across provinces.
+Description: Different local staff and suppliers may cause differences in service quality, drink taste, or inventory stability.
+Impacts:
+Scope / quality: Customer experience may not be consistent across the five stores.
+Time: Additional training and supplier correction may be required.
+Cost: Retraining, supervision, or emergency purchasing may increase costs.
+Mitigation plan: Use the same training manual, product recipes, supplier quality checklist, and pre-opening operation test for all stores.
+Contingency plan: Send experienced supervisors from existing stores and use backup suppliers until local teams become stable.
+
+Request 4:
+
+Project roles:
+Role 1: Project Manager / Market Development Director
+Responsible for overall planning, approval, schedule, budget, risk control, and break-even monitoring.
+
+Role 2: Brand Store Development Team
+Responsible for premises support, local signature design, construction, decoration, signage, and store quality.
+
+Role 3: Regional Operations Team
+Responsible for recruitment, training, equipment, suppliers, inventory, launch campaign, and post-opening performance support.
+
+RACI responsibilities:
+R = Responsible
+A = Accountable
+C = Consulted
+I = Informed
+
+Activity 1: Approve project charter and local signature strategy
+Project Manager: A/R
+Brand Store Development Team: C
+Regional Operations Team: C
+
+Activity 2: Conduct local insight and concept research
+Project Manager: A
+Brand Store Development Team: C
+Regional Operations Team: R
+
+Activity 3: Select and approve store locations
+Project Manager: A/R
+Brand Store Development Team: C
+Regional Operations Team: C
+
+Activity 4: Develop local signature interior concept
+Project Manager: A
+Brand Store Development Team: R
+Regional Operations Team: C
+
+Activity 5: Complete construction and brand decoration
+Project Manager: A
+Brand Store Development Team: R
+Regional Operations Team: I
+
+Activity 6: Purchase equipment and prepare inventory
+Project Manager: A
+Brand Store Development Team: C
+Regional Operations Team: R
+
+Activity 7: Recruit and train store employees
+Project Manager: A
+Brand Store Development Team: I
+Regional Operations Team: R
+
+Activity 8: Set up suppliers and delivery process
+Project Manager: A
+Brand Store Development Team: I
+Regional Operations Team: R
+
+Activity 9: Execute local signature launch campaign
+Project Manager: A
+Brand Store Development Team: C
+Regional Operations Team: R
+
+Activity 10: Monitor customer feedback and break-even result
+Project Manager: A/R
+Brand Store Development Team: C
+Regional Operations Team: C
+2)

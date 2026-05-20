@@ -1,0 +1,69 @@
+1)
+Request 1:
+1. Project Name: Coi Cafe
+
+2. Purpose: Coi's management decide to implement an expansion project into 5 central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 months.
+    Reason: Coi Cafe is pure Vietnamese coffee brand with 12 stores in Hanoi and Ho Chi Minh City, famous for its nostalgic space, traditional drink menu, and sustainable busiess model.
+
+3. Project constraints:
+- Scope: The prject includes: surveying and selecting premises, designing and constructing interious consistent with the brand, recuiting and training local personnel, building a raw material supply chain from Central region suppliers, and lauching campaigns for each store.
+- Time: 1 flagship store in each province within 12 months and Each store must reach the break-even point within 8 months after opening.
+- Budget: The total budget in VND 8.5 billion (approximately VND 1.7 billion/store) from equity and comercial bank loans.
+- Quality: Positive surveying and premises, The designing and constructing interioirs consistent with brand should be have a positive rate and good marketing. A raw material supply chain from Central region suppliers, and launching campaigns for each store. 
+
+Request 2:
+5 main budget items is: 5 store in 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh).
+- Name: 5 store in 5 provinces
+- Description: Coi Cafe is a pure Vietnamese coffee brand with 12 stores in Hanoi and Ho Chi Minh with very much famous and 5 store in 5 provinces created to expansion the brand for more people known where is the best coffee with a nostalgic space, traditional drink menu, and sustainable business model.
+- How to estimate: The first is surveying and selecting premises. After that we will designing and constructing interiors consistent with the brand, recruiting and training local personnel. The last we should building a raw material supply chain from the Central region suppliers, and launchcampaigns for each store
+- Person in charged: The person who's in charged is Market Development Director as Project Manager.
+2)
+Request 3:
+Three project risks is:
+
+Objective 1: Cann't complete within 12 months.
+- Decription: With so much job need to implements and the budget for each store just VND 1.7 billion it's might be not done and the store must reach the break-even point within 8 months after opening. It's hard for the team.
+- Possible impacts: Medium.
+Relevant:
+- Mitigation: To mittigate the risk i refer to hires more employees to work.
+- Contingency: Uses Fast tracking and work everything parallel (overlaping). It's can be done as  soon as possible.
+
+Objective 2: Increse budget.
+- Decription: The budget for each store is VND 1.7 billion. It's low for a coffee project has a brandname in Viet Nam (Coi Cafe) and to make sure the tastes drink can't change is hard for the team.
+- Possible impacts: High.
+Relevant:
+- Mitigation: To mitigate the risk must planing first and must have a WBS (Work Baseline Structure) to do work.
+- Contingency: The work might need crashing and prepare more.
+
+Objective 3: Bad Brandname in social media.
+- Decription: The brandname of this coffee might be bad in some social media or somewhere.
+- Possible impacts: Low
+Relevant:
+- Mitigate: To reduce the negative in ours brand we need to make plan for the first month we done is free some drinks and make more combo or coupons. 
+- Contingency: Need to upgrade the quality of the store to reduce all negative.
+
+Request 4:
+1. Three project roles: Project Managment (PM), HR team (HR), Maketing team (MT).
+
+2. Avtivities:
+A. Known Requirements Clearly
+B. Planing
+C. Make Surveying
+D. Training the Local Personnel
+E. Build a raw material supply chain 
+F. Launch Campaigns
+G. Marketing
+H. Training Employee
+I. Testing
+J. Final 
+
+3. R: Responsible, A: Accountable, C: Consulted, I: Informed.
+A->B: PM (R,A), HR (C,I), MT(C,I)
+B->C: PM (R,A), HR(C,I), MT(C,I)
+C->D: PM (R), HR(A), MT(C,I)
+D->E: PM (R,A), HR(I), MT(C,I)
+E->F: PM (R,A), HR(I), MT(I)
+F->G: PM (R), HR(I), MT(C,I)
+G->H: PM (R), HR(C,I), MT(A)
+H->I: PM(R,A) HR(C,I), MT(C,I)
+I->J: PM(R,A), HR(I), MT(I)

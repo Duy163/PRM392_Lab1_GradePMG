@@ -1,0 +1,93 @@
+1)
+Request 1:
+Project name : Coi Cafe Expansion Project
+Justification : The Coi Cafe is famous coffee brand and they want to expand their brand to a large city like Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh.
+Project constraints :
+   + Scope : implemnet an expansion project in to 5 Central provinces. Includes : surveying and selecting premises, designing and constructing interios consistent with the brand, recruiting and training local personal. building a raw material supply chain from Central region suppliers, and launching campaigns for each store
+   + Time : 1 flagship store in each province within 12 months
+   + Budget/ Cost: the total budget is VND 8.5 billion ( approximately VND 1.7 billion / store ).
+   + Quality: Each store must reach the break-even point within 8 months after opening
+2)
+Request 2:
+Name : Cost for team members
+Description : The cost for hire the member who surveying and selectings premises, designing and constructring project. About VND 300 million/ store
+How to estimated : Its depend on the level of the team are hired by HR and the scope of the project.
+Person in charge : HR team
+
+Name : Cost for marketing plan
+Description : This is the cost for the marketing team to promotion the Coi cafe to take attendion the people who live in that province. About VND 150 million/ store
+How to estimated : Based on the plan of the marketing team
+Person in charge : Marketing team
+
+Name : Cost for design the space of the coffee
+Description ; It's the cost for design the space of the coffee like the bar, chair, wall. About VND 200 million/ store
+How to estimate : Depend on the need of the coffee and the design team level.
+Person in charge : Desgin team.
+
+Name : Recruting and training local personnel
+Description : This is the fee you pay for training staff for the coffee. About VND 50 million/ store.
+How to estimate : based on the total staff who are hired and trained per hours.
+Person in charge : HR Team
+
+Name : Rental House and materials
+Description : Its is the cost for buiding the coffee and raw material supply chain from Central region suppliers. About 1 billion / store
+How to estimate : Depend on the cost of this space. Its mean the space of the coffee large or small, the location.
+Person in charge : Project Manager
+
+
+
+Request 3 : 
+Title / Name : Overtime 
+Description: it's mean complete the project behind the deadline because the legal document in the province is not approved, difficult to find the location 
+Possible impact : the schedule opening can be lated
+  + Mitigation : prepare legal documents before starts find the location and building
+  + Contingency: remove to another locations and thanks the goverment of the province to resolved the legal conflict.
+
+Title / Name: Over budget
+Descripton : The cost for rental locations or materials is very expensive than budget plan
+Possible impact : it can be lost the lots of cost than budget plan
+ + Mitigation : the coffee should spend 10% for the extra fee to ensure that its can be solve fastly.
+ + Contingency : contact to the coffee and explaint for them about the cost problem.
+
+Tile / Name : the store is not reach the break-even point within 8 months after opening
+Description : The store can not be reach the break even 8 months after opening.
+Possible impact: It do not achive the goal of the plan 
+  + Mitigation : Do the research about the province.
+  + Contingency: Report to the Coi Cafe and promote the marketing plan to pay more attention and incrase customer satisfication.
+ 
+
+
+Request 4: 
+Role:
++ Project manager
++ HR Team
++ Design Team
++ Marketing Team
+
+ten tasks/activity/deliverable
+1. Do the survey
+2. Selecting premises
+3. Design the space
+4. Contructing interiors consistent with the brand
+5. Recruiting and training local personnel
+6. Build a raw material supply chain
+7. Launch campaign
+8. Promote the coffee to take attention
+9. Collect customer data and survey
+10. Final report for Coi Cafe
+
+1. Responsibility: Project Manager
+   
+2. Responsibility: Project Manager
+3. Responsibility: Design Team
+4. Responsibility: Design Team
+5. Responsibility: HR Team
+6. Responsibility: Project Manager
+7. Responsibility: Project Manager
+8. Responsibility: Marketing Team
+9. Responsibility: Project Manager
+10. Responsibility : Project Manager
+
+
+
+

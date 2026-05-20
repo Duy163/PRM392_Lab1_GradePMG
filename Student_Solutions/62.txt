@@ -1,0 +1,74 @@
+1)
+Request 1:
+1. Project name: Coi Cafe`s expansion project into 5 Central provinces
+2. Purpose: 
+The purposes of implementing project are surveying and selecting premises, designing and contructing interiors consistent with the brand, recruiting and training local personel, building a raw material suppy chain from Central region suppliers, and launching campaigns for each store 
+3. Constraints:
+Scope: Implement into 5 Central pronvinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province 
+Time: 12 months
+Cost: VND 8.5 billion (approximately VND 1.7 billion/store)
+Quality: Each store must reach the break-even point with 8 months after opening
+
+Request 2:
+Five main cost item:
+1.
+Name: Building cost
+Description: The cost use for building 5 stores in 5 Central provinces
+Estimate: VND 5 billion (1 billion/place)
+
+2.
+Name: Design cost
+Description: The cost use for designing each store, campaign.
+Estimate: VND 250 million (50 million/store)
+
+3.
+Name:  Rent cost
+Description: The cost use for recruiting and training local personnel.
+Estimate: VND 1.5 billion (300 million/store for renting and training 15 staffs in each store within 12 months and salary for each staff will be between VND 17.000 - 23.000/hour).
+
+4. 
+Name: Marketing cost
+Description: The cost use for marketing 5 new stores in 5 places
+Estimate: VND 500 million (100 million/store for contact with KOL, Tiktoker, .. and run advertisement on Facebook, Instagram, Tiktok,.. for each store)
+
+5.
+Name: Campaign cost
+Description The cost for lauching campaigns for each store
+Estimate: VND 500 million (100 million/store)
+2)
+Request 3:
+Three project risks:
+1.
+Risk name: Unreach enough customers
+Description: This risk is about situation that there are not any customers or a few customers that buy Coi Cafe`s products
+Possiblle impact: Make money loses for renting staffs when do not have enough customers to pay
+Mitigation: Create more advertisement on social media. Create some free-trial or buy 1 + 1 event for about 3 days when starting the store to make local personel can experience Coi Cafe's products.
+Contingency: Descrease the number of staffs and materials for suitable customers.
+
+2.
+Risk name: Over total budget
+Description: This risk is about situation that there is more fees  than estimate like tax, place,..
+Possible impact: Can make building store become harder because of lacking money and can not do all targets that project want to reach.
+Mitigation: Create a detailed report for each task. Usually check budget in order not to make money losed.
+Contingency: Descrease fee for designing, marketing or renting. Focus on quality of products.
+
+3.
+Risk name: Bad weather condition
+Description:  This risk is about the weather conditon when builiding store because these five Central provinces usually have heavy rain, typhoon, storm every year.
+Possible impact: This situation will make loses in money and time so that store can not opening on intense day.
+Mitigation: Explore and check the place and time that is not affected by bad weather when building store.
+Contingency: Choose another less cost design for building store. Make sure that have enough places for customers to enjoy.
+
+Request 4:
+1. Three project roles : PM, HR team, Marketing team
+2. Ten tasks:
+1. Explore about people, places,.. in 5 Central pronvinces
+2, Create survey 
+3. Publish survey on Internet through social media
+4. Design base on survey
+5. Ediit design
+6. Choose place
+7. Build store
+8. Recruit suitable staffs.
+9. Train staffs.
+10. Build a raw material supply chain from Central region suppliers

@@ -1,0 +1,68 @@
+1)
+Request 1:
+1.1.
+- Project name: 12 months exansion market in Middle VietNam
+- Project decription: Implement an exxpansion project into 5 central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 months. The project include: surveying and selecting premises, designing and contructing interiors cnsistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store. 
+1.2.
+- Purpose:
++ To implement an expansion project into 5 Central Provinces (Da nang, Hue, Quang Nam, Quang Ngai, Binh Dinh).
+- Reasons: 
+1.3.
+Project constrains:
+- Scope: 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 months.
+- Time: 12 months
+- Cost/budget: The total budget is VND 8.5 billion (approximately 1.7 billion/store)
+- Quality: 
++ Surveying and selecting premises.
++ Designing and constructing interiors consistent with the brand.
++ Recruiting and training local personnel.
++ Building a raw material supply chain from Central region suppliers.
++ Launching campains for each store.
++ Each store must reach the break even point within 8 months after opening.
+2)
+Request 2:
+5 main cost/buget items:
+1. Monney form activites of the company
+- Description: The money form the actives of the company
+- Estimate along with the way to estimate:
++ How to estimate:  the company will see the plan off this project and decide to give the money for this project.
+
+2. Loans from commercial bank
+
+3. Sponsal from another angle 
+
+Request 3: 
+Project risk 1: 
++ Name: Not enough buget to run this project.
++ Description: can not have enough buget to run this project.
+- Mitigation: Prepaire enough information about this project to showout. And have a long term plan to do this project for 12 months, how to reach customer and how to achive this  goal.
+- Contingency: base on real data and metting with team to slove this problem (find more than proposal form the bussiness,... wwith this buget we can start this plan for how long, can we reduce from 5 to 4 province: the project can start)
+
+Project risk 2:
+- Name: Cannot building a raw material supply chain from Central region suppliers.
+- Mitigation: have a backup plan when cannot find the supply chain from Central region supply. Backup to the next province or find the supplier near there. 
+- Contingency: Find the anorther supplier in this Central or find the replace good to adapt with this. If cannot find, we need to make a supply chain between 5 province (chosse a middle Central and chosse it a main store. This store will make and supply material for all of store in this project)
+
+Project risk 3: Cannot reach the break-event point after 8 monts.
+- Mitigation: Have a long plan for this situation, how to reach this break-even point. 
+Make a report in the finnal day of month and have a plan to do for next month.
+- Contingency: 
++ Meeting with the managemnt of each store and see the problem of this store. And find the problem with the question (what, why, when, how, whose). And affeter that find the resolve for this problem.
+
+Request 4:
+4.1. 3 project role: 
+- Project internal: Interior design team, HR team and marketing team
+- Organization internal: Market Developement Director as PM. 
+- External: 
+4.2. 10 task, activities, or deliverables:
+1- Surveying real data in this province. 
+2- Find the local material in this Central.
+3- Built a raw material supply chain from Central region suppliers.
+3- Tranning a local personnel.
+4- Find the place to open new store.
+5- Designing and constructing interiors consistent with the brand.
+6- Seeding, introduce about the brand for the local person. 
+7- Do a openning propram for the customer and have a membership for the customer when sign in the openning day.
+8- Mantain and devolope new menue for this store (this menue create based on local in this province)
+9. Total result after 1 week, 1 month and make a report for this store.
+10. Recive feedback from the customer and slove the problem.

@@ -1,0 +1,125 @@
+1)
+1. Project name:
+Coi Cafe - Bring pure Vietnamese coffee around VietNam
+
+Justifications:
+In the context Coi Cafe is a pure Vietnamese coffee  and famous for its nostalgic space , traditional drink menu , and sustaibale business model . This project aims to bring a pure Vietnameese coffee into 5 Central provinces (Da Nang, Hue , Quang Nam , Quang Ngai, Binh Dinh) 
+
+The purpose of this project is survey and select premises , design and constructing interiors consistent with the brand and recruiting and trainning local personel , building a raw material supply chain from Central region suppliers, and lauching campaigns for each store. 
+
+Project constraints:
+Scope:
+ - survey and selecting premises 
+ - designing and constructing interiors consistent with the brand
+ - recruiting and training local personnel
+ - building a raw material supply chain form Central region suppliers and launching campaigns for each store 
+ 
+Time: 
+- The project will lauch 1 flagship store in each province within 12 months
+
+Budget:
+- The project total budget is VND 8.5 billion 
+
+Quality:
+- Each store must reach the break-even point within 8 months after opening 
+
+
+2. Item 1:
+Name: Purshasing Coffee directly from Dak Lak Farmers 
+Descriptions: The coffee of Coi is not normal coffee , that is pure coffee form Dak Lak Vietnam , where have to big farm 
+Estimate: 400 millions VND , The person in charged is  Employee in store because they need coffee to sell for customer
+
+Item 2:
+Name: Reusable cups
+Desciptions: Coi coffee use special cups , that cups can be reuse and not damage for invenroment
+Estimate:  200 millions VND , The person in charged is Employee in store bause they need to use cups for customer
+
+Item 3:
+Name: Salary for employee in store
+Description: Each store need recruiting local people and training them
+Estimate: 400 millions VND, The person in charged is Manager in Coi coffee they need to pay money for their employee 
+
+Item 4: 
+Name: Desion and constructing
+Description: Each store in new 5 Central provinces need to designing and constructing to ensure consistent with the brand 
+Estimate: 650 millions VND, The person in charged is Design Team , They need to pay money for resourse and workers 
+
+Item 5:
+Name: Lauching campaigns for each store
+Description: In the open day of each store , they need to hire mascot dance and open somes event
+Estimate: 50 millions VND, The person in charged is Marketing Team, They need to pay for mascot and events
+
+
+
+3. Project Risk : 
+Risk 1: 
+Name: The coffee Broken
+Description: Coffee with the long way delivery in container with bad weather and temperture maybe will rotten 
+Scope: 
+ - Not have enough coffee for store and lauching campaigns 
+Quality: 
+ - The coffee rotten maybe make customer have health problem 
+ 
+Time: 
+- Spent more time to delivery coffee from Dak Lak to 5 Central
+
+Cost:
+- Coffee broken can not reuse so money cost will increase 
+
+Relevant: Time line will delay if coffee can not delivery from Dak Lak to Store local enough 
+
+Risk 2:
+Name: Compains not interested 
+Description: People in local not interest with compaigns each store
+Scope:
+- Compaigns not have engegement enough
+Quality:
+- Store will have more customer 
+Time:
+- Time bound compaigns will delay if they dont have enough people stand in 
+
+Cost:
+- Money pay for mascot event in compaigns maybe dont worth 
+Relevant: Store in open day will not have more customer , so revuenent in this store will decrease
+
+Risk 3:
+Name: Employee mistake in working
+Desciption: Employee after training stll chance make a problem when thay working , maybe broke glass , and make wrong taste coffee..
+Scope:
+- Every time thay have mistake the budget of each store will increase 
+
+Time:
+- If employee have mistake , they will make customer  spent more time when they order 
+
+Cost:
+- With mistake the cost for that drink will increase
+
+Relevant: When customer spent more time in order , so the customer store have in that day will decrease
+
+
+
+
+
+
+4.)
+1. 3 Project roles:
+- Market Development Director as PM
+- HR Team 
+- Marketing team 
+- Design Team
+
+2. Ten task:
+- The project survey people around the 5 Central provinces ( Marketing Team)
+- Selecting premises (Marketing Team)
+- Design new banner for lauching (Design Team)
+- Rent a Mascot for lauching campaigns day (Marketing Team)
+- Build a raw material supply chain from Central region suppliers (Marketing Team)
+- Hire new employee for store in local (HR Team)
+- Training new employee for store (HR Team)
+- Approve task for every Team (PM)
+- Open the meeting for team projects (PM)
+- supply resourse for project teams (PM)
+
+
+
+2)

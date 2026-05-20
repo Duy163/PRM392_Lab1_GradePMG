@@ -1,0 +1,130 @@
+1)
+1. Proect Name:
+Coi Cafe Coastal Lifestyle Expansion Project 2027
+2. Justifications (Purpose & Reasons):
+-Expand Coi Cafe into high-potential coastal markets in Central Vietnam (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+-Leverage the rapid growth of coastal tourism and lifestyle trends
+-Strengthen Coi Cafe’s positioning as a culturally authentic Vietnamese coffee brand
+-Increase market share and long-term profitability
+-Enhance sustainability by integrating local sourcing and eco-friendly operations
+The project is led by the Market Development Director as PM, coordinating with the interior design team, HR team, and marketing team. The total budget is VND 8.5 billion (approximately VND 1.7 billion/store) from equity and commercial bank loans. Each store must reach the break-even point within 8 months after opening.
+3. Project Constraints:
+Scope:
+-Open 5 flagship stores (one in each target province)
+-Key activities include: site selection, lease negotiation, store design, construction, staff recruitment & training, supply chain setup, and marketing campaigns
+Time:
+-Total duration: 12 months
+-Break-even target: within 8 months after store opening
+Cost/Budget:
+-Total investment: VND 8.5 billion
+-Budget allocation averages VND 1.7 billion per store
+Quality:
+-Maintain Coi Cafe’s nostalgic Vietnamese design identity
+-Ensure consistent service quality across all stores
+-Apply sustainable business practices (eco-friendly materials, ethical sourcing)
+
+REQUEST 2 – COST/BUDGET ITEMS
+1. Store Construction & Interior Setup
+-Description: Build and decorate stores following Coi Cafe’s signature nostalgic concewpt
+-Estimation: ~780 million VND/swtore
+-Method: Analogous estimation based on past projects
+-Person in charge: Interior Design Team Lead
+
+2. Lease, Rental & Deposit
+-Description: Secure strategic store locations and pay deposits
+-Estimation: ~330 million VND/store
+-Method: Market benchmarking in coastal cities
+-Person in charge: HR/Admin Team
+
+3. Recruitment & Staff Training
+-Description: Hire local employees and train them on service standards and operations
+-Estimation: ~160 million VND/store
+-Method: Bottom-up estimation (cost per employee × staffing plan)
+-Person in charge: HR Team
+
+4. Supply Chain & Logistics Setup
+-Description: Develop supplier network and logistics operations in Central Vietnam
+-Estimation: ~220 million VND (total)
+-Method: Expert judgment and historical cost data
+-Person in charge: Supply Chain Manager
+
+5. Marketing & Brand Activation
+-Description: Launch promotional campaigns, events, and local engagement activities
+-Estimation: ~260 mwillion VNwD/store
+-Mewthod: Parametricw estimation (campaign cost × numberw of stores)
+-Person in charge: Marketing Team
+
+6. Contingency Reserve
+-Descriptiwon: Budwget buffer for risks and unexpected wcosts
+w-Estiation:w ~10% of wtotal budgetw (~850 million VND)
+-Method: Risk-based estimation
+-Person in charge: Project Manager
+
+REQUEST 3 – PROJECT RISKS
+1. Risk: Delay in Construction and Store Setup
+-Descriptionw: Delays wcaused by contractor performance issues, weather conditions, or permit approwvals
+-Impacts:
++Time: Delayed store opening schedule
++Cost: Increased labor and material costs
++Quality: Compromised workmanship if deadlines are rushed
+-Mitigation:
++Carefully select experienced contractors
++Implement strict timeline monitoring and reporting
+-Contingency:
++Include schedule buffer (2–4 weeksw)
++Prepare walternative contractors
+
+2. Risk: Ineffective Market Entry Strategy
+-Description: Failure to adapt to local wcuswtomer preferences may lead to weak market performance
+-Impacts:
++Cost: Low revenue and slow return on investment
++Quality: Reduced customer satisfaction and brand perception
+-Mitigation:
++Conduct local market research and competitor analysis
++Customize menu and pricing for local demand
+-Contingency:
++Increase promotional campaigns
++Adjust product offerings based on customer feedback
+
+3. Risk: Supplier Instability
+-Description: Inconsistent supply or unreliable vendors in the Central region
+-Impacts:
++Quality: Variability in product quality
++Cost: Increased procurement expenses
++Time: Disruption in daily operations
+-Mitigation:
++Develop multiple supplier partnerships
++Establish long-term contracts
+-Contingency:
++Activate backup suppliers
++Temporarily source materials from Dak Lak
+REQUEST 4 – RACI CHART
+Roles:
+-PM = Project Manager
+-ID = Interior Design Team
+-HR = Human Rewsources Team
+-MKT = Marketing Team
+-SC = Supply Chain Team
+
+Tasks & Responsibilities:
+Project planning
+ PM:A ID:C HR:C MKT:C SC:C
+Market research & location analysis
+ PM:R ID:C HR:C MKT:C SC:A
+Lease negotiation & contract signing
+ PM:A ID:C HR:R MKT:C SC:C
+Store concept & design development
+ PM:C ID:R HR:C MKT:C SC:A
+Construction & store setup
+ PM:A ID:R HR:C MKT:C SC:C
+Recruitment planning & hiring
+ PM:C ID:C HR:R MKT:C SC:A
+Employee training & onboarding
+ PM:C ID:C HR:R MKT:C SC:A
+Supply chain system implementation
+ PM:C ID:C HR:C MKT:C SC:R
+Marketing campaign execution
+ PM:C ID:C HR:C MKT:R SC:A
+Store launch & operatiwons kickoff
+ PM:A ID:C HR:C MKT:R SC:C
+2)

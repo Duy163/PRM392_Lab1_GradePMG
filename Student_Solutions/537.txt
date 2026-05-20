@@ -1,0 +1,65 @@
+1)
+ Request 1 :project: Coi Cafe
+purpose: implement an expansion project into 5 central provinces( Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) with 1 flasgship store 
+scope: 5 central provinces ( Da Nag, Huem Quang Nam, Quang Ngai, Binh Dinh
+Time 12 mounths
+Cost: 8.5 billion VND( approximately1.7 bilione VND//Store)
+Quality: reach the break-event ponit Within 8 months
+Request 2:
+  buget: 
+1 Consiter buling:50 million VND
+2 Place  for eacher stoer it will about 20 millineon to 30 milon
+3 ADS Run: it about 100 thound to 300 thound mounth
+4 pay for people work in store about 3.000.000 vnd to 8.000.000 VND
+5 buy chain and talbe each store and coffect it about 100 million to 200 million for all store
+ all of this it is pay about Owner of Coi Cafe to laching each store 
+in the new store we have to pay for construtin and the coffce to run each place that for to store so that have a lost cost have to pay for it 
+2)
+Request 3: Risk 1: Dont have customer
+Hight
+In the 5 new city that it will dont have customer to know that Coi Cafe so when store in that new city will dont have customer
+Must survying very carefully and to find and know about the customern that place 
+Risk 2: Price of coffe
+medium
+Before have store in 5 new contry each city will have the diffreent price than Ho ChiMinh and Ha Noi 
+Must know the price that customer have to earn so that 
+Risk 3: Place for store in 5 city
+Low
+Now a day the place for store very important to have the customer to drik and check in very hard to find the place so store can have in that they can come and to drink
+When reacher the place to store have the place to big and the center place to have alost customer
+Request 4:
+3 role project:
+Project Manegerr
+Markting team
+HR team
+Desgin Team
+
+active:
+1 Surveying and selecting preises (A)
+-markting team: R and HR Team:C
+2 desgin and constructing(B)
+Prroject mager: R and desing team:C
+3 interiors consister with the brand (C)
+HR team:I and project manager:R
+4 recruiting and training local presonnel(D)
+HR team:C and project manager:R
+5 Buliding a raw material supply chain (E)
+edit team: I and desing: I and Project manager R 
+6 Edit menu(F)
+desig team R and project manager and Markting I team check
+7 Run Markting ADS (J)
+Markting team: R 
+8 Test Coffect for people (I)
+All of role: R
+9 Edit video (H)
+edit team: R 
+10 lauching camping each store (K)
+project maner check and HR team: A
+
+A FS B: Surveing and selecting preises after desgin constructing
+C FF D: desgin and constructing fishi so  inters conster with brand
+E FS F: buliding raw ater edit menus
+I FS J: Test coffe ater run markting ADS
+H FF K: edit video after lauching 
+
+

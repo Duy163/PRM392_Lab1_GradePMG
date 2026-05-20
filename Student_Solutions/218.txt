@@ -1,0 +1,141 @@
+1)
+Request 1: 
+Project name : Coi Cafe Brand Expansion
+Project Detail : Coi Cafe is a famous coffee brand with 12 stores in Hanoi and Ho Chi Minh City decided to implement an expansion project in to 5 Central provinces.
+
+Purpose : Expanding Coi Cafe brand into 5 Central provinces(Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) as this brand has become very famous in Hanoi and Ho Chi Minh with 12 stores.
+Target is 1 flagship store in each provinces within the duration of the campaign.
+
+Reasons to implement : The coffee brand famous for its nostalgic space, traditional drink menu, and sustainable business model(using reusable cups, purchasing coffee directly from Dak Lak farmers). Already have the successful bussiness model and strong relationship with supply chain this brand have all the material to expanding.
+
+Contraints : 
+Scope : Expanding brand into 5 Central provinces with 1 flagship store in each provinces. Each store must reach the break-even point within 8 months after opening.
+Time : Fixed 12 months for the project to complete.
+Cost/budget: The total budget is 8.5 billionVND (approximately 1.7 billion VND/store) from equity and commercial bank loans.
+Quality : the project must be up for the Market Development Director standard. With the team of PM from MDD, coordinating with the interior design team, HR team and marketing team.
+
+Request 2:
+
+Five main cost/budget items : 
+1.
+- Name : Selecting premises
+- Description : surveying local place and selecting premises that match with the business model for each store.
+- Mesurement : Having a list of standard for selecting premises(population in 5km radius is 10000,have 2 sides facing the road, need river as the supply chain going to be deliver by boat,....) and decide which of the objective is critical and which is optional and chosing the right place. 
+Person in charged : the survey team.
+Cost: this will cost around 10% of the budget for each store.
+2.
+- Name : Designing and constructing.
+- Description : Designing and contructing  interiors consistent with the brand.
+- Mesurement : Have a design team to design whatever the stackholder request and only approved if 90% of the stackholder approved. The requirment must match with the local traditional. After that the constructing can begin.
+- Person in charged : design team and contruction team.
+- Cost : this will cost around 20% of the budget for each store.
+3.
+- Name: recruiting and training employees.
+- Description : recruting and training local personnel. 
+- Mesurement : recruting 10 employees for each store and training in 3 months. After that provide a certificate for who passed the training and become official employees.
+- Person in charged : the manager at each store and the recruting team.
+- Cost : this will cost 20% of the budget and and 40% of monthly income of the store to pay salary.
+4.
+- Name: buiding a raw material supply chain.
+- Description : building a raw material supply chain from Central region suppliers to keep the secret of supply chain. Chose the suitable delivery partner.
+- Mesurement : For each store chose the fastest delivery partner to delivery material from Central region suppliers. Having a waiting time for supply < 7 days as this will bottheness the production chain.
+Cost : around =<25% of the budget. 5% monthly income for delivery chain.
+5.
+- Name : Launching campaigns for each store.
+- Description : Launching a campaigns to draw attetion of the local residents and nationwide attetion.
+- Mesurement : having a sustainable number of customers (10000 customers) for each store after launching the campaign. 
+Cost : around 25% of the budget.
+
+Request 3: 
+Three project risks :
+1. 
+Name : Over budget spending.
+Description: A project at this scale with a fixed budget may lead to a short on budget as each phase will have its own risk.
+Possible impacts : A phase that spend over its budget will have other to spend less as the budget is fixed. This will cause unessesary modification of the plan.
+Mitigation : having a detail budget plan and stick to it. Track the plan progress daily, weekly to keep the plan on track.
+Contigency : for each phase having a backup plan and start it if the primary one not going so well.
+2.
+Name: supply chain latency.
+Description : Expanding a brand so fast may lead to the difficult in chosing the right supplier. 
+Possible impacts : Latency in supply chain will cause the production chain to be stop. This will cause the brand to lose money and reputation.
+Mitigation : Having a supplier plan to store the material more than just the number that store needed.
+Contigency : Having more than 1 supplier as a backup the first 1 fails and preparing contract of penalty as the supplier chain fail in the supply time. 
+3.
+Name : Campaign launched uncessfully.
+Description : As the brand expanding in new places the marketing may fail to draw attetion of the local residents.
+Possible impacts : Losing money and few customer.
+Mitigation : Having a detail plan and survey the local tradition to launch campaign matches with residents needs. Tracking and monitor the attention among the residents and nationwide weekly for better insights.
+Contigency : Having a backup plan if the campaign not going well and meeting with stackholder for this is a critical problem.
+
+Request 4: 
+Three project role : Project Manager, HR , head of marketing team.
+
+Ten tasks, activities, or deliverables:
+1.
+- Name : Plan the recruting
+- PM : A 
+- HR : R
+- Marketing team: R
+
+2.
+- Name : Writing script for campain
+- PM : A
+- HR : R
+- Marketing team : R
+
+3. 
+- Name : Recruting employees
+- PM : A
+- HR ; R
+- Marketing team : I
+
+4. 
+- Name : Plan for training employees
+- PM : A
+- HR : R
+- Marketing team : I
+
+5.
+- Name : Training employees
+- PM : A
+- HR : R
+- Marketing team : I
+
+6.
+- Name : Running campain 
+- PM : C
+- HR : I
+- Marketing team : R
+
+7.
+- Name : campain result reporting
+- PM : R
+- HR : I
+- Marketing team : R
+
+8. 
+- Name : Income reporting
+- PM : R
+- HR : A
+- Marketing team : I
+
+9.
+- Name : Design and contructing
+- PM : A
+- HR : I
+- Marketing team : I
+
+10.
+- Name : Preparing contract
+- PM : R
+- HR : R
+- Marketing team : R
+
+
+
+
+
+
+
+ 
+2)

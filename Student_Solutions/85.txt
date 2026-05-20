@@ -1,0 +1,101 @@
+1)
+Request 1:
+1 Project name: Coi Cafe's expansion project
+
+2 Justifications (purpose and reasons to implement this project)
+Coi Cafe has 12 stores in Hanoi and Ho Chi Minh City and Coi Cafe decided to implement an expansion project into 5 Central province. They want to expand their market and access their customers from different provinces. And they want to have 1 flagship store in each province within 12 months.
+
+3 Project constraints 
+ Scope: Surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store
+ Time: 12 months
+ Cost/ budget: VND 8.5 billion
+ Quality: Each store must reach the break-even point within 8 months after opening.
+
+Request 2:
+- Item 1:
+ Name: Cost for surveying and selecting premises.
+Description: To open the new store, we need to survey the location and demand of customer in each province. After that, selecting premises that suitable for project.
+Estimation: Collect 500 surveys, choosing the good premisis. 
+Budget: VND 500 million.
+
+- Item 2: 
+Name: Cost for desigining and constructing interiors consistent with brand.
+Description: Hire freelancers or people who have knowledge about designing and constructing interiors.
+Estimation: Finish the designs and project manager agree with designs. Start to apply the store.
+Budget: VND 1.5 billion.
+
+- Item 3: 
+Name: Cost for recruiting and training local personnel.
+Description: We need to find and hire the employees to operate the store. Besides that, the employees need to be trained belong to law of company.
+Estimation:Have at least 6 employees for each store. 
+Budget: VND 2 billion.
+
+- Item 4:
+Name: Cost for building a raw material supply chain from Central region suppliers.
+Description: We need to built a raw material supply chain to increase the revenue from Central region suppliers.
+Estimation:Have the information and contact with the suppliers in 5 Central provinces. And start to have at least 1 order for each store.
+Budget: VND 2.5 billion
+
+- Item 5:
+Name: Cost for Launching campaigns for each store.
+Description: We need to run the campaigns in the social media and have some promotions to be have target customers of Coi Cafe attention.
+Estimation: More than 500 interactions and 200 followers in fanpage for each store.
+Budget: VND 2 billion.
+
+Request 3:
+Project risk
+
+- Title 1: The quality of employees are not consistency 
+Description: Each store have a lot of ways to training for the employees and each employees have a different characters, personality.
+Possible impacts:
+Quality: Decreasing customer service quality
+Time: duration is longer than 1 month to check and apply the new way to improve the customer service department.
+Cost: 30 million/store
+Mitigation: Need to have a plan to use same  regulations for each store and punish the employees that have mistakes.
+Contigency: Using the consistency regulation for each store
+
+- Title 2 :Launching the campaign is not good performance.
+Description: Having some campaigns are not efficient performance, like less interactions, lack of content or not attractive the target customers
+Possible impact:
+In term of scope: Less interactions, not attractive the target customers, the local customers, suppliers do not know about the brand 
+Time: 3 months
+Cost: 200 million for each campaign
+Mitigation: Restart the campaign with update new content that learn from the fail campaigns before. 
+Contingency: We need to retest the content or pilot with experts to have some advices or hire the marketing team to support the campaigns.
+
+- Title 3: Not reach the break-even point within 8 months
+Description: The operation of the store not efficient so they not have KPI is break-even point within 8 months. 
+Possible impact:
+Quality: Having trouble about the financial plan
+Time: 3 months to find the problems and improve the cash flow and income of store.
+Cost: 100 million
+Mitigation: Trying to decrease the cost to improve the revenue
+Contingency: Having the financial plan and have some advices from experts
+
+
+Request 4:
+- Three project roles: Project manager(PM), HR team and Marketing team.
+- Ten tasks, activities and deliverables:
+1 Create the plan to survey the market
+2 Manage the employees
+3 Create the plan to start the compaigns
+4 Hire the employees
+5 Finding and connecting the Central region suppliers
+6 Evaluation the campaigns
+7 Training the employees
+8  Operation the store
+9 Create the content
+10 Managent the cash flow for the store
+
+1 R:HR ; A: PM ; C:Marketing team; I: HR
+2 R: HR; A: PM; 
+3 R: Marketing team; A PM; C: marketing team
+4 R: HR; A: PM; C: PM
+5 R,A: PM
+6 R: Marketing team, A PM
+7 R: HR, A: HR, C: PM I: HR
+8 R: HR, A: HR, C: PM I: HR
+9 R,A,I: Marketing team; C: PM
+10 R: PM, A: PM
+ 
+2)

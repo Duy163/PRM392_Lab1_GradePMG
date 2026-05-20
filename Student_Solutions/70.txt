@@ -1,0 +1,121 @@
+1)
+Request 1 : 
+1. Project name : Coi Cafe Vietnamese Campaign
+2. Justifications : 
+ - Purpose : Expand into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai and Binh Dinh) with 1 flagship store in each province
+ - Reason : Increase using reusable cups, purchasing coffee diractly from Dak Lak farmers and promotion Vietnamese coffee around Viet Nam.
+3. Project constraints :
+- In terms of scope : 
+  - Surveying and training local personnel
+  - Building a raw material supply chain from Central region suppliers
+  - Launching campaigns to each store
+- Time : 
+  - Strictly 12 months
+- Cost/Budget : 
+  - Total budget is VND 8.5 billion (approximately VND 1.7 billion each store)
+  - Each store must reach the brack-even point 8 months after opening
+- Quality : 
+  - Using reusable cups
+  - Purchasing coffee from Dak Lak farmers
+  - Using traditional drink of Viet Nam.
+
+Request 2 : 
+-Six cost/budget items : 
+1.  Setup Store Cost
+ - Description : The cost pay for setup, decoration for the store
+ - Estimation : VND 400 million 
+ - Estimate method : Due to the decoration in the market (table, chair, the decoration for coffee store...)
+ - Person in charged : Design Team
+2. Training Cost and Salary : 
+ - Description : The cost for training employees
+ - Estimation : VND 100  to 200 million
+ - Estimate method : 5 - 7 employees, each person has salary from VND 10 to 15 million
+ - Person in charged : HR Team
+3. Purchasing inventory : 
+ - Description : The cost pay for coffee, cups and another drinks.
+ - Estimation : VND 400 - 500 million
+ - Estimate method : The coffee is about VND 250 - 300 million, the cups is about VND 100 million and anothers drink is about VND 100 million
+ - Person in charge : Project Manager
+4. Marketing Cost : 
+ - Description : The marketing and promotion cost
+ - Estimation : VND 200 million
+ - Estimate method : Base on the marketing price at all social media and local store.
+ - Person in charged : Marketing Team
+5. Operating processing : 
+ - Description : The cost pay for operating store
+ - Estimation : VND 100 million
+ - Estimate method : Base on the electrics,water and  the place fee in the market
+ - Person in charged : Project Manager
+6. Contingency Cost : 
+ - Description : The cost for all risk when risk happen
+ - Estimation : VND 200 million
+ - Estimate method : Base on the risk of all cost
+ - Person in charged : Project Manager
+
+
+
+
+
+
+2)
+Request 3 : 
+ Three project risks : 
+ 1. Beak-even Risk : 
+  - Description : Can't reach break-even point at the end of Month 8 after opening the campaign
+  - Possible Impact : 
+   - In term of scope : Can't get profit and equity
+   - Time : Reach break-even at the end of Month 10
+   - Cost : Not reach to profit at the end of project
+   - Mitigation : Marketing early before the opening store for 2 weeks, have a evens when opening 
+  - Contigency : Increase marketing cost, decrease set-up cost.
+ 2. Inventory Risk : 
+  - Description : Not enough inventory ( reusable cups, coffee...)
+  - Possible Impact :  
+   - In term of scope : Loss profit and delay the project finish.
+   - Time : Increase from 12 months to 15 months
+   - Cost : Decrease the profit and equity of the store
+    - Mitigation : Research more the suppliers in Dak Lak
+    - Contigency : Increase the cost of purchasing inventory
+ 3. The set-up cost Risk
+  - Description : The set-up cost is more than the budget
+  - Possible Impact : 
+   - In term of scope : Increase the total budget 
+   - Time : Delay the time of opening store.
+   - Cost : The set-up cost increase, make the total budget increase
+  - Relevant Risk : 
+   - Mitigation : Research the decoration market carefully and don't buy unecessary items.
+   - Contingency : Decrease the set-up cost if the cost increase of increase the set-up cost and decrease the training cost.
+ 
+
+Request 4 : 
+1. Project roles : 
+ - Project manager
+ - Marketing member
+ - HR member
+ - Design member
+
+2. Ten tasks, activities or deliverables : 
+ 1. Define Scope and Charter
+ 2. Research inventory market.
+ 3. Purchase the inventory
+ 4. Build and decor the store
+ 5. Research new drinks
+ 6. Check and approve new drinks
+ 7. Design a panel for new drinks
+ 8. Promote new drinks
+ 9. Marketing the store
+ 10. Manage and monitor the store
+
+3.                                                  PM   MM  HR  DM
+1. Define Scope and Charter         A      R      I       C
+2. Research inventory market        A      R     I        C
+3. Purchase the inventory              A      R     C       I
+4. Build and decor the store           A      C      I       R
+5. Research a new drinks              A      R     I        C  
+6. Check and approve new drinks A      R     I        C
+7. Design a panel for new drinks    A      C     I        R
+8. Promote new drinks                    A      C     I        R
+9. Marketing the store                    A      R     C       I
+10. Manage and monitor the store  A      I      R      C
+  
+   

@@ -1,0 +1,32 @@
+1)
+Request 1:
+- Project name: Build flagship store for Coi Cafe.
+- Justifications: Coi's management decided to implement an expansion Coi Cafe project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh).
+- Project constrains:
++ Scope: 5 Central provines (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh).
++ Time: each flagship store in each province within12 months.
++ Cost/budget: VND 8.5 billion (approximately VND 1.7 billion/store).
++ Quality: each store must reach the break-even point within 8 months after opening.
+
+
+Request 2: 5 main cost/budget items:
+- The first is surveying and selecting location budget. This budget item is used to survey the people in each province to choose the location for each store. This budget is about VND 850 million (approximate VND 170 million/store). Because many same project choose 10% total budget. PM charge for marketing team.
+- The second is design budget. This budget is used to design 5 flagship stores. Estimate: VND 1.7 billion (VND 1.2 billion for all 5 stores, and VND 100 million for each store to mini custom). Because many same project choose 20% total budget. The PM charge for design team.
+- The third is marketing budget. This budget is used to marketing in sosical media and local. Estimate: VND 1.7 billion for 5 store. Because VND 1.2 billion is used for social media and VND 100 million for event at each store.
+- The fourth budget is building budget. This budget is used to building a raw material supply chain from Central region suppliers. Estimate: VND 4.25 billion (approximate VND 850 million/store). PM charge for design team.
+- The 5th budget is training budget. This budget used to training staf. Estimate: VND 170 million/store. PM charge for HR team.
+2)
+Request 3: three project risks:
+- The first risk  is quality of marketing is not good. People don't know the store, so we don't have customer. I think we will focus young customer in social media like tiktok, facebook,..
+-  The second risk is sell staf quality. When customer go to the store, and sell staf have bad attitude, so the store lose customer.
+-  The third risk is out of budget. Example, we charge for tiktok to marketing, after that tiktok is banned in Vietnam, we lose money.
+
+
+Request 4:
+1. Project roles: Project manager,  lead of design team, lead of HR team, lead of marketing team, and members.
+2. Ten task, activities, or deliverable: market research, design stores, marketing, training staf, envent for customer, meeting with all leader, pay salary, check project progress, planning, survey customer.
+3. 
+- Project manager: meeting with all leader, check project progress
+- 3 team leader: pay salary, planning, training staf
+- Design team: design stores,
+- Marketing team: market research, event for customer, survey customer, marketing.

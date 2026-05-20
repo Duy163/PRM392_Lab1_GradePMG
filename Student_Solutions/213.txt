@@ -1,0 +1,93 @@
+1)
+Request 1:
+Project name : Coi  Flagship Cafe  project
+Justifications:
+purpose :expansion project into 5 central provinces( Da nang , Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province.
+Reason: the coi Cafe want the people in these five provide can purchasing a good coffee from Dak Lak.
+Project constraints 
+ scope : surveying, and selecting premises,designing and constructing interiors consistent
+ time :12 months
+cost/budget: total 8.5 billion ( approximately 1.7 billion/store)
+quality: break -even point within 8 months after 
+opening
+Request 2; provide at least five main cost/buddget items.
+ budget items
+
++ development team
+detail: salary for developers
+estimate 20000$
+method bottom-up estimate
+responsibility : developers
+
++ infractructure 
+detail: AWS service , cloud service, database,
+estimate : 3000$
+way to estimate : parametric estimate
+Responsibility: dev team
+
++ cost for design tool
+detail : design team use multiple tools like capcut, adobe , photoshop , these tool need to pay per month
+estimate : 2000$/ per month
+method: parametric estimate
+ Responsibility : design team
+
++ the cost to buy material for cafe store:
+detail:to build a good store that need good material inside store
+estimate : 30000$/per store
+method parametric estimate
+responsibility: Market development drietor
+
++ cost for the marketing event
+detail: to attract cusomer we need to create many  marketing event  for store
+estimate : 3000$
+method parametric estimate
+Responebility : Marketing team
+
+
+
+
+Request 3:
+Risk1 name:design team miss understand changing requirement 
++ description : during design time  the requirement can be change but 30% desgin member miss the information of that.
+- quality:
+- time: increase 40% time to done this job
+- cost increase:
+response plans:mitigation
+Risk 2 : Local personnel quit the job
++description : after they trying to do at cafe store they feel thay not comfortable for this place so that they quit the job.
+quality: descrease quality of service at cafe store
+time
+cost
+
+risk 3 server crash
+description : the UI/UX can not run due to server was failure 
+impact effected on server and user experience 
+Respone : fix server crash and configure server productively
+cost : increase fee to fix server
+Request 4: 
+There is three project roles
+Marketing  team:
+Market development Diretor (PM)
+design team, HR team, marketing team, dev team
+sponsor : Coi's management
+end- user:customer
+
+ list out ten task :
++ recruiting local personnel:HR team (R),PM(A),marketing team(I), design team (I)
++ training local personnel: HR team(R), PM(A), marketing team(I), design team (I) 
++  designing interiors consistent with the brand:design team (R) , HR(i),PM(A),marketing (I)
++ contructing interiors consistent with the brand: marketing team (R), PM(A), HR team ( I), design team (I)
++surveying premises: marketing team (R), PM(A), HR team(I), design team (C)
++ selecting premises : marketing team (R), PM(A), HR team (I), design team (I)
++ launching campaigns : marketing team (R), PM(A), HR team ( C), design team (C)
++ design UI/UX ( design team  R). PM(A) marketing team ( C), HR team (I)
++ develop web app:dev team(R), PM(A), marketing (C) , HR team (I), design team(C)
++ create poster for store: design team (R), PM(A), marketing team (C), HR team (I)
++ testing app : dev team(R), PM(A), marketing team(I), HR team (I), design team (C)
++deploy web base: dev team(R), marketing team ( I ) PM(A), design team (C), HR team (I)
+
+
+
+
+
+2)

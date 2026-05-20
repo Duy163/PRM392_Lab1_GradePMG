@@ -1,0 +1,80 @@
+1)
+Request 1: Project charter statement
+1. Project information: 
+- Project name: Traditional drink with Coi Cafe 
+- Project manager: Market Development Director
+
+2. Justification: Project purpose and reason: implement an expansion project into 5 Central provinces to marketing for famous its nostalgic space, traditional drink, and sustainable business model.
+
+3. Project constraints:
+- Scope: Surveying and selecting premises, designing and constructing interiors consistent with brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store.
+- Time: 12 months.
+- Budget: The total budget is VND 8.5 bilion (approximately VND 1.7 billion/store).
+- Quality: Each store must reach the break-even point within 8 months after opening.
+2)
+Request 2: Five main cost items:
+1. Cost to building (approximately  VND 800 milion):
+- This budget use to buy material for each build store. Rent people who build the store, architecturers,  
+- Timeframe: 6 months .
+- Directors of each store manage people as a supervisors.
+
+2. Cost to design traditional local (approximately VND 100 milion): 
+- This budget use to to rent desginer who must use not only traditional drink menu but also material for each erea.
+- Timeframe: 5 months (after built).
+- Directors of each strore manage people as a supervisors.
+
+3. Cost to marketing (approximately VND 100 million): 
+- This cost will pay for marketing project. Advertising to each area, attractive customers, creating video in online platform such as: facebook, tiktok, instagram,.... 
+- Timeframe: 6 months.
+- Directors of each store manage people as supervisors.
+
+4. Cost to rent staff (approximately VND 300 milion):
+- This cost will pay for HR team to rent people who will be become staff of each store. Include training local personel.
+- Timeframe: 5 - 6 months.
+- Directors of each store manage people as supervisors.
+
+5. Cost to suppliers (approximately VND 200 milion):
+- This cost wil pay for region suppliers who supply cafe, tea, matcha, ice, 
+sugar, milk, ... 
+- Timeframe: 5 - 6  months.
+- Directors of each store manage people as a supervisors.
+
+Request 3: Three project risks:
+1. Building store is lately: 
+- The cause can be weather (strom, heatwave), material is not enough.
+- If weather is not good, we can rent more staff and overtime with higher salary.
+- If material is not enough, we can find other suppliers.
+
+2. Marketing not attract customer:
+- Marketing boring, not modern.
+- Changing method maketing.
+
+3. Do not enough highly staff:
+- Not enough staff to tranining local personnel.
+- Move highly staff from others store to fill its.
+
+
+
+Request 4: Descibe the RACI chart
+1. Define three project roles:
+- PM: Maket Development Director
+- Organization - internal: HR team, design team, and marketing team.
+- Organization - external: supplier, customer.
+2. List ten tasks:
+- PM manage project: manage project and budget, supervisor project. Main responsibilities.
+- HR team: rent new staff. 
+- HR team: training new staff.
+- Design team: desgin local format.
+- Design team: design advertises.
+- Maketing team: build fanpage.
+
+
+
+
+
+
+
+
+
+
+

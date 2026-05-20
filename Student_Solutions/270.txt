@@ -1,0 +1,51 @@
+1)
+Request 1:
+- the project name is Coi Cafe.
+- the purpose of this project is implement an expansion project into 5 Central provinces (Da Nang, Hue Quang Nam, Quang Ngai, Binh Dinh) an in each province the management decided to have 1 flagship store.
+- the reason to implement this project is buillding a raw material supply chain from Central region suppliers, more famous for its nostalgic space.
+- the project constraints: ensure the quality of cups purchasing coffee directly from Dak Lak farm only, create campaigns for each store with different style trainning for each province, and the store must reach the break-even point within 8 months, the location is rent for a long time and not buy it.
+- time constraints: each province have 12 months to prepare and release 1 flagship store and each store must reach the break-even point within 8 months after opening.
+- the Budget: the total budget is VND 8.5 billion (approximately VND 1.7 billion/store. 
+- the Quality of this project is the HR team and marketing team work high quality with PM, coffee will supply from Dak Lak Farm.
+
+Request 2:
+the main budget items:
+- The fee for training local personnel, this fee is fee of room, time for coach, the office for training and the way to estimate is pay for HR team after training time
+- The fee for marketing, the marketing team need fee for setup campaigns to brand release and need worker, the way to estimate pay for marketing team by Project Manager budget's each campaigns
+- The fee for the store location, this fee is most important, PM will select and approve for location store, the way to estimate is pay the part of fee for rent (maybe 50%) after that pay per months. 
+- The fee for design team, the design team will design a logo, style of store for each province, the PM will approve design style and budget of design team supply, and PM cash the part of budget before design team work and the way to estimate is pay after design team done.
+- The fee for build store, machine, coffee and cups, this fee is for the cost of coffe, machine, build store... and the way to estimate is person in charged for location services for build store and pay for Dak Lak farmers supply coffee
+
+2)
+Request 3:
+The project risk list:
+- The store not have enough coffee for sells every day, the coffee is always to refill per week or per month but sometimes the store each province dont have enough coffee for sells and this is a big problem of store, store will lose the customers. And plans for this risk is scale up the storage, fill full if we can, make sure high quality coffee for store.
+- The App/Web of store is down, the app/web maybe down because users increase fast or the services to deploy is down, this risk very hard for marketing plans, marketing team. Plan for this risk is build a local sever for web/app store or sever in headquarter, make sure all of services brand can control it.
+- The staff out of work, the store can not control it because this risk is from a personal reasons, and the way to relevant risk is always training new staff and have policy for change staff from another store.
+
+Request 4:
+- The project roles:
++ Project Manager (PM)
++ HR Manager
++ Marketing Manager
+- the Task of project:
++ approve the location store of province 
+PM (R,A), HR manager (C), Marketing Manager(I)
++ select premises
+PM(R,A),HR manager (C), Marketing Manager (C)
++ buy some store need for each team
+PM(R,A), HR manager (C), Marketing Manager (C)
++ set the budget for each team
+PM(R,A), HR manager (I), Marketing Manager (I)
++ plan marketing content
+PM (I), Marketing Manager (R,A), HR manager (C)
++ set the mini budget for campaigns marketing
+PM(C,I), Marketing Manager (R,A)
++ report the traffic of campaigns by dashboard
+PM(C,I), Marketing Manager(R,A)
++ calculate the staff store need 
+PM(C,I), HR Manager (R,A)
++ plan way to training staff
+PM(C,I), HR Manager (R,A)
++ report the status of pipeline building store 
+PM(R,A), HR Manager (C,I), Marketing Manager (C,I)

@@ -1,0 +1,90 @@
+1)
+Request1:
+ 1. Project name: Coi Cafe Project
+ 2. Justifications:
+       Purpose: expansion project into 5 Central provinces
+       Reason:  this brand in Hanoi and Ho Chi Minh City is famous for its nostalgic space, etc. they want to increase their atraction to another local
+  3.Project constraints:
+   +Scope:surveying and selecting permises, designing and contructing interiors consistent with the brand, recuriting and training local personnel, building a raw material supply chain form Central region suppliers and launching campaigns for each store. 
+   +Time:12 months
+   +Cost/budget: 8.5 bilion VND (aproximately 1.7Bilion VND/ store)
+   +Quality: Number of surveying, training staff and raw material supply chain
+
+
+
+
+Request 2:Five main cost 
+ 1)Name: Marketing cost
+    Description : fee for advertising coffee brand in 5 Central provinces
+    Estimate :  menber* man-month*post on social media
+ 2) Name: Designfor branding
+     Description : fee for design Logo, banner, picture , menu
+     Estimate: member*man-month*number of design product
+3)Name:Finding human resource 
+    Desciption : fee for hirring staff
+    Estimate: member*man-month*nunmber staff apply
+4) Name : surveying Fee
+    Desciption: fee for making survey 
+    Estiamte: man-month* number of surveyings made
+5)Name : training local personnel
+   Description: fee for training staff
+   Estimate: member*man-month*number staff trained
+
+
+
+
+Request 3:
+The project need have system  application or web site to manage quality (Number of survey or selectin permises,etc.) And coordinating like design team, HR team,marketing team can use to understand thier task and project . This is three risks when build new system to support the project
+
+1) Name: Not enought member
+    Description: the number of dev team  not enough to implement
+    Possible impacts: time for create app delay
+    Mitigation: add 2-3 senior developer
+    Contingency: 7 - 9 member for dev team to complete task implement
+2) Name:low budget 
+    Description:Cost not enough for member to do project
+    Possible impacts: can not pay money for staff
+    Mitigation: find more invest budget for project
+    Contingency: decrease budget fee for not important task.
+3) Name: Unclear project task
+    Desciption: team member do not understand task
+    Possible impacts:Low processing 
+    Mitigation: daily meeting to check they clearly task 
+    Contingency: WBS dictionary and project charter for team to understand their task 
+    
+
+
+Request 4: When build the system to support for Coi Cafe Project project need RACI chart.This is describle the RACI chart for build system. 
+1.Project roles:
+    +Project manager (PM): Create project have authority to making desicion.
+    +Business Analyst(BA): select requirement.
+    +Tester: test system make sure system running smoth.
+    +Developer: implement or coding system
+    +Designer: Design user interface or banner to marketing
+2.Task,activities,deliverables
+    1) Create project charter
+    2 Select requirement
+    3) Create SRS
+    4) Design system
+    5) Design Database
+    6) Design UI/UX
+    7) Implment/Coding
+    8) Testing
+    9) Hosting system into cloud
+    10) Training for use system
+    11) Send product for Owner
+3.Responsibilities of the project roles
+   +Create project charter(PM R/A ; BA C; Tester I; Developer I; Designer I)
+   +Select requirement (PM R/A; BA  C; Tester I; Developer C; Designer I  )
+    +Create SRS( PM R; BA A; Tester C; Developer I; Designer I)
+    +Design system(PM R/A ; BA C; Tester C; Developer C; Designer I)
+    +Design Database (PM R/A ; BA C; Tester C; Devloper C; Designer I)
+    +Design UI/UX(PM R/A : BA I; Tester C; Developer C , Designer C)
+    +Implement(PM R ; BA I; Tester C, Developer A; Designer I )
+    +Testing(PM R; BA I; Tester A; Developer C; Designer I)
+    +Hosting system into cloud(PM R/A; BA I; Tester C; Devloper C; Designer I)
+    +Training staff for use system(PM R/A; BA I; Tester I; Developer C; Designer I)
+    +Send product for Owner(PM R/A; BA C; Tester I; Deverloper  I; Designer I)
+
+ 
+2)

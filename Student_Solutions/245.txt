@@ -1,0 +1,114 @@
+1)
+Request 1
+1. Project name: Expansion project for Coi Cafe.
+2. Justification: The purpose of this this project is to implement an expansion Coi Cafe into 5 Central provinces ( Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh). 
+3. 
+- Project constraints: Total budget form equity and commercial bank loans
+- Scope: Expansion into 5 Central provinces
+- Time: 1 flagship store in each province with 12 months.
+- Cost: The total budget is VND 8.5 billion ( approximately VND 1.7 billion/store).
+- Quality: Each store must reach the break-even point with 8 months after opening.
+
+Request 2
+Budget item 1
+Name: Surveying and selecting premises
+Description: Conduct market research to get more information about 5 Central province
+How to estimate: Base on the expertise method
+Who charged: PM
+
+Budget item 2:
+Name: Marketing cost
+Description: Conduct marketing strategy ( run ads on social media network ) for each store
+How to estimate:  Parametric method
+Who charged: Marketing team
+
+Budget item 3:
+Name: Disigning and constructing cost
+Desciption: Designing and constructing interiors consistent with the brand
+How to estimate:  Parametric method
+Who charged: Disign team
+
+Budget item 4:
+Name: Labor cost
+Description: Recruiting and training local personnel
+How to estimate: Bottom-up method
+Who charged: HR Team
+
+Budget item 5:
+Name: Building a raw material cost
+Desciption: Building a raw material supply chain form Central region suppliers 
+How to estimate: Anologous method ( similar project)
+Who charged: PM
+
+
+2)
+Request 3
+Risk 1: 
+Name: Do not have enough budget( cost)
+Desription:  During implement this project, may some cost are added but these cost not planned before, which lead to do not have enough budget to continue run this project.
+Possibilily: High
+Impact: High
+Mitigation plan: Alway check and undate budget plan 
+Continggency: Cut down costs that not relevant to the project
+
+Risk 2:
+Name: Behind deadline ( time )
+Desciption: Cannot meet the deadline on time because do not have enough resource but more task to do
+Possiblily: Medium
+Impact: High
+Mitigation plan: Consider what task need to do first and spend more time to do the important task. Also leader each team need to assign the clarity task
+Contingency: Out sourcing some task that cannot handle
+
+Risk 3:
+Name: Poor managemnt ( Quality )
+Desciption: PM do not have managemnet project skill, which lead to conflict 
+Possibility: Medium
+Impact: High
+Mitigation: Provide the document about how to become a good Project Management. Also, create condition for PM to join the workshop 
+Contingency: Find the person as a sub-PM to support and handle task.
+
+Request 4: 
+1 Four project roles:
+PM: Project Management
+BA: Business Analyst
+MS: Marketing Strategy
+HR: Human Resource
+
+2. Ten activities
+Create content 
+Disgn brand
+Financial analysis
+Collect survey
+Analysis data
+Financial report
+Marketing plan
+Business plan
+Maketing report
+Coordinating with partner 
+Recruiting employee
+Training employee
+
+3. Responsibilities of the project roles
+Create content: PM:A; MS:R
+Disign brand: PM:A; MS: R
+Financial analysis: PM: A; BA: R
+Collect survey: BA: R
+Analysis data: PM: A; BA: R
+Financial report: PM:R; BA: I
+Marketing plan: MS:R; BA:C
+Business plan: PM:A; BA:R; MS:C
+Marketing report: PM:A; MS:R
+Coordinating with partner: PM:R/A
+Rescruiting employee: HR:R/A
+Training employee: HR:R/A
+
+
+
+
+
+
+
+
+
+
+

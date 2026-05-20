@@ -1,0 +1,120 @@
+1)
+Request 1
+
+1.1 
+- Project name: Coi Cafe
+- Description: Coi Cafe is a Vietnamese coffee brand being known by every coffee lovers. It has 12 stores in Hanoi and Ho Chi Minh City. With a traditional not only in menu but also in decorate style, it brings to customers feelings they haven't had before. Not only that, Coi Cafe is a enviroment friendly brand because it use reusable cups for it's products. The products made from coffee which purchased directly from Dak Lak farmer. Though that, outcomes is wonderful and they also support using our own Vietnames 's coffee.
+
+1.2
+- To being known by every Vietnameses, Market Development Director (as know as: PM), decide to implement an expansion project. They aim to 5 Central provinces, which are: Da Nang, Hue, Quang Nam, Binh Dinh. With each flagship store in each province. 
+
+1.3
+Project constraints:
+
+- Scope:
+     + They had to do a survey and get permission from all 5 provinces.
+     + Designing and constructing interiors consistent with the brand.
+     + Recruiting and training local personnel.
+     + Building a raw material supply chain from Central region suppliers.
+     + Lauching campaigns for each store (ads, sale, try for free, ... )
+
+- Duration: 12 months
+
+- Budget: The total budget is VND 8.5 billion, each store had VND 1.7 billion
+
+- Quality: With that massive effort, they want that each store must reach the break-even point within 8 months after opening.
+
+Request 2
+
+1)
+- Name: Designing and constructing budget
+- Description: Budget for designing and constructing interiors consistent with the brand. 
+- How to estimate: It can be extimate though many activities belong to design such as: buying matierials, get permisson from province, hiring woker to design,..
+- Person in charged: Interior design team
+
+2) 
+- Name: Supply chain budget
+- Description: In order to store working, materials supply is very importance. So that this budget is use for that.
+- How to estimate: Delivery cost, product cost, taxes, ...
+- Person in charged: Interior design team
+
+3)
+- Name: Commercial ads budget
+- Description: Commercial like video, post on Tiktok, Facebook,....
+- How to estimate: hiring KOL, upload video, posts, ...
+- Person in charged: Marketing team
+
+4) 
+- Name: Recruiting and training budget
+- Descripton: Budget for hiring wokers.
+- How to estimate: OJT for new workers, move cost,...
+- Person in charged: HR team
+
+5)
+- Name: Lauching campaign bugdet
+- Description: Budget for create campaigns to ads new store
+- How to estimate: Offline campaigns, voucher, ...
+- Person in charged: Marketing team
+2)
+Request 3
+
+1) 
+- Title: Lacking budget risk
+- Description: When the budget using is over than the plan
+- Possible impact:
+     + Scope: had to make the scope smaller than expect
+     + Time: longer duration if to importance
+     + Cost: Had to spend more
+- Mitigation: Monitor budget carefully, report weekly budget used, ...
+- Contingency: Skip unimportance activities such as hiring backup KOL, less voucher or offline campaigns,...
+
+2)
+- Title: Lacking employer risk
+- Description: Can not hire new employer or take to much time to train them
+- Possible impact:
+     + Scope:  had to make the scope smaller than expect
+     + Time: less time work per day, longer revenue point
+     + Cost: Longer revenue point, hiring new employee
+- Mitigation: Monitor recuiting and training process, HR team need to report weekly to PM, gift for who work in long term for store
+
+3)
+- Title: Copyright risk
+- Description: When working on comercial, they can reuse our work for their shop or make bad video from the origin video
+- Possible impact:
+     + Scope: slower process to hanlde the risk
+     + Time: longer duarion to reach the break-even point
+     + Cost: Hiring lawer to protect our copyright
+- Migitation: Register copyright first, mark the logo on any videos or posters, mark no reuse on the work,...
+- Contingency: Register copyright immediate, unpost these videos and mark logo on it to reuse,...
+
+Request 4
+
+4.1
+- There are 3 project roles:
+     + Project management (PM): Market Development Director is a PM. He/She calculate and planing for the project. Also know as a leader of project.
+     + Marketing: Marketing team handle this, they will post videos or posters to ads when any events going to happen. Though this, project will be more popular
+     + Recuiting: This work in handled by HR team, when opening a new store, they had to recruit employer and train them, so that they will ready at work. 
+4.2
+There are ten tasks/activities in excution step:
+1) Get permission from province
+2) Hiring a house to open a store
+3) Find a good supply chain for the store
+4) Create a suittable drink menu 
+5) Hiring employer and train them 
+6) Clean up and decorate the house with brand style
+7) Collect new trend on social media for a creative post
+8) Upload videos or posts annouce new store is going to open with voucher on social media (TikTok, Facebook, ...)
+9) Open a first free campaign on opening day 
+10) Gifting vocher for friendly customer
+
+4.3
+1) PM will stand for this because they holding the budget
+2) PM and supportive will looking for house that is sold or for hired
+3) PM and supportives find local supply chain 
+4) PM and supportives create menu 
+5) HR team will hire employer
+6) Employer will decorate to the plan will be monitor by PM and HR
+7) Marketing team search on social hot or creative trend to use that in thier post
+8) Marketing team will post their work and answer comment on social media
+9) Marketing team will open this to annouce to customer that the store are ready open
+10) Marketing team will gift them this to hold them keep using our products.

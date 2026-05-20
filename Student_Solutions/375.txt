@@ -1,0 +1,47 @@
+1)
+Request 1: Project Charter
+
+1. Project name: Huong Coi's 
+
+2. Justification ( purpose & reasons):
+This project is a pure Vietnamese coffee brand with 12 stores in Hanoi and Ho Chi Minh, famous for its nostalgic space, traditional drink menu, and sustainable business model ( using reusable cups, purchasing coffee directly from Dak Lak farmers ). Coi's management decided to implement an expansion project into 5 Central provinces ( Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh ), with 1 flagship store in each province within 12 months. The project includes: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel,  building a raw material supply chain from Central region suppliers, and launching campaigns for each store. 
+
+3. Project constraints:
+- Scope: Communication campaign and activation activities only.
+- Time: Each store must reach the break-even point within 8 months after opening.
+- Cost: The total budget  is VND 8.5 billion ( approximately VND 1.7 billion/store ) from equity and commercial banks loans. 
+- Quality: At least 10 hight - quality media content.
+- Reach >= 50,000 user
+- Engagement >= 5,000 interactions.
+
+Request 2: 
+
+
+
+
+2)
+Request 3: Risks
+
+Risk1: Low social media engagement.
+- Impact: Reduced campaign reach.
+- Mitigation: Use trend - based content, micro - influencers, and paid ads.
+
+Risk 2: Lack of contextual trigger.
+- Impact: Reduced behavioral motivation.
+- Mitigation: Simulate scenarios through content storrytelling.
+
+Risk 3: Public transport infractructure limitations.
+- Impact: Difficulty converting intention into action.
+- Mitigation: Focus on situational usage, not full behavior replacement.
+
+Request 4: RACI chart
+
+1. Roles:
+- Market Development Director as PM
+- Coordinating with the interior design team
+- HR team
+- Marketing team
+
+2. List out at least ten tasks, activities or deliverables:
+- Tasks for design team: Design all key visual of campaign.
+- Activities for marketing team: Get idea/content and brief idea design with design team.

@@ -1,0 +1,96 @@
+1)
+Request 1:
+
+1.Project name: Coi Cafe Campaign
+
+2.Justifications:
+- Problem: Coi cafe is a pure Vietnamese coffee with only 12 stores in Hanoi and Ho Chi Minh. It's still to small with a famous coffee brand like Coi cafe.
+- Need: Coi cafe need to expand their brand to many othes province in Viet Nam not only in Ha Noi and Ho Chi Minh.
+- Solution: Coi's management decided to implement an expansion project into 5 Central provinces such as: Da nang, Hue, Quang Nam, Quang Ngai and Binh Dinh. Each  province will have a flagship store. 
+
+3.Constraints:
+- Scope: The project must includes surveying and selecting premises, designing, constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store.
+- Time: within 12 months
+- Cost: VND 8.5 billion
+ (approximately VND 1.7 billion/store)
+- Quality: Each store must reach the break- even point within 8 months after opening.
+
+Request 2:
+
+Five main costs of the campaign are:
+
+Labor cost
+- Description: labor cost is the project team salary
+- Target: VND 2 billion
+- Estimation: Task-based estimation
+- Person in charged: PM
+
+Marketing cost
+- Description: this cost is ads budget
+- Target: VND 2 billion
+- Estimation: Expert estimation 
+- Person in charged: Marketing leader
+
+Equipment cost
+- Description: this cost for camera, mic, tool
+- Target: VND 2 billion
+- Estimation: Unit-based estimation
+- Person in charged: PM
+
+Infrastrure cost
+- Description: flagship store
+- Target: VND 500 million
+- Estimation: Compare with the past project
+- Person in charged: PM
+
+Risk cost
+- Description: Buffer budget for extra task or work
+- Target: VND 2 billion
+- Estimation: Reserved estimation
+- Person in charged: PM
+2)
+Request 3:
+ 
+Three project risks are:
+
+Risk 1: Low user/customer  interaction in the campaign
+- Impact: Delayed growth of the campaign and brand Coi Cafe
+- Mitigation: Improve the designing and constructing
+interiors consistent with the brand. This will help the campaign is more interest to customer.
+- Contingency: Prepare more than one team design for many choices.
+
+Risk 2: Delayed campaign time line
+- Impact: Delayed time line of the campaign
+- Mitigation: Prepare campaign schedule more carefully
+- Contingency: Reduce the campaign scope to make sure each strore must reach the break-even point within 8 months after opening
+
+Risk 3: Behavior of employee in the store is bad
+- Impact: Customer will have a bad thinking about brand Coi Cafe after one times come to the store
+- Mitigation: Prepare training employee carefully
+- Contingency: Collect feedback from customer and re training the employee.
+
+Request 4:
+
+Three project roles are: Design, Marketing, Project Manager(PM)
+
+RACI chart:
+- Design requirement: PM(A), Design(R), Marketing(I)
+
+- Prepare equipment: PM(R), Design(A), Marketing(C)
+- Designing: PM(A), Design(R), Marketing(C)
+
+- Promote the ads: PM(A), Design(C), Marketing(R)
+
+- Prepare content: PM(A), Design(i), Marketing(R)
+
+- Annoucement social media: PM(A), Design(C), Marketing(R)
+
+- Check designing: PM(R), Design(A), Marketing(I)
+
+- Check before annoucement: PM(R), Design(A), Marketing(C)
+
+- Marketing Report: PM(A), Design(I), Marketing(R)
+
+- Design Report:PM(A), Design(R), Marketing(I)
+
+

@@ -1,0 +1,60 @@
+1)
+Request 1:
+1. Project Name: Expanding Coi Cafe brand in five Central provinces
+2. Justification:
+- Reason Coi Cafe is a Vietnamese cafe brand with many big stores in Hanoi and Ho Chi Minh city, it famous for its nostalgic space, the menu with lots of  tranditional drinks, and sustainable business model
+
+- Purpose: The Coi's management decided to expand this brand into 5 Central provinces, each province will have one flagship store within 12 months
+
+3. Project constraint:
+- In term of scope: make surveys and choose premises, design and construct interiors consistent with the brand, hiring and starting to train for local people, creating a raw material supply chain for Central region suppliers, run compains in each store.
+- Time: each province will have a flagship store within 12 months
+- Budget: the total budget of this project is VND 8.5 billion  from commercial bank loans and equity
+- Quality: After 8 months opned, each store must reach the break-even point
+
+Request 2:
+1. Item: Labor cost 
+- Description: incentive-based payment for the team project(PM, desgin team, HR team, marketing team)
+- Estimation: 200 milion VND
+- How to estimate: Bottom up(Based on each team role and the complexity of the project). Person in charge: Coi's Manager
+
+2. Item: Training for local people
+- Description: Hire and train for 10 local people work in store
+- Estimation: 200 million VND
+- How to estimate: parametric( 20 million/person x 10 people) in 2 months. Person in charge: HR Leader
+
+3. Item: Rent place to build flagship store
+- Description: Find and rent a central location in each provide to build a flagship store
+- Estimation: 100 million VND
+- How to estimate: parametric(100 million/month x 12 moths) for the central locaion. Person in charge: Market Development Director
+
+4. Item: Run adds to attract people
+- Description: The marketing team will start to plan  run adds on many different social platform such as Facebook, Instagram, Tiktok.
+- Estimation: 50 million VND
+- How to estimate: Parametric (25 million/month x 2 months) to attract people who live in each province. Peoson in charge: Marketing Leader
+
+5. Item: Contingency and reverse
+- Description: Cots will cover unxepected in designing, running adds and decorating before open
+- Estimation: 50 million VND
+- How to estimate: percentage-based(~ 4.2% cost in total of budget) for risk management. Person in charge: Market Development Director
+
+Request 4:
+1. Define at least 3 project roles
+- Market Development Director(PM): create project charter, create scheldule plan, manage cost each period, check the content of Content Creator before it's posted
+- Designer(D): design and construct the interior with brand, design the brand logo, poster about the event in store
+- Content Creator/Editor(CE): making a content and posting on different social media platform, mange brand's page, eding videos
+- Human Resources Leader(HRL): Hiring and planning to train to local people. manage staff in store
+2,3. List out at least ten task and for each task, list out the responsibilities of the project roles
+- Create project charter: PM(R/A), D(I), CE(I), HRL(I)
+- Create schedule plan: PM(R/A), D(I), CE(R), HRL(I)
+- Hiring and training staff: PM(I), D(I), CE(I), HRL(R/A)
+- Manage staff in store: PM(I), D(I), CE(I), HRL(R/A)
+- Create page and create content: PM(C), D(I), CE(R/A), HRL(I)
+- Design logo brand: PM(C), D(R/A), CE(R), HRL(R)
+- Editing and posting on social platform: PM(I), D(R), CE(R/A), HRL(I)
+- Double check content again before posting: PM(R/A), D(C), CE(R), HRL(I)
+- Run adds to attract people know about brand in each province: PM(I), D(R), CE(R/A), HRL(I)
+- Manage cost each period: PM(R/A), D(I), CE(I), HRL(I)
+
+
+2)

@@ -1,0 +1,78 @@
+1)
+Request1:
+
+1.Project name:The brand of Coi Cafe launching campaign
+2. Justifications(purpose and reasons to implement this project):
+The project including planning, executing, monitoring,Coi's management decided to implement an expansion project into 5 Central provinces( Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh).It target the Genz or people work company.Coi Cafe is convience with them, you can meeting customer or with friend work together easily 24/24 not scare influence by people.You hangout with friend at coffee, talk them everything.Environment is green, not noise.
+3 Project constrains:
+-In terms of scope: 
++Surveying and selecting premises.
++Designing and constructing interiors consistent with brand.
++ Recruiting and training local personnel.
++Building a raw material supply chain from Central region suppliers and launching campaigns for each store.
+-Time:
+The project strictly limited for 12 months,including planning, executing,monitoring and close the campaign, all campaign activities are completed this fixed for timeline
+- Cost/Budget:
+The project of budget limited VND 8.5 billions, all campaign not over the budget and on schedule(Every store approximately VND 1.7 billion.
+Quality:Each store must reach the break-even point within 8 months after opening and survey customer rate good about this coffee.
+Request 3: Risk budget overruns:
+Impacts High 
+Mitigations: add 10% buffer, estimate carefully, control the budget
+Contingency: move to the next phase
+Risk tight schedule
+Impacts Low
+Mitigations: move the deadline, meeting with HR team and Marketing team (method)
+Contingency: add more member for the project, OT(Over Time)
+Risk Poor PM skills:Impact Medium
+Mitigation: trainning staff, HR team and Mkt team, learn to resource.
+Contingency: As needed with meeting together method the campaign
+Request 2:
+The total budget is VND 8.5 billions
+Items: surveying and selecting premises
+Description: servey the market on 5 Central provinces( Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) and find good the market
+Cost: VND 4.5 billion
+Estimation: find and reasearch more campaign open the store
+Person in charged( founder, myselft)
+Items: Designing and constructing interiors consistent with the brand
+Description: find the designers decor with brand
+Cost:VND  2 billion
+Estimation: meeting with designer about the  project decor create with canva and designers work with the project.( Person in charged design team, myself)
+Items: staff 
+Description: choose and find staff  in facebook, instagram 
+Cost: VND 5 million/month
+Estimations: trainning staff carefully
+(Person in charged HR teams
+Items: PR and MKT with brand
+Description: PR in social platform
+Cost: VND 1 billion
+Estimate: PR tracked via Facebook Instagram( target 1.000.000 engament and 100.000 views and likes)
+Person in charged: MKT teams.
+Items: lauching campaign for each store:
+Description: invite with customers go with Coi Coffee.
+Cost: VND 1 billion
+Estimations: discount 50% when customer bought 1 new coffee, minigame for customers invite to enjoy play in coffee.
+Person in charged: HR teams, MKT teams, myselft.
+Request 4:
+1. Project roles: founder
+Information: founder is people  open 12 stores in Ha Noi and  Ho Chi Minh City
+explan the budget and complain everything.
+Responsibilities:daily/weekly
+project roles: Staff, design team, HR team and Mkt teams
+Informations: trainning and meeting method timeline 
+Responsibilities: as needed
+2:10 activities
+Research the market in Viet Nam
+Find the staff in social media
+Create stakeholders.
+Find the designer decor with brand
+Decor with Coi's Coffee
+Planning and meeting with this campaign
+Open the Coi's Coffee store
+PR and MKT with this brand
+Launching " Coi's Coffee" campaign with customers
+Invite customers drink coffee traditional free for one day, and discount 50% for 5 day oppenning brand.
+Create event with customers enjoys.
+Close this project campaign.
+
+
+2)

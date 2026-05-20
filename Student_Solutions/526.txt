@@ -1,0 +1,67 @@
+1)
+Request 1:
+1.Project Name: Coi Cafe's expansion
+2. Justifications
+Purpose/reasons:
+- Expanse Coi Cafe into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+- Have 1 flagship store in each province by 12 months
+Project constraints:
+- Each store must reach the break-even point within 8 months after opening
+In term of scope:
+- Surveying and selecting premises
+- Designing
+- Constructing interiors consistent with the brand
+- Recruiting and training local personnel
+- Building a raw material supply chain from Central region suppliers
+- Launching campaigns for each store
+Time: 12 months
+Cost/budget: VND 8.5 billion (approximately VND 1.7 billion each store)
+Quality: 
+- The flagship store must have large space for and 
+- 
+2)
+Request 2:
+1. Pay for project staff: each team need a clearly budget to buy their matterials/tools for complete tasks.
+- Budget: around VND 400 million for all members (each team is about VND 100 million)
+2. Build a coffee shop: use the region material fit to the design of the coffee shop and make the store good look for the people in that place.
+- Budget: VND 300 million per store
+3. Buy many items for store: store need many different items to decorate and many fixed items (chair, table, order bar...). With fixed items, we can buy with a cheap cost by buy a huge of number.
+- Budget: VND 400 million per store
+4. Launch the recruiting and training programme: we need budget to rent a space to recruit and training the store's staff
+- Budget: VND 300 million per store
+5. Launch the opening event: budget for vouncher, gift and decor for the opening of the new coffee shop. Launching the gift booth in the coffee shop for 1 week gifting the local people if buy 1 drink.
+- Budget: VND 400 million
+
+Request 3:
+- Risk 1: build a store have many issues with weather: the weather in the middle of Vietnam is not too good, a half year is too hot and another is too cold, also have heavy rain. Easily make the quality of the store decreased, take a lot of time to complete and out of cost. The mitigation is focus to build in a first quarter of 2026, which is the weather have not too much rain. Contingency is build a temporary building first, which is faster to build and remake it later.
+- Risk 2: The survey to select premises just touch a little bit number of people: If in the new place the people do not know about Coi Cafe brand, they will not care about the survey and easily the survey become flop. This risk  make the project took a lot of time and maybe cost. Mitigation is meeting with the people who have a responsible with local media transportation. Contigency is advertise by a temporary coffee booth to take a look of local people
+- Risk 3: people in the local likely going to the local coffee shop, Coi Cafe is hard to reach the break-even point. This risk took the project can not complete the objectives and lost money, time. Mitigation is branding for that local, advertising them about the special of the store, try the product in the local store to find the different, we can focus for that different. Contigency is give many deal for local people, let them try the coffee.
+
+Request 4:
+1. Roles
+- PM
+- Designer
+- HR
+- Marketing team
+2.
+A. Planning
+B. Create the survey
+C. Selecting premises
+D. Design the store
+E. List the items for the store
+F. Contact the local supplier
+G. Recruit and training personnel
+H. Posting media to advertise the brand for each province
+I. Tracking and spend money for each activity
+J. Listing stakeholder and communication with them
+3.
+A: PM (R,A) Designer (I), HR (I), Marketing team (I)
+B: PM (A) Designer (I) HR (I) Marketing team (R)
+C: PM (C) Designer (R, A) HR (I) Marketing team (I)
+D: PM (C) Designer (R,A) HR (I) marketing team (I)
+E: PM (C) Designer (R,A) HR (I) marketing team (I)
+F: PM (R, A) Designer ( I) HR (I) marketing team (I)
+G: PM (I) Designer (I) HR (R,A) marketing team (I)
+H: PM (C) Designer (R) HR (I) marketing team (R, A)
+I: PM (R, A) Designer (I) HR (I) marketing team (I)
+J: PM (R, A) Designer (I) HR (I) marketing team (I)

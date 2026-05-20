@@ -1,0 +1,42 @@
+1)
+Request 1: Develop a narrative charter statement
+1. Project Name: The Central connection: Coi Cafe’s Journey to the central lands.
+2. Justifications: 
+Coi Cafe has been very successful in the big cities like Hanoi and Ho Chi Minh City, and now we want to bring our nostalgic and traditional vibe to more people. We chose the central region (5 Central provinces: Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) because it is famous for its rich culture and many tourists, which is fits our traditional style perfect. Also, we want to expand because we care about the environment and local farmers. By opening stores here, we can buy coffee beans directly from local suppliers with natural ingredients and materials, helping the community while still keeping our drinks fresh and sustainable. We believe that people in these 5 privinces will love a space that feels like home and uses eco-friendly cups.
+3. Project Constraints:
+a. Scope: The project only focuses on opening 5 flagship stores in 5 aim provinces: Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh. Any other locations are out of our project plan.
+b. Time: We must finish everything within 12 months (from May 2026 to May 2027). This includes everything from finding the house to the grand opening day and begin sell drinks.
+c. Cost/budget: The total money we can spend is VND 8.5 billion (approximately VND 1.7 billion/store). We cannot go over this amount because it comes from our savings and fair of bank loans. 
+d. Quality: Every store must look the same in terms of nostalgic design and satify the original store’s vibe. Also, the drinks must always be made from high-quality, sustainable ingredients.
+e. Benefit: Each store must reach the break-even point within 8 months after opening.
+
+Request 2: Cost and budget items
+1. Store rental and deposits: This is the money we pay to rent the buildings in 5 provinces with 5 stores. We usually have to pay 6 months in advance. It is about VND 1.5 billion. The Project manager (PM) will check the prices in each cities to make sure we don't pay too much.
+2. Interior design and decorate: This covers the cost of painting, buying old-style furniture to satisfy ourr noslical vibe, and fixing the lights to make the store look nostalgic. It costs about VND 4 billion. The interior team leader will give a detailed list of materials and labor costs for each store (each store of each provines has it own interior team leader)
+3. Equipment and kitchen tools: We need to buy coffee machines, refrigerators, and tables and chairs. This costs around VND 1.5 billion. The PM will contact different sellers to get the best price for good machines.
+4. Staffing and training: This includes money for posting job adminisatration and training the new baristas and managers. It costs VND 500 million. The HR manager will calculate this based on how many people we need to hire in each province (danang and hue may need more workers).
+5. Marketing and grand opening: This is for printing flyers, running Facebook and tiktok ads, and the opening party at each store. We plan to spend VND 1 billion for this. The Marketing manager will lead this part to make sure people know about the new stores.
+
+Request 3: Project risks
+1. Bad weather in the central region: The central region often has storms or heavy rain, which can stop the construction especially from december each year. This will make the project late (delate time) and we might have to pay more for workers (about lost of cost). We will try to build during the dry season and have a backup plan for this schedule.
+2. Problems with local suppliers: Maybe the local farmers can not provide enough coffee beans/tea leafs or the quality is not stable. This affects the taste of our drinks (problem about uality). To fix this, we will find at least two suppliers for each store and each ingredients and check their products every week.
+3. Not enough customers at the start: Because we are new brand in these provinces, people might not come to the store immediately. This means we might not reach the break, even point in 8 months (expect about benefits cost). We will plan special promotions like buy 1 get 1 or sell up to 20-30% during the first month to attract local people.
+
+Request 4: RACI Chart 
+1. Project Roles:
+a. The project manager (PM): The person in charge of everything.
+b. The interior team leader: The person in charge of how the store looks (decorates, vibe ideas,...)
+c. The marketing manager: The person in charge of administration, programs, and customers…
+
+2 and 3. Tasks and Responsibilities (raci)
+a. Selecting store locations: The PM is responsible for finding the places (r). The interior team Leader is consulted about the space (c), and the marketing manager is informed after a choice is made (i)
+b. Approving the final budget: The PM is accountable for the money (a). The other teams are only informed (i)
+c. Drawing the interior designs: The interior team leader is responsible for the drawings idea and made (r). The PM is accountable (a), and the marketing manager is consulted to make sure it looks good for photos and programs (c).
+d. Building and fixing the stores: The interior team leader is responsible for managing the workers (r). The PM is accountable (a).
+e. Hiring local staff: The PM is accountable (a). The Marketing Manager is consulted to find people who fit the brand style (c)
+f. Training the baristas: The PM is accountable for the training quality and workers (a). The other teams are informed (i)
+g. Finding local coffee suppliers: The PM is responsible for talking to farmers and check ingredients (r). The marketing manager is consulted for the brand story (c).
+h. Creating social media (facebook, tiktok, instargrams,...) ads: The marketing manager is responsible (r ). The PM is accountable (a), and the interior team is consulted for store photos (c).
+i. Running the opening events: The marketing manager is responsible for the party (r ). The interior team is consulted for the layout (c), and the PM is accountable (a)
+k. Checking the monthly profit: The PM is responsible and accountable (r and a) for making sure each store reaches the break-even point. The marketing manager is informed (i)
+2)

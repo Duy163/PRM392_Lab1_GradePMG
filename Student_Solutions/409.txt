@@ -1,0 +1,93 @@
+1)
+Request1 : 
+1:Project Name: Coi Cafe project
+2.Justification : 
+ - Purpose : To develop brandt for its nostialgic space, traditional drink menu, and sustanble bussiness model.  Implement an expansion project into 5 central province.
+ - Reason: To make brands are more quanity and more good service.
+ -Project constrant:
+ + Scope: Surveying and selecting premises, designing and construting interiors consistent with the brand, recruiting and training local personnel, building a raw meterial supply from Central region suppliers and launching campaigns for each store
+ + Time: With 1 flagship store in each province within 12 months 
+ + cost/budget: The total budget is 8.5 billion( approximately VND 1.4 billion/store) from equilly and commercial bank loans
++ Quality:Each store must reach the break-even point within 8 months after opening 
+
+Request 2 :
+1, Team member cost
+The cost for team member does meet in the project
+Estimation: Number of day * day salary
+Person in charged: Project manager
+2,Material and equipment cost
+The cost resouce, tools, and meterial use in the project
+Estimation: Number item * unit price:
+Person in chargd: Project manager
+3, Location and platform cost
+The cost location and platform cost are rental, use in the project
+Estimation: Rental location or platform * price
+Person in charge : Sponser, management
+4.Promtion cost
+The cost to attact attention to customer and keep their interest, make content and, notification activity.
+Estimation: Number promotion * unit price
+Person in charge:Team marketing
+5. Managerment and contigency cost
+The cost to management and contigency the system
+Estimation: Estemated * percentage(10 %,5%...) in the project 
+Person in chargd: Project manager
+
+Request 3: 
+Risk 1: Content poor quality in the project
+The staff, team member work on the projct make product with output not quality, and have a mistike
+Impacts: 
++Quality: Customer Dissatifation
++ Time: Need time to retrain, fix the problem 
++Cost: Extra cost to training 
+Relevent;
+Mitigration: Suppoting staff, team member and supervison PM or experienced person.
+Contigency: Remake the project with high quality.
+
+Risk 2:  Resouce, equipment problem 
+Resource, tools, material have a problem, or bug during work project
+Impacts: 
++ Quality: the quality of the product  is low quality
++ Time: Need time to fix problem and change the item
++ Cost: Extra cost material
+Relevent
+Mitigration: Check quality the resourse, material
+Contigency: Use the backup resourse
+
+Risk 3: Customer dissatifation 
+Custimer disatifacation about product or quality service
+Impacts: 
+
+Quality: The quality of brands more decrease
+Time: Needs time to fix probem, and survey the bug.
+Cost : Extra cost to fix problem and enhance th service th quantity
+
+Relevent:
+Mitigrations: appologize to customer and gift their voucher, and ask them to fix problem 
+Contigency: Check quality  the service, promotion the product. 
+
+Request 4: 
+1)
+1. Project manager(PM)
+2.Team member(TM)
+3.Quality checker(QC)
+4.Stakeholder (SH)
+
+2,3.
+1, Collect requirement TM:( R), PM: (A), SH( I)
+2.Analyze requirement TM: (R), PM: (A)
+3.Design solution  TM: (R), PM: (A)
+4.Prepare material, tools, resource.TM: (R), PM: (A), SH(C)
+5.Product, develop the main work.  TM: (R), PM: (A)
+6.Product, devlop the supporting work TM: (R), PM: (A)
+7. Review quality QC: (R), PM(A)
+8.Fix problem, testing QC: (R), PM: (A)
+9. Finish the project PM: (R), SH: (C)
+10. Deliver to customer PM: (R), SH: (I)
+
+Role: 
+Responsible(R)
+Accountible(A)
+Consult(C)
+Inform(I)
+
+2)

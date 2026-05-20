@@ -1,0 +1,71 @@
+1)
+Request 1:
+ - Project name: Coi Cafe Update
+ - Justifications: The project implement an expansion into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province. The campaign aim to rach the break-even point within 8 months after opening.
+ - Project constraints:
+   + Scope: Surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and trainning local personnel, building a raw meterial supply chain from Central regeon suppliers, and launching campaigns for each store.
+   + Time: 12 months
+   + Cost/budget: The total budget is VND 8.5 villion (approximately 1.7 billion/store) from equity and commercial bank loans.
+   + Quality: The project will help the Coi Cafe has quality local staffs and cheap meterial supply.
+
+
+
+Request 2:
+ - 1 main cost item:
+    + Item name: Staff trainning
+    + Description: Cost for matrials and on trainning session for staff.
+    + Estimation: 100 millions VND
+    + Estimation method: Parametric fix cost for experts documents 
+    + Person in charged: Local personnel
+
+- 2 main cost item:
+    + Item name: Decoration
+    + Description: Cost for materials design and building the store
+    + Estimation: 2 billions VND
+    + Estimation method: Bottom-up estimation on cost of material
+    + Person in changed: Design lead
+
+- 3 main cost item:
+    + Item name: Marketing and poster
+    + Description: Printing posters and advertising on social media
+    + Estimation: 500 million VND
+    + Estimation method: Parametric base on  the printing until price quote and the project advertising budget.
+    + Person in changed: Marketing lead
+
+- 4 main cost item:
+    + Item name: Operating supplies
+    + Description: packaging, invoice, stationery, and cleaning supplies
+    + Estimation: 1 billions VND
+    + Estimation method: Analogous estimate based on expertd number of visitors
+    + Person in change: Operations lead
+
+- 5 main cost item: 
+
+2)
+Request 3:
+1. Market Risk: Low footfall
+  - Description: The number of visitors to the booth is lower than experted
+  - Impact: Fairlure to reach the Break-even point within 8 months
+  - Mitigation: Launch social media teasers and local ads 2 weeks before opening
+  - Contigency: Implement "Happy Hour" discounts or flash sales to attract immediate traffic
+
+2. Operation Risk: Inventory shrinkage
+  - Description: Goods are lots, stolen, or damaged exceeding the limit
+  - Impact: Reduced progit margins and failure to meet quanlity standards
+  - Mitigation: Install security cameras and implement a strict detail count
+  - Contigency: Adjust staff bonus based on inventory accuracy KPI
+
+3. Resource Risk: Staff Turnover
+  - Description: Student staff call in sick or quit during th 14 days-operations
+  - Impact: Disrupted operations and decreased customer service quanlity
+  - Mitigation: Recruit 1-2 "on-call" backup staff during the hiring phase
+  - Contigency: The project manager or team lead will step in to cover sales shift immediately
+
+
+
+
+Request 4: 
+ - Project role:
+  + PM: Project manager (Market Devlopment Director)
+  + HR lead
+  + Marketing lead

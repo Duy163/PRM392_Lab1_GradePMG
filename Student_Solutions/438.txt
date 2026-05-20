@@ -1,0 +1,120 @@
+1)
+request 1:
+- Project name: Coi Cafe 
+- description: Coi Cafe is a pure Vietnamese coffee brand with 12 stores in Hanoi and Ho Chi Minh City, famous for it nostalgic space, traditional drink menu, and sustainable business model (using reusable cups, purchasing coffee directly from Dak Lak farmers). This project is coi's management projects to expan into 5 Central province with 1 flaship store in each province within 12 month
+- purpose: Implement an expansion project in to 5 Central provinces ( Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 month.
+- Project constraints:
+  + in terms of scope: surveying and selecting premises, designing and constructing interiors consident with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and lauching campaigns for each store.
+ + time: 12 months
+ + cost: VND 8.5 billion ( approximately VND 1.7 billion/store)
+- Quality: Each store must reach the break-even point within 8 months after opening.
+ 
+Request 2:
+Budget item 1:
+-name: Premises cost
+-description: this cost for renting the place for bussiness action.
+-estimation: 
+how: rent the place must having many traffics like nearest the famous direction.
+-person in charged: coi's management
+-budget item 2:
+-name: interiors cost
+-description: The coffee shop with the nostalgic space have to using the interiors for customer can stay in when buying the product. This must have at least basic interiors like chair or table. In additionaly, interiors have the decoration for coffee shop more beautiful and suitable for design
+-estimation: 
+ + how: pay the intoriors through the local supplier.
++person in charges: Coi's management
+-budget item 3:
+name: material cost
+description: The coffe shop must have the coffee, the cup to make the drink for sale.
+estimation:
+how: purchasing coffee from Dak Lak farmers and make reusable cups.
+person in charges: Coi's management
+-budget item 4:
+- name: salary for worker.
+- description: this cost pay for a worker like barista, staff, manager or each store,..., That is part-time or full-time worker.
+estimation: 
+how: HR will hire the student with part-time or full-time in job, the barista having experience in job about 1 year.
+person in charges: coi's management.
+-budget item 5:
+-name: marketing cost.
+description: to everyone know the direction of the coffee store and make the brand be famous.
+-estimation:
+-how: booking KOLs or tiktok reviewer for online maketing and when customers which try our drink at first time will get the discount or gift.
+-person in charges: coi's management
+2)
+request 3: 
+-Risk 1: Budget overrun (cost)
++description: not having enough +money for run the bussiness.
++Possibility: medium.
++impact: medium 
++Mitigation: having caculate the finance carefully before run the project, 
++Contingency: decrease the decoration cost, rent the premiese in the low rate cost life
+
+- Risk 2: the project is late on schedule. (time)
++ decription: The project contruct out of time.
++impact: medium
++posibility: medium
++Mitigation: each of team have to have the plan and timeline clearly before contruction.
++Contigency: hire more workers, increase time over the schedule.
+
+-Risk 3: the quality not enough (quality)
++decription: the product qualities not enough because of the local material, and the cafe supplier.
++Possibility: medium
++impact: high
++Mitigation: before using the material of the local supplier. Have to check the quality, frequency supplier which is the supplier have enough material or not. have to look up more than 3 supplier
++Contigency: switch to another supplier different. Stop selling the product make by material is not enough quality.
+
+question 4:
+3 project role:
+- Market Development Director (PM)
+- Designer team
+- Marketing team
+
+task 1: survey the market:
+PM: A, R
+Marketing team: I
+Designer team: C
+
+task 2: desgin and contruct interior
+PM: A
+Designer team: R
+Marketing team: I
+
+task 3: hire employee
+PM: A
+Designer Team: I
+marketing team C
+
+task 4: maketing action
+PM: A
+Designer Team: C
+Marketing team: R
+
+Tash 5: training the employee
+PM: A
+Designer team: I
+Marketing team: I
+ 
+task 6: building a raw material supply
+PM: A
+Designer: I
+marketing team: I
+
+task 7: planing discount for product
+PM : A
+Designer: I
+marketing team: R
+
+task 8: choose interior
+PM: A
+Designer: R
+marketing: i
+
+task 9 : planing product:
+PM: A
+Designer: I
+marketing I
+
+task 10 lauching campaigns
+Pm: A
+desginer: I
+maketing: I

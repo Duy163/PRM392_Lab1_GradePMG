@@ -1,0 +1,125 @@
+1)
+REQUEST 1:
+
+- Project name: Spread out Coi Cafe to 5 Central provinces.
+- Detailed describe: Open flagship store in 5 Central provinces within 12 months.
+
+- Purpose: Find market place to brand get more customer, survey ability open store at province and increase famous for everyone know about Coi Cafe brand.
+- Reason: Popular brand to other provinces; Competity with many famous coffee brand other.
+
+- Contraints:
++ Scope: Surveying and selecting premises; Designing anh constructing interiors consistent; Recruiting and training local personnel; Building a raw material supply chain; Launching campaigns.
++ Time: 12 months.
++ Cost/budget: VND 8.5 billion.
++ Quality: Each store reach the break-even point within 8 months.
+
+
+REQUEST 2:
+
+- Survey and select  permises
++ Description: Finding place suitable to have more customer see
++ Estimate: Base on ability that place can help many people, if many will more cost to pay for rent
+
+- Designing and constructing interiors
++ Description: Design awearness of brand, highlight the store
++ Estimate: Through bill was pay for execute
+
+- Recruting and tranning local personel
++ Description: Get more employee to sell coffee
++ Estimate: Calculate total budget for durating tranning
+
+- Building material supply chain
++ Description: Make a raw metirial from Central region suppliers
++ Estimate: Look for price from factory  make material supply chain
+
+- Lauching campagins
++ Description: Create campaign for popular customer
++ Estimate: Calculate evarage each other campains and multiple time.
+2)
+REQUEST 3:
+
+- Risk: Lack of budget
++ Description: Not enough money for activity running project such as launching campaigns for each store, money for employee or team stay again that province.
++ Possibility: Medium
++ Impact: Medium
++ Mitigation: Decrease cost suitable for select premises, not lauching capaingns often.
++ Contingency: Cut of employee in HR team and marketin team, request get more budget.
+
+- Risk: Lack of employee selling.
++ Description: Difficult to find local personnel to tranning
++ Possibility: Low
++ Impact: Medium
++ Mitigation: Create information tranning seller partime, have cost to pay for them in duration tranning.
++ Contingency: Main seller of brand must be doing more time.
+
+- Risk: Low customer
++ Description: Not enough customer buy coffee for brand will make the project unsuccesfully.
++ Possibility: Medium
++ Impact: High
++ Mitigation: Using social media platform to create a fanpage, shot video introduce about project and have some deal sales exciting.
++ Contingency: Run more campaigns to popular everyone, make many sales like buy one gift one.
+
+
+REQUEST 4:
+
+- Role:
++ PM (Market Development Director)
++ HR team
++ Marketing team
++ Content team
++ Design team
++ Seller
+
+- Tasks:
+
++ Initial project
+PM (A)
+HR team (I)
+Marketing team (I)
+Content team (I)
+Design team (I)
+Seller (I)
+
++ Survey and select location
+PM (R)
+HR team (I)
+Makerting team (A)
+Content team (I)
+Design team (I)
+Seller (I)
+
++ Disign and decor store
+PM (R)
+HR team (I)
+Marketing team (C)
+Content team (C)
+Design team (A)
+Seller (I)
+
++ Building supply chain
+PM (C)
+HR team (I)
+Marketing team (I)
+Content team (I)
+Design team (I)
+Seller (A)
+
++ Introduce brand on social network
+PM (R)
+HR team (C)
+Makerting team (A)
+Content team (C)
+Design team (C)
+Seller (I)
+
++ Finding employee selling
+PM (C)
+HR (A)
+Marketing (I)
+Content (I)
+Design (I)
+Seller (I)
+
++ Tranning sell
++ Create idea for campaigns
++ Running campaign

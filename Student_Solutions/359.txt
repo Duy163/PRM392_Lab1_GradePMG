@@ -1,0 +1,101 @@
+1)
+Request 1:
+Project name: Coi Cafe expansion project
+
+Purpose: to expand reputation and open 1 flagship to each of 5 Central province (Da Nang, Hue, Quang Ngai, Binh Dinh)
+
+Scope: 
+-Surveying and selecting premises
+-Designing and constructing interiors consistent with the brand
+-Recruiting and training local personnel
+-Building a raw material supply chain from Central region suppliers
+-Launching campains for each store
+
+Time: Within 12 months
+
+Cost/Budget: VND 8 billion (approximately VND 1.7 billion/store)
+
+Quality: reach or overreach the break-even point within 8 months after opening
+
+2)
+Request 2:
+Main cost/budget items:
+
+1. Place/plot cost
+Description: Cost of where to set up the store at
+Estimation: VND 0.5-1 billion variety from provinces 
+How to estimate: Contact to provider or civilian local and based on average prices
+Person in charge: PM
+
+2. Material cost
+Description: Cost of material : resuable cups, coffer directly from Dak Lak farmers,...
+Estimation: ~100 million
+How to estimate: contact manufacturers, farmer and delivery cost from different providers
+Person in charge: PM
+
+3. Training budget
+Description: budget of hire and training local personnel
+Estimation: 50-100 million
+How to estimate: survey on local cost, expense and popularity
+Person in charge: HR team
+
+4. Designing and constructing with the brand:
+Description: Building interiors consistent with the brand
+Estimation: 200 million
+How to estimate: Plan with brand to understand and estimate cost 
+Person in charge:PM
+
+5. Marketing cost
+Desctiption: Cost of marketing, launching campains for each store
+Estimation: 300-400 million
+How to estimate: contact local providers, survey local
+Person in charge: Marketing team
+
+
+Request 3:
+Three risks:
+1. Overbudget, overpay
+Description: Used up budget and pay too much on HR, training or material 
+Impact: 
+- Quality: MEDIUM
+- Time: MEDIUM
+- Cost: HIGH
+Relevant risk: Training take too much time
+Mitigation: plot auction got too much competitor, unexpected additional cost, overbudget due to lack of management
+Contingency: reduce usage and use alternative budget source or ask supervisors
+
+2. Lack of personnel
+Description: Cannot recruit local worker, waiter due to no interested in the project and/or the brand
+Impact: MEDIUM
+-Quality: HIGH
+-Time: MEDIUM
+-Cost: LOW
+Relevant risk: Lack of interesting campains, Bad location choose
+Mitigation: Local have too much cafe that use the same method of approach, no trust in quality,  consistency
+Contingency: launch supportive campaign to attrach more employees, increase budget for marketing
+
+3. Loans over due
+Description: Cannot pay loans on time due to stores not meet the profit needed in given time
+Impact:
+-Quality: MEDIUM
+-Time: MEDIUM
+-Cost: HIGH
+Relevant risk: Overbudget, lack of personnel
+Mitigation: campaign not get enough interest which lead to lack of customer,  low on customers
+Contingency: launch more campaign that actually interesting enough to whow that brand is different than others, do more in marketing and participate, sponsor local's activities
+
+Request 4:
+1. Project roles: PM, Design team, HR team, Marketing team
+
+2. Tasks/Activities/Deliverables:
+plan selection
+sponsor selection
+contact commercial bank loans
+surveying and selecting premises
+designing consitent with the brand
+recruit personnel
+establish connection to supply chain
+launching campaigns
+Marketing
+report campaign result 
+

@@ -1,0 +1,82 @@
+1)
+Request 1:
+1. Project name : Central provinces expansion project.
+2. Justifications: The reasons to implement this project is organize the campaigns into 5 Central provinces , and provide for everyone know about Coi Cafe with culture  
+3. Constraints:
+ This project need includes survering and selecting premeies , designing and constructing interiors consistent with the brand, recruiting and training local personnel , building a raw material supply chain from Cental region suppliers and launching campaigns for each store , The project need to successfully within 12 months and total budget is VND 8.5 billion (approximately VND 1.7 billion/store).
+
+Request 2: 
+
+1. 
+Title: Location Fee 
+Description : This cost pay for house(store) into 5 Cental provinces  
+Budget: 50 million/ store
+Estimation: Market rate and deal with master house
+
+2.
+Title: Material for design
+Description : Building and design for store in campaigns.
+Budget : 200 million/ store
+Estimation : Maket rate in this province
+
+3. 
+Title : Salary for worker
+Description: Pay salary for all team member (PM, design team , HR team , marketing team)
+Budget : 300 milion
+Estimation: Deal salary with everyone before apply for this project
+
+4. 
+Title : Marketing campaigns
+Description: Run Marketing for any online platform (Tiktok, Facebook, Instagram)
+Budget: 200 million 
+Estimation: The default fee in online platform 
+
+5. 
+Title : Coffee fee
+Description: The cost include coffee directly from Dak Lak farmers 
+Budget: 200 million
+Estimation: market fee and deal with farmers
+
+2)
+Request 3:
+Risk 1: Pay many money for Marketing but not viral
+Description: We spending for marketing in TikTok/Facebook/Instagram but do not have many customer and don't viral in online platform
+Impacts: High 
+Mitiigation: Connect more online platform and KOLs  
+Contigency: Meeting with marketing team to change infomation and plane for videos 
+
+Risk 2: Limit Time 
+Description: Training local personnel failed make limit  time of project 
+Impacts: Medium
+Mitigation: Use expert of Coi Cafe for training local Personnel with more time .
+Contingency: Use backup local worker of Coi Cafe for store have failed training local perconnel.
+
+Risk 3: Out of scope
+Description: The scope of project are biggest , do not have time and budget 
+Impacts: High 
+Mitigation: Make plane with correctly after approved for this project.
+Contingency: Cut dow any function does not have 
+
+Request 4:
+1.Project Role: PM , Design Team , HR team , Marketing Team
+2. Ten Tasks .
+Task 1. Make Plant to start for campaigns 
+Task 2. Write content for videos of project
+Task 3. Filter KOLs for videos
+Task 4. Setup design for any store 
+Task 5. Training local personnel for each store
+Task 6. Start action videos in any store with KOLs
+Task 7. Editing videos
+Task 8. Demo videos apply in online plasform (Tiktok, Facebook, Instagram)
+Task 9. Launching campaigns for each store
+Task 10. Write final report .  
+3. Responsibilities of the project
+Task 1: PM (R,A) , Design Team (I), HR (I), Marketing Team (I)
+Task 2: PM (A) , Design Team (I), HR (I) , Marketing Team (R)
+Task 3: PM (A) , Design Team (I), HR (R) , Marketing Team (C)
+Task 4: PM (A) , Design Team (R) , HR (I), Marketing Team (I)
+Task 5: PM (A), Design Team (I), HR (R) , Marketing Team (I) , 
+Task 6 : PM (A) , Design Team (I), HR (I) , Marketing team (R) 
+Task 7 ; PM(A) , Design Team (R), HR(I) , Marketing Team (I)
+Task 8 : PM (A) , Design (I), HR (I). Marketing Team (R)
+

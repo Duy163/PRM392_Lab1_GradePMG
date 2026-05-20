@@ -1,0 +1,163 @@
+1)
+
+Request 1:
+Project name:
+Coi Cafe Central Destination Store Network Project
+Justifications:
+Expand Coi Cafe into five Central provinces: Da Nang, Hue, Quang am, Quang Ngai, and Binh Dinh.
+Build each flagship store as a “destination café” where customers intentioally visit for atmosphere, Vietnamese coffee, and brand experience.
+Create memorable stores that combine Coi Cafe’s nostalgic space, traditional drinks, reusable cup practice, and sustainable sourcing message.
+Increase customer traffic by choosing locations that are easy to access for local residents, travelers, students, and office workers.
+Strengthen Coi Cafe’s brand visibility in Central Vietnam through five strong flagship locations instead of small ordinary stores.
+Build a regional supplier and operating network to support daily store performance.
+Generate new revenue and ensure each store reaches break-even within eight months after opening.
+Project constraints:
+Scope:
+Open five destination-style flagship stores only, one store in each selected province.
+Project scope includes: destination location survey, premises selection, lease agreement, store design, construction, equipment setup, recruitment, training, supply chain setup, launch campaign, and performance monitoring.
+The project does not include franchising, extra stores, delivery-only stores, or unrelated tourism services.
+Time:
+The total project duration is 12 months.
+All e stores must be opened within the approed timeline.
+Each store must reach break-even within eight months after opening.
+Cost / Budget:
+Total budget is VND 8.5 billion.
+Average budget is approximately VND 1.7 billion per store.
+Funding comes from company equity and commercial bank loans.
+Costs must be controlled, especially for location rental, construction, equipment, marketing, and staff preparation.
+Quality:
+All stores must follow Coi Cafe’s flagship quality standards.
+Store design must be nostalgic, comfortable, recognizable, and suitable for destination visits.
+Drink quality, service quality, hygiene, and sustainable practices must be consistent.
+Each store must be fully ready before official opening.
+Request 2:
+Spending Line 1: Destination location research
+Name: Destination location and customer traffic research
+Description: Cost for studying high-accessibility areas, customer movement, competitor cafés, parking convenience, visibility, and destination potential in each province.
+Estimation: VND 750 million total, around VND 150 million per store.
+Way to estimate: Based on site visits, traffic observation, customer interviews, competitor mapping, travel cost, and location scoring.
+Person in charge: Project Manager and Marketing Team.
+Spending Line 2: Premises securing and lease setup
+Name: Destination premises lease package
+Description: Cost for securing suitable flagship locations, legal checking, lease negotiation, rental deposit, first rent payment, and basic site preparation.
+Estimation: VND 1.6 billion total, around VND 320 million per store.
+Way to estimate: Based on rental rates in accessible areas, deposit months, broker fee, legal review cost, and first rental payment.
+Person in charge: Project Manager and Finance Team.
+Spending Line 3: Destination store construction
+Name: Destination flagship construction and interior
+Description: Cost for construction, furniture, lighting, seating areas, photo-friendly corners, service counter, signage, decoration, and nostalgic brand finishing.
+Estimation: VND 3.1 billion total, around VND 620 million per store.
+Way to estimate: Based on store area, contractor quotations, design concept, furniture list, material cost, and required brand-standard finishing.
+Person in charge: Interior Design and Construction Team.
+Spending Line 4: Operations setup and staff capability
+Name: Store equipment and employee preparation
+Description: Cost for coffee machines, grinders, refrigerators, POS system, water filters, reusable cups, kitchen tools, staff recruitment, uniforms, service training, and pre-opening salary.
+Estimation: VND 2.1 billion total, around VND 420 million per store.
+Way to estimate: Based on equipment checklist, supplier quotations, number of employees, training duration, trainer cost, uniform cost, and salary support before opening.
+Person in charge: Procurement Team, HR Team, and Operations Team.
+Spending Line 5: Supplier setup and destination launch
+Name: Opening inventory and destination launch campaign
+Description: Cost for supplier selection, first inventory, safety stock, logistics setup, quality checking, grand opening, local advertising, social media content, and trial vouchers.
+Estimation: VND 950 million total, around VND 190 million per store.
+Way to estimate: Based on inventory plan, supplier price list, transportation cost, quality checking cost, event size, media price, and promotion budget.
+Person in charge: Procurement and Supply Chain Team, and Marketing Team.
+Request 3:
+Risk 1: Destination store does not attract intentional visits
+Risk name: Customers do not see the store as a destination.
+Description: The store may be attractive but not strong enough to make customers intentionally visit, especially if the location is not convenient or the experience is not unique.
+Impacts:
+Scope / quality: The store may perform like an ordinary café instead of a flagship destination.
+Time: More time may be needed to build customer habits and awareness.
+Cost: Extra marketing and promotion cost may be needed.
+Mitigation plan: Select locations with strong accessibility, create memorable interior features, and promote the store experience before opening.
+Contingency plan: Add local events, photo campaigns, group promotions, and limited-time offers to increase visits.
+Risk 2: High location cost reduces profitability
+Risk name: Destination locations create high fixed costs.
+Description: Accessible or high-visibility premises may require higher rent, deposit, and renovation cost.
+Impacts:
+Scope / quality: Store size or design features may need to be reduced.
+Time: Lease negotiation may take longer.
+Cost: Higher fixed cost may delay break-even beyond eight months.
+Mitigation plan: Set rental cost limits, compare multiple locations, and calculate break-even before signing lease.
+Contingency plan: Select a nearby lower-cost location and increase local marketing to compensate for lower visibility.
+Risk 3: Customer traffic is unstable after opening
+Risk name: Initial traffic drops after launch period.
+Description: Customers may visit during grand opening but not return regularly if the store does not build repeat value.
+Impacts:
+Scope / quality: The store may not maintain strong brand presence.
+Time: Break-even progress may slow down.
+Cost: Additional customer retention campaigns may be required.
+Mitigation plan: Build loyalty programs, collect customer feedback, and create repeat-visit offers after launch.
+Contingency plan: Adjust menu bundles, launch membership campaigns, cooperate with nearby offices and schools, and improve service quality.
+Request 4:
+Project roles:
+Role 1: Project Manager / Market Development Director
+Responsible for project direction, scope control, schedule, budget, risk management, approvals, and break-even tracking.
+Role 2: Destination Store Development Team
+Responsible for location evaluation, interior design, construction, furniture, signage, layout, and physical store quality.
+Role 3: Customer Operations Team
+Responsible for recruitment, training, equipment, suppliers, inventory, launch campaign, customer experience, feedback, and sales tracking.
+RACI responsibilities:
+R = Responsible
+A = Accountable
+C = Consulted
+I = Informed
+Activity 1: Approve project charter and destination store strategy
+Project Manager: A/R
+Destination Store Development Team: C
+Customer Operations Team: C
+Activity 2: Research customer traffic and destination potential
+Project Manager: A
+Destination Store Development Team: C
+Customer Operations Team: R
+Activity 3: Evaluate and shortlist store locations
+Project Manager: A/R
+Destination Store Development Team: C
+Customer Operations Team: C
+Activity 4: Negotiate lease and approve premises
+Project Manager: A/R
+Destination Store Development Team: C
+Customer Operations Team: I
+Activity 5: Design destination-style flagship layout
+Project Manager: A
+Destination Store Development Team: R
+Customer Operations Team: C
+Activity 6: Complete construction and store decoration
+Project Manager: A
+Destination Store Development Team: R
+Customer Operations Team: I
+Activity 7: Purchase equipment ad prepare store assets
+Project Manager: A
+Destination Store Development Team: C
+Customer Operations Team: R
+Activity 8: Recruit store managers and service staff
+Project Manager: A
+Destination Store Development Team: I
+Customer Operations Team: R
+Activity 9: Train staff on customer experience standards
+Project Manager: A
+Destination Store Development Team: C
+Customer Operations Team: R
+Activity 10: Set up suppliers and opening inventory
+Project Manager: A
+Destination Store Development Team: I
+Customer Operations Team: R
+Activity 11: Execute destination launch campaign
+Project Manager: A
+Destination Store Development Team: C
+Customer Operations Team: R
+Activity 12: Monitor customer visits, feedback, and break-even progress
+Project Manager: A/R
+Destination Store Development Team: I
+Customer Operations Team: C
+
+
+
+
+
+
+
+
+
+  
+2)

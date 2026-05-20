@@ -1,0 +1,55 @@
+1)
+Request 1:
+1. This project name is The expansion of Coi Cafe for 5 Central Provinces.
+2. Purpose and reasons of this project is increase the Coi Cafe brand idenity and brand want to bring a nostalgic space , traditional drink, sustainable business model , more important that is increase revenue for Coi Cafe.
+3.-Project constrain : the Coi Cafe must keep all famous they have and adjiust a little follow local life style , traditional each province. Each store musst reach the break-even point within 8 months after opening.
+-Scope: this project is not so big with 5 province for each survey , employee, design and decor, raw material, marketing ,..
+-Time: 12 months for 1 flagship store so for 5 province is 60 months
+-Cost/budget:8.5 billion VND (approximately 1.7 billion VND each store)
+-Quality is must ensure and do not have any complain Coi Cafe in google map .
+
+
+Request 4
+4 roles project roles:
++Market Development Director (PM)
++Interior design team (Design)
++HR team (HR)
++Marketting team(MKT)
+
+-Gather project requirement - PM(I), Design(C), HR(C),MKT(R,A)
+-Make a detail plan with timeline and task for project- PM(I), Design(C), HR(C), MKT(R,A)
+-Survey local taste and life style  for each Central province- PM(I), Design(C), HR(C), MKT(R,A)
+-Find and search the local supply for raw material - PM(I), Design(C), HR(C), MKT(A)
+-Design and constructing interiors consisten with brand-PM(C), Design(R,A),HR(C),MKT(I)
+-Design and Decor Coi Cafe shop- PM(I) , Design(R), HR(C), MKT(R)
+- Building Coi Cafe shop for 5 Central province -PM(I),Design(C), HR(C), MKT(R,A)
+-Recruite and traine employee from local person -PM(R,A), Design(C), HR(I), MKT(C)
+-Run advertisite - PM(R,A), Design(C), HR(C), MKT(I)
+-Puplic and open the Coi Cafe in 5 Central province-PM(I),Design(C), HR(C), MKT(R,A) 
+2)
+Request 2:
+-Name: Recruit ground 
++Description : ground cost may be increase follow years
+-Name:Recruit employee
++Description: salary for staff and employee
+-Name:Raw Material
++Description: cost material can change follow sessonss
+-Name:Marketing
++Description: May be run advertise not success and must run more
+-Name:Not follow timeline
+Request 3:
+3 project risk:
+-Name: The budget can increase because ground recruiting
++Possible impact high to quality and scope and time
++Relevant : The ground or material cost can increase follow current news so if Coi Cafe want to have a nostalgic space or if can find a suitable ground it take a lot of time 
++Solution: Can complete find local soon by give this to top a plan
+
+-Name : Supply chain break 
++Possible impact high to quality and cost
++Relevant: it can make a flavor not good and so make the customer not come back and not take back the revenue in 8 months
++Solution: Can import material in a local province 
+
+-Name : Maketing for 5 Central province not success
++Possible impact high to time and cost
++Relevant : make the local people can not heard about Coi Cafe , then the Coi Cafe can not take back the revenue in 8 months after opening .
++Solution: run advertise and sale off, create new drink items only that local  for each province when puplic and open shop 

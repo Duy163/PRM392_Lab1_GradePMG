@@ -1,0 +1,73 @@
+1)
+Request 1:
+1. Coi Cafe Expansion Project
+2. Purpose: Expanse Coi Cafe coffee brandt into 5 Central provinces(Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+3. Project constraints:
+Scope:
+- Espansing Coi Cafe into 5 Central provinces.
+- Surveying and selecting premises.
+- Designing and constructing interiors consistent with the brand.
+- Recruiting and training local personnel.
+- Building a raw material supply chain from Central region suppliers
+-Launching campaigns for each store.
+Time: Within 12 months
+Cost/budget: Total budget is VND 8.5 billion(approximately VND 1.7 billion/store)
+Quality: Each store must reach the break-even within 8 months after opening.
+Request 2:
+5 Main cost items:
+1:
+Name: Building flagship store
+Description: Building flagship store in each province with the fees of material, worker waves, brand design.... Each province must build 1 store and keep the spirit of the original Coi Cafe brand.
+Estimation: 1 billion each store( fee of material, waves, brand design, extra fees)
+2: 
+Name: Recruiting staff
+Description: Recruiting and training local personnel. Must divide experienced staff to guide the local personnel and train them into Coi Cafe staff.
+Estimation: 50 million each store( fee of training, using the material during training, ...)
+3: 
+Name: Building supply chains
+Description: Find a supply provider to build a supply chains from Central Region suppliers, which will take responsibility for providing items during the operation of the stores.
+Estimation: 300 million each store ( fee of supply, fee of contract)
+4:
+Name: Waves/Salary
+Description: Waves and salary payed for the staff including the local personnel, experienced trainer, HR team, marketing team, .....
+Estimation: 200 million each store( waves for staff/worker)
+5:
+Name: Launching campaigns:
+Descriptions: Each store must launch campaigns to introduce the brand to the local citizens, branding the Coi Cafe coffee so that more customer will know about this brand.
+Estimation: 100 million each store( budget for campaign-lauching of each store)
+Request 3:
+3 Project risks:
+1:
+Name: Lack of customer
+Description: Customer choosing familiar local brand instead of the new Coi Cafe Brand, customer dont find any interest in the campaigns,....
+Possible Impacts: Scope, quality
+Mitigation plan: Surveying the local citizens, preparing different marketing plan from the research.
+Contingency plan: Flexible campaign-lauching for each store and local. Increase the budget of campaign lauching if needed.
+2:
+Name: No vailable supply chain
+Description: No supplier matched the target that able to supply for the store.
+Possible Impacts: Scope
+Mitigation plan: During the planning era, research about local suppliers and find the most approvable one and flexible changing the supply chain target plan.
+3:
+Name: The cost exceeded the budget
+Description: Many risk that happened and make the store cost more than the intial budget.
+Possible Impacts: Cost.
+Mitigation plan: Preparing for each budget and tracking to keep the budget always in the control
+Contingency plan: Loaning more budget or using store benefit to keep up with the budget.
+Request 4:
+1:
+1: Market Development Directore: Project Manager
+2: Interior team, HR team, marketing team: Internal
+3: Region suppliers : Cooperator
+2-3:
+- Surveying and selecting premises: Internal
+- Designing and constructing interiors consistent with the brand: Internal
+-Recruiting and traning local personnel : Internal
+- Building a raw material supply chain from Central region suppliers: Project Manager, Internal
+- Lauching campaign for each store: Internal
+- Estimating the cost/budget for items: Project Manager
+- Providing the supply for the stores: Cooperator
+- Developing the brand of Coi Cafe: PM, Internal
+- Responsible for the scope and quality of the project: Project Manager
+- Developing each store and marketing to local citizens: PM, Internal
+2)

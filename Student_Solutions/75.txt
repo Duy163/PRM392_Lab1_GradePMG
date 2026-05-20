@@ -1,0 +1,107 @@
+1)
+Request 1: Narrative charter statement
+1. Project name: Coi Cafe's Expansion project in Vietnam
+
+2. Justification:
+Purpose: Expanse into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+
+Reason: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruting and training local personnel,  building a raw material supply chain from Central region suppliers, and launching campaings for each store.
+
+3. Project constraints:
+- Time: within 12 months
+- Scope: 1 flagship store in each province 
+- Budget: VND 8.5 billion (VND 1.7 billion/store)
+- Quality: must reach the break-even point within 8 months
+
+Request 2: Cost/budget items
+-Item 1:
+Name: Premises
+Description: surveying and selecting premises 
+Estimation: VND 500 million  (1st step is always important to build the foundation of the store so it need  money, time as well needing to find good premises and lot of effort from the team, person in charged is PM)
+
+-Item 2: 
+Name: Store interiors
+Desciption: Designing and constructing interiors consistent with the brand
+Estimation: VND 250 million (Store interiors consistent with the brand is easily achievable due to existing stores and supply from previous purchase, person in charged is Interior design team)
+
+-Item 3:
+Name: Human resources
+Description: Recruting and training local personnel
+Estimation: VND 350 million  (Usually take 3 months to train good teams into service, person in charged is HR team)
+
+-Item 4:
+Name: Supply chain
+Description: Building a raw material supply chain from Central region suppliers
+Estimation: VND 450 million (It takes a lot of time to build a raw material supply chain so it is very expensive, person in charged is PM)
+
+-Item 5:
+Name: Marketing campaigns 
+Description: Launching campaigns for each store
+Estimation: VND 150 million  (Usually taking about around 10% at first, person in charged is Marketing team)
+2)
+Request 3: Identify 3 project risks
+Risk title/name 1: Local personnel
+Description: Team quality is not up to the expectation
+Possible impacts: Lose customers = lose value, lose brand reputation 
+Risk response plans: mitigation by putting more time and effort into training team up to the quality.
+
+Risk title/name 2: Store placing
+Description: Store may be built into weak purchasing area due to few places to built and at the place where people does not like coffee or area already have existing stores around selling coffee.
+Possible impacts: Profit lower.
+Risk response plans: mitigation by putting more time, money and effort to find better placing store. 
+
+Risk title/name 3: Money
+Description: During the time to complete flagship store in each province within 12 months may happen to be in short of money due to rising price/inflation. 
+Possible impacts: Lower quality.
+Risk response plans: Contingency by putting more and hold 10%-20% of total budget just in case money problems arise.
+
+Request 4: RACI chart
+1. Project roles:
+- Market Development Director as PM
+- Interior design team
+- HR team
+- Marketing team
+
+2. 3.
+Tasks/activities:
+a. Surveying and selecting premises
+R/A: PM
+C: Interior design team 
+I: Marketing team
+
+b. Designing and constructing interiors
+R/A: Interior design team
+C: HR team
+I: PM
+
+c. Recruting and training local personnel
+R/A: HR team
+C: none
+I: PM
+
+d. Building supply chain
+R/A: PM
+C: 
+I:
+
+e. Marketing campaigns 
+R/A: Marketing team
+C: none
+I: PM
+
+f. Test/checking
+R/A: PM
+C: Interior design team, HR team, Marketing team
+I: none
+
+g. Store promotion
+R/A: Marketing team
+C: Interior design team
+I: PM
+
+
+Deliverables:
+a. Brand reputation/recognition
+b. Brand coverage
+c. Sustainable cash flows
+

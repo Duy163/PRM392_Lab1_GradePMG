@@ -1,0 +1,94 @@
+1)
+Request 1: 
+project name: Coi coffee implement campaign 
+2. 
+Purpose: Implement an expansion project into 5 Central provinces ( Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh ) with 1 flagship store in each province within 12 months.
+Solutions: Surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from central region suppliers and launching campaigns for each store. 
+3. Constraints: having reusable cups , purchasing coffe directly for dak lak farmers  
+Scope: 5 central provinces ( da nang , hue , quang nam, quang ngai , binh dinh ) 
+Time: within 12 months 
+Cost: The total budget is VND 8.5 billion ( approximately VND 1.7 billion / store ) 
+Quality: Each store must reach the break-even point within 8 months after opening 
+
+Request 2: 
+- Name 
+- Description 
+- Estimation 
+- Way to estimate 
+- Person in charged
+
+1. - Labor 
+ - Salaries for event staff, sales team and coordinators.
+- 300 ( miliion VND ) 
+- Bottom-up: ( Hourly rate * number of hours * number of staff ) 
+- HR or project manager
+2. - Name: Marketing and Ads
+- Running social media ads and printing promotional banners.
+- 200 
+-Expert judgment: Based on the marketing plan to reach target users. 
+- Marketing lead.
+3. Equipment and venue
+- Renting the location, tables, lighting and sound systems.
+- 400
+- Analogous: Compare to previous similar campaigns or project.
+- Operations coordinator.
+4. Materials and supplies
+- Purchasing core products, decorations and packaging.
+- 450
+- Purchasing staff.
+5. Contigency reserve
+- Backup fund for unexpected risks and emergencies.
+- 150
+- Percentage 10% to 15% of the total estimated budget.
+
+
+
+ 
+2)
+Request 4: 
+Task - Project manager ( PM ) - Marketing coordinator ( MC) - Operations staff ( OPS ) - Finance officer ( FIN ) 
+
+1. Define project scope, timeline and success crital
+   PM ( R,A ) - MC( C ), OPS( I ) , FIN ( C )
+2. Develop and finalize project budget plan PM ( R,A), MC ( I ) , OPS ( I ) , FIN ( C) 
+3 Secure venue booking and obtain operating permits PM ( R.A ) , MC ( I ) , OPS ( C ) , FIN ( I )
+4 Design and produce promotinal materials ( flyers, banner, social post ) 
+5. Launch marketing campaign ( social media, community outreach ) 
+6. Recuit ,hire and train campaigns staff
+7 Produce and setup equipment, display and inventory 
+ Being the conductton and each store reach the break even point
+The budget and the project and estimate
+8 Conduct campaigns operations ( sales, customer service , inventory management ) 
+9. Monitor and track daily revenue, expense and inventory levels 
+10 Handle customer complaints and quality issues during the project and campaigns
+11 Conduct post-project breakdown and venue handover
+12 Prepare final project report ( financial summary, lesson learned ) 
+Request 3:
+-Risk title 
+- Description 
+- Impacts
+- Risk response plans 
+
+1. - Supplier or vendor delays
+- External suppliers deliver equipmentor material later than scheduled 
+- Impacts
+ +Time: Delays project schedule
++ Quality: Lowers the campaigns and project quality
+- Risk response plans
++ Mitigate: Sign clear constracts with penaty with clauses for late delivery.
++ Contingency: Pepare a list of alternative local suppliers.
+
+2.-  Buget Overun
+-  Price of material or advertising cost increase unexpectedly.
+- Impact:
++ Cost: Exceeds the strict financial constraints of the project.
+- Risk response plans:
++  Mitigate: Track expenses daily and negotate fixed price early 
++ Contingency: use the contingency fund to cover extra costs.
+
+3. Low customer engagement
+- Target audience does not attend the campaign or buy the product.
+- Impact: 
++ Scope and quality: fails to archieve the sales or attendance targets
+- Risk response plans:
++ Run target marketing ads early and offer early-bird discounts.

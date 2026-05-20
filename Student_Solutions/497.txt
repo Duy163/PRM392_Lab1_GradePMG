@@ -1,0 +1,123 @@
+1)
+REQUEST 1 
+1. Project name: Coi Cafe Expansion Project
+2. Purpose
+To expand Coi Cafe brand to 5 Central provinces (Da Nang, Hue, Quang Nam, Binh Dinh, Quang Ngai) with 1 flagship store in each province, this is a strategic move to increase market share and also build a larger brand in Vietnam, introducing to a larger customer segment based on diverse geography.
+3. Constraints
+a. Budget: VND 8.5 billion
+b. Time: 12 months
+c. Scope:
+- Surveying and selecting premises
+- Designing and constructing interiors consistent with the brand
+- Recruiting and training local personnel
+- Building a raw material supply chain from Central region suppliers
+- Launching campaigns for each store
+d. Quality
+- Each store must reach the break-even point within 8 months after opening
+
+REQUEST 2
+1. Store Rent
+- Description: The rental fee charged per month for the department store  
+- Estimated Cost: VND 30 million
+- Estimation Method: Analogous Method
+- Person in Charge: Project Manager
+
+2. Interiors Design and Displays
+- Description: Design the interiors for the department based on brand guideline and acquire the materials for designing product displayment and store atmosphere
+- Estimated Cost: VND 300 million
+- Estimation Method: Parametric Method (Store equipments, Table, Banners, Coffee Brewing Machine)
+- Person in Charge: Interior design team lead
+ 
+3. Staff training and recruit
+- Description: Recruiting part-time jobs for local students and training them for a brief period of time 
+- Estimated Cost: VND 40 million
+- Estimation Method: Parametric Method ( 10 students x VND 4 million)
+- Person in Charge: HR team lead
+
+4. Marketing and Promotion
+- Description: Run ads on social media about opening day to attract local customers
+- Estimated Cost: VND 150 million
+- Estimation Method: Analogous Method
+- Person in Charge: Marketing team lead
+
+5. Surveying and Focus Groups
+- Description: Select a target group for survey, analyse the interviews and survey result to gain insights about the local customer segment
+- Estimated Cost: VND 75 million
+- Estimation Method: Analogous Method
+- Person in Charge: Marketing team lead
+
+2)
+REQUEST 3
+1. Budget Overrun (cost)
+- Description: Cost exceed the initial budget
+- Possibility: Medium
+- Impact: Medium (May impact on the quality of activities and stores)
+- Contingency plan: Cut out non essential items and ask for sponsors
+2. Schedule Delay (time)
+- Description: Tasks start late and don't finish on required deadlines, which lead to postponing other tasks
+- Possibility: Medium
+- Impact: Medium (May impact on the scope and quality)
+- Mitigation plan: Design clear schedule and effective communication channel and best practices at workplace
+3. Poor sales performance (quality)
+- Description: Sales after 8 month after opening doesn't reach the break-even point
+- Possibility: High
+- Impact: High (May heavily impact on quality)
+- Mitigation Plan: Run successful marketing campaign on insights gathered from surveys and in-depth interviews
+
+REQUEST 4
+1. Project roles
+- Project Manager (PM)
+- Interior Design Team (ID)
+- Marketing Team (MKT)
+- HR Team (HR)
+
+a. Market Research
+- PM: A
+- MKT: R
+- ID: I
+- HR: I
+b. Survey and Selecting Premises
+- PM: A
+- MKT: R
+- ID: I
+- HR: I
+c. Get suppliers contracts
+- PM: A
+- MKT: I 
+- ID: I 
+- HR: R
+d. Outsourcing materials
+- PM: A
+- MKT: I
+- ID: C
+- HR: R
+e. Setting up stores
+- PM: A
+- MKT: C
+- ID: R
+- HR: I
+f. Designing interiors and displays
+- PM: A
+- MKT: C
+- ID: R
+- HR: I
+g. Run recruit campaign
+- PM: A
+- MKT: I
+- ID: I
+- HR: R
+h. Training new staffs
+- PM: A
+- MKT: I
+- ID: I
+- HR: R
+i. Run ads campaign
+- PM: A
+- MKT: R
+- ID: I
+- HR: I
+j. Sales
+- PM: A
+- MKT: C
+- ID: I
+- HR: R

@@ -1,0 +1,69 @@
+1)
+Request 1
+Project name : Coi Cafe's brand expanding project  (pure Vietnamese coffee brand)
+Justifications: 
+The Coi's management want to implement an expansion project into 5 Central provinces (Da Nang ,Hue , Quang Nam, Quang Ngai, Binh Dinh) , so that they can bring  to customer with nostalgic space, tradional drink menu, and sustainable business model( using reusable cups, purchasing coffe directly from Dak Lak farmers). To make it posible, they make  a plan with activities like surveying , selecting premises, designing and constructing interiors consistent with the brand , recruiting and trainning local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store.
+Project constraints 
++ Scope: an expansion project into 5 Central province( Da Nang, Hue , Quang Nam, Quang Ngai, Binh Dinh), with 1 flag ship store in each province within 12 months.
++ Time: 12 months
++ Total budget: 8.5 billion VND (approximately VND 1.7 billion/store) from equity and commercial bank loans.
+ + Quality: Each store must reach the break-even point within 8 months after opening 
+ Request 2:
+
+Request 3:
+
+Title : The crashing of 8.5 billion total budget from equity and commercial bank loans.
+ Description: this risk occurs when the project  over-use the total buget without quality and efficency
+ Impacts: the risk can make cost over the expectation 
+ Mitigation
+ Contingency:
+
+Title : 1 flagship store in each province over 12 months.
+Description: non store can locate at 5 central provinces with in 12 months 
+Impacts:
+Mitigation
+Contigency:
+
+Title : Each store couldn''t reach the break-event point within 8 months after months.
+Description: 
+Immpacts
+Mitigation
+Contigency:
+
+ 
+
+Request 4:
+1) Three project role: Market Developement Director as PM, HR team, design team and marketing team
+
+2) List of ten task:
+ - surveying 
+ - selecting premises
+ - designing 
+ - constructing interiors consistent with brand
+ - recruiting 
+ - training
+ - building a raw material supply chain from Central   region suppliers
+ - launching campaigns
+ - providing budget
+ - supplying 
+3. The list resonsibilities of the project roles
++ Surveying :
+ - Accoutable: Market Developement Director
+ - Responsible: Marketing Team
+ - Consulted: 
+ -  Informed: 
+ + Recruting 
+- Accountable: Marketing Development Directior 
+- Responsible: HR team 
+- 
+-
++ Designing
+-  Accoutable : Marketing Development Director
+- Responsible: Design team 
+- Consulted: 
+
++ Training 
+- Accoutable: Marketing Development Director
+- Responsible: HR team choose senior to train local personnel
+
+2)

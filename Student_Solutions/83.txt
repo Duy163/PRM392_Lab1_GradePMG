@@ -1,0 +1,139 @@
+1)
+Request 1
+1. project name: Coi Cafe expansion project.
+
+2. justifications
+- Purpose:
++ Implement expansion project into 5 central pronvices ( Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh).
++ Building a raw material supply chain from Central Region suppliers.
++ Designing and constructing interiors consistent with the brand.
++ Launching campaigns for each store
+
+3. Constraints:
+- Scope:
++ 5 flagship stores for 5 central provinces including Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh
++ building a raw supply chain from Central region suppliers.
+- Time: 12 months
+- Budget: 8.5 billion VND ( approximately 1.7 billion VND/ store) .
+- Quality: Each store reach break - even point within 8 months after opening,
+
+
+Request 2: 
+5 main cost/budget items
+1. Choosing places for opening the store
+- Description: spending money on choosing a good places to open the stores that can attract the customers.
+- How to estimate:  surveying the prices, due to the price that base on the local sale.
+- Person in charged: the people who represent the team in each provinces.
+
+2.Building raw material supply chain 
+- Description: Building a raw material supply chain from Central region suppliers.
+- How to estimate: the price of the coffee which purchasing directly from Dak Lak's farmers. 
+- Person in charged: the people who have responsible in buying coffee.
+
+3.Designing and constructing for the store
+- Description: design, constructing buying more furnitures for each store.
+- How to estimate: the budget report from the team for any constucting works and purchasing. 
+- Person in charged: interior design team.
+
+4. Launching campaingns 
+- Description: Launching campaigns with opening day, marketing to attract customers
+- How to estimate: the proposal of the campaign and the report of the expanse fee while doing the marketing.
+- Person in charged: Marketing team
+
+5. Recruiting and training local personnel
+- Description: recruiting and  training the workers, waiters, managers for each store in each Central province.
+- How to estimate: The salary of the supervisors who driectly train for workers, waiters. manager. 
+- Person in charged: HR team, head manager of each store
+
+
+2)
+Request 3: 
+three project risks
+Risk 1:
+- Title: over budget
+- description: choosing good places to open a flagship store can led to over budget.
+- Impact: high
+- Mitigation: prepare careful the budget proposal for each task,connect to local people to get more information in each province, decrease the money that spend on the design Team.
+- Contingency: using reserve money, using cheaper furnitures for the coffee stores. 
+
+Risk 2: 
+- Title: The amount of customers is low
+- Description: because there are a lot of coffee stores around each provinces already. Also, some people may have their own favourite coffee store already.
+- Impact: high
+- Mitigation: prepare carefully marketing strategy, surveying the local people for more information about their habits in drinking coffee.
+- Contingency: make a sale on the opening day. Lower price for people when they go in group, colab with some transportation companies to attract more tourists. 
+
+Risk 3: 
+- Title: Human resources
+- Description: can't find enough workers, waiters, manger for each store
+- Impact: medium
+- Mitigation: HR team have to prepare early in the recruiting process. 
+- Contingency: increase slightly salary for each position. Focus more on training process for the quality human resources. 
+
+Request 4:
+- Define at least three project roles: 
++ Market Development Director as Project Manager (PM)
++ HR Team
++ Marketing team
++ Design team
+
+*Ten tasks/ activities and responsibilities of each role:
+1) Doing campaign
++ PM (A)
++ HR team (I) 
++ Marketing team (R)
++ Design team (C)
+
+2) Recruiting workers, waiters, managers
++ PM (A)
++ HR team (R)
++ Marketing team (I)
++ Design team (I)
+
+3) Surveying and selecting premises
++ PM (A)
++ HR team (R)
++ Marketing team (I)
++ Design team (I)
+
+4) Using budget for each store
++ PM ( R)
++ HR team (A)
++ Marketing team (C)
++ Design team (I)
+
+5) Training local personnel
++ PM (A)
++ HR team (R)
++ Marketing team (I)
++ Design team (I)
+
+6) Design and constructing interiors consistent with the brand
++ PM (A)
++ HR team (C)
++ Marketing team (I)
++ Design team (R)
+
+7) Buying furnitures for each store
++ PM ( A)
++ HR Team (I) 
++ Marketing team (I)
++ Desgin Team (R)
+
+8) Importing and purchasing DakLak's coffee 
++ PM (A)
++ HR team (I)
++ Marketing team (C)
++ Design team (I) 
+
+9) Building raw material supply chain
++ PM (R)
++ HR team (I)
++ Marketing team (C)
++ Design Team (I)
+
+10) Loaning banks
++ PM ( R)
++ HR team (A)
++ Marketing team (C)
++ Design team (I)

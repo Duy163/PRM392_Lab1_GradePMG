@@ -1,0 +1,72 @@
+1)
+Request 1:
+Project name: Coi Cafe Campaign
+Justification: 
+ Coi Cafe with famous for its nostalgic space, traditional drink menu, and using reusable cups, purchasing coffee directly from Dak Lak farmers. The pupose to implement this project is expansion project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai Binh Dinh), with 1 flagship store in each provine within 12 month. 
+
+The reason to implement this project is Coi's management want to bring and share a place where to have the nostalgic space and traditional drink menu for everyone can come there and enjoy.
+
+Project constrains:
+ - Scope: 
+   + The project focus on surveying and selecting premies.
+   +  Designing and constructing interiors consitent with the brand .   
+   + Recruiting and training local personel.
+   + Building a raw material supply chain form Central region suppliers.
+- Cost/Budget: The total budget is 8.5 billion VND (approximately 1.7 billion/store) from equity and commercial bank loans.
+- Time: 1 Flagship store in each province within 12 months and Each store must reach the break-even point within 8 months after opening
+- Quality: 
+
+Request 2: Five main budget items:
+-  Item 1: Marketing & Advertising
+  + Description: Cost for promotional activities such as social media, ads, KOL marketing, online or offline campaigns to attract target customer.
+  + Method & Owner: Parameric Estimating - Based on an average cost 1.000.000 VND/day over 2 month(30.000.000 VND) (In charge: Marketing Manager)
+- Item 2: Venue & Event Setup
+  + Description: Setup space, decoration, and Venue for store
+  + Method & Owner: Analogous Estimating: Based on costs from similar past store and event. (In charge: Coordinator)
+- Item 3: Staff & operation
+ + Description: Wager for temporary staff, sales assistant and operational expense during the campaign period.
+ + Method & Owner: Vendor Bid Analysis. Based on part-time staff rates and short-term hiring cost (In charge: HR)
+- Item 4: Promotional materials
+  + Description: Cost for packaging, brochures, and promotional item
+  + Method & Owner: Bottom-up Estimating. Calculate by invidual material and sample cost (Marketing Manager and Designer)
+- Item 5: Contigency Reserve:
+ + Description: Emergency budget for unexpected cost such as increase advertising event, event issues, or last-minute changes.
+ + Method & Owner: Top-Down Estimating: approximately 15% of the total budget for risk management (In charge: Project manager)
+
+Request 3:
+ - Risk 1: Low customer interest and poor marketing respone
+   + Probalibity: Medium
+   + Impact: High
+   + Mitigration plan: Conduct market research, test campaign ideas early, target the right customer
+   + Contingency plan: Adjust marketing strategy, change messaging or increase promotional budget.
+- Risk 2: Budget overrun  in marketing activies
+  + Probability: Low
+  + Impact: High
+  + Mitigration plan: Set clear budget limits, track expenses closely, priorities key activities.
+  + Contingency plan: Cut-non esternal campains or reduce scope of promotions.
+- Risk 3: Ineffective marketing chanels
+  + Probability: Medium
+  + Impact: Medium
+  + Mitigration plan: select suitable chanels monitor performance regulary
+  + Contigency: Shift budget to better-performing channels or try alternative platforms.
+
+Request 4:
+ - Three project roles:
+  + Project Manager (PM)
+  + HR
+  + Marketing (M)
+  + Designer(D)
+
+Ten tasks:
+ - Create marketing plan: PM(A), HR(C), M(R), D(C)
+ - Design flyer for advertiment: PM(A), HR(C), M(C), D(R)
+ - Collect surveying: PM(A), HR(R), M(C), D(C)
+ - Selecting premises: PM(A), HR(R), M(C), D(C)
+ - Traning local personnel: PM(A), HR(R), M(C), D(C)
+ - Design interior consistent: PM(A), HR(C), M(C), D(R)
+ - Constructing interior consistent: PM(A), HR(C), M(C), D(R)
+ - Recruting local personnel: PM(A). HR(R). M(C), D(C)
+ - Check process of campaign: PM(R, A), HR(C), M(C), D(C)
+ - Launching campaign: PM(R, A). HR(C), M(C), D(C)
+
+2)

@@ -1,0 +1,65 @@
+1)
+Request 1:
+1. Project name: the expansion Coi Cafe store.
+2. Justifications: famous for its nostalgic space, traiditional drink menu, and sustainable business model, using reusable cup, purchasing coffee directly from Dak Lak farners.
+3. Project Constraint:
+- Scope: expand into 5 Central provices, with 1 flagship store in each province. surveying and selecting premises, designing and constructing interiors consistent, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, launching campaigns for each store.
+- Budget/cost: VND 8.5 billion (approximately VND 1.7 billion/store)
+-Time: within 12 months
+- Qualitty: each store must reach the break-even point within 8 month after opening.
+
+
+
+Request 2:
+
+1. Rent place.
+Rent a place in town or city of Central provinces to build the flagship store each provice. Budget: total VND 700 million/year. Person in charged: Project Manager.
+2. Build store with the design team
+Designing, decorate each store. Budget: VND 300 million. Person in charged: Project Manager
+3. Buy table, cup, coffee instrument
+Buy all coffee instrument to make coffee, cups, table, chair for each store. Budget: VND 300 million. Person in charged: Project Manager.
+4. Buy coffee
+Buy more coffee from the Dak Lak farmer. Budget: VND 200 million. Person in charge: Project Manager
+5. Maketing
+Rent marketing team to make the coffee store popular. Budget: VND 200 million. Person in charged: Project Manager
+
+2)
+Request 3:
+Risk 1: Scope creep
+- Probiltiy: High , Impact: High
+- Response(Avoid): Strict change control
+
+Risk 2: The Key staff quit
+- Probitlity: Medium, Impact: High
+- Response(Mitigation): cross-train team member.
+
+Risk 3: Partner late
+- Probility: Medium, Impact: Medium
+- Response(Mitigation): Add schedule .
+
+
+Request 4:
+Three roles project:
+- Project Manager. (PM)
+- The interior design team. (DT)
+- marketing team. (MT)
+
+Task 1: recieve requirement,  task, start project   
+R: PM , A: PM , C: DT , I: MK
+Task 2: calculating  budget/cost and resource
+R: PM, A: PM. C: DT, I: MK
+Task 3: Decorate store space idea
+R: DT, A: PM, C: PM, I: MK
+Task 4: Buy more decoration item
+R: DT, A: PM, C: PM, I: MK
+Task 5: buy more chair, table, cups, coffee instrument.
+R: DT, A: PM, C: PM, I: MK
+Task 6: Decorate, change, move chair, table and space, bookshelf.
+R: DT, A: PM, C: PM, I: MK
+Task 7: buy coffee of Dak Lak farmer
+Task 8: rent a person to work
+R: PM, A: PM, C: DT, I: MK
+Task 9; Marketing store
+R: MK, A: PM, C: PM, I: DT
+Task10: Successfully deliverable
+R: PM, A: PM, C: DT, I: MK

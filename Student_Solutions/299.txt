@@ -1,0 +1,157 @@
+1)
+Request 1:
+- Project name: Bring Coi Cafe across VietNam Central provinces
+- Purpose: To expand, scale up Coi Cafe (12 stores in 5 Central provinces) and approach to more customer
+- Reason: Join the bigger market to find a new path for developing the brand, bring experiences such as nostalgic space to the customer
+- Project constraints:
+     + Scope: Surveying and selecting premises, designing and constructing interiors that consistent with the brand, recruiting and training local personnel, building raw material supply chain from Central region suppliers and lauching campaigns for each store
+     + Time: Each province has 1 flagshop store within 12 months
+     + Cost/Budget: Total budget is 8.5 billion VND, approximately invest 1.7 billion VND per store
+     + Quality: Each store need to reach the break-even point within 8 months after opening and start gain revenue
+
+Request 2:
+
+1/
+- Name: Shop or house renting fee
+- Description: Find and rent the convenience and suitable place to locate the store
+- Estimate: 360 million VND per store (4.32 billion in total) 
+- Way to estimate: Bottom-up, based on past flagshop store rent fee (12 months x 20 million VND)
+- Person in charged: Project Manager
+
+2/
+- Name: Designing and constructing interiors
+- Description: Spend money on design, building fee, finding the appropriate interiors supplier in order to keep the consistent style with the brand
+- Estimate: 240 million VND per store (2.88 billion in total) 
+- Way to estimate: Analogous, public interior quotes 
+- Person in charged: Design team leader
+
+3/
+- Name: Recruiting and training local personnel
+- Description: Hiring the local for the store's position and training them to operate the store smoothly
+- Estimate: 360 million VND per store (4.32 billion in total)
+- Way to estimate: Parametric, (base salary x work hours x 12 months)
+- Person in charged: HR team leader
+
+4/ 
+- Name: Building supply chain and connecting suppliers
+- Description: Connect with Central region suppliers  for signing contracts to prevent lack of supply, so that can build sustainable supply chain in a long term
+- Estimate:300 million VND per store (3.6 billion VND in total)
+- Way to estimate: Bottom-up, based on past contract, evaluate real situation with supplier at province (300 million VND is the total of different small part of supply in 12 months)
+- Person in charged: Project Manager
+
+5/ 
+- Name: Lauching campaign for each store
+- Description: Organizing events and campaigns for grand opening to marketing widely and increase the ratio customer return and buy product 
+- Estimate: 240 million VND per store (2.88 billion VND in total)
+- Way to estimate: Based on the past campaign's total fee of setup campaign, materials, prizes, discounting and marketing  
+- Person in charged: Marketing team leader
+
+6/
+- Name: Contingency reserve
+- Description: Reserve money for unexpected condition
+- Estimate: 200 million VND per store (2.4 billion VND in total)
+- Way to estimate: The remainder of major cost above
+- Person in charged: Project Manager
+
+Request 3:
+
+Risk 1:
+- Name: Unable to find suitable location for the store
+- Description: There's no location for rent that fit with brand criteria or problem with rent contract
+- Possible impacts:
+     + Scope/Quality: Looking for place in a rush, decrease the quality of survey and premises
+     + Time: It takes longer to start the design phase and delay all the next process
+     + Cost: May have to pay over the planned price
+- Mitigation: Post renting request, find place for rent, strictly follow the situation at the province to make decision immediately
+- Contingency: Rent the second suitable place than the most ideal place, decrease the criteria or find location outside, near city  
+
+Risk 2:
+- Name:  Unrelated store's design and interiors
+- Description: The design and interiors are not consistent with brand style
+- Possible impacts:
+     + Scope/Quality: The store cannot show the meaning and style of the brand and cause confusing for costumer when experience at different stores
+     + Time: Takes around a week to fix
+     + Cost: Waste money on unrelated interiors and have to use reserve money
+- Mitigation: Keep tracking and provide feedback to design team to gain appropriate and the most match result
+- Contingency: Re-design immediatly all the interiors and have may spend money from contingency reserve to solve the problem
+
+Risk 3:
+- Name: Exceed over budget
+- Description: Spend money over the price that has planned
+- Possible impacts:
+     + Scope/Quality: Over scope and not identiy what priority to do
+     + Time: Have to wait for more money or the process step has to be slow down 
+     + Cost: Use reserve money to keep the process working
+- Mitigation: Tracks all parts of the plan when it executing, remain the scope
+- Contingency: Choose priority work to complete and reduce unnecessary work to keep the budget
+
+
+Request 4:
+
+Roles:
+- Project Manager
+- HR team leader
+- Design team leader
+- Marketing team leader
+
+
+Task 1: Surveying and selecting premises
+R: Project Manager
+A: Project Manager
+C: Design team leader
+I: HR team leader
+
+Task 2: Designing and constructing store
+R: Design team leader
+A: Project Manager
+C: -
+I: HR team leader
+
+Task 3: Recruiting staff
+R: HR team leader
+A: Project Manager
+C: -
+I: Design team leader
+
+Task 4: Training new staff
+R: HR team leader
+A: Project Manager
+C: -
+I: Design team leader
+
+Task 5: Building raw material supply chain
+R: Project Manager
+A: Project Manager
+C: HR team leader
+I: Design team leader      
+
+Task 6: Lauching campaigns
+R: Marketing team leader
+A: Project Manager
+C: HR team leader
+I: Design team leader
+
+Task 7: Supply quality controll
+R: Project Manager
+A: Project Manager
+C: -
+I: Marketing, Design and HR team leader
+
+Task 8: Tracking the construction progress
+R: Design team leader
+A: Project Manager
+C: -
+I: Marketing and HR team leader
+
+Task 9: Evaluate the productive of marketing campaign
+R: Marketing team leader
+A: Project Manager
+C: - 
+I: Design and HR team leader
+
+Task 10: Generate statistics and reports
+R: Project Manager
+A: Project Manager
+C: -
+I: Design, Marketing and HR team leader
+2)

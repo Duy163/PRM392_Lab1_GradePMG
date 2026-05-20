@@ -1,0 +1,73 @@
+1)
+Request 1 : 
+1. Project name: Coi Cafe Project
+
+2. Purpose: This expansion project implement  into 5 Central Provinces with 1 flagship stoe in each province withing 12 months decided by Coi's management of Coi Cafe, Vietnamese coffe brand with 12 stotes in Hanoi an Ho Chi Minh City, famouse for its nostalgic, traditional drink menu, and sustainable business model.
+
+3. Project Constraints:
+- Scope: + Surveying and selecting premises
++ Designing and construcing interiors consitent with the brand.
++Recruiting and training local personnel 
++ Building a raw material supply chain from Central region suppliers.
++ Launching campaigns for each store.
++Implement project into 5 Central province (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+- Time: This project will implement with 1 flagship store  in each province within 12 months.
+- Cose/Budget: The total budget is VND 8.5 billion (approximately VND 1.7 billion/store) from equity and commercial bank loans.
+-Quality: Each store must reach the break-even point within 8 months after opening.
+
+Request 2: Five Main Cost/Budget Items:
+Cost 1: Running cost (VND 1.5 billion)
+- Description: Running cost during the project building.
+- Person in charged: Project Manager.
+Cost 2: Deploy cost(VND 500 million): 
+- Description: Deploy cost for project for 5 stores.
+- Person in charged : Lead of development team.
+Cost 3: Building a raw material supply cost  (VND 2 billion):
+- Description : Cost of building a raw material supply chain from Central region suppliers.
+-Person in charged: Project Manager. 
+Cost 4: Designing and constructing interiors cost(VND 2 billion)
+- Description : Cost of designing and constructing interiors consident with the brand.
+- Person in charge: Lead of marketing team or Project Manager.
+Cost 5: Marketing cost( VND 2.5 billion)
+- Description: All cost relative to marketing for final result quality.
+
+
+ 
+Request 3: Three project risks:
+Risk 1:  Over Total Budget.
+Description: The budget of project is more than VND 8.5 billion or VND1.7 billion for each store.
+Possible impact: This problem will break the temp of cost ealier when that finished. This thing impact to salary of staff, total budget of stores.
+Mitigation: To solve this problem PM must to report budget day by day  to control budget during process, remove unnessesary costs and take more bank loans.
+
+Risk 2:  Impossible reach the break-even point:
+Description: Each store can't  reach the break-even point within 7 months after opening.
+Possible impact: After 8 months still have some store don't reach the breakl-even point. This thing impact to the famost of brand and impact to quality temps.
+Mitigation: To solve this problem, marketing team musk to improve quality of marketing, access to some social-media platform, such as TikTok, Facebook, YouTube, to gain more visit of customer, expecially when these social-media platform are famous to make coffee stores trending today.
+
+Risk 3: Lack of experience employee
+Description: The number of employes or staff lack of members in the future.
+Possible Impact: Lacking of experience training of employee is also a problem with each store, that also break the quality temp. When a mistake of a employee can make a bad experience for customer, and make them don't want to comeback.
+Mitigation: HR must to make sure about quality of hiring employees. Staff also training very well to make sure about can't have mistake in customer'eyes.
+ 
+
+Risk 4: RACI:
+1. Three project roles: 
+- Project Manager.
+- Sponsor(Coi Cafe's management)
+- Marketing team leader.
+- HR team leader.
+- Development team leader.
+
+2. Ten activities: 
+- Training for new employees. (HR team leader)
+- Report all cost during project process.  (Project manager)
+- Take more bank loans if project over the total budget. (Project manager or sponsor)
+- Management and check working of development team.( Development team leader)
+-  Give PM Project requirement( Sponsor)
+- Make sure about marketing team trending store for gain more and more customer(Maketing team learder)
+- Checking github commit of coding ( Development team leader)
+- Analyst and control cost/budget correctly (Project Manager)
+- Contact with KOLs of social-media platforms ( Marketing team learder)
+- Choose and filter new employees when hiring( HR team leader).
+
+2)

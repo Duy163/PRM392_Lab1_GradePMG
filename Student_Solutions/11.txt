@@ -1,0 +1,67 @@
+1)
+Request 1: Narrative charter statement.
+Project name: Coi Cafe expansion project
+Purpose: expansion project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province.
+Reasons: Expasion Coi Cafe brand to Central provinces.
+Project Constraints:
+- Scope: expansion 5 store Coi Cafe in 5 Central provinces.
+- Time : within 12 months.
+- Cost : VND 8.5 billion (approximately VND 1.7 billion/store).
+- Quality: surveying and selecting premises, building a raw material supply chain from Central region suppliers, designing and constructing interiors consistent with the brand, recruiting and training local personnel, launching campains for each store,
+each store must reach the break-even point within 8 months after opening.
+Request 2: Main Cost/Budget Item.
+Budget Item: rent Coi Cafe place.
+- Name: rent Coi Cafe place cost.
+- Description: Choose place to rent for the store with good for price and place.
+- Estimation: choose place where the price is in budget and the income of the store can pay for rent fee, the place is nice to charm customer. person in charged is Coi's management.
+Budget Item: training cost.
+- Name: recruiting and training local personnel cost
+- Descrpiton: hiring and training local employees for the brand style
+- Estimation: Cost of training and salary for local employee and person in charged is HR team
+Budget Item: designing and constructing
+- Name: designing and constructing
+- Description: designing and constucting interiors consistent with the brand
+- Estimation: Cost the item to design and construct for the store, person in charge is interior design team.
+Budget Item: build supply chain
+- Name: build supply raw material chain
+- Description: building a raw material supply chain from Central region suppliers.
+- Estimation: find supplier and contact to get supplier.
+person in charge is Coi's management.
+Budget Item: launching campain
+- Name : launching campain
+- Description: launching campain in each store
+- Estimation: launching campain for the marketing, person in charged is marketing team.
+Request 3: Project Risk.
+Project Risk: Can not build a supply chain
+- Name: supply chain can not build
+- Description: supply chain can not be buillding beacause some reason like the region supplier not agree about the price or can not contact with supplier.
+- Possible Impact: store may can not reach break-even poin within 8 month, time of project might extend, and cost is overbudget.
+- Contingency: find a stable region supplier (can deal with Dak Lak farmer) and make a long life contact.
+Project risk: hard to find store place.
+- Name: store place finding.
+- Description: hard to find good location to place store, the location have a high rent price.
+- Possible Impact: can not reach break-even point for 8 month, the time to find location is to long that make the time of project can not within 12 months, the cost for high rent price make overbudget
+- Contingency: find the store location must less than 1 month and the price is good for budget.
+Project Risk: hiring and training
+- Name : hiring and training
+- Description: the time for hiring and training taking to long beacause of the local personnel not agree with the salary or working enviroment.
+- Possible Impact: time may extend, cost may increase and time to reach break-even point is longer than expect.
+- Contingency: dealing for employee good salary make them happy and building good working enviroment.
+Request 4: RACI chart.
+Project Role: 
+- Interior Design
+- Market Development Director
+- Marketing
+Task, Activities, Deliverables:
+- Design and Constructing interior consistent with the  brand
+- Surveys premises
+- Selecting premises
+- Contact region supplier
+- Launch campaigns
+- Recruiting local personnel
+- Training local personnel
+- Build a raw material supply
+- Advertisment for local customer
+- Find good coffe source
+
+2)

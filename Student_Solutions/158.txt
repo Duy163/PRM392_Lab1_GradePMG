@@ -1,0 +1,89 @@
+1)
+Request1:
+
+  Project name: Coi Cafe
+
+  Purpose: To provide nostalgic place, traditional drink menu, sustainable business model to customer
+using reuseable cups, purchasing coffee directly from DakLak farmers
+
+  Project's scope: 
+ + surveying and slecting premisis
+ + designing and constructing interiors consistent with the brand
+ + recruiting and training local personnel
+ + building a raw aterial supply chain from Central region suppliers
+ + launching campaigns for each store
+  
+  Time: 12 months
+
+  Cost: 8.5 billion VND
+  
+  Quality: Each store must reach the break-even point within 8 months after opening
+
+
+
+Request2:
+
+ 5 main cost items:
+   1. Designing and contructing interiors with the brand cost
+    description: Cost of designing brand and contructing interior with the brand of the project
+    estimation: 500 million VND (
+    personal in charged: interior design team lead
+   2. Building supply chain from Central region suppliers cost
+     description: Cost for building supply chain
+     estimation: 2 billion VND
+     person in charged: PM Market Development Director
+   3. Marketing project brand
+     description: marketing brand of the project to customer.
+     estimations: 1 billions VND
+     personl in charged: marketing team lead
+   4. Getting project worker cost
+    description: getting people to work in the project 
+     estimate: 1 billions VND 
+    perosnal in charged: HR team lead
+   5. Launching campaigns for each store 
+     description: lauching campaigns for each store 
+     estimate: 2 billions VND
+     person in charged: Market Developmemt Director
+
+Request3:
+ 3 Project risks:
+
+   1. Not collect enough survey and selected premisis (scope)
+      Description: too poor survey and selected premisis for the project
+      Impact: Hard to execute the project when have little information
+      Mitigation: Create a specific timeline and plans before surveying and slecting premisis
+      Contigency: Expanding time in control to collecting enough survey while doing other works
+
+   2. Bad designing and contructing interiors with the brand (Quality)
+     Description: bad design team makes bad design with the brand
+     Impact: affects the popularity of the project in negative way. leads to lack attention of people.
+    Mitigation: choose the interior design team with high skill-based
+    Contigency: get a professional designer to train and review result from the current design team
+
+   3. The delay of launching campaigns for each store (time)
+    Description: launching campaigns for each store happen late 
+    Impact: bad effect to other continueous activities of the project
+    Mitigation: Have early timeline and plan to execute the work early
+    Contigency: Make emergent meet to have backup plans for it
+
+
+Request 4:
+ Project roles:
+  
+  PM, interior design team, HR team, marketing team
+  
+ Ten activities:
+  collect survey and selected premisis ( MK team lead responsible)
+  designing project brand ( design team lead responsible)
+  recuiting and training peronnel ( HR team resposible)
+  build supply chain (PM)
+  launching campaigns (PM)  
+   
+ 
+ 
+
+
+
+
+ 
+2)

@@ -1,0 +1,107 @@
+1)
+Request 1:
+Narrative Charter statement:
+1. Project Name: Coi Cafe Expansion Campaign
+2. Justifications: Expand and increase the popular of Coi Cafe brand to the other central province in Viet Nam beside Hanoi and Ho Chi Minh City. So that, make the development, increase the value of Coi Cafe, more and more Vietnamese people can enjoy Vietnam's coffee made of raw material from Vietnamese farmer, increase the value of Viet Nam's coffee. 
+3. Project constraints:
+ - Scope: 1 flagship store in each province in the list of 5 Aim Central Provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) 
+ - Time: 12 months
+ - Bugget: 8.5 billion VND overall, each of store bugget is 1.7 billion approximately
+ - Quality: Each of store in every province in plan must reach the break-even point within 8 months after opening.
+
+Request 2: Main cost/budget items:
+1. Name: Store Designing Cost
+   Description: The budget to get interior designer and architecture to make the overall design of store in both interior and external look. This is the main thing that attract the customer to choose the store to enjoy. So that, really essential to make it unique, impressive and related to province where the store located.
+  Estimation: 50 milion VND/architecture
+  The way to estimate: This cost include the money to hire an experience architecture for consulting and draw the overall architecture before construction. The average salary of expert architecture is approximately 300 thoundsand VND/h
+   
+2. Name: Surverying, ads, recruitment cost
+    Description: Before start to launch the cafe, it is important to have a team to make the survey of needs of people in the specific location, run the advertisement by a lot of ways such as a brand marketing, besides launch the pre-recruitment campaign to hire staff for the store
+   Estimation: 120 milion VND/month
+   The way to estimate: In the first stage of project, there are about two weeks for surveying team of 7 people to make the survey of nearby population. Marketing team of 3 have both mission of post the recruting and ads.  (About 400 thoundsand VND/day/person)
+
+3. Name: Training, onboarding and hire staff for the cafe.
+   Description: Training Cost for the first staff teams, and hire staff for the running process of the cafe
+   Estimation:75 milion VND/ month
+   The way to estimate: The training process need a professional bartender from the brand in about 3 days. It approximately take 500 thoundsand VND/day. The store need at least 10 staff to run in the first stage (every staff cost 30 thoundsand VND/h)
+
+4. Name: Cafe construction Cost
+    Description: This is the cost to construct the cafe building, include the interior material (table, air-conditioner,...) base on the design of the architecture.
+    Estimation: 1 billion VND
+    The way to estimate: This is include the cost for the worker, machine, material (concrete, sand,...) for the store in about one month building.
+
+5. Name: Coffee shop management program
+    Description: Every coffee shop are need the specifiic programs (Web, app, Casher, and IOT device) to enhance the customer experience and also better management.
+    Cost: 50 milion VND/year
+    The way to estimate: Base on the company that supply the program, and how big is the coffee. They are sold by license and charge by year. So that, becasue of the new store, buying the medium license (about 4 milion VND/ month) is the best choice.
+
+6. Name: Budget for risk case
+    Description: Not every store opening is good and quality, we need to keep some budget so that some risk appear, the store are not passive.
+    Estimation: 110 milion VND
+    The way to estimate: Casully, this cost is estimated at about 10% of main cost which is spend for the store
+2)
+Request 3: The project risks:
+1. Name: Fail/Delay in building the store
+    Description: Because the store must reach the break-even point within 8 months after open, so when the contruction progress is delay or cancel by any reason. This is the highest risk that lead to the failure.
+   Impact: High (It delay all of the plans of marketing, ads running, wasting time and cost)
+   Responses plans: Mitigate (the architecture, constructing teams and management of Coi Cafe need to report, meeting usually to minimize the risk and having the suitable plan immediatly when something bad happen)
+
+2. Name: Difficult in material to get supply chain from the suppliers.
+    Description: In the Coffee Business, there are many opponent in every province, when the brand first time startup at new place, it may attract some opponents nearby to cause some difficult by making supply chain delivery to be hard. (Especially Coi Cafe using reusable cups, purchasing coffeee from Dak Lak farmer,...). Moreover, in spite of central province, there are some place hard to get there.
+    Impact: High (if there are no enough material, all of the business will be cancelled)
+    Responses plans: Mitigate, instead of depends on one suppliers, try to expand the connections to the others, so that, if one of them is having trouble, the store also have many others choices. Beside, making the relationship to the other cafe nearby to make the friendly business environment among the store.
+
+3. Name: Difficult in attract the customer.
+    Description: Nowadays, many customer have their own taste, choice,... so that it is really hard to make them change the store they usually get.
+    Impact: High (if there are no customer, the business activities will be cancelled)
+    Responses plan: Mitigate, especially follow the marketing and surveying team in the first stage. That is the main ways to attract new customers. The marketing team should have multiple plan to attract many groups of people. Enhance the user experience quality so that increase the rating of store, also the percentage that customer comeback.
+
+Request 4: RACI chart:
+1. Roles: 
+- Market Development Director as Project Manager (PM)
+- HR
+- Marketing
+- Designer
+This is a list of 10 tasks related to the project and responsibilities of each role in the project:
+1. Designing interior and exterior of the store
+RA (Responsibilities,Accounting): Designer 
+I (Inform): PM
+
+2. Surveying people in the area
+RA: Marketing, HR
+C (Consulting): PM 
+
+3. Recruiting people
+RA: HR
+C: PM
+I: Designer, Marketing
+
+4. Training local peoples
+RA: HR
+C: Marketing, PM
+
+5. Build a raw materials supply chain from region suppliers
+RA: PM
+I: Marketing, HR, Design
+
+6. Launching campaigns
+RA: Marketing, Design
+C: PM, HR
+
+7. Monitoring the running process of store
+RA: PM
+I: HR, Marketing, Design
+
+8. Report the store evaluation to the Chef
+RA: PM
+I: HR, Marketing, Design
+
+9. Running advertisement
+RA: Marketing
+C: PM
+I: HR, Designer
+
+10. Manage the risk and customers
+RA: PM
+C: HR, Marketing
+I: Designer

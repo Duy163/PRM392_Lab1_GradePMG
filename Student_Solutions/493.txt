@@ -1,0 +1,27 @@
+1)
+Request 1 - Project Charter Statement
+The project name is Coi Cafe Central Expansion Project 2026. This project is created to help Coi Cafe expand its business into 5 Central provinces in Vietnam, including Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh. The mains purpose is to grow the brand in a new market, increase revenue, and make Coi Cafe more well-known across Vietnam. This project is also important because the Central region has many tourists, strong coffee demand, and good business potential. By opening one flagship store in each province, Coi Cafe can attract new customers and build a stronger market position. The project also supports the company’s long-term goal of becoming a leading Vietnamese coffee brand with a sustainable business model.
+
+The project has several important constraints. In terms of scope, the project only includes opening 5 flagship stores in the selected Central provinces, not nationwide expansion. The work includes market research, finding locations, store design and construction, hiring and training staff, building supply chains, and launching marketing campaigns. In terms of time, the project must be completed within 12 months, so all stores must be ready on schedule. In terms of cost, the total budget is limited to VND 8.5 billion, so spending must be controlled carefully. In terms of quality, each stores must follow Coi Cafe’s brand style, provide the same service quality, and use sustainable materials and operations. Each store must also reach break-even within 8 months after opening, which creates strong pressure on both performance and quality.
+
+Request 2 - The first cost item is Store Rental and Deposit Cost. This cost covers renting store locations and paying deposits in five provinces. It can be estimated by comparing rental prices in each area. The Project Manager and Finance team are responsible.
+
+The second cost item is Interior Design and Construction Cost. This includes store design, furniture, decoration, and construction work. It can be estimated by collecting quotations from contractors. The Interior Design Team is responsible.
+
+The third cost item is Recruitment and Training Cost. This covers hiring local staff and training them before store opening. It can be estimated based on staff quantity, salary, and training fees. The HR Manager is responsible.
+
+The fourth cost item is Supply Chain Setup Cost. This includes supplier setup, transportation, and inventory preparation. It can be estimated by comparing supplier and logistics costs. The Operations Manager is responsible.
+
+The fifth cost item is Marketing and Launch Cost. This covers advertising, promotions, and opening events for each store. It can be estimated based on campaign plans and event budgets. The Marketing Manager is responsible.
+2)
+Request 3 - Project Risks
+The first risk is Construction Delay. This may happen because of slow contractors, permit problems, or lack of materials. It can delay store opening and increase costs. To reduce this risk, the team should monitor progress weeklyy and prepare backup contractors.
+
+The second risk is Low Sales After Opening. This happens when a store has too few customers and cannot reach break-even on time. It can cause financial loss. To reduce this risks, the team should choose good location and run strong local marketing campaigns.
+
+The third risk is Supply Chain Disruption. This happens when suppliers are late or product quality is unstable. It can affect store operations and customer experience. To reduce this risk, the team should prepare backup suppliers and keep safety Rstock.
+
+Request 4 - RACI Chart Description
+The main project roles are Project Manager, Interior Design Team, HR Manager, Operations Manager, and Marketing Manager. The Project Manager controls the full project. The Interior Design Team handles store design and construction. The HR Manager handles hiring and training. The Operations Manager manages supply and operations. The Marketing Manager handle promotion and store launch.
+
+The main tasks include market research, location selection, lease negotiation, store design, construction, supplier selection, recruitment, staff training, marketing campaign, and store opening. In most tasks, the Project Manager is Accountable, while each department is Responsible for its own work. This helps all teams members understand their roles clearly and avoid confusion during project execution.

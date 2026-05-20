@@ -1,0 +1,128 @@
+1)
+Request 1
+      1. Project name: Coi Cafe flagship stores.
+      2. Reason: Coi Cafe is a famous coffee brand for its nostalgic space, traditional drink menu, and sustainable business model( using reusable cups, purchasing coffee directly from Dak Lak farmers). 
+       Purpose: Coi's management want to expand their business, open 1 flagship store in each Central provinces. 
+     3.  Scope: surveying and selecting premises, designing and constructing interiors consistent with brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and lauching campaigns for each store.
+        Time: 12 months
+        Cost/budget: VND 8.5 billion (approximately VND 1.7 billion/store)
+        Quality: Each store must reach the break-even point within 8 months after opening.
+
+
+
+Request 2:
+     Five main cost/budget items:
+         1. Name: Surveying and premises.
+             Description: Run ads on website or social media to make surveying and selecting premises.
+             How to estimate: Based on which website and social media run ads, some of them is free.
+             Person in charged: HR and Marketing team  
+
+         2. Name: Designing and constructing interiors consistent with the brand.
+             Description: Amount of money to desgin and construct interiors, make them to be consistent with the brand.    
+             How to estimate: Based on the difficulity of designing and constructing interiors. 
+             Person in charged: Director
+
+         3. Name: recruiting and traning local personnel.
+             Description: The cost of recruiting and training local personnel.
+             How to estimate: The cost based on the time that they use to recruit and trainning local personnel. 
+             Person in charged: HR team
+
+         4. Name: Building a raw material supply chain
+             Description: The cost of building a raw material supply chain from Central region suppliers.
+            How to estimate: The cost based on the scope of chain
+            Person in charged: Project Leader
+
+        5. Name: Lauching campaigns for each store
+            Description: The cost of running campaigns to attract more customer come to store.
+            How to estimate: The cost based on how long campaigns lasts and the scope of campaigns. 
+            Person in charged: Design and Marketing team
+
+
+
+Request 3: Three project risks
+      1. Name: Run out of budget
+           Description: Some of stores use more than VND 1.7 billion during 12 months so the total budget isn't enough.
+           Impact: high
+           Mitigation: Change the method of work to reduce the use of money like don't lauch huge campaigns.
+
+      2. Name: The service isn't good
+           Description: Some staffs don't behave well so customers isn't happy with that and they dislike brand.
+          Impact: high
+          Mitigation: Should have some courses to training staffs and make surveys for customers feedback.
+          Contingency: Say sorry to customers and give them voucher for next time.
+
+      3. Name: Don't reach the break-even point
+          Description: Store don't reach the break-even point within 8 months after opening.
+         Impact: Medium
+         Mitigation: They should make a suitable timeline of their work to reach on time.
+          Contingency: They should speed up their work as much as possible.
+
+Request 4:
+      Roles: Coi's management, Project manager, Project team
+      1. Initial project:
+           Project manager: R
+           Coi's management : A
+           Project team: I
+
+       2. Give total budget:
+            Project manager: A
+            Coi's management: C
+            Project team: I
+ 
+        3. Implement project:
+             Project manager: R
+             Coi's management: C
+             Project team: A
+
+        4. Survey and select premises:
+             Project manager: A
+             Coi's management: C
+             Project team: R
+
+         5. Design and construct interiors:
+              Project manager: A
+              Coi's management: I
+              Project team: R
+
+          6. Recruiting and training local personnel:
+               Project manager: R
+               Coi's management: I
+               Project team: A
+         
+           7. Building a raw material supply chain:
+               Project manager: A
+               Coi's management: C
+               Project team: R
+
+           8. Launch campaigns
+               Project manager: R
+               Coi's management: C
+               Project team: A
+
+           9. Close project
+               Project manager: R
+               Coi's management: A
+               Project team: I
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+      
+
+
+2)

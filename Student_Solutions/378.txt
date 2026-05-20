@@ -1,0 +1,110 @@
+1)
+Request 1:
+Project name: Implement an expansion Coi Cafe project
+Purpose and reasons: The project Coi Cafe will be implement an expansion project in to 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) with 1 flagship store in each province within 12 months after Coi Cafe implemented 12 stores in Ha Noi and Ho Chi Minh City
+Project constraints:
+Scope:This project includes: surveying and selecting premises, designing and constructing  interiors consistent with the brand, recruiting and traning local personnel, building a raw material supply chain from Central region suppliers, and lauching campaigns for each store and each store must reach the break-even point within 8 months after opening
+Time: The project have duration limited is 12 months for implement stores in 5 Central provinces with 1 flagship store in each provinces
+Cost/budget: Project has total budget is VND 8.5 billion (approximate VND 1.& billion/store) from equity and commercial bank loans.
+Quality: Each store must reach the break-even point within 8 months after opening.
+
+Request 2:
+Cost 1: Cost for location, legal 
+Description: Costs for renting temporary coffee shop and legal fee in provinces
+How estimation: 35% of total budget, estimation based on legal fee and rent the location for opening coffe shop
+Person in charged: Project manager
+Cost 2: Staff costs
+Description: Costs for staffs work  in coffee shop
+How to estimation: 30% of total budget, estimation based on number staffs, working hour, hourly wage ( day x hour  x rate)
+Person in charged: HR team
+Cost 3: Marketing cost
+Description: Costs for adverting, social media, promotional to attract customer about coffee shop
+How estimation: 15% of total budget, estimation based on previous marketing campaign
+Person in charged: Marketing team
+Cost 4: Transportation, delivery supplies
+Description: 15% of total budget. The cost for transportation, delivery, storage of products
+How estimation: estimation based on trasporttation fee in different location
+Person in charged: Project manager
+Cost 5: Contingency cost
+Description:5% of total budget. This is a small fund from total budget to ensure coffee shops do not have unexpected issues, emergency costs, minor repair
+How estimation: estimation 5 - 10%  from total budget ensure total budget will not exceed the planned budget
+Person in charged: Project manager
+
+Request 3:
+Risk 1: Schedule project delay
+Description: Project may be delayed due to poor planning, resource unavaiable or unexpected issued
+Posible impacts:
+Scope/quality: Tasks may be rushed, reducing quality
+Time: Schedule project is extended
+Cost: Cost will be increase due to additional resource 
+Response:
+Mitiligation: additional resources or monitor progress regularly
+Contingency: Create one more detail schedule or additional resoure if delay occur
+
+Risk 2: Budget overrun 
+Description: Budget project may be exceed the allocate planned budget due to inaccurate estimation or unexpectation costs
+Posible impacts:
+Scope/quality: Some project acctivities may be reduce or removed
+Time: Project may be delayed while securing additional fund to ensure project continue
+Cost: Cost will increase due to addition fund 
+Response:
+Mitiligation: monitor costs regularly and ensure usage costs effectively
+Contingency: Prepare contingency fund for project if the project do not has enough cost due to delay or unexpected issues 
+
+Risk 3: slow stakeholders satisfaction
+Description: Custommer or stakeholders has unsatisfied due to project outcomes or deliverables 
+Posible impacts: 
+Scope/qualityProject may do not meeting requirement or unexpected deliverables
+Time: Project may be extend for revision or improvements
+Cost: Cost will increse due to rework or compensation 
+Response:
+Militigation: Revise deliverables, communication with team member regularly
+Contingency: Provide solution to address dissatisfaction
+ 
+Request 4:
+Three project roles are:
+- Project manger Coi Cafe
+- Sponsor Coi Cafe
+- Team member Coi Cafe
+Ten tasks are:
+1) Define projecet charter
+Project manager Coi Cafe (A)
+Team member Coi Cafe (C)
+Sponsor Coi Cafe (I)
+2) Gather project requirements
+Project manager Coi Cafe (A)
+Team member Coi Cafe (C)
+Sponsor Coi Cafe (I)
+3) Create project plan
+Project manager Coi Cafe (A)
+Team member Coi Cafe (C)
+Sponsor Coi Cafe (I)
+4) Accquire project resources
+Project manager Coi Cafe (A)
+Team member Coi Cafe (C)
+Sponsor Coi Cafe (I)
+5) Design solution or prototype
+Project manager Coi Cafe (A)
+Team member Coi Cafe (C)
+Sponsor Coi Cafe (I)
+6) Quality assurance and testing
+Project manager Coi Cafe (A)
+Team member Coi Cafe (C)
+Sponsor Coi Cafe (I)
+7) Report progress
+Project manager Coi Cafe (A)
+Team member Coi Cafe (C)
+Sponsor Coi Cafe (I)
+8) Resolve issues or bugs
+Project manager Coi Cafe (A)
+Team member Coi Cafe (C)
+Sponsor Coi Cafe (I)
+9) Final project report
+Project manager Coi Cafe (A)
+Team member Coi Cafe (C)
+Sponsor Coi Cafe (I)
+10) Project handover and closing
+Project manager Coi Cafe (A)
+Team member Coi Cafe (C)
+Sponsor Coi Cafe (I)
+2)

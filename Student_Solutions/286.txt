@@ -1,0 +1,121 @@
+1)
+RQ1:
+1. Project Name
+Coi Cafe Central Region Expansion Project
+2. Justifications
+Purpose: Coi Cafe wants to grow. We will open 5 new flagship stores in Central Vietnam.
+Reasons: The brand is already famous in Hanoi and Ho Chi Minh City. Now, we want to bring our traditional coffee and green business to 5 new provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh). This will help the company make more money.
+3. Project Constraints
+Scope: We must open exactly 5 stores. The work includes finding locations, building interiors, hiring local staff, finding local suppliers, and running marketing campaigns.
+Time: The project must finish in exactly 12 months.
+Cost/Budget: The total budget is VND 8.5 billion. This means we have about VND 1.7 billion for each store. We cannot spend more than this.
+Quality: Each store must look nostalgic. They must sell our traditional menu and use eco-friendly cups. Also, every new store must break even within 8 months after opening.
+RQ2:
+5 Main Cost Items
+1. Store rent and deposite
+Description: Money to rent 5 places. We must pay deposit to the landlords first.
+Estimation: 1.5 billion VND.
+Way to estimate: PM will ask local agents for market price. They use analogous estimating from our old stores. Person in charge: PM.
+2. Interior contruction and design
+Description: Make the store look nostalgic. It needs traditional style. This take a lot of money.
+Estimation: 3.5 billion VND.
+Way to estimate: Bottom up estimation. The design team count all materials like wood and lights. Then they caculate total. Person in charge: Interior design team.
+3. Coffee equipments and furnitures
+Description: We buy coffee machines, fridge, and reusable cups.
+Estimation: 2 billion VND.
+Way to estimate: Get direct qoutes from sellers. We use parametric estimating (price of 1 machine x 5 stores). Person in charge: PM.
+4. Hiring and tranining staffs
+Description: Find local people. Teach them how to make our traditional menu.
+Estimation: 0.5 billion VND.
+Way to estimate: HR team check local basic salary. They estimate training cost based on hours needed. Person in charge: HR team.
+5. Grand opening maketing
+Description: Run ads when the stores open. We need many customers to reach break-even soon.
+Estimation: 1 billion VND.
+Way to estimate: Use historical data from old campaigns in Hanoi. They set a fixed budget per store. Person in charge: Marketing team.
+RQ3:
+3 Project Risks
+1. Cannot find good locations
+Description: We need 5 big spaces in nice streets. But maybe the good places are already taken by other coffee shops.
+Possible Impacts:
+Scope/Quality: The store might be smaller than we want.
+Time: It takes many months to find, so the project is late.
+Cost: We have to pay higher rent to get a good place.
+Risk Response Plans:
+Mitigation: Start searching right now. Hire local brokers to help us find fast.
+Contingency: If we cannot find any place in month 3, we must accept a higher rent price or a smaller size.
+2. Contruction is too slow
+Description: The local workers might work very slow. Sometimes the weather in Central is bad and they have to stop working.
+Possible Impacts:
+Scope/Quality: The store looks ugly because they rush to finish it.
+Time: We miss the 12 months deadline.
+Cost: We must pay extra money for workers to do over-time.
+Risk Response Plans:
+Mitigation: Choose very famous builders. The PM must check their work every single week.
+Contingency: If they are late, we hire another team to work at the night shift.
+3. Fail to find local suppy
+Description: We want to buy materials from Central suppliers to save money. But their coffee quality might be bad.
+Possible Impacts:
+Scope/Quality: The drinks do not taste like our traditional Coi Cafe.
+Time: We waste a lot of time testing bad suppliers.
+Cost: Shipping materials from far away will cost a lot of money.
+Risk Response Plans:
+Mitigation: Test the materials very early. Ask them for samples before we sign the contract.
+Contingency: If all local suppliers are bad, we just ship coffee directly from our old farm in Dak Lak.
+RQ4:
+1. Project Roles
+PM (Project Manager): The boss. He manages everything.
+Design Team: The people who draw and buid the store.
+HR Team: They hire and teach new staffs.
+Maketing Team: They run ads and make grand opening campaing.
+2 & 3. Tasks and Responsibilities (Note: R = Responsible, A = Accountable, C = Consulted, I = Informed)
+Task 1: Make the master project plan
+PM: R, A
+Design Team: C
+HR Team: C
+Maketing Team: C
+Task 2: Find 5 store locations
+PM: R, A
+Design Team: C
+HR Team: I
+Maketing Team: I
+Task 3: Sign the rent contracts
+PM: R, A
+Design Team: I
+HR Team: I
+Maketing Team: I
+Task 4: Draw store interior design
+PM: A
+Design Team: R
+HR Team: I
+Maketing Team: I
+Task 5: Buid the store (contruction)
+PM: A
+Design Team: R
+HR Team: I
+Maketing Team: I
+Task 6: Buy coffee machines and cups
+PM: R, A
+Design Team: I
+HR Team: I
+Maketing Team: I
+Task 7: Hire local staffs in 5 provinces
+PM: A
+Design Team: I
+HR Team: R
+Maketing Team: I
+Task 8: Train staffs for the menu
+PM: A
+Design Team: I
+HR Team: R
+Maketing Team: I
+Task 9: Find local raw material suppy
+PM: R, A
+Design Team: I
+HR Team: I
+Maketing Team: I
+Task 10: Run the grand opening campaing
+PM: A
+Design Team: I
+HR Team: I
+Maketing Team: R
+2)

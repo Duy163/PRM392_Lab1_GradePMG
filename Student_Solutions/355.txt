@@ -1,0 +1,116 @@
+1)
+Request 1;
+1. Project name: Coi Cafe
+2. Justifications: Coi Cafe provides a nostalgic space , traditional drink menu to help the customers have a field trip to the old days while enjoying coffee made directly by Dak Lak farmers. The project also provides an sustainable business model for anyone who wants to invest in this project.
+3.
+- Scope:1 flagship store in 5 Central provinces(Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh).
+-Time: 12 months to establish 1 flagship store. 
+-Cost/Budget: 8.5 billion VND.
+- Quality: Each store must reach the break-even point within 8 months after opening.
+
+Request 2:
+- 5 main cost/budget item:
++ Surveying and selecting premises.
++ Designing and constructing with the brand.
++ Recuiting and training local personal.
++ Building a raw material supply chain.
++ Launching campaigns.
+
+Detail:
+1.
+- Name: Surveying and selecting premises.
+- Description; Collecting information online or offline to catch up with the trend or style of the local and customers needs.
+- Way to estimate: Estimate by the reactions and answers of the survey. This will be led by the marketing team.
+
+2. 
+- Name: Designing and constructing with the brand.
+- Description: This will make the brand iconic and easy to realize when the customers visit.
+- Way to estimate: Using survey or social platform when they search for the "Cong" keywords. This will be led by the constructing and designing team.
+
+3. 
+- Name: Recuiting and training local personal.
+- Description: Make sure the quaility of the human resources meets up with the given standard.
+- Way to estimate: The amount of needed employee given to the HR team. This will be led by the HR team.
+
+4. 
+- Name: Building a raw material supply chain.
+- Description: Supply chain takes a big part in the outcome of the product so choosing the right and affordable supply chain is the key factor of this project.
+- Way to estimate: Checking at the farm and factories directly to ensure supply in good quality or a  professional inspector. This will be led by the PM and staff members in the project.
+
+5.
+- Name: Launching campaigns.
+- Description: Help the project range be recognized as much as possible.
+- Way to estimate: The amount of reactions and involvement in the campaign. This will be led by the  marketing team and PM.
+
+
+
+2)
+Reuqest 3:
+- 3 project risks;
++ Unsustainable product quality.
++ Past the 8 months break-even point.
++ Employee management.
+
+1.
+- Name: Unsustainable product quality.
+- Description: The goods being provided to the customers might not be evenly in terms of quality and the customer's liking which will decrease the amount of revenues the store and project gets. 
+- Possible impacts: Will greatly impact the quality, time and cost of the project if not handle carefully.
+- Response: Regurlarly checks for quality and asks the opinion of the product on any platform.
+
+2. 
+-Name: Past the 8 months break-even point.
+- Description: This means the money stream doesn't meet up with the cost of the store which will greatly affect the original budget.
+- Possible impacts: Slow down the scope of the project and will need time, money and cost to be higher than expected.
+- Response: Continue the investment if past 2 to 3 months and the store doesn't bring much progress then close.
+
+3.
+-Name: Employee management.
+- Description: The project aims to have as many store as possible in the 5 Central provinces so it might run into some trouble when dealing with the salaries, lack of employees or not meeting up with the standard if not monitored carefully.
+- Possible impacts: This will mainly slow down the stream of money and time to form an effective working environment.
+- Response: Strictly when hiring a manager for each store and may need extra training time for new employment.
+
+Request 4:
+
+- 3 project roles: HR, marketing, PM.
+
+Activities | Responsibilities 
+1. Surveying and selecting premises:
+- HR: R
+- Marketing: A 
+- PM: I
+2. Designing the store:
+- HR: I
+- Marketing: C
+- PM: A
+3. Recuiting employee:
+- HR: R
+- Marketing:I
+- PM: A
+4. Training employees:
+-HR: R
+- Marketing: I
+- PM: I
+5. Contacting with the suppliers:
+- HR: I
+- Marketing: I
+- PM: C
+6. Confirming the task:
+- HR: I
+- Marketing: I
+- PM:R
+7. Give information to the investors:
+- HR: I
+- Marketing: I
+- PM: R
+8. Scripting the event campaign:
+- HR: C
+- Marketing: R
+- PM: A
+9. Hiring staff for the event campaign:
+- HR: R
+- Marketing: A
+- PM: I
+10. Reporting the status of the campaign:
+- HR: I
+- Marketing: I
+- PM: R

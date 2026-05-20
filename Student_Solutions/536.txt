@@ -1,0 +1,150 @@
+1)
+Request 1: Define at least 2 project objectives using SMART criteria
+Objective 1:
+
+The project aims to open five new Coi Cafe flagship stores in Central Vietnam, including Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh, within one year.
+
+Specific: The project focuses on setting up one store in each selected province.
+Measurable: Success can be measured by the number of stores opened and ready for daily operation.
+Achievable: This goal is realistic because Coi Cafe already has 12 stores in Hanoi and Ho Chi Minh City, so the company has basic experience in store expansion.
+Relevant: This objective supports Coi’s plan to grow its brand outside the two biggest cities in Vietnam.
+Time-bound: The five stores should be completed and launched within 12 months.
+
+Objective 2:
+
+The project also aims to prepare a stable operating system for all new stores before their official opening.
+
+Specific: This includes staff recruitment, training, supplier coordination, store procedures, and launch preparation.
+Measurable: The objective can be measured through completed training records, signed supplier agreements, and approved store operation checklists.
+Achievable: It is achievable because the company can reuse part of its existing store model and adjust it for the Central region.
+Relevant: A store cannot perform well if the team, materials, and operation process are not ready.
+Time-bound: The operating system should be ready before each store opening date.
+
+Request 2: Define the scope for this project
+
+In-Scope Items:
+Conducting market research in the five selected Central provinces.
+Finding and selecting suitable premises for each flagship store.
+Designing the store interior based on Coi Cafe’s nostalgic concept.
+Managing construction, decoration, furniture, and basic equipment setup.
+Hiring local employees for each store.
+Training staff on customer service, drink preparation, and store operation.
+Finding suitable suppliers in the Central region.
+Preparing launch marketing campaigns for each province.
+Monitoring early store performance after opening.
+
+Out-of-Scope Items:
+Opening stores in provinces outside the five selected locations.
+Changing Coi Cafe’s main brand identity or core menu.
+Building a new mobile application or complicated digital system.
+Developing a franchise model for outside investors.
+Expanding to foreign markets.
+Renovating the existing 12 stores in Hanoi and Ho Chi Minh City.
+
+Key Deliverables:
+Five flagship stores ready for operation.
+Approved location reports for all five provinces.
+Completed interior design and construction work.
+Recruitment and training records for local employees.
+Supplier list and supply agreements.
+Marketing plans and launch materials for each store.
+Store operation checklist and basic SOPs.
+Early financial and performance reports after opening.
+
+
+Request 3: Define at least 5 quality assurance (QA) or quality control (QC) activities
+
+1. Market and Location Review (QA):
+Before signing rental contracts, the team should review each location carefully. They need to check customer traffic, rental price, nearby competitors, parking convenience, and whether the area fits the brand image. This helps reduce the chance of choosing a poor location.
+
+2. Budget Review (QA):
+The project team should review the budget plan for each store before major spending starts. Since the total budget is VND 8.5 billion, cost control is quite important. This review helps make sure that construction, rental, marketing, and staff costs are still within the approved budget.
+
+3. Interior Design Approval (QA):
+Each store design should be checked and approved before construction begins. The purpose is to make sure the design still reflects Cofi Cafe’s nostalgic and traditional style. If the design is not reviewed early, the store may look inconsistent with the brand.
+
+4. Construction Quality Check (QC):
+During the construction stage, the project team should inspect the site regularly. They should check finishing quality, layout, safety, lighting, furniture installation, and equipment placement. This helps detect mistakes early and avoids expensive rework near the opening date.
+
+5. Staff Service Test (QC):
+After training, employees should be tested through role-play or trial service. For example, they can practice taking orders, preparing drinks, handling complaints, and explaining menu items. This ensures staff are ready before dealing with real customers.
+
+6. Soft Opening Review (QC):
+Before the official launch, each store should have a soft opening for a small group of customers. The team can observe service speed, drink quality, customer feedback, and store workflow. Any serious issue should be fixed before the grand opening.
+
+Request 4
+
+I will analyze this project schedule and address each question systematicaly.
+
+a. What are paths in the network diagram for the deliverable?
+
+To identify all paths in the network diagram, I will trace each possible route from Start to End:
+
+Start → A → B → C → G → End 
+= 3 + 4 + 6 + 3 = 16 months
+Start → A → B → C → G → I → End
+= 3 + 4 + 6 + 3 + 4 = 20 months
+Start → D → B → C → G → End
+= 2 + 4 + 6 + 3 = 15 months
+Start → D → B → C → G → I → End
+= 2 + 4 + 6 + 3 + 4 = 19 months
+Start → D → E → F → G → End
+= 2 + 3 + 3 + 3 = 11 months
+Start → D → E → F → G → I → End
+= 2 + 3 + 3 + 3 + 4 = 15 months
+Start → D → H → I → End
+= 2 + 2 + 4 = 8 months
+
+b. Identify the minimum duration to complete that deliverable?
+
+The minimum duration is decided by the critical path, which is the longest route through the network.
+
+Based on the paths above, the critical path is:
+
+Path 2: Start → A → B → C → G → I → End = 20 months
+
+Therefore, the minimum duration to complete the deliverable is 20 months.
+
+c. What are activities which have the most flexibility (in term of time)?
+
+To determine flexibility, we need to look at the activities that are not on the critical path. These activities usually have more slack or float time.
+
+Based on the network:
+
+Activity D is not on the critical path, so it has some flexibility.
+Activity E is also outside the critical path and may be adjusted if needed.
+Activity F has flexibility because the route D → E → F → G → I is shorter than the critical path.
+Activity H seems to have the most flexibility because the path Start → D → H → I → End is only 8 month, much shorter than 20 months.
+
+Based on this, Activity H likely has the most flexibility in terms of time.
+
+d. Solutions to recover a 3-month delay during activity C (Construction)
+
+If there is a 3-month delay during construction, the project manager should mainly focus on the remaining activities on the critical path. Here are four possible solutions:
+
+1. Fast-tracking remaining activities:
+Start preparing the marketing campaign while construction is still in progress.
+Begin operation setup before the construction work is fully finished.
+Assumption: These teams can work at the same time without causing major conflicts.
+Result: This may save around 1–2 months.
+
+2. Crashing critical path activities:
+Add more workers, extend working hours, or hire extra contractors for construction and operation setup.
+Try to reduce construction time and operation setup time.
+Assumption: Extra budget is available and the additional workers can work efectively.
+Result: This could recover about 2–3 months.
+
+3. Scope reduction:
+Remove or simplify some non-essential decoration details.
+Keep only the most important parts that represent Coi Cafe’s brand image.
+Assumption: Management accepts a simpler design as long as the store still looks consistent with the brand.
+Result: This may save about 1 month.
+
+4. Alternative execution strategy:
+Hire specialized contractors for urgent construction tasks. 
+Re-sequence some tasks, such as equipment installation, staff preparation, and supplier testing, so they can happen earlier.
+Assumption: The new task order is technically possible and does not create serious quality risks.
+Result: This may help recover up to 3 month if the team controls the work carefully.
+
+Each solution has trade-offs between time, cost, and quality. In my opinion, the best option is to combine fast-tracking and crashing, because the project has a strict opening schedule and delays may affect the launch plan.  
+2)

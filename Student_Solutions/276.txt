@@ -1,0 +1,107 @@
+1)
+Request 1:
+1. Project name: Coi Cafe
+2. 
+- Problem: The Coi's management wanted to implement an expansion project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh).
+- Need: 1 flagship store in each province within 12 months.
+- Solution: By surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store.
+3.
+- Scope: 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+- Time: 12 months flagship store in each province
+- Budget/Cost: 8.5 billion VND (approximately VND 1.7 billion/store)
+- Quality: Must reach the break-even point within 8 months after opening
+
+ Request 2:
+1. Team Members income payment
+2. Manufacturer Costs
+3. Maintainance Costs
+4. Renting plot costs
+5. Contingency Reverse Costs
+2)
+From here we will make a website that support the project (surveying management, advertising poster on the page to attract and recruit users, training local personnel online, and can manage to announce the progress and the KPI break-even point before the month eight for IT Admin and PM)
+- Name website: Coi Cafe Flagship
+
+Request 3:
+1.
+- Name: API Services downtime
+- Description: There may be an API service of the website (like an API function from the third-party that helps to manage and records the survey in realtime) is down or in maintainance at anytime.
+- Probability: Low
+- Impact: Medium
+- Risk level (Probability x Impact): Low
+- Strategy response: Accept: Prepare the contingency reverse to replace the API from others party if neccessary
+2.
+- Name: Resignation of any members in the team of the project
+- Description: A member or more in many teams in project (HR Team, Marketing Team) is resingned, and nobody can replace to do their work. So that work will be delayed.
+- Probability: Medium
+- Impact: High
+- Risk level: High
+- Strategy Response: Mitigation: Fix the policy about  member's income and each member needs to be assigned work in a balanced way.
+3.
+- Name: Website Server Overloaded
+- Description: Due to the project extension into 5 Central Provinces, there might be too many users access (or send request) to the site, and the server is down.
+- Probability: High
+- Impact: High
+- Risk level: High
+- Strategy Response: Mitigate: Purchase the third-party that can manage these requests like Cloudflare to stop multiple requests being sent continiously.
+
+Request 4:
+Roles:
+- The Market Development Director (PM)
+- Interior Design Team (DT)
+- Marketing Team/Business Analysis (BA)
+- IT Team (IT)
+1. Gather users requirements and selecting premises:
+- PM: C
+- DT: I
+- BA; R, A
+- IT: I
+2. Design and construct interiors consistent
+- PM: C
+- DT: R, A
+- BA: C
+- IT: I 
+3. Set up Develop environment
+- PM: I
+- DT: I
+- BA: I
+- IT: R, A
+4. Design website system architecture
+- PM: I
+- DT: I
+- BA: I
+- IT: R, A
+5. Design Database Schema
+- PM: I
+- DT: I
+- BA: C
+- IT: R, A
+6. Code Back-end:
+- PM: I
+- DT: I
+- BA: I
+- IT: R, A
+7. Design UI/UX Figma
+- PM: C
+- DT: I
+- BA: I
+- IT: R, A
+8. Code Front-end:
+- PM: I
+- DT: I
+- BA: I
+- IT: R, A
+9. Deploy Website
+- PM: A
+- DT: I
+- BA: I
+- IT: R
+10. Prepare documents and policy for the projects and website
+- PM: R, A
+- DT: I
+- BA: I
+- IT: I
+11. Advertising website and project campaign
+- PM: C
+- DT: I
+- BA: R, A
+- IT: I

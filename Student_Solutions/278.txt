@@ -1,0 +1,98 @@
+1)
+Request1:
+-Project name: Coi Cafe
+-Purpose & Reasons: to implement an expansion project into 5 Central provinces.
+-Project constraints:
+  Scope: expansion project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh),  
+  Time: province within a year (12 months)
+  Cost/budget: total budget is VND 8.5 billion (approximately VND 1.7 billion/store)
+  Quality: Each store must reach the break-even with 8 months after opening.
+
+Request 2:
+1. Software Development Cost:
+  Description: develop building core system, design and testing code by IT
+  Estimation: Bottom-up estimation based on team (4 developer x month salaries x project duration)
+   Lead by Project Manager
+   Charged: VND  3 billion
+2.UI/UX design cost:
+  Description: design, prototype, functional web.
+   Estimation: Expert judgment based on maket design service rates.
+   Lead by UI/UX head team
+   Charged: VND 1 billion
+3.Infrastructure & Server Cost:
+   Description: cloud storage, hosting, server address.
+   Estimation: Vender quotation and analogous estimatation from previos IT.
+   Lead by IT head team
+   Charged:  VND 500 million
+4.Trainning & Deployment Cost:
+   Description: staff train, technical support manual.
+   Estimation: Parametric estimation based on number of users and training sessions.
+    Lead by HR lead Team
+    Charged: VND 2 billion
+5. Maketing Cost:
+    Description: ads, maketing on social media, paper.
+    Estimation: Expert judgment based on maket marketing service rates.
+    Lead by maketing head team
+    Charged: VND 1 biilion
+6.Testing & Security Cost:
+    Description: bug fixing, security audits quality assurance.
+    Estimation: Bottom-up estimation based on testing resources and tools.
+    Lead by QA 
+    Charged: VND 1 billion
+Total buget is VND 8.5 billion for 6 main cost/budget items.
+
+Request 3:
+1.Risk1 : Cost Overrun: (cost)
+ Description Development and interfrasture expenses may excuted the allocated budget.
+  Mitigation: Control spending through budget monitoring, scope mangement
+  Contigency: Use reverse fundsor reduce non-critical system feature
+
+2 Risk2: Shedule Delay:(time)
+  Desciption: limted developer of each staff and project requirement. Project may later plan.
+  Mitigation: need to support by other team to completed project.
+   Contigency: can use some staff for other work if project need to fast to completed.
+
+3. Risk3: Output product: (quality)
+  Description: quality of product had been bad rating, user and costomer complain product.
+   Mitigation: check and fixbug errors, renew product if user and costomer feel boring. Testing and make functional exciting.
+   Contigency: project manager always checking with high frequency, connect to team( call video, diary report, check WBS document and plan). 
+
+Request4:
+1. Project role: Market Development Director as PM, coordinating with the interior design team, HR team, IT. marketing team.
+2. ten task and project role:
+ 1.Create document plan survey and selecting premises.
+ 2.Review document plan
+ 3.Design UI/UX 
+ 4.Design make functional, prototype
+ 5.Create back-end API
+ 6.Create front-end interfrasture
+ 7.Make AI assistance
+ 8.Review functional and fixing bug
+ 9.User and Costmer Testing
+ 10.Deploy the system
+ 11.Marketing the system
+ 12. Training local personnel
+ 13. Launching campaigns
+3.
+ 1. PM(R,A), IT(C), design(I),HR(C)
+ 2. PM(R,A), IT(C), design (I),HR(C)
+ 3. PM(A), IT(C), design(R),HR(I)
+ 4.PM(A), IT(C), design (R),HR(I)
+ 5. PM(A), IT(R), design (I),HR(I)
+ 6. PM(A), IT(R), design(I),HR(I)
+ 7. PM(A), IT(R), design(I),HR(I)
+ 8. PM(A), IT(R), design(I),HR(I)
+ 9. PM(A), IT(R), design(R),HR(I)
+ 10.PM(A), IT(R), design(R),HR(I)
+ 11.PM(A), IT(I), design(I), maketing(R)
+ 12. PM(A), IT(I), design(I), HR(R), maketing(C)
+  13. PM(R,A),IT(I), design(I), HR(C), marketing(C)
+  
+    
+
+
+
+
+
+
+2)

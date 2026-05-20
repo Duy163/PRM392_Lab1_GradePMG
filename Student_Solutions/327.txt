@@ -1,0 +1,37 @@
+1)
+Request 1:
+   1.  Project name: Coi Cafe - Vietnamese Traditinal Drink and Sustainable Materials
+   2. Justifications:
+   - Purposes: The Coi Cafe project aim to expansion in 5 central provinces to build and spread the sustainable ecosystem.
+   - Reasons:
+    + Spreading green ecosystem from supply materials to drink menu, specially cafe which from Dak Lak farmers.
+    + building raw materials supply chain from Central region suppliers.
+   3. Constraints: 
+   - Scope: expansion into 5 central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh).
+   - Time: 12 months with 1 flagship store in each provine.
+   - Cost/budget: VND 8.5 billion (approximately 1.7  billion/store)
+   - Quality: each store reach the break-even point in 8 months after opening.
+
+Request 2: Five main cost/budget items:
+   1. Coffee: the  most important part of project. Cause of project ideal, the quality of coffee beans must be high quality so the price is high too.
+   2. Interiors: project follow on nostalgic space so its required more component and time to design and build.
+   3. Rent properties: to approach customers effectively, Coi Cafe must be locate at critical  location where have big amount of people and vehicle so the price to rent properties to build store could be increase multple of 3 or 4 than orther location.
+   4. Marketing: cost to marketing at 5 central provinces  is high. To approach customer, marketing team could run advertisemments on social network at city or  hang the banner in the road in long time.
+   5. Employee salary: the base salary at central provinces is higher 2 or 3x than orthers provinces.
+2)
+Request 3: Three project risks:
+   1. Out of project budget: can increase cost to expansion in 5 province than expected based on geography, climate, human or materials. This impact critical to budget, then the time to develop.
+   2. Local competitors: citizen at 5 central province may not prefer the Coi Cafe project than the existing cafe stores at local which may vary on some reason such as curiosity, prices, habit and relationship.
+   3. 
+
+Request 4: Three project roles: Market Development Director (PM), Interior Designer and Marketing  Team. The task below follow the format: Task | Role relevant | Role responsibilities in RACI chart
+   1. Design the interior blueprint | Interior Designer, PM  | R, A
+   2. Building and design store | Interior Designer, PM | R,  A
+   3. Marketing plan for opening | Marketing Team, PM | R, A
+   4. Approve marketing plan | PM | R
+   5. Management marketing plan in different provinces | Marketing Team, PM | R, A
+   6. Opening event at store | PM, Marketing Team | R, I
+   7. Decor store for opening event | Interior Designer, Marketing Team | R, I
+   8. Management flagship store | PM | R
+   9. Run ads for sales event and good deal on weekends | Marketing team, PM | R, A
+   10. 

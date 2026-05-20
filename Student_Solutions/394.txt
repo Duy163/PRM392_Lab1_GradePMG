@@ -1,0 +1,89 @@
+1)
+Request 1:
+- Project name: Provinces Coi Cafe Flagship Store Expansion
+- Purpose: To make people in around Vietnam could actually taste the traditional pure coffees that are farmed directly fron Dak Lak farmers and enjoy the nostalgic space to heal their mind, Also to make the changes of hiring employees to create jobs for more people in Vietnam.
+- Project constraints:
++ Scope constraints: make sure to implement an expansion for just 5 Central provinces have been planned and 1 flagship store in each province and must not have redundants.
++ Time constraints: 1 flagship store must be completed within 12 months.
++ Cost constraints: each store have minimum budget for 1.7 billion each store
++ Quality constraints: each store have to reach the required break-even point like the required revenue, required sustainable business model like using reusable cups, coffee is from Dak Lak farmers, required supply chain from Central region suppliers, required amount of lauching campaigns within 8 months after opening.
+
+Request 2:
+Five main cost/budget items' names are:
+- Nostalgic space:
++ Description: To find the best nostalgic space for each shop, required the cost for the native people to surveying, the cost to hiring a space and the cost to maintain the space.
++ Estimation:
+** 20 million for surveying if using a cheap but fit in with finding a space with nostalgic space.
+**100 million for hiring a space depending on the cubes of spaces
+**50 million each month for the cost to maintain the space like the electrical bills, water bills, updating the house or technology.
+- Sustainable business model:
++ Description: Coi Cafe using reusable cups and purchasing coffee directly from Dak Lak farmers which makes more cost compared to the unreusable cups or lower quality of usual coffee.
++ Estimation: 30 million per month for both reusable cups and Dak Lak coffee, also the cost for transportition.
+- Design and contructing interiors consistent with the brand:
++ Description: to make people feel interesting about Coi Cafe required a massive cost for marketing, discounts, VIP customers service.
++ Estimation: 50 million a month for all three of them
+- Supply chain from Central region suppliers:
++ Description: To have a raw and high-quality products Coi Cafe needs to have a conversation with Central region suppliers and building a supply chain fron Central region suppliers, they have to pay for each of the transportation Central region suppliers give to.
++ Estimate: 70 million for each of transportation.
+- The total salary for employees:
++ Description: each salary for each team requires the amount fit in with the work for that team but also in range of the total budget.
++ Estimation: For PM would be the average of PM salary is 40 million/month, assume each team of the three remaining teams have 2 people, they will count 15 million per person so 1 team is 30 million per months multiply by three they will have 90 million for salary of remaining people add to the total of 130 million per month.
+
+2)
+Request 3:
+Three risks name are:
+- Disaster from one of the place:
++ Description: Most of 5 Central provinces is from the middle of Vietnam so it has to be more disaster compares to the north or the south. Disasters like volcanos, very strong wind could blow out the entire house could effected for store if disaster happens.
++ Possible impacts:
+** Quality impacts: the transportation could be effected for transporting reusable cups, purchasing coffee from Dak Lak farmer and even raw material supply chain from Central region suppliers.
+** Time impacts: The store could not reach the required break-even point within 8 months so they maybe have to break the time constraint with 1 flagship store in each province within 12 months into more months.
+** Cost impacts: They maybe have to take part of the total budget to recover from the disaster so the cost could affect to employees' salaries, they have to reduce the cost of the total budget after recover is not enough.
++ Relevent risk response plans:
+** Mitigation plan: have a clear recover plan if disaster happened, reduce the transportation into minimum if they can to reduce cost.
+** Cintingency plan: have a small bunker for emplyees also the products from being damaged.
+- The customers go in and purchase are very minimal:
++ Description: Even thought the store have a very high-cost marketing or discount, it could be very many reasons why customers are not interested in purchasing coffees or enjoying the nostalgic places in the store.
++ Possible impacts:
+** Quality impacts: the required revenue is effected, the suppliers could be reduced.
+** Time impacts: could not reach the break-even point within 8 months after opening.
+** Cost impacts: could not have enough money to maintain the store and call supplys also bank loans.
++ Relevent risk response plans:
+** Mitigation plan: Work together with team again to redesign a better strategy for marketing, discount and VIP customer. Surveying again to make sure the store meets the user's needs.
+** Contingency plan: Minimize the cost for the store, turn off electrical devices if do not use them, reduce the supplying at minimum.
+- The suppliers have the problem could transporting late:
++ Description: the reasons that beyond the store's mind could effected the flow of the supply chain and makes the problem with that. May be the cups or the coffee is transported a day after the day needs to be transported could reduce the cost and increase the waste if that day after could not sell products enough.
++ Possible impacts:
+** Quality impacts: if this thing happens to regularly, it could cause a big serious ploblem for break-even point for revenue.
+** Time impacts: It could be a 1 day wasting after the problem of transportation.
+** Cost impacts: A lot of waste products and the not enought supplies for 2 days also cause a serious lost for cost of that store, also if that thing happen to regularly, it could make the massive loss for total budget.
++ Relevent risk response plans:
+** Mitigation plan: Guessing the disaster could be happened, always watching news to guessing the thing could cause the delay.
+** Contingency: recycle the supplies yesterday, buying the nearest supply store and saying sorry to customers.
+
+Request 4:
+- 3 project roles: Market Development Director as PM, design team as DT, marketing team as MT.
+- 10 tasks:
++ Design a nostalgic space:
+** PM: C
+** DT: R/A
+** MT: I
++ Survaying and selecting premises
+** PM: R/A
+** DT: R
+** MT: R
++ Designing and constructing interior consistent with the brand:
+** PM: R
+** DT: R
+** MT: R/A
++ Building a raw material supply chain from Central region suppliers:
+** PM: R/A
+** DT: I
+** MT: I
++ Launching campaigns:
+** PM: A
+** DT: I
+** MT: R
++ Estimates and make the number of revenue or the time on tracked:
+** PM: R/A
+** DT: I
+** MT: I

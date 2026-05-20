@@ -1,0 +1,68 @@
+1)
+request 1: 
+1. project name: the expansion of coi cafe into 5 cental provinces in viet nam project.
+2. justification: coi cafe decided to expand into 5 central provinces in vietnam with 1 flagship store in each province, such as: da nang, hue, quang nam, quang ngai, binh dinh, this project will run for 1 year. the reasons why this project came out are the demand of coi cafe of surveying, selecting premises, designing and constructing interiors consistent, recruiting and training local personel, building a rae material supply chain from central region suppliers, and lauching campaign for each store.
+3. constraint scope: 5 central provinces in vietnam, such as: da nang, hue, quang nam, quang ngai, binh dinh.
+constraints time: the project will implement within 1 year, and each store must achiev the break-even point in 8 months after opening.
+constrainst cost/budget: the total budget for all activities in this project is vnd 8.5 billion, especially vnd 1.7 billion per store. from equity and commercial bank loans.
+constrainst quality: the quality must reach the break-even point in 8 months each store. completing the survey, selecting premises, designing and constructing interiors consistent with the brand, recruiting and traing local personel, building a raw material supply chain from central region suppliers, and launching campaigns for each store.
+request 2: 
+5 main cost/budget items:
+1. scouting location of each store in each provinces.
+the place where we surveying and selecting premises are very important. the place must located in center city of each province. where we can reach to alot of ages, varios customers, the local personel.
+estimate way: analogous.
+person in charged: project manager.
+2. editing and designing cost for the project.
+the edit and design fees for this project with the demand the designing and constructing interiors consistent with the brand.
+estimate way: pametric estimation
+person in chargerd: production manager.
+3. video/picture project
+beside the editing team, the camera operation and the equipments, such as: camera, lighting,... for social ads.
+estimate way: bottom-up
+person in charged: production manager.
+4. 
+5.
+request 3: 
+identify 3 project risks:
+1. project can not reach to the satisfaction of customer because of the increase of foreign coffee brand in coffee market.
+probability: high.
+mitigation risk response plan: we must create a thoughtful, meaningful message for each campaign, to promote the pure coffee of vietnam local brand in our own city. 
+contigency risk reponse plan: crashing , such as booking legit kols/influencers on social media to try, taste and review about the quality of coi cafe. or we can complimentary for the lucky guest in any campaigns, events of coffee to upgrade brand's awarness.
+2. the weather in 5 provinces often cause alot of rain for longer days reduce the amount of guest and delay the timeline of the campaign.
+probability: high.
+mitigration risk response plans: upload informations of the weather in few months on social media to the customers. tell them the day the campaign reset.
+contigency: upload the apologize for the bad weather, prepare gift for the guest who still come to the store to buy drinks.
+3. 
+
+request 4: 
+project manager
+production manager (designer, art director, director,...)
+marketing team
+kols/influencers
+risk manager
+ten tasks, activities:
+1. checking the prepation of project:
+check the milestone of each phase, the preparation, finalize the lists in promotion and campaigns.
+r - poject manager
+2. do the camera job, editing, vfx, granding color coordinating with the interiors of the brand.
+r-production manager
+3. check sources, the final video, poster, proposal, web,...
+r/a-project manager.
+4. check and control the budget to fit with the constrainst of each activities. advoid over budget.
+a-project manager.
+5. scout and rent the place, indoor studio for campaigns or shooting day.
+r-production manager.
+6. booking kols/influencers for ads on social media platform.
+r-production team
+7. read the cript, acting and being friendly to the customers.
+i-kols/influencer.
+8. start promoting the campaigns, create various content to get attraction from the customers.
+r-maketing team
+9. strictly check while the campaign day open. prevent negative risk.
+r-risk manager
+10.
+
+
+
+
+2)

@@ -1,0 +1,76 @@
+1)
+request 1:
+1. Project name : Coi Cafe
+2. Justifications:
+- purpose: surveying and selecting premises
+- designing and constructing interiors consistent with the brand
+- recruiting and training local personnel
+- building a raw material supply chain from Central region suppliers and launching campaigns for each store
+3. Project constraints:
+- in terms of scope: 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+- time: in each province within 12 months
+- cost/ budget: the total budget is VND 8.5 billion (approximately VND 1.7 billion/ store)
+- quality: each store must reach the break-even point within 8 months after opening
+
+request 2:
+five main cost items:
+1. construction:
+- Money to build a complete cafe, buying interiors 
+- Following with the GDP on person in every provinces
+2. Marketing:
+- running ad on social media ( TikTok, Facebook,...), booking KOL,KOC for advertaising
+- VND 50 million for all the project
+
+3. Material:
+- Buying material for the cafe including coffee, tea, machine, tables, chairs 
+- Following the amount the PM wanted to paied,
+4. Staff salary:
+- paying staff every month
+- with a cafe just need at least 4 staff on a shift, it will be 2 shift a day, for each part-time staff will earn VND 25 thousand/ hour
+5. Electric fee:
+- every single machine in a cafe is using electric ( coffee machine, light, air conditional, camera)
+
+request 3:
+three project risks:
+1. name: can not reach the break-even point on time
+- description: the KPI of each cafe following by the place, the people cause of that can not using the same KPI for every cafe
+- possible impact : medium
+- mitigation: fixing the KPI with every cafe shop 
+- contingency: giving more time to complete the KPI
+
+2. name: increases the material
+- description: the price of material going up more than expect. Because coffe are purchase directly from Dak Lak farmers so the price of coffee going with the price of petrol.
+- possible impacts: high
+- mitigation: learn to do by ourself, 
+- contingency: find another sellers
+
+3. name: training local presonal
+- description: hard to find and training enough staff in expect, cause not every provinces have the tradition in using coffee.
+- possible impacts: low
+- mitigation: create survey, fanpage to find people that have hobbit with coffee
+- contingency: paid more salary to find people at this point.
+
+request 4
+1. project role: 
+- Project management
+- Interior artchitector
+- Human resource team
+2. tasks:
+- Going up idea
+- Skecht idea
+- Selecting premises
+- Designing and constructing cafe
+- Find interiors matching the cafe  vibes
+- Purchasing materials
+- Recruiting people
+- Training staff 
+- Marketing project
+- Runing project
+3. 
+- PM: going up idea , selecting premises, runing project
+- Interiorr design team: sketch ided, design and constructing , find interiors
+- HR team: purchasing materials, recruiting people, training staff
+- Makerting team: marketing project
+
+
+2)

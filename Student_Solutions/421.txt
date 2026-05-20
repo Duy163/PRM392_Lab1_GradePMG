@@ -1,0 +1,102 @@
+1)
+Request 1:
+
+Project name: Coi Cafe central provinces expansion project
+
+Justification: The project primary purpose is to expnase and spread out to 5 central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) to increase the market size and also increase the brand identification to Vietnamese by its famous nostalgic shop house space and traditional drink menu. Another side purpose is to make use of the local material and culture to expand the brand diversity and strengthen the Vienamese traditional aspect of the brand
+
+Constraint:
+
+-Scope: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw mterial supply chain frrom Central region suppliers, and launching campaings for each store
+-Time: 12 months
+-Cost/Budget: VND 8.5 billion
+-Quality: have a fully analyzed statistic from the survey and design an interiors consistent with the brand. Fully utilize local supply material and human resource.Furthermore, enhance brand strength by enrich traditional culture by each province culture
+
+Request 2:
+
+Cost item 1:
+- Name: Infrastructure cost
+- Description:Equipment cost, store monthly renting fee and other operation fee (water, electricity,e.g )
+-Estimation: 20 million per month for each store = 1 billion in total for 5 store and 10 month operation
+- In charged: Project manager
+
+Cost item 2:
+-Name: Marketing plan launch
+-Description: Building diversity , long term marketing plan and strategy for each province to fit local customer interest. Including: Local content creater, food reviewer, influencer collab; SEO; Social media platform advertise; opening discount campaign;e.g
+-Estimation: 500 million for each store = 2.5 billion in total of 5 stores
+-In charge: Marketing team
+
+Cost item 3:
+-Name: Raw material supply
+-Description: Material supply for operation for each store
+-Estimate: 50 million per month for each store = 2.5 billion for total 5 stores and 10 month in operation
+-In charge: Project manager
+
+Cost item 4:  
+-Name: Staff salary
+-Description: Staff is the core and the key resource for planning and launching the project. Including design team, HR team, marketing team, Project manager.
+-Estimation: 2 billion in total
+-In charged: HR manager
+
+Cost item 5: Contingency budget
+-Description: The cost for mitigate the negative risk and budget for back up plan when negative risk come
+-Estimate: 100 million for each store = 500 million in total
+In charged: Project manager
+
+Total budget of all items for the operation of the project is 8.5 billion VND (fit the total budget of the project) -> Efficent use 100% of total budget 
+
+Request 3:
+
+Risk 1:
+Title: Varity of target province
+Description: The increasing rate of low adaptability and possibility to meet to each province culture and local customer interest beacause of the diversity in culture of each province (which is really contrast within the 5 targeted provinces )
+Scope: Little impact on the scope of the project
+Time: Major impact, high chance of increasing the total project schedule because of the increasing in market research and survey time
+Cost: Moderate impact, increasing in time of project schedule will follow up with the increasing in operation cost
+Quality: High impact, adjusting product attribute to fit the interest and need of multiple local customer at once is very risky.
+Mitigation: Dividing the scope of project into multi phase for a certain group of province at once
+Contingency: Ready to shift the resource and invest to the positive result province
+
+Risk 2: 
+Title: Quality affected by the new raw material supply source
+Description: The risk of trying new material supply from central region to cut down shipping cost and fit local culture have a high chance of decreasing in quality of product.
+Scope: Little impact on scope
+Time: Moderate impact, high chance of increasing time to find and adjust new source of supply to meet the traditional quality of product
+Budget: High impact, increasing in time make the operation cost increase and also the cost for testing new supply
+Quality: High impact, high rate of change and decrase in product quality
+Mitigation: Taking local expert advise in coffee material
+Contingency: Prepare plan to switch back to the tradition supply source
+
+Risk 3: Budet overrun
+Description: Infrastructure and operation cost in each province is contrast can make the budget increase
+Scope: Little impact
+Time: Little impact
+Budget: High impact
+Quality: Little impact
+Mitigation: Create a careful and proper budget estimations
+Contingency: Set up contingency budget to back up
+
+Request 4:
+a) Project Manager (PM) - Design team - Marketing team
+b) 
+Activity 1: Create survey question for local market estimation
+PM: A - Design team: C - Marketing team: R
+Activity 2: Launching survey in target province local 
+PM: A - Design team: I - Marketing team: R
+Activity 3: Analyze survey result 
+PM: A - Design team: I - Marketing team: R
+Activity 4: Interior planning based on survey result and local customer interest
+PM: A - Design team: R - Marketing team: C
+Activity 5: Interior designing and constructing
+PM: A - Design team: R - Marketing team: I
+Activity 6: Review and give permission for interior design
+PM: R - Design team: A - Marketing: I
+Activity 7: Prepare and setup marketing plan for each province local
+PM: A - Design team: C - Marketing team: R
+Activity 8: Review and give permission for marketing plan
+PM: R - Design team: I - Marketing team: R
+Activity 9: Launching marketing plan 
+PM: A - Design team: I - Marketing team: R
+Activity 10: Analyze market reaction to the plan
+PM: A - Desgin team: I - Marketing team: R
+2)

@@ -1,0 +1,66 @@
+1)
+Request 1
+
+- Project Name: Coi Cafe
+- Justification
+     Purpose: the project is planned to be expain into 5 Central provinces ( Da Nang, Hue ,Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 months 
+- Project Contraints:
+ cannot find suitable location to place the store or the supplier of the material for the project 
+ Scope : expain project into 5 Central  provinces with 1 flagship store in each province 
+Time 12 months 
+cost/budget 8.5 billion ( approximately VND 1.7 billion/ store) 
+Quality the project have 4 role in it ( include 1 Market Development Directot as PM, interior design team , HR team adn marketing team ) and it must reach the break-even point with 8 months after opening 
+
+Request 3 
+- Risk 1: The delay to evaluate the project 
+   + Description; The project may not finished on time duel to several reasons such as cannot find approviate location to place the store, cannot find the right interior supplier  or lack of material to decorate the store,...
+  + Possible impacts : Medium 
+  + Mitigation Plan : all the plan evaluate to the project about the store must plan carefully before the project run before 1 months 
+  + Contigency Plan: plan to find multiple supplier or sign longterm contract to those suppiler to ensure all the material needed or the location can run on time 
+
+- Risk 2 : the lack of Communication between teamate make the project delay
+   + Description : the lack of communication between each roles or each teamate in the team made the project may run in the wrong way duel to missunderstanding 
+    + possible Impact: Medium 
+    + Mitigation Plan: the manager of the project must create more meeting time on extenal meeting tool ( google meet, team , zalo call,... ) for the team and for each person in the project to check the process of the plan 
+   + Contigency plan: Require people in the team must send the report about the finish percentage of what they have done in the project ( include what they havent done yet ) and the percentage of collaborate of other teamate during doing the project  
+- Risk 3: Poor caculate the budget leading to the overun 
+   + Description poor planning about the budget of the project may lead to overun the budget and reduce the quality of the project 
+   + Possible impact: high
+   + Mitigation Plan : Reduce the time do the project by hire more employ  or require the team to do overtime to help the plan run on time 
+   Contigency plan: The budget for the project must higher than the first number 10% to deal with overun if it happen
+   
+2)
+Request 2:
+ Five main cost/ budget item 
+  1. Rent the location to place the store 
+    Description: to run the project efficency the location to place the store must place where have alot of people live around or in the crowded street food by that it require the high amount of money to rent 
+  Estimate: roughly 1,2 billion VND as the location must place where have alot of people ( such as near schools. city center ,  or street food ) . With 1.7 billiion VND per store the main of these budget place to rent the location and decore the store 
+ Person in charge must be the Martket Development Director 
+  2. The budget to buy the matterial for the store 
+  Description : Along side with the budget for rent the store . Another important thing to pay must be the matterial ( such as resuable cup, purchasing coffee directly from Dak Lak farmers ) 
+ Estimate 200 milliion VND as the resuable cups is expensive than original cup or plastic cup and the price of coffee purchasing from the farmers may not stay in 12 months 
+  3. Employee salary 
+  Description: the salary fot the collaboration of every member of the team to help the project run on time by that reduce the overun budget 
+  Estimate: 150 million VND as the company must pay more for the employee for doing the job overtime, and reward for their sacrafile 
+  4.Recruiting and trainning local personel 
+ Description: the money pay for the trainning of local personel 
+Estimate : 70 million 
+  5.  Money for the paper work for the authorities of 5 central provinces  to  place and run the store
+ Estimate 80 million VND to place and run the store the company must ask the authorites for the liscent
+
+ Request 4 
+    + 3 project Roles in the project 
+       - Market Development Director  as PM
+       - HR team 
+       -  Marketing team
+   + 10 task, activities, or deliverables 
+         1. Branding the project by run multible ad on social media such as short video, collab with KOLs (marketing team)
+        2. Searching the location to place the store ( PM)
+        3. Hire suitable employee with the experience for the project ( HR team )
+        4 .Lauching campaingns for each store (Marketing team)
+      -   5. Create and check the survey (Marketing team)
+          6. Building a raw material supply chain form the Cental region suppilers (PM)
+         7. Evaluate the market (marketing team)
+         8. Caculate the contigency plan if each store not reach the break-even point within 8 months after opening (PM)
+        9. Writing script and content for branding the store (marketing team)  
+      10  Ensure the quality  of the project  by checking the effecency in working of each member of the team  (PM)

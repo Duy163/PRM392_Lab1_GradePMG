@@ -1,0 +1,173 @@
+1)
+Request 1:
+
+Project name:
+Coi Cafe Central Youth Market Expansion Project
+
+Justifications:
+Expand Coi Cafe into five Central provinces: Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh.
+Target young customer groups such as students, young office workers, and first-jobbers in growing urban areas.
+Use flagship stores as attractive study, meeting, and social spaces while keeping Coi Cafe’s nostalgic Vietnamese coffee identity.
+Promote traditional Vietnamese drinks, reusable cups, and direct coffee sourcing from Dak Lak farmers to younger customers.
+Build long-term customer loyalty by entering the market early and creating regular customer habits.
+Develop a stable Central region supply chain to support store operations.
+Create new revenue outside Hanoi and Ho Chi Minh City and help each store reach break-even within eight months after opening.
+
+Project constraints:
+Scope:
+Open five flagship stores only, one store in each selected province.
+Project scope includes: youth market survey, location selection, lease agreement, interior design, construction, equipment setup, local staff recruitment, training, supplier setup, student-focused launch campaign, and performance tracking.
+The project does not include franchising, opening extra stores, online-only business, or new product line development.
+Time:
+The project duration is 12 months.
+All five stores must be opened within the approved timeline.
+Each store must reach break-even within eight months after opening.
+Cost / Budget:
+Total budget is VND 8.5 billion.
+Average budget is approximately VND 1.7 billion per store.
+Funding comes from company equity and commercial bank loans.
+Cost must be controlled across rent, construction, equipment, human resources, supply chain, and marketing.
+Quality:
+All stores must follow Coi Cafe’s brand standards.
+Store design must remain nostalgic but comfortable for studying, working, and meeting friends.
+Drink quality, service, hygiene, and reusable cup practice must be consistent across all stores.
+Marketing activities must fit Coi Cafe’s image and not make the brand look low-quality.
+
+Request 2:
+
+Expense 1 - Youth market research
+Name: Youth market and customer behavior research
+Description: Cost for studying student areas, office zones, customer habits, competitor cafés, spending level, and preferred store experience in each province.
+Estimation: VND 650 million total, around VND 130 million per store.
+Way to estimate: Based on customer surveys, school and office area observation, competitor visits, travel expenses, and local market data collection.
+Person in charge: Project Manager and Marketing Team.
+
+Expense 2 - Store location setup
+Name: Location selection and lease preparation
+Description: Cost for finding locations near universities, offices, residential areas, or busy streets, including lease negotiation, legal review, deposit, and first rent.
+Estimation: VND 1.5 billion total, around VND 300 million per store.
+Way to estimate: Based on local rental price, deposit requirement, broker fee, legal review cost, and expected first rental payment.
+Person in charge: Project Manager and Finance Team.
+
+Expense 3 - Store design and build-out
+Name: Youth-friendly nostalgic store build-out
+Description: Cost for construction, furniture, lighting, seating area, study-friendly corners, counter, decoration, signage, and brand-standard finishing.
+Estimation: VND 3.05 billion total, around VND 610 million per store.
+Way to estimate: Based on store area, contractor quotations, furniture list, lighting plan, design drawings, and material costs.
+Person in charge: Interior Design and Construction Team.
+
+Expense 4 - Operations preparation
+Name: Equipment and staff preparation
+Description: Cost for coffee machines, grinders, refrigerators, POS system, reusable cups, kitchen tools, recruitment, uniforms, staff training, and pre-opening salary support.
+Estimation: VND 2.2 billion total, around VND 440 million per store.
+Way to estimate: Based on supplier quotations, equipment checklist, number of staff, training duration, uniform cost, and salary support.
+Person in charge: Procurement Team, HR Team, and Operations Team.
+
+Expense 5 - Supply and youth launch promotion
+Name: Supplier setup and youth-focused launch campaign
+Description: Cost for first inventory, supplier selection, delivery setup, safety stock, opening vouchers, student promotions, social media ads, and grand opening activities.
+Estimation: VND 1.1 billion total, around VND 220 million per store.
+Way to estimate: Based on first-month inventory plan, supplier price list, transport cost, campaign scale, voucher budget, advertising rate, and event cost.
+Person in charge: Procurement and Supply Chain Team, and Marketing Team.
+
+Request 3:
+
+Risk 1: Youth customers are price-sensitive
+Risk name: Price resistance from student and young customer groups.
+Description: Young customers may like the store concept but may consider prices too high compared with local coffee shops or milk tea stores.
+Impacts:
+Scope / quality: The store may fail to become a regular destination for the target customer group.
+Time: More time may be needed to build repeat visits.
+Cost: More promotions or discounts may reduce profit margin.
+Mitigation plan: Conduct price research before opening and design suitable product bundles without lowering core product quality.
+Contingency plan: Offer student combos, loyalty cards, off-peak discounts, and affordable best-seller sets.
+
+Risk 2: Store space is used heavily but sales are low
+Risk name: Long stay time with low spending.
+Description: Students and young customers may stay for long hours to study or meet friends but purchase only one low-value item.
+Impacts:
+Scope / quality: Seat availability and customer experience may be affected during peak hours.
+Time: Store traffic may look high but sales growth may be slow.
+Cost: Electricity, cleaning, and service costs may increase without enough revenue.
+Mitigation plan: Design seating zones, encourage group orders, and create combo offers for longer-stay customers.
+Contingency plan: Apply time-based promotions, minimum order guidance during peak hours, and take-away offers to improve sales.
+
+Risk 3: Marketing trend changes quickly
+Risk name: Youth-focused campaign loses attention quickly.
+Description: Social media trends and young customer preferences may change fast, making launch content less effective.
+Impacts:
+Scope / quality: Brand communication may not attract enough attention.
+Time: More time may be needed to rebuild awareness.
+Cost: Additional content production and advertising costs may be required.
+Mitigation plan: Monitor social media response weekly and use flexible content plans for each province.
+Contingency plan: Refresh campaign messages, cooperate with local student communities, and use short-term viral challenges or events.
+
+Request 4:
+
+Project roles:
+Role 1: Project Manager / Market Development Director
+Responsible for overall planning, approval, scope, schedule, budget, risk control, and break-even monitoring.
+
+Role 2: Store Build Team
+Responsible for premises support, interior design, construction, decoration, furniture, signage, and physical store readiness.
+
+Role 3: Youth Market Operations Team
+Responsible for recruitment, training, equipment, suppliers, inventory, youth marketing, launch campaign, and customer engagement.
+
+RACI responsibilities:
+R = Responsible
+A = Accountable
+C = Consulted
+I = Informed
+
+Activity 1: Approve project charter and youth market strategy
+Project Manager: A/R
+Store Build Team: C
+Youth Market Operations Team: C
+
+Activity 2: Research student and young customer segments
+Project Manager: A
+Store Build Team: I
+Youth Market Operations Team: R
+
+Activity 3: Select store premises near target customer areas
+Project Manager: A/R
+Store Build Team: C
+Youth Market Operations Team: C
+
+Activity 4: Design youth-friendly nostalgic store layout
+Project Manager: A
+Store Build Team: R
+Youth Market Operations Team: C
+
+Activity 5: Complete construction and decoration
+Project Manager: A
+Store Build Team: R
+Youth Market Operations Team: I
+
+Activity 6: Purchase equipment and prepare inventory
+Project Manager: A
+Store Build Team: C
+Youth Market Operations Team: R
+
+Activity 7: Recruit and train store staff
+Project Manager: A
+Store Build Team: I
+Youth Market Operations Team: R
+
+Activity 8: Set up suppliers and delivery process
+Project Manager: A
+Store Build Team: I
+Youth Market Operations Team: R
+
+Activity 9: Execute youth-focused grand opening campaign
+Project Manager: A
+Store Build Team: C
+Youth Market Operations Team: R
+
+Activity 10: Track customer traffic, sales, and break-even result
+Project Manager: A/R
+Store Build Team: I
+Youth Market Operations Team: C
+ 
+2)

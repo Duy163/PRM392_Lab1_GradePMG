@@ -1,0 +1,66 @@
+1)
+Request 1:
+1. Project name:  The expansion project for Coi Cafe into  Central provinces
+2. Jutifications
+Purpose: Coi cafe is a famous for Vietnam coffee brand with 12 store in Hanoi and Ho Chi Minh City and decided to implement an  expansion project  into 5 central province. Because Coi cafe need to expand new store around Vietnam, build long relationship with the customer, and  bulding a raw material supply chain.
+3  Project constraints:  Each store must reach the break-even point within 8 months after opening.
+Scope: this project has run for  central provinces at Da Nang,Hue, Quang Nam, Quang Ngai, Binh Dinh with 1 flagship store in each province. This project will be surveying and selecting premises, designing, and constructing interior cosistent with the brand recruiting and traing local personnel, building a raw material supply chain from Central region supplier, and lauching campaign for each store.
+Time: 12 months
+Budget: VND 8.5 billion 
+Quality: the project will be led by the Market Development Director, and coordinating with the interior dessign team, HR team, and marketing team to manage and run this project
+
+2)
+Request 2:
+1. Marketing cost
+- Description: this cost included  budget pay for adverstising on social media for 12 months of this project
+- Estimate: pay for each media channel of project use
+- Person in charge: Marketing manager
+- Budget: VND 600 milion/ 12 month
+
+2. Cost for recruiting and training
+- Description: this cost include the salary for worker who training local pesonnel 
+- Esstimate: hourly rate x hour of working x nummber of staff
+- Person in charge: HR manager
+- Budget: VND 1 bilion/12month/ 5 central provinces
+
+3. Cost for Design and Production team
+- Description: this cost will be pay for design poster and making and editing video for this campaign for 12 months.
+Estimate: pay for design and production team by reaserch this cost in market
+Person in charge: Project Manager
+Budget: VND 1.5 bilions/all product
+
+4 Transportation for supply
+- Description: This cost include delivery and transportation like coffee, product, ect
+- Estimate:pay for frequency of transportation and delivery 
+- Person incharge: Logistic Leader
+Budget: VND 500 milion/12month/5 store
+
+5. Cost for building new 5 store
+Description: This cost included to building 5 new store in each province
+- Estimate: Building x cost for building team + 10% approximate
+Person in charge: Project Manager
+ Budget: VND 4 bilion/ 5 store
+ 
+Request 3: 
+- Over Budget:
+ this project is limited of budget for 5 store and will run long time (12 month), that posible impact for cost and quality of this project, and may be no sponsor for project, that can take a lost of cost.
+Risk response plan: need to management all of cost of this project and cut off budget  if it nescessary
+- The interior design team overload
+They need to build a lot of media production, then they may be overload for editing a lot of product in long term
+Risk response plan: have a backup team design to support the main team
+- Supplier of Coffee in Dak Lak do not have product
+Because Coi cafe have dirrect effect of this supplier to buy coffee, if Coi Cafe open more new store, this supplier may be overload and do not have a product for Coi coffee to buy
+Risk response plan: need to find out another supply to control this quality
+Operational complexcity description : Manager multiple mobile unit across location
+Impact: inneffiecy and coordition issue 
+Mitigation:  use centralixe schelduing and tracking system
+
+Request 4:
+Media project leader, Project manager, Logistic team, 
+Media content : A
+Production content: B
+Making video: C
+Equipment setup
+
+
+

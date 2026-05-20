@@ -1,0 +1,73 @@
+1)
+Request 1:
+1. Project Name: Coi Cafe's flagship store.
+2. Justifications: The project implement an expansion project into 5 Central provinces, with 1 flagship store includes: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers and launching campaigns for each store of Coi Cafe.
+3. Scope: the project must be complete main task and achieve the goal of implement an expansion project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh).
+    Time: must be completed within 12 months.
+     Cost: total budget is limited to VND 8.5 billion (approximately VND 1.7 billion/store).
+     Quality: must ensure that each store must reach the break-even point within 8 months after opening.
+
+Request 2:
+1. Name: Preparation and setup cost
+    Description: Cost for prepare and setup before project
+    Estimation: 0.5 billion/store
+    Method: Prepare for setups before the project execute
+    Responsible: Project Manager
+2. Name: Marketing and Advertising
+    Description: Cost for maketing and advertising of project, to do make everyone to know about that.
+    Estimation: 0.2 billion/store
+    Method: Research about method maketing and excute this.
+    Responsible: Maketing team
+3. Name: Production Cost
+    Description: Cost for production during project.
+    Estimation: 0.3 billion/store
+    Method: Make manythings about project like: survey, poster,...
+    Responsible: Design team
+4. Name: Training Cost
+    Description: Training many skill need to people who will do in this project.
+    Estimation: 0.5 billion/store
+    Method: Find and pay for metor who will train them.
+    Responsible: Project Manager
+5. Name: Contigency reserve
+    Description: Cost for prepare during and after project
+    Estimation: 0.2 billion/store
+    Method: Cost for risks during project.
+    Responsible: Project Manager
+
+
+2)
+Request 3: 
+Risk 1: Fail the scope
+    Description: the project is not make each store must reach the break-even point within 8 months after opening.
+    Impact: make the quality not enough and fail.
+    Response:
+          - Mitigation: Increase people for each task and make sure that don't have conflict.
+          - Contingency: Project manager need to follow and give advise for this if see them cannot make the scope like plan.
+
+Risk 2: Marketing team doesn't have idea
+     Description: Marketing team cannot find a good idea for marketing and advertising of this project.
+     Impact: Design team cannot make any product for that and timeline of project will be not on time.
+     Response: 
+           - Mitigation: Team marketing sould meeting a lot of time to can find many idea and then they will have more choice for that.  
+           - Contingency: Project manager sould give marketing team more people for things and find idea better.
+
+Risk 3: Cannot find enough people for project
+      Description: HR team cannot find enough people comfor with this project.
+      Impact: make the project cannot start or start but cannot follow right at the timeline of plan.
+      Response: 
+             - Mitigation: HR team need to post advertising in many social network to have more choice of people to find for this project.
+             - Contingency: Increase cost for training to make a good enviroment then can make any people want to join this project or increase fund for pay the people who are paticipation.
+
+Request 4: 
+1. Project roles: Project Manager (PM), Marketing Lead (MKT), Operations Lead (OP)
+2. List tasks, activities or deliverable:
+   1. Define project and budget: PM (A,R), OP (C), MKT (I)
+   2. Conduct Research: MKT (A,R), PM (C), OP (C)
+   3. Prepare equipment: PM (A,R), MKT (A,R), OP (C)
+   4. Setup operations: PM (A,R), MKT (I), OP (C)
+   5. Draft marketing plan: PM (C), MKT (A,R), OP (I)
+   6. Execute project: PM (A,R), MKT (A,R), OP (C)
+   7. Run campaign: PM (A,R), MKT (C), OP (I)
+   8. Quality check: PM (A,R), MKT (C), OP(I)
+   9. Official Launch: PM (A,R), MKT (C), OP (I)
+   10. Report: OP (A,R), MKT (A,R), PM (I)

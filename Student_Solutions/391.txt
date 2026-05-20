@@ -1,0 +1,116 @@
+1)
+Request 1: 
+1. Project name: Coi Cafe Central Vietnam expansion project.
+
+
+2. Project Justification: The purpose of this project is to expand Coi Cafe's market presence into five central provinces. This expansion is aim to increase brand awareness, diversify revenue streams, and leverage the growing coffee culture in Central Vietnam. additional, the project support Coi Cafe's sustainable business model by connecting with local suppliers and promoting eco- friendly praticed. 
+
+
+
+3. In terms of scope:  The project include opening five flagship stores, covering site selection, store design and construction. Recuisement and training of staff, supply chain set up, and marketing campaigns. 
+ Time: The project must be complement within 12 months. Each store must reach the break- even point  within 8 months  after opening.
+ Cost and budget: The total budget is VND 8.5 billion approximately VND 1.7 billion per store. Cost ooverruns are not acceptable without management approval.
+Quality: All store must maintain consistent brand identity and sustainability standards ( eg: reusable cups, ethically sourced coffee.)
+
+
+
+
+Request 2: 
+1. Store construction and interior design: 
+ Description: Cost for designing and building stores interior according to brand standards. 
+ Estimation method: Bottom- up estimation based on materials, labor, and contractor quotations.
+ Person in charge: Interior design manager
+2. Rental and location costs:
+ Description: Expenses for leasing prime locations in each province.
+  Estimation method: Market comparison and historical rental data analysis.
+ Person in charge: Project manager
+3. Human resources: 
+ Description; Hiring and training local staff for operations. 
+  Estimation method: Cost per employee multiple with numbers of employees required.
+  Person in charge: HR manager
+4. Marketing and launch campaign
+ Description: Advertising promotions, and opening events for each store.
+ Estimation method: Analogous estimation based on previous campaigns.
+ person in charge: Marketing manager
+5. Supply chain set up:
+ Description: Building relationship with suppliers and logistics set up.
+ Estimation method: Vendor quotations and transportation cost analysis.
+ Person in charge: Operation manager
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2)
+Request 3: 
+Risk 1: Delay in construction
+Description: Construction may be delayed due to contractor issues or weather conditions.
+Impact: Affects timeline of project and increasing cost.
+Mitigation: Select reliable contractor and monitor progress regularly.
+Contingency: Allocate buffer time and budgets for delays.
+
+Risk 2: Low customer demand
+Description: New stores may not attact enough customers initially. 
+Impact: Affects revenue and delay break- even point.
+Mitigation: Conduct marketing campaigns.
+Contingency: Adjust pricing strategy and increase promational activities.
+
+Risk 3: Supply chain disruption
+Description: Difficulty in sourcing raw materials consistently from central suppliers.
+Impact: Affect product quality and operation.
+Mitigation: Establish multiple supplier partnerships.
+Contingency: Use backup suppliers from other regions.
+
+
+Request 4;
+1. Project roles: 
+Project manager (PM)
+HR manager (HR)
+Marketing manager (MKT)
+Operations manager (OPS)
+
+2. Task and RACI:
+1) Project planning; 
+PA (A), HR (I), MKT (C), OPS (C).
+2) Site selection: 
+PM (R/A), MKT (C), OPS (C), HR (I)
+3) Store design: 
+OPS (R), PM (A), MKT (C), HR (I)
+4) Construction management:
+OPS (R), PM (A), HR (I), MKT (I)
+5) Recruitment: 
+HR (R/A), PM (I), OPS (C), MKT (I)
+6) Staff training:
+OPS (R), HR (A), PM (I), MKT (I)
+7) Marketing campaigns:
+MKT (R/A), PM (I), OPS (C), HR (I)
+8) Supply chain set up:
+OPS (R/A), PM (C), HR (I), KMT (I)
+9) Store launch:
+MKT (R), OPS (R), PM (A), HR (C)
+10) Performance monitoring:
+PM (A), OPS (R), MKT (C), HR (I)
+
+( Explain:
+ R: responsible, A: Accountable, C: Consulted, I: Informed ) 
+
+
+3. Legend: 
+R= Responsible (does the work)
+A= Accountable (final decision)
+C= Consulted (give input)
+I= Informed  (updated) 
+
+
+

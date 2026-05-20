@@ -1,0 +1,82 @@
+1)
+Request 1:
+a) Project name: Development Business Coi Cafe.
+b) Justifications:
+   - Problem: Coi is managament decited to implemnt an expansion project ino 5 Central provinces(Da Nang, Quang Nam, Quang Ngai, Quang Binh, Binh Dinh), with 1 flagship store in each provinde within 12 months.
+  - Need:Stores must reach the break-even point within 8 months after opening.
+  - Solution: Surveying and selecting premises, desiging and constructing interiors consistenr with brand, recruiting and training local personnel v.v  
+c) Project constraints
+  - Scope: Surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting anf training local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store
+   - Cost/BudgetVND 8.5 billion       (approximately VND 1.7         billion/store)
+  - Time: 12 months
+  - Quality: Store must reach the break-even point within 8 months after opening.
+Question 2: Five main cost/budget items: 
+ 1) 
+ - Name: Recruiting and training local personnel
+ - Description: This is training how management store for local   pesonnel.
+ - Estimation: Provide HR Team and PM have exprience manager for store to training local personnel.
+2) 
+ - Name: Surveying and selecting premises
+ - Description: Find good premises for store
+ - Estimation: HR Team will have other meetings  for find permises
+3) 
+- Name: designing and constructing interiors consistent with the brand
+- Description : design and constructing like store Coi Cafe
+- Estimation: coordinating with the interior design team
+4)
+- Name: Building a raw material supply chain from Central region suppliers
+- Description: Find where Central and marketing for store can business good
+- Estimation: Marketing team will find Central and marketing for store.
+5) 
+- Name: Launching campaigns for each store
+- Description: We will campaigns each store for can manager business good of store 
+- Estimation: Marketing team should campaigns others store.
+
+Request 3: Three project risk 
+
+Risk 1: 
+- Name : Design team, HR team and marketing team is issue
+- Description : member of team can't works in team
+- Quality: reduct quality
+- Time: delay time
+- Mitigation: Training  team member
+- Contingency: resign tasks.
+Risk 2: 
+Name: Scope screep
+- Description : requirements is out scope.
+- Cost: increase cost
+- Time: delay time
+-Mitigation:progress project, decision making
+-Contingency: must requirement clearly.
+Risk 3: 
+-Name: Problem about documents
+- Description: other document about land, central have problem.
+-Time: delay time
+- Quality: reduct quality
+- Mitigation: setup document must clearly.
+- Contingency: we will checking again for document, fix and change document.
+
+Request 4: 
+1: Least three project role: 
+  - PM
+  - HR team
+  - Marting team
+  - Design team
+2: Ten task: 
+ - Design poster to marketing(Design team)
+ - Training local personnel (HR team)
+ - Marketing Store Coi Cafe(marketing team)
+ - Find and interview people work in store(HR team)
+ - Surveying and selecting premise(HR team)
+ - launching campaigns for each store(PM, HR team)
+ - Management cost/budget (PM)
+ - Management and progress project(PM)
+ - Manager document (PM)
+ -Constructing interiors consistent with the brand(design team)
+
+
+
+
+
+
+2)

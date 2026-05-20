@@ -1,0 +1,80 @@
+1)
+Request 1:
+1. Project name: An expansion project of Coi Cafe - Launching flagship store campaigns into 5 central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) 
+2. Justifications 
+Purpose: To launching flagship stores of Coi Cafe into 5 central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+Reasons to implement this project: To espanse the brand Coi Cafe
+3. Project constraints:
+Scope: This project includes: surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel,building a raw meterial aupple chain from Central region suppliers and launching campaigns for each store.
+Time: Within 12 months
+Budget: Total: VND 8.5 billion (approximately VND 1.7 billion/store)
+Quality: each store must each the break-event point within 8 months after opening. 
+
+Request 2: 5 main budget items:
+
+Budget item 1:
+Name: Venue cost
+Description: The budget to rent of the venue ( in the central of each province)
+Estimation: About 50-100 million each province
+How to estimate: because the flagship store nnot only  have to be in a big place to served the customer, they also have to attractive with the visual and open at the central areas
+
+Budget item 2
+Name: Recruiting and training local personnel
+Description: The training cost and salary for staffs at the store, 
+Estimation: About 60 million/store (7 million/staff and about 5-6 staffs each store)
+How to estimate: The average basic salary in Vietnam is about 5 million/per. 
+
+Budget item 3:
+Name: Raw material suppply chain from central region suppliers
+Description: To build the system of material at the local area. The cost to research, scouting, communicating and dealing with the suppliers
+Estimation: about 200 million
+How to estimate:
+
+
+Budget item 4:
+Name:Launching campaign for the flagship store
+Description: Campaign to marketing and mommunication the new flagship store to the customers (the locals, traverlers...). Includes: Marketing plan, sale programs, printed cost, staffs, logistic,media campaign,...
+Estimation: about 400- 500 million 
+How to estimate:
+
+Budget item 5:
+Name: 
+Description:
+Estimation
+How to estimate:
+
+2)
+Request 3:
+3 project risks:
+Risk 1: Lack of suppliers
+Description: The risk of supply chains can occur when the brand active at a new place. 
+Possible Impact: For example, if the quality of the products is changed, it will directly negative impact to the brand's reputation.
+Relevant risk response plans: Carefully prepare enought for the products of the brand. Checking and tracking to ensure the supply chains in a good process.
+
+Risk 2: Out of budget
+Description: The budget in reality is over the budget's plan.
+Possible Impact: This will have a negative impact to the financial of Coi Cafe in the brand's flow cast. It's might lead to the pending of the expansion campaign if the impact is serious.
+Relevant risk response plans: The PM have to carefully tracking the budget of each store and the plann to make sure the budget was follow the right process or not, and to early recognise the problem about budget to deal with it
+
+Risk 3: Bad at people management
+Description: This project will have a lot scope of work and also have a lot team that woking together. If the team bonding is bad, or the conflict between the members/teams is huge. This might impact to the quality of the campaign and the process will be influence too 
+Relevant risk response plans: This request the Project Manager to be a good boss, build a good team bonding also help this 
+
+Request 4: 
+
+Three Project Roles:
+1. Project Manager (PM)
+2. Marketing Leader (ML)
+3. HR Leader (HL)
+
+List of ten task, activities, or deliverables:
+1. Tracking the budget of the project: PM (R); ML (C); HL (I)
+2. Hiring Staff for the flagship stores: HL (R); PM (A); ML (I)
+3, Build  the marketing plan for the store: ML (R); PM (A); HL (I)
+4. Tracking the supply chains: PM (R); HL (I); ML (I)
+5. Scout and Check the venue of the store: PM (R); HL (I); ML (C)
+6. Key Visual/ Layout of the flagship store: PM (A); ML (R); HL (I)
+7. The sale programs of flagship store: ML (R); PM (R); HL (I)
+8. Surveying customer's feedback at each local store: PM (I) ML (C); HL (A)
+9. Training Local personnel: HR (A); ML (R); PM (R)
+10. Launching campaign for the flagship store: PM (R); ML (R); HL (A)

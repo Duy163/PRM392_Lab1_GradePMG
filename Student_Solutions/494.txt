@@ -1,0 +1,90 @@
+1)
+Request 1: Narrative Charter
+
+1. Project Name:
+Coi Cafe Expansion Project.
+
+2. Justifications (Purpose & Reasons to Implement the Project): Describe briefly the motivated and the ultimate objectives of the undertaking (in a few lines at most).
+Coi Cafe is expanding to 5 locations in the 5 major Central provinces of Vietnam and is looking to create a strong presence in the market to better cater to local customers and touirsts alike. The goal is to create an atmosphere reminiscent of years past through traditionally produced drinks and fair practices while enhancing brand awaerness and driving long-term growth through a dedication customer base.
+
+3. Project Constraints (Scope, Time, Cost/Budget, and Quality):
+- Scope of the project: Just opening flagship stores in 5 Provinces/territories of Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh respectively.
+- peruod: The entire project should be completed within 12 months with the objective of opening each store within that period.
+- Cost/Budget: Total budget for project is VND 8.5 billion for two stores and VND 1.7 billion per store for single version.
+- Quality: We require all of our locations to meet the Quality Experiance of the Coi Cafe brand by serving the highest quality products while keeping our stores sustaniable.
+
+Request 2: Cost/Budget Items
+
+1. Store Rental Costs:
+- this file contains the 12-month rent for each store.
+- Estimation Method: Market Comparison of comparable retail properties in the region.
+
+2. Interior Design & Construction Costs:
+- Interiors Design and Construction Cost for Store.
+- Estimation Method: Quotes from local contractors and estimated costs based on the size of the stores and needed customizations.
+
+3. Personnel Training Costs:
+- StartUpCosts: Costs to recruit and train local employees for all new store locations.
+- Estimation Method: Training provider costs estimated number of training staff per location.
+
+4. Raw Material Supply Chain Costs:
+- We are building a global supply chain for raw materials such as high quality Arabica coffee and machinery parts as well as equiment manufcaturers.
+- Estimation Method used: Vendor quotes & cost estimation based off volume & transprotation costs.
+
+5. Marketing & Launch Campaign Costs:
+- Advertise and Promote New Stores Expenses – advertsie and promotional efforts made to promote new store locations.
+- Estimation Method: Cost for advertisements and promotion. This could be digital , traditional  or a launch event.
+
+Request 3: Project Risks
+
+1. Risk Title: Supply Chain Disruptions
+- Delays caused by transport or supplier issues that affect the overall supply chain.
+- The Potential Impacts: Opening the stores on time may be delayed. The quality of the coffee may be affected. Operational costs will increase.
+- Risk Response Plan for supply shortages: Stock up before a wedding, and have at least two supply for items such as veil’s, jewelry and other special order. Also have back-up plans
+
+2. Risk Title: Construction Delays
+- This Risk has impact on Opening Stores on schedule if such happen
+- Late Open: The negative impacts of having a late open and how it can cost your store money by missing sales.
+- Risk Response Plan: Track project completion time and insisitional on penalty clauses in the contract if it is delayed.
+
+3. Risk Title: Staffing Issues
+- Issue 4: We are finding it difficult to recruit and retain quality employees to the new locations.
+- Potential Consequences: Poor customer service, Bad brand image.
+- Risk Response Plan: Implement competitive salary and conditions including training and recruitment from local labor market, by participating in recruitment fairs organized locally.
+
+Request 4: RACI Chart
+
+1. Define Project Roles:
+- Project Manager (PM): Manages the overall execution and timeline for the project.
+- Interior Design Lead: handles the design and construction of the store.
+- Handles the recruitment, training and other human resources needs of the staff, as an HR Manager.
+- Marketing Director: assist in the launch of a number of new stores through the planning and execution of marketing campaigns
+2. List of Tasks/Activities/Deliverables:
+1. Survey and select store locations.
+2. Finalize store designs and start construction.
+3. Recruit staff for each new store.
+4. Train the recruited staff.
+5. Estbalish a raw material supply chain.
+6. Launch marketing campaigns for each store.
+7. Monitor store construction progress.
+8. Conductional staff training and certification.
+9. Open the new stores.
+10. Track store performances
+
+3. RACI Chart (Responsibilities):
+| Task/Activity | PM | Interior Design Lead | HR Manager | Marketing Driector |
+
+| Survey locations | A | C | I | I |
+| Store construction | C | A | I | I |
+| Staff recruitment | I | I | A | I |
+| Staff training | I | I | A | I |
+| Supply chain establishment | A | C | I | I |
+| Marketing campaigns | C | I | I | A |
+| Monitor construction | A | R | I | I |
+| Staff training certification | I | I | A | I |
+| Store openings | A | C | R | I |
+| Store performance monitoring | A | C | I | R |
+
+
+
+2)

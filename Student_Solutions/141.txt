@@ -1,0 +1,97 @@
+1)
+Request 1:
+
+Project name: Expansion plan and flagship store for central provinces.
+
+Purpose: expain the Coi coffee into 5 central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh).
+
+Reason: The brand is growing well and need expain to potential market.
+
+Project constraints: 
+
+-survering and selecting premises
+-designing and constructing interior consistent with the brand
+-recuiting and training local personel
+-building a raw material supply chain from central region suppliers
+-launching campaign for each store
+time:withing 12 month to have 1 flagship store, 8 month to reach the break even point for each store.
+budget:8.5 billion(approximately 1.7 bilion/store)
+
+Request 2:
+
+five main cost item:
+
+1.
+Name:Marketing and launching campain
+descripstion: marketing fee to run ads in social media, rent ads agency and cost for sale and promotion 
+person in charged:Marketing team
+2.
+Name: Salary cost and training cost
+descrition: the cost of salary for employee and training cost for them after recuitment.
+person in charged:HR team
+3.
+Name: Designing and constructing interior consistent cost
+description: cost for interior equipment like case, table, chair, decoration,...mantaining cost for electric property, cleaning.
+person in charge: interior design team
+4.
+name:Supply cost
+description: cost of supply chain to the store, raw material.
+person in charge: PM
+5
+name:location rent cost
+description: cost to rent the location to run the store
+person in charge: PM
+
+
+2)
+Request 3:
+
+three project risk:
+
+1.
+The marketing plan wont effective
+description:the marketing and launching campaign not reach the expected because reason like didnt target the right audient, wrong suitable platform, outdated content.
+possible impact: marketing didn't reach the expectation ressult, leading to lack of customer and damaged to the revenue, waisted of time and cost
+Risk response plan: analyzing the market carefully to make sure the marketing plan is suitable and reach the full potential effect. Have a plan B marketing plan to use in case the first one failed to reach the result.
+2.
+Problem in supply chain
+descripstion: The new supplies chain for each store can have some problem like do not meet the quality needed, lack of raw material sometime, increase cost or delay delivery date.
+possible impact: leading to lack of product in the store. Causing health problem for the customer if there is risk in raw material, damaged brand's imagine.
+Risk response plan: researching and checking carefully before choose the supply chain suitable for the store, have secondary supply chain in case the primary one have problem to mantain the store products, have a contigency media plan to protect brand imagine when problem or drama happend
+3.
+Lack of requiment skill in new employee
+description: New employee can be lack of skill in delivering service to the customer
+possible impact: damage to the brand when the customer didn't receive the service they expected, lost loyality customer.
+risk response plans: Invest properly to training program and surving, recuiting progarm to find suitable and potential personnel for the store. have the plan to gain customer trust and make it up for the  lack of sastifation in using the service of the store like gift, promotion, campaign,...
+
+Request 4:
+
+Three project role:
+
+1- PM
+2- HR team
+3- Marketing team
+
+ten task:
+
+- Design/running marketing campaign
+
+- Buy store equiments
+
+- Ensure the supplies chain
+
+- Rent location to run the store
+
+- Survey to analizyng the local market
+
+- Create page/channel for social media 
+
+- Caculating the cost of activities
+
+- Delivering promote and gilf in launching campaign
+
+- Decotation and design interior consitent with the brand
+
+- Survey and Recuiting new employee
+
+- Training Employee

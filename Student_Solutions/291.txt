@@ -1,0 +1,71 @@
+1)
+Request 1:
+  1. Project name: Coi Cafe
+
+  2. Justification:
+      - Purpose: survering and selecting premises, designing and construscting interiors consistent with the brand, recrutiting training local personel, builing a raw material supply chain from Central region supplier, and lauching campaigns for each store.
+      - Reasons: Coi' management decided to implement an expansion project  into 5 Central provinces, with 1  flagship store at each province.
+  
+   3. Project constraints:
+       - Scope: at 5 Central provinces ( Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh).
+       - Time: 12 months
+       - Cost: total budget is VND 8,5 billion ( approximately 1.7 billion/store)
+       - Quality: each store must reach the break-even point within 8 months after opening.
+       
+
+Request 2:
+ The main cost items in project:
+  1. Rend location for store: should to have a physical store at each provinces, attractive, promote and increase customer awareness about new brand coffee is opening. Estimated: VND 720 million ( approximately VND 60 million each store per month). The way measure by reference the price in each Central.
+
+ 2. Building the flatform for brand: Coi Cafe need to have a unique flatform for customer easily to visit, review the product, survey customer requirement,... it helps brand enhance locate in customer's mind. Estimated: VND 250 million in 5 months to develop the flatform ( within 50 million/ months for a developer team ). Measure by the survey at others product.
+ 
+ 3. Marketing: Coi Cafe have a marketing team led by the Marker Development Director as PM. Marketing create, and distribute enhance " The Face of Brand", bring Coi Cafe step by step nearly to customer and convey brand' story. Estimated: VND 150 million for a marketing campaing in 5 province in 3 months, pre-opening ( 1 month) and after store activated ( 2 months). The cost is survey from others product.
+
+ 4. Buiding a raw material supply chain from Central region suppliers: The brand should to have a supply chain to easy and effective when logistic. Estimated: VND 40 millions at each months. The medium price is survey in region.
+
+5. Staff Salary: to activate the store, brand should to rend staff for store coffe. Esimated: VND 50 million at each months ( 5 member:1 Mangaer (VND 15 million/month), 4 staff ( VND 8 million each person/ month). This price is medium price for this job.
+
+ 
+
+
+
+2)
+Request 3:
+  Identify project risk:
+   1.
+      - Name: Develop team has trouble
+      - Description : the developer is quit with some reason: health problem (stress, pregnant), house issuse ( afftected to spycho of coder),...
+      - Possible impact: this problem is medium rate, it affect to productive of developer team, delay time, spend more money, find a new coder to join.
+      - Relevent risk response: the method to response this problem are:  team should divide clearly function,  to have ability to do fullstack to can replace the person who has a quit, and continue do the project while finding a new person.
+
+  2. 
+    - Name: the increasing of total budget.
+    -  Description: at present, the price of location, staff, logistics,... day by day increasing.
+    - Possible impact: this problem is high rate and should to concern, it perhap out target of brand total budget,  leading to lack of investment and affect to entire project.
+    - Relevant risk respone: Brand should to have a deeper understanding at each region, survey cleary about the price of location, staff, ... The team always need to have a others method to prepare for out target budget.
+
+ 3.
+   -  Name: The delay of Store Opening.
+   - Description: the contruction of store is late because some region such as: weather, the problem when buiding, the quality of store not as planned,... it lead to affect others campaign like markerting, supply chain,..
+   - Possible impact: the delay in Store Opening is a huge problem, it is high rate problem, effective to entire Coi's system.
+   - Relevant risk response: Find a acknowledge, experience comany in construction to recieve this store. Team should to have the clearly timeline for buiding and opening , make more plan option to prepare for bad context.
+
+
+
+Request 4:
+  - Proeject roles in develop team: Product Manager (PM), Developer, Bussiness Analyst (BA).
+
+  - List of task:
+    1. Recieve Request : PM (C), BA(R,A), Developer (I)
+    2. Set up Development  environment: PM (C), BA(I), Developer(R,A)
+    3. Design System Architecture: PM (C), BA (I), Developer (R,A)
+    4. Design Databse scheme: PM (C), BA(C), Developer (R,A)
+    5. Implements Core Modules: PM ( R,A) BA(C), Developer (I)
+    6. Implement UI/UX Components: PM(C), BA(R,A), Developer(I)
+    7. Design UI/UX and Backend: PM (C), BA (C), Developer (R,A)
+    8. Develop API Server: PM(C), BA(C), Developer(R,A)
+    9. Code Review and Fix Bug: PM (C), BA(C), Developer (R,A)
+  10 . Testing System: PM(I), BA(C), Developer(R,A)
+   10. Prepare Buid Package: PM (I), BA(C), Developer (R,A)
+   11. Generate System Report: PM(R,A), BA(I), Developer(C)
+    

@@ -1,0 +1,67 @@
+1)
+Request 1:
+1.Project Name: New Central of Coi'( by the Market Development Director)
+2.Justifications:
++Problem: Coi' management decided to implement an expansion project into 5 central provinces
++Solution: surveying and selecting premises,designing and constructing interiors consistent with the brand,recruiting and training local personnel,building araw material supply chain from Central region suppliers and launching campaigns for each store
+3.Project constraints:
++Scope: in VietNam
++Time: 1 flagship store in each province within 12 months
++Cost/budget:total budget is 8.5 billion VND(approximately 1.7 billion VND/store)
++Quality: Using reusable cups.Surveying and constructing interiors consistent with the brand,recruiting and training local personnel, building a raw material supply cchain from  Cental region supplier and launching campaigns for each store. Each store must reach the break-even point within 8 months after opening
+Request 2:
+- Main Cost/budget item 1:
+  +Name:Coffee from Dak Lak farmers
+  +Description: This is a local caffee of Coi Cafe,must to have,Coi Cafe purchasing coffee directly from Dak Lak farmers
+-Main Cost/budget item 2:
+  + Name: reusable cups
+  +Description:Coi Cafe using reuable cups for them store
+-Main Cost/budget item 3:
+  +Name:Design and construct the store 
+  +Description: designing  and constructing  interiors consistent with the brand
+-Main Cost/budget item 4:
+  +Name: Staff and Manager
+  +Description: Paying to Staff and Manager each of store
+-Main Cost/budget item 5:
+  +Name:Coi' local personnel 
+  +Description: Recruiting and training local pertionnel, building a raw material supply chain from Central region suppliers and launching campaigns for each store
+Request 3:
+-Project ricks 1:
+  +Name: Staff problem
+  +Description: Staff off,out job or need to training more because almost staff is a student,scope: in store
+  +Relevant risk respont plans: need to training staff and manage a staff work parttime 
+
+-Project ricks 2: delay of training local,building and constructing store
+  +Relecant risk respont plans:
+-Project ricks 3: store cann't reach the break-even point within 8 months after opening
+Request 4:
+ project roles:
+- Coi Cafe(Customer request project)
+- Project role :MDD(Market Development Director)
+- Project role  :PM
+  +Manage store must reach the break-even point within 8 months after opening
+  +Respon budget staff and manager of store of MDD(the Market development Director)
+  +Respont a new pudget to MDD
+  +Respon survey of Coi cofe
+  +Plan to building store 
+  +Plan store to reach the break-even point within 8 month after opening
+- Project role  : HR team
+  +Manage staff 
+  +Training staff  
+  +Respon status staff to PM
+  +Respon survey of staff
+  +Purchasing coffee directly from Dak Lak faramer
+  +training local personnel
+  +Building a raw material suplly chain from Central
+- Project role  : marketing team
+  +Get survey of customer/user
+  +Design and contruct with the brand
+  +Maketing store
+  +Do short video 
+  +Make postcast of store
+  +Manage budget marketing
+  +Respon budget marketing to PM
+  +Request budget marketing to PM
+  +Respon survey of customer
+  +Request survey of customer
+2)

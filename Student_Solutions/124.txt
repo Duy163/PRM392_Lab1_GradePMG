@@ -1,0 +1,87 @@
+1)
+Request 1:
+1. Project name: Coi Cafe's expansion to Central Vietnam.
+
+2. Purpose & reasons:
+- Coi Cafe's management decided to implement an expansion project into 5 Central provinces (Da nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province is the reason to operate this project.
+
+3. Project constraints:
+- Scope constraints: This project's scope will be operated in 5 Central provinces is Da nang, Quang Nam, Quang Ngai and Binh Dinh.
+
+- Time constraints: The implementation of a expansion project into 5 central provinces (Da nam, Hue, Quang Ngai, Binh Dinh) and 1 flagship store in each province must be done within 12 months.
+
+- Budget constraints: This project will have the total budget is VND 8.5 billion (approximately VND 1.7 billion per store) from equity and commercial bank loans.
+
+- Quality constraints: Each store must reach the break-even point within 8 months after opening.
+
+Request 2:
+- Some cost items that we can discuss about:
++ Operating the surveying and selecting premises: This cost budget item will be handled by the Marketing team, and the Marketing leader will be in charged for this, with the mission is creating surveys, collecting and selecting the premises. The marketing team can hire an Agency or use some platforms to collect the survey, and that platforms or Agency can cost money.
+
++ Designing and constructing interiors with the brand: the interior design team will be executing this one, but PM who is the person in charged will approve or deny it. This phase is mainly about designing and constructing interiors with the Coi Cafe (what is the store's concept Coi Cafe want, etc) The interior design team still can collab an external Agency for the constructing interiors, when the designing phase can use some references (from copyright sources), software to design, etc. Both can cost money.
+
++ Recruiting and training the local personnel: This section will be operated and in chared by the HR team (and HR team lead). The HR will hire the local employess, recruite and train them to make them suitable for the job. HR can use some platform to inform or advertise the Job Hiring Information, then hire lecturer or use the internal employees to train the new employess, and both of that can cost money.
+
++ Building a raw material supply chain from the Central region suppliers: This section will be completely in charged by the PM. PM will hire an Agency (to find the raw material suppliers) and work with the local authority (to handle the paperwork) in order to build a raw material supply chain from the Central region suppliers. If PM using the hiring an Agency way, it will cost money.
+ 
++ Launching campaigns for each store: This section will be handled by the Marketing team, and in charged by the Marketing leader. The Marketing team will launch the campaigns for each store, to annouce to customer that Coi Cafe has new store. They definitely advertise on Social Media like Facebook, X, etc or tradition advertision on news. And it will cost money
+2)
+Request 3:
+1. Not enough time risk
+- The expansion to 5 Central provinces has a lot of thing to deal with. From finding suppliers, consumer behavior to build a flagship store in each province. The chance to do it on schedule is small
+- Possible impact: high
+- Relevant risk response: we can extend the time constraint from 12 months to 1.5 years in order to have enough time.
+
+2. Long time to finish local authority paperwork
+- In order to build a raw material supply chain from Central region supplier, not only we have to find those suppliers and logistic companies, but we alson have to deal with the local authority paperwork. The chance that the local authority deny is small, but it's still a small chance that we can be denied.
+- Possible implact: low
+- Relevant risk response: hiring a good lawyer, coordinate with the Quality control and assurance team to deal with this situation if it happen.
+
+3. The budget is not enough
+- The budget for the expansion into 5 central province is way too smal. The cost for cobllaborating with Agency, hiring local employees or building a raw material supply chain is a lots. The actual cost may be bigger that the origin total budget.
+- Possible impact: High
+- Relevant risk reponse: Try 1 province, then we will have the actual cost that runs for 1 province, from that we can calculate should we expanse for 4 provinces left. 
+
+Request 4:
+1. Project role:
+- Market Development Director (PM - Project manager): will be in charged for the project's success
+- Interator Design Team (D): will be in charged in designing anything base on the concept that Marketing team brings to.
+- HR Team (HR): will be in charged in hiring employess and training them.
+- Quality assurance and control team (QAQC): 
+- Marketing team (M): will be in charged in advertising section.
+- External Agency (EA): will be in charged in doing some activities that project team can not operate (finding raw material suppliers, etc).
+
+2. Tasks, activties, or deliverables
+- These are some tasks, activities and deliverables:
++ Surveying and selecting premises.
++ Design store concept base on Central Vietnam cultural.
++ Constructing interiors with the brand.
++ Hiring local employees for the store's position.
++ Training new employees.
++ Finding raw material suppliers from Central region.
++ Finding the local logistic companies.
++ Working with local authority.
++ Designing and construct campaigns for each store.
++ Launching campaigns for each store.
+
+3. Listing out the responsibilities of the project roles on every tasks/activities/deliverables
+- Here is the responsibility list on every tasks/activities/deliverables:
++ Surveying and selecting permises: PM (inforrm), D (consult), HR (inform), QAQC (consult), M (Responsible/accountable), EA (inform).
+
++ Design store concept base on Central Vietnam cultural: PM (Accountable), D (Responsible), HR (inform), QAQC (consult), M (consult), EA (consult/responsible).
+
++ Constructing ineriors with the brand: PM (Accountable), D (responsible), HR (inform), QAQC (consult), M (consult), EA (responsible).
+
++ Hiring local employees for the store's position: PM (inform), D (inform), HR (responsible/accountable), QAQC (inform), M (inform), EA (inform).
+
++ Training new employees: PM (inform), D (inform), HR (responsible/accountable), QAQC (inform), M (inform), EA (inform).
+
++ Finding raw material suppliers from Central region: PM (responsible/accountable), D (inform), HR (inform), QAQC (consult), M (inform), EA (responsible).
+
++ Finding local logistic companies: PM (responsible/accountable), D (inform), HR (inform), QAQC (consult), M (inform), EA (responsible).
+
++ Working with local authority: PM (responsible/accountable), D (inform), HR (inform), QAQC (consult), M (inform), EA (responsible).
+
++ Designing and constructing campaigns for each store: PM (inform), D (inform), HR (inform), QAQC (consult), M (responsible/accountable), EA (responsible).
+
++ Launching campaigns for each store: PM (inform), D (inform), HR (inform), QAQC (consult), M (inform), EA (responsible).

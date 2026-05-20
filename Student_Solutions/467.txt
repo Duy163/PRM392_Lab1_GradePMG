@@ -1,0 +1,89 @@
+1)
+Request 1: 
+Project name :The  Coi cafe expension project 
+Justification: Coi's management decided to implement an expansion project into 5 Central province (Da Nang, Hue , Quang Nam , Quang Ngai ,Binh Dinh), with 1 flagship store in each province within 12 months.
+- Project constrains: Each store must reach the break-even point within 8 months after opening.
+- In term of scope: surveying and selecting premises , designing and constructing interiors consitent with the brand , recruting and traing local personnel , building a raw material supply chain from Ceantral region suppliers , and lauching campains for each store .
+time:within 12 months
+- Cost :The total budget is VND 8.5 billion ( approximately VND 1.7 billion/ store ) frome equity and commercial bank loans
+- quality:Each store must reach the break -even point within 8 months after opening.
+
+Request 2 : 
+1.
+- Name :Hire estate for expansion
+- Description :
+- how to estimate : 
+2.
+- Name :buy marterial  
+- Description: buy marterial for each store 
+- how to estimate:
+3.
+- Name: training employees
+-Description: training employees for each store 
+
+4. 
+- Name :sign contract with local paradise
+-Description: signing contract with local paradise 
+- how to estimate 
+
+
+
+
+
+
+
+Request 3 : 
+Risk1 :
+- Name : design and constructing interiors consitent not suitable with brand 
+- description: design and consstructing wrong 
+- impact: affect to brand  , delay time
+- mitigation: 
+-contigency: manage desing and structing interiors before.
+Risk2 :
+- Name: 
+- description : training person for local personel is not enough . 
+- impact :leak of trainner for training local peronnel
+- mitigation:
+- contigency:training more staff from head department 
+Risk 3 : Name :launching campaigns delay 
+- Description : launching capaigns for each store delay time 
+- impact :delay time to lauch for each store 
+- mitigation:
+-contigency:  contact  with manager of each store about launching campain on time .
+
+ 
+2)
+Request 4 : 
+1.Three projec roles:
+- Market Development Director as PM 
+- Interior design team 
+- HR team  
+- Marketing team 
+
+2.
+- Defind the project scope 
+- Design brand 
+- contructing interiors consitent with brand 
+- recruting 
+- training local personnel
+- trainning employee
+- make survey
+- do marketing research
+- advertising for brand 
+- Manage project budget
+ 
+3. 
+-Defing project scope :PM(R/A) , Interior design team (C) , HR team (I) , Marketing team(C)
+-Desing brand :PM(C) , Interior design team(R/A), HR team(I) , Marketing team (I)
+- Constructing interior design consitent with brand:PM( C), Interior design team(R/A) , HR team(I), Marketing team(I)
+- recruting:PM(I), Interior design team(C) , HR team(R/A) , Marketing team( C)
+- traing local personnel :PM(I), Interior design team(I)
+HR team(R/A) , Marketing team(I)
+- trainning employee : PM(I) , Interior design team(I)
+HR team (R/A) , Marketing team (I)
+- make survey : PM(I) , Interior design team(I), HR team(I) , Marketing team(R) 
+- do maketing research :PM(I) , Interior design team(I) , HR team(I) , Marketing team(R/A)
+- advertising for brand :PM(I) , Interior design team(I)
+,HR team( I) , Marketing team(R/A)
+
+-Manage project budget: PM(R/A) , Interior design team(C), HR team(C) , Marketing team(C).

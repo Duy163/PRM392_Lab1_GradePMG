@@ -1,0 +1,75 @@
+1)
+Request 1: A Narrative Charter
+
+- Project name: Coi Cafe's system expansion project.
+
+- Project purpose: Based on a strong foundation in developing coffee brand model in Vietnam, specifically in the two big cities - Ha Noi and Ho Chi Minh, Coi want to expand the brand to big 5 Central provinces and targeting to break-even point after 8 months opening the new one.
+
+- Project constraints:
+  + Scope: This project will conduct premises survey, design and construct interiors consistent with the brand, recruit and train local personnel, build a raw material supply chain from Central region suppiers and launching different campaings for each store.
+  + Timeframe: The project is scheduled to be reaching the break-even point within 8 months. 
+  + Budget: 8.5 billion VND which approximately 1.7 billion VND for each store, the budget is from equity and commercial bank loans.
+  + Quality: This project is considered possible because it is led by the Market Development Director as a PM, and also includes HR team, marketing team and design team. 
+
+
+Request 2:
+- Item1: Coffee machine and devices
+  + Estimation: 50 million VND for each.
+- Item 2: Tables, chair and decorations.
+  + Estimation: 300 million VND for one shop.
+- Item 3: Salary for employees:
+  + Estimation: Cafe's manager for 16 million VND/month, staff for 12 million VND/month.
+- Item 4: Launching marketing campaign
+  + Estimation: 20 million for 1 campaign
+- Item 5: Rent for building website for system.
+  + Estimation: 150 million
+ 
+
+Request 3:
+- Project risk 1: The project is too tight; hard to complete this project on time
+  Possibility: High
+  Impact: High
+  Mitigation plan: Set the priority for each of the activity, add buffer for tasks/activities.
+  Contigency plan: Negotiate with customer to reschedule
+
+
+- Project risk 2: Project Manager has poor skill
+  Possibility: Medium
+  Impact: Medium
+  Mitigation plan: Plan leadership training for manager, provide PM course on Udemy, Coursera for enhancing skill.
+  Contigency plan: Choose another one as a sub PM to support management task.
+
+- Project risk 3: Run out of the project budget
+  Possibility: Medium
+  Impact: High
+  Mitigation plan: Use the budget appropriate with a budget plan.
+  Contigency plan: Sell inappropriate things to focus on the target which helps the project success.
+
+
+Request 4: 
+This Coi's expansion project will apply RACI in order to define specific roles, activities, tasks and the list of the responsibilities for the each role in project.
+
+- Three main roles: Project Manager(PM), employees (design team, HR team and marketing team), customer(Coi's owner)
+
+- Tasks/Activities/Deliverables and Responsibility of each role:
+  + Create project charter: PM(R), Employees(C), Customer(I)
+
+  + Survey cultural and habbit of the people at each province: PM(A), Employees(R), Customer(I)
+
+  + Have a meeting to discuss how well the people's habbit meet the Coi Cafe brand model: PM(R), Employees(C), Customer(A)
+
+  + Recruiting local personnel for the Coi: PM(R/C), Employees/HR(R), Customer(A)
+
+  + Finding suppliers: PM(C), Employees(R), Customer(C)
+
+  + Training employees with operation process: PM(R), Employees(R), Customer(I)
+
+  + Design and promote campaigns: PM(C), Employees(R), Customer(C)
+
+  + Survey shop's customer on experiece at the cafe: PM(A), Employee(R), Customer(I)
+
+  + Meeting and validate the efficiency of the marketing campaign and prepare for the next sprint: PM(R), Employees(R), Customer(R)
+
+  + Close out the project and give deliverables after 8 months duration: PM(R), Employees(R), Customer(I)
+
+2)

@@ -1,0 +1,166 @@
+1)
+Request 1:
+Project name:
+Coi Cafe Central Premium Flagship Experience Project
+
+Justifications:
+Expand Coi Cafe into five Central provinces: Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh.
+Position each new store as a premium flagship location that strongly represents Coi Cafe’s Vietnamese coffee culture.
+Attract customers who value atmosphere, brand story, product quality, and consistent service.
+Build strong brand recognition in Central Vietnam before expanding further.
+Generate new revenue and ensure each store reaches break-even within eight months after opening.
+
+Project constraints:
+Scope:
+Open five premium flagship stores only, one store in each selected province.
+Project scope includes: premium location assessment, lease agreement, flagship interior design, construction, equipment setup, staff recruitment, premium service training, supplier setup, launch campaign, and performance monitoring.
+Time:
+The project must be completed within 12 months.
+All five premium flagship stores must be opened within the approved timeline.
+Each store must reach break-even within eight months after opening.
+Cost / Budget:
+Total budget is VND 8.5 billion.
+Average budget is approximately VND 1.7 billion per store.
+Funding comes from company equity and commercial bank loans.
+Spending must be controlled carefully because premium experience may increase construction and service preparation costs.
+Quality:
+All stores must meet premium flagship standards.
+Interior design must be nostalgic, polished, and consistent with Coi Cafe’s brand identity.
+Drink quality, service quality, hygiene, and sustainability practices must be consistent.
+Staff must be trained to provide professional and warm customer service.
+
+Request 2:
+
+Package 1 - Premium market and location study
+Name: Premium market and location study
+Description: Cost for studying high-potential customer areas, competitor positioning, premium cafe demand, rental conditions, and expected spending level in each province.
+Estimation: VND 700 million total, around VND 140 million per store.
+Way to estimate: Based on field research, customer interviews, competitor visits, rental area comparison, travel cost, and market data collection.
+Person in charge: Project Manager and Marketing Team.
+
+Package 2 - Flagship premises acquisition
+Name: Premium premises lease and setup
+Description: Cost for selecting visible and suitable flagship locations, legal checking, lease negotiation, rental deposit, and first rental payment.
+Estimation: VND 1.55 billion total, around VND 310 million per store.
+Way to estimate: Based on expected rental price, deposit requirement, broker fee, legal review cost, and first rent in higher-visibility areas.
+Person in charge: Project Manager and Finance Team.
+
+Package 3 - Premium interior and construction
+Name: Premium nostalgic interior and construction
+Description: Cost for construction, furniture, lighting, premium seating, counter, wall decoration, signage, photo-friendly corners, and brand-standard finishing.
+Estimation: VND 3.15 billion total, around VND 630 million per store.
+Way to estimate: Based on store size, contractor quotations, premium material cost, furniture list, lighting plan, and approved design concept.
+Person in charge: Interior Design and Construction Team.
+
+Package 4 - Service and operations setup
+Name: Equipment, recruitment, and premium service training
+Description: Cost for coffee machines, grinders, refrigerators, POS system, water filters, reusable cups, kitchen tools, store staff recruitment, uniforms, service training, and pre-opening salary.
+Estimation: VND 2.15 billion total, around VND 430 million per store.
+Way to estimate: Based on equipment supplier quotations, standard equipment list, number of staff, training hours, trainer cost, uniform cost, and pre-opening salary.
+Person in charge: Procurement Team, HR Team, and Operations Team.
+
+Package 5 - Premium launch and supply readiness
+Name: Supplier setup and premium launch campaign
+Description: Cost for supplier selection, first inventory, delivery setup, safety stock, quality checking, grand opening event, brand storytelling content, social media ads, and trial vouchers.
+Estimation: VND 950 million total, around VND 190 million per store.
+Way to estimate: Based on first-month inventory needs, supplier price list, delivery cost, campaign scale, media price, event cost, and promotion budget.
+Person in charge: Procurement and Supply Chain Team, and Marketing Team.
+2)
+Request 3:
+Rist 1: Premium positioning is too expensive for local market
+Risk name: Premium concept exceeds local willingness to pay.
+Description: Some customers may appreciate the store design but may not be willing to pay higher prices for a premium cafe experience.
+Impacts: 
+Scope / quality: The premium flagship concept may not create enough sales.
+Time: Break-even may take longer than eight months.
+Cost: Additional promotions or price adjustments may reduce profit margin.
+Mitigation plan: Conduct pricing research and competitor benchmarking before setting menu and promotion strategy.
+Contingency plan: Introduce value combos, loyalty offers, and off-peak promotions while keeping core premium products unchanged.
+
+Risk 2: Premium construction exceeds budget
+Risk name: Premium interior costs are higher than planned.
+Description: Higher-quality materials, decoration, lighting, and furniture may increase construction costs beyond the planned budget.
+Impacts:
+Scope / quality: Some premium design elements may need to be reduced.
+Time: Re-design or material replacement may delay construction.
+Cost: Total project budget may exceed VND 8.5 billion.
+Mitigation plan: Approve a fixed design budget, compare contractor quotations, and separate must-have brand elements from optional premium details.
+Contingency plan: Replace non-essential premium items with lower-cost alternatives while keeping the main nostalgic brand atmosphere.
+
+Risk 3: Service quality does not match premium image
+Risk name: Staff service fails to support premium positioning.
+Description: If new employees are not well trained, customers may feel the service quality does not match the flagship store image.
+Impacts:
+Scope / quality: Customer satisfaction and brand reputation may decline.
+Time: Additional coaching and service correction may be needed.
+Cost: Extra training, supervision, and customer recovery cost may occur.
+Mitigation plan: Conduct premium service training, role-play, drink quality tests, and pre-opening service evaluation.
+Contingency plan: Assign experienced store supervisors from existing branches during the first month after opening.
+
+Request 4:
+
+Project roles:
+Role 1: Project Manager / Market Development Director
+Responsible for overall project planning, approval, schedule, budget, risk control, and break-even monitoring.
+
+Role 2: Premium Store Development Team 
+Responsible for location support, premium interior design, construction, decoration, signage, furniture, and physical store quality.
+
+Role 3: Premium Operations Team
+Responsible for recruitment, service training, equipment, suppliers, inventory, launch campaign, customer feedback, and store performance.
+
+RACI responsibilities:
+R = Responsible
+A = Accountable
+C = Consulted
+I = Informed
+
+Activity 1: Approve project charter and premium flagship strategy
+Project Manager: A/R
+Premium Store Development Team: C
+Premium Operations Team: C
+
+Activity 2: Conduct premium market and pricing research
+Projet Manager: A
+Premium Store Development Team: I
+Premium Operations Team: R
+
+Activity 3: Select suitable flagship premises
+Project Manager: A/R
+Premium Store Development Team: C
+Premium Operations Team: C
+
+Activity 4: Design premium nostalgic store concept
+Project Manager: A
+Premium Store Development Team: R
+Premium Operations Team: C
+
+Activity 5: Complete construction and premium decoration
+Project Manager: A
+Premium Store Development Team: R
+Premium Operations Team: I
+
+Activity 6: Purchase equipment and prepare initial inventory
+Project Manager: A
+Premium Store Development Team: C
+Premium Operations Team: R
+
+Activity 7: Recruit and train premium service staff
+Project Manager: A
+Premium Store Development Team: I
+Premium Operations Team: R
+
+Activity 8: Set up suppliers and quality control process
+Project Manager: A
+Premium Store Development Team: I
+Premium Operations Team: R
+
+Activity 9: Execute premium launch and storytelling campaign
+Project Manager: A
+Premium Store Development Team: C
+Premium Operations Team: R
+
+Activity 10: Track customer satisfaction, sales, and break-even progress
+Project Manager: A/R
+Premium Store Development Team: I
+Premium Operations Team: C

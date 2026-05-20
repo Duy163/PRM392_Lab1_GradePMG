@@ -1,0 +1,136 @@
+1)
+     Request 1
+     1.Project name: Coi Cafe's Expansion
+     2.Purpose and reasons: Coi's management decided to implement an expansion project into 5 Central provinces(Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 months.
+     3.
+         Constrait: Nostalgic space, traditional drink menu and sustainable business model
+         Time:12 months (1 flagship store in each province)
+         In terms of scope: surveying and training local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store.
+         Cost/budget: The total budget in VND 8.5 billion(approximately VND 1.7 billion/store) from equity and commercial bank.
+         Quality: Each store must reach the break-even point within 8 months after opening.
+
+Request 2
+ 1.
+Name: Marketing cost
+Description: Work on social media, collab with KOLs,... approach to  customers.
+Estimate: VND 200 millions/store. Create Video on social media, advertisement, KOLs,...
+Person in charge: Marketing Lead
+ 2.
+Name: Designing and constructing cost
+Description: Designing business model for each region.
+Estimate: 100 millions/store
+Person in charge: Designing Lead
+3.
+Name: Recruting and training local personel
+Description: Training and management personel, improve quality of service.
+Estimate: 100millions/store salary for employees
+Person in charge: HR Lead
+
+4.
+Name: Supply chain cost
+Description: building a raw material supply chain from  Central region suppliers.
+Estimate: 150 million/store for materials
+Person in charge: PM
+5. 
+Name: Stores building cost
+Description: Place, machine, decoration, ...
+Estimate: 250 millions/store 
+  
+
+2)
+Request 3
+Three project risks: Out of budget, Non-suitable to customer each region, Can not reach the break-even point within 8 months.
+
+Name: Out of budget
+Description: Project need to run in 12 months with 1.7 billion/store may not meet high quality for all scope.
+Time: 12 months
+Cost: VND 1.7 billion.
+Response plan: Reduce quality, cost form scope: recuriting and training local personel, reduce marketing cost.
+
+Name: Non-Suitable to customer.
+Description: Each region, each place has each coffee drinking style.
+Possible impacts: Depend on surveying and selecting premises.
+ 
+Name: Can not reach the break-even point within 8 months.
+Description: In the early, to find and keep a certain amount of customers will be depend on many scope, possible to take time to reach break-even point more than prediction. 
+Scope: Marketing, Designing and Constructing with the brand.
+
+Request 4
+1. Project roles: 
+PM(Market Development Director), Design team,HR team and marketing team.
+2.
+Tasks: surveying and selecting premises, designing, constructing interiors consistent, recruting Personel, training local personel, lauch compaign, marketing, tracking budget, tracking progress, building raw material supply chain.
+3. 
+    Responsibilities:
+R: Response
+A: Accepted
+C: Consulted
+I: Informed
+  a/ Tracking Progress
+PM: A/R
+Design Team: I 
+HR team: I
+Marketing Team: I
+
+   b/Tracking Budget:
+
+PM:A/R
+Design Team: I
+HR Team: I
+Marketing team I
+
+   c/Surveying and selecting premises:
+PM: A
+Design Team: I
+HR Team: R
+Marketing Team: I
+
+   d/Desining:
+
+PM: A
+Design Team: R
+HR Team: I
+Marketing team: I
+
+  e/Constructing interiors consistent:
+
+PM: A/C
+Design Team: R
+HR Team: I
+Marketing Team: I
+
+   f/Recruting Personel: 
+
+PM: C
+Design Team: I
+HR team: A/R
+Marketing team: I
+
+   g/Training local personel:
+
+PM: C
+HR Team: A/R
+Design Team: I
+Marketing Team: I
+
+   h/Marketing:
+
+PM: I
+Design Team: I
+HR Team: I
+Marketing Team: A/R
+
+   i/Building raw material supply chain
+PM: A
+Design Team: R
+HR Team: I
+Marketing team: I
+
+  h/ Launch Compaign
+PM: A
+Design Team: R
+HR Team: I
+Marketing Team: C
+
+
+            

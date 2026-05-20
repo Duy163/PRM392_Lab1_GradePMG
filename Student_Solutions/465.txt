@@ -1,0 +1,74 @@
+1)
+Request 1:
+
+A.Project Name: Coi Cafe Expansion Project
+
+B. Justification
+
+Purpose: to open 1  flagship stores in each of  5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+
+Reason: 
++This coffee brand want to make more money from open more stores not only in the 2 most develop city in Viet Nam but also in the Central of Viet Nam
++This brand want coffee drinker using the reusable cup which is environtment- friendly instead of plastic cups which is more popular and non-environment-friendly
++This brand help Dak Lak farmers by buying their coffee, so if there is more store opening, they can help those farmers more
+
+C.Project constraints : It is to open at least 1 flagship store in each of 5 Cental provinces ( Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) within 12 months. The total budget is VND 8.5 billion which mean VND 1.7  billion each store and each store must reach the break- even point within 8 months after opening
+
+Request 2: Main Cost/budget items:
++Facilities like cafe machine, cashier - machine,...
+The store will need facilities to make coffee and other activities that a coffee store need
++ Training employees fees 
+The Store will need to pay some money to train the employee for the best service quality for customers
++Place to sell cafe
+The Store need to place at a good place to attract more customers 
++Software to manage the store easier
+The store need a software like POS or employee manager to decrease the work for the manager and increase the service quality
++Marketing fees on social medias like youtube or facebook
+The store need to pay money for advertising itseft to attract more younger who usually use those platforms
+
+2)
+Request 3: Project Risk:
+
+Risk 1: Lack of the budget for stores
+- The budget VND 8.5  billion might not be enough to handle the target goal for each store
+-Possible impacts : 
+ +Scope : at least one store will be affected
+ +Time: might impact the planned time as we might need to   search for the sponsor or make a meeting to decide again about the budget before continue the project 
+ +Cost/Budget : the budget might be bigger or smaller to afford the  project
+ +Quality: the quality might have to lower to fit with the    budget
+
+Risk 2: Cannot complete the flagship store goal in 12 month
+- For some reasons like training employees take too long, the lack of  budget for develop the store,... make the goal of each province have 1 flagship store can not be done and will take more time to complete
+-Possible impacts:
+ +Scope: at least one store will be affected
++Time: have to expand the time to complete the planned goal
++ Cost/Budget : Might have some risks of have to paid more money to handle with the risk
++Quality: the quality of each store might be not the same, for example Coi Cafe at Da Nang have a better rating than the one at Binh Dinh
+
+Risk 3: Cannot building a raw material supply chain at some place
+- For some reason about the environment , earth,... there are some or all raw materials that the store need do not have a supplier at that area
+-Possible impacts:
++Scope:at least one store will be affected
++Time: Take more time to delivery material from another area to the local store
++Cost/Budget: have to pay an extra delivery fee for the materials
++Quality: the lack of material will sometimes happen lead to a low quality service for customers
+
+Request 4
+
+A.Project roles :
++PM(Project manager)
++IDT(Interior design team)
++MT(Marketing team)
++HRT(HR team)
+
+B.List of task
+-Designing the stores ( PM : A ;IDT: R)
+-Make advertisment for stores (PM:A ; MT: R)
+-Report the project status (PM ; A,R)
+-Buying suitable facilities for stores(PM : A, IDT:R)
+-Recruit the employees(PM: A; HRT: R)
+-Training the employees(PM: A ; HRT: R)
+-Design the uniform for each store (PM: A; IDT: R)
+- Meeting with the stakeholders (PM: A,R)
+- Design the logo for the brand (PM: A ; IDT: R)
+-Choose the best places for the project(PM: A, R)

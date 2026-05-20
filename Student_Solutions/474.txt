@@ -1,0 +1,98 @@
+1)
+RQ1
+The project is named “Coi Cafe Central Region Rollout Program”. The objective of this project is to expand Coi Cafe into five Central provinces and establish a standardized store system in a new market. This project supports business growth by increasing the number of stores, improving nationwide brand coverage, and capturing new customer demand. It also helps optimize operational efficiency by building a regional supply network and reducing transportation distance from suppliers.
+The project is constrained in several aspects. In terms of scope, it must deliver five operational stores including all activities such as planning, construction, staffing, supply setup, and marketing launch. In terms of time, the entire rollout must be completed within 12 months, requiring strict milestone control. In terms of cost, the total budget is limited to VND 8.5 billion, which requires careful cost allocation and monitoring. In terms of quality, each store must follow standardized brand guidelines and achieve operationwal stability andw break-even within 8 months after opening.
+RQ2
+The first cost item is Premises Cost. This includes leasing expenses, deposits, and related legal fees. The estimation is based on awverage rental prices in target provinces and negotiation outcomes, handled by the procurement team.
+The second cost item is Fit-out Cost. This includes interior construction, decoration, and finishing work. The estimation is based on detailed technical plans using bottom-up estimation, prepared by the design team.
+The third cost item is Operational Assets Cost. This includes equipment such as coffee machines, POS systems, and furniture. The estimation uses supplier quotations and historical cost data, managed by procurement.
+The fourth cost item is Labor Cost. This includes hiring expenses, salaries during training, and onboarding costs. The estimation is based on workforce planning and salary benchmarks, prepared by HR.
+The fifth cost item is Launch and Advertising Cost. This includes promotional activities, digital marketing, and opening events. The estimation is based on previous campaign budgets and expected market demand, prepared by the marketing team.
+RQ3
+Risk 1: Inconsistent Store Quality
+Description: Differences in execution across provinces may lead to inconsistent store quality and customer experience.
+Impact:
+Scope/Quality: Store design and service quality may not meet uniform brand standards
+Time: Additional time of w2–4 weeks mawy be requiredw for rework and adjustments
+Cost: Rework and quality improvement cost may increase by 8–12%
+Mitigation: Apply standardized design guidelines and conduct quality inspections regularly.
+ Contingency: Assign expert teams to support and fix quality issues quickly.
+Risk 2: Slow Supply Chain Setup
+Description: Difficulty in establishing a stable supply chain in new regions may affect operations.
+Impact:
+Scope/Quality: Product availability and quality may be inconsistent
+Time: Store operations may be delayed by 1–3 weeks
+Cost: Emergency sourcing and logistics cost may increase by 6–10%
+Mitigation: Plan supply chain early and sign agreements with multiple suppliers.
+ Contingency: Use temporary suppliers from existing regions and maintain backup stock.
+Risk 3: Weak Marketing Performance
+Description: Marketing campaigns may not effectively attract customers in new markets.
+Impact:
+Scope/Quality: Brand awareness and customer engagement may be low
+Time: Sales growth may be delayed, extending break-even by 2–3 months
+Cost: Additional marketing budget may increase by 10–15%
+Mitigation: Customize marketing strategies based on local preferences and trends.
+ Contingency: Increase promotional activities and adjust campaign channels quickly.
+RQ4
+The main roles include Project Manager (PM), Design Team, HR Team, Marketing Team, and Procurement Team.
+Task 1: Initial Planning
+ PM – A
+ Design Team – C
+ Marketing Team – C
+ HR Team – I
+ Procurement Team – I
+Task 2: Market Validation
+ PM – A
+ Marketing Team – R
+ Design Team – C
+ HR Team – I
+ Procurement Team – I
+Task 3: Site Confirmation
+ PM – A
+ Design Team – R
+ Procurement Team – C
+ Marketing Team – C
+ HR Team – I
+Task 4: Design Finalization
+ PM – A
+ Design Team – R
+ Marketing Team – C
+ Procurement Team – I
+ HR Team – I
+Task 5: Construction Execution
+ PM – A
+ Design Team – R
+ Procurement Team – C
+ Marketing Team – I
+ HR Team – I
+Task 6: Equipment Deployment
+ PM – A
+ Procurement Team – R
+ Design Team – C
+ HR Team – I
+ Marketing Team – I
+Task 7: Recruitment Process
+ PM – A
+ HR Team – R
+ Marketing Team – C
+ Design Team – I
+ Procurement Team – I
+Task 8: Training Delivery
+ PM – A
+ HR Team – R
+ Marketing Team – C
+ Design Team – C
+ Procurement Team – I
+Task 9: Promotion Rollout
+ PM – A
+ Marketing Team – R
+ Design Team – C
+ HR Team – I
+ Procurement Team – I
+Task 10: Operational Launch
+ PM – A
+ Marketing Team – R
+ HR Team – R
+ Design Team – C
+ Procurement Team – I
+2)

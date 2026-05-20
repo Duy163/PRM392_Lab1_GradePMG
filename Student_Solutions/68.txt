@@ -1,0 +1,43 @@
+1)
+Request 1:
+   1. Project narme : Coi's management 
+   2. purpose : the project decided to implement an expansion project into five Central provinces ( Da Nang , Hue, Quang Nam, Quang Ngai , Binh Dinh ) , with one flagship store in each province. 
+   3. Project constraints : the project includes surveying and selecting premises , designing and constructing interiors consistent with brand, recruitingand trainning local personnel , building a raw material supply chain form Central region suppliers and launching campaigns for store. 
+    Time : the project decided to implement a expansion project within 12 months .
+    Cost ; the total budget is VND 8.5 billion (approximately VND 1.7 billion/store.
+   Quality: Each store must reach the break-event point within eight months after opening .
+2)
+Requets 3 :
+  Risk 1 : Building schedule slippage
+     Description :Delays in building store
+     Possible impacts :
+        -Scope: lead to rushed , lower-quality
+        -Time : reduce 12 moths operational window , delay find deadlines 
+         -Cost: incurs late penalties
+      Impact : high (4)
+      Probability : medium(3)
+      Risk scores : high (12) (impact x probability)
+      Mitigation plan : include 15% buffer in the timeline 
+     Contingency: fast track remaining activies or reallocate resourse
+     
+   Risk 2 : Store budget overrun 
+      Description : operational cost exceed the allocate budget of VND 8.5 billion (approximatly VND 1,7 billiion/store) 
+      Possible impacts:
+         -Scope : forces cut to marketing or designing
+         -Cost : violate strict financial constrains 
+      Impact : very high (5)
+      Probability : low (2)
+      Risk Scores : medium (10) ( Impact x Probability)
+      Mitigation plan : implement strict expense approved process 
+      Contingency plan : reallocate funds from non-esstinal items 
+ Risk 3 : team performance issues 
+   Description :Key team fails to meet sandards or peform below expetion 
+      Possible impacts:
+         - Quality : result in poor services or low-quality deliverables
+         - Time : requires extra time for rework or re-training 
+         - Cost : increases labor cost for super vision
+     Impact : medium (3)
+     Probability : high (4) 
+     Risk scores : 12 ( high) (impact x probability)
+     Mitigation plan : conduct comprehevise training and establish on quality checklist before excution. 
+     Contingency plan : replace underperforming member with member backups

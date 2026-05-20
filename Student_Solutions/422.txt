@@ -1,0 +1,74 @@
+1)
+request 1:
+1. project name: coi cafe project.
+2. justifications:
+- the problem: a brand cafe want to expand their brand and introduce their product to more people. 
+- the need: to etablish a campaign to promotion their brand
+- the solve: expansion store into 5 central provinces but still keep their unique such as nostalgic space, traditional drink menu, and sustainable business model. apply promotion, ads stategy, capmpaign.
+3. project constraint:
+- scope: 
++ surveying and selecting premises.
++ designing and constructing interiors consistent with the brand.
++ recruiting and training local personel.
++ building a raw material supply chain from central region suppliers.
++ launching campaigns for each store.
++ technical: development a "coi cafe" website has a analytic dashboard to collect and summary data surveys, data from each store from 5 central provinces. this website can use for promotion campaign, ads.
+- time: 12 months.
+- cost/budget: vnd 8.5 billion (approximately vnd 1.7 billion/store).
+- quality: each store must reach the break-even point within 8 months after opening.
+
+request 2:
+this cost/budget use for 1 store (approximately vnd 1.7billion) from vnd 8.5 billion divide to 5 store.
+1. neccessary equipment for produce product(coffee): this use for buy cup, coffee machine,... 
+- cost/budget: 200 million. 
+- estimate by price on the market, e-commerce like shoppe or take from previous store.
+- person in charged is project manager.
+2. decor items: to create a good look for store, attractive to everyone.
+- cost/budget: 50 million..
+- estimate by price on the market, e-commerce like shoppe or take from previous store.
+- person in charged is staff.
+3. place for store: need a good place for attract everyone's look.
+- cost/budget: 300 million.
+- estimate by check the place and deal a good price with owner.
+-  person in charged is project manager.
+4. run ads: use social media, webiste for promotion about brand and campaign in each store like video on tiktok, youtube, fanpage on facebook.
+- cost/budget: 50 million.
+- estimate by team marketing need by equipment like camera, mic, light,.. and team development by domain to run website, that can check on market.
+- person in charged is team markting and team development.
+5. design for store: design logo, banner, ads picture to upload on social media,..
+- cost/budget: 50 million.
+- estimate by team design need premium edit software for ensure quality, can check on the market.
+- person in charged is design team.
+
+request 3:
+three project risks
+1. the rate of people join campaign is low: a lot of people do not know or not reiceve information from campaign in each store.
+- possible impact to quality: campaign is not effective because customer do not know about this.
+- mitigation: push ads and promotion about store/brand on social media platform to attract new customer know to brand.
+2. out of coffee from farmers: not enough coffee to produce to customer.
+- possible impact to quality: customer feel not comfortable when use service at store.
+- mitigation: prepare more resource coffee from farmer at dak lak.
+3. errors of domain: 
+- website was shut down when customer use, error from domain cofiguration, out of date.
+- possible impact to quality: this maybe make custome not comfortable when using service of store/brand. 
+- mitigation: ensure right configuration and apply testing before release.
+- contingency: can prepare annoucement on social media, fanpage to help customer know about situation, send sorry mail to customer.
+
+request 4:
+1. three project roles
+- project manager (market development director): control budget and ensure project successfully.
+- marketing team: responsible for strategy to attract more customer know to store.
+- development team: development "coi cafe" website for metric analysis from analytic dashboard and promotion, ads on website.
+2, 3
+- control budget of project: project manager (r,a), marketing team (i), development team (i) 
+- tracking the project progress: project manager(r,a),  marketing team(c), development team(c)
+- summary metrics and prepare report:project manager(r,a), marketing team(c), development team(c)
+- creation idea for create video, content on social media: project manager(c), marketing team(r,a), development team(i)
+- scripting and double check content: project manager(a), marketing team(r), developement team(i)
+- record video: project manager(a), marketing team(r), development team(i)
+- edting video: project manager(a), marketing team(r), development team(i)
+- study and collect trend on social media use for write content: project manager(a), marketing team(r), development team(i)
+- development "coi cafe" website: project manager(a), marketing team(i), development team(r)
+- collect data from analytic dashboard: project manager(c,i), marketing team(i), development team(r,a)
+
+2)

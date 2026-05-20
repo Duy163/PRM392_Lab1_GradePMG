@@ -1,0 +1,87 @@
+1)
+Request 1 (20%): Develop a narrative charter statement that includes the following details:
+1. Project name: Coi Cafe Central Vietnam Expansion project 
+2. Justification (purpose & reason to implement this project): The project aims to expan Coi Cafe's brand presence into Central Vietnam, increasing market share and revenue while promotions its sustainable business model this expansion also leverager local supply chains and strengthers brand recognition across new regions
+3. Project constraints, in terms of scope, time, cost/budget, and quaility: 
+- Scope: Open 5 flagship stores in 5 provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) 
+- Time: within 12 months 
+- Cost/Budget: Budget limited to VND 8.5 billion 
+- Quality: Maintain consistennt brand design, trained staff, and each store reaches break-even within 8 months 
+
+Request 2 (20%): provide at least five main cost/budget items. Each cost/budget item, you need to provide following details: name, description, estimation along with the way to estimate (how to estimate. person in  charged,..): 
+1. Market research: 
+- Description: survey customer demand and select location 
+- Estimation: based on previous projcet + research agency quotes 
+- PIC: Market Development Director
+2. Store construction: 
+- Description: build and interior setup 
+- Estimate: cost per m^2 x store size 
+- PIC: projcet managent 
+3. Equiment & funiture:
+- Description: coffee machine, table, chairs 
+- Estimation: supplier quotations
+- PIC: procument team 
+4. Recuiting & training:
+- Description: hire and train staff 
+- Estimation: cost per employee and number of staff
+- PIC: hr team 
+5. Marketing campaign: 
+- Description: launch promotion and branding
+- Estimation: % of total budget or past campaigns
+- PIC: marketing team 
+
+Request 3 (30%): indentify three project risks by listing out the risk title/name, description, possible, impacts (interm of scope or quality, time, and cost) and relevant risk response plans (mitigation, contingency):
+1. Contrustion delay 
+- Impact: delay opening, increase cost 
+- Mitigation: chooses reliable contractors 
+- Contingency: add backup contractor
+2. Low customer demand 
+- Impact: slow revenuem no break - even
+- Mitigation: conduct strong market research 
+- Contingency: increase promotions 
+3. Supply chain issuse 
+- Impact: inconsistent product quality 
+- Mitigation: multipe suppliers 
+- Contingency: backup suppliers 
+
+Request 4 (30%): describe the RACI chart where you: 
+1. Define at least three project roles 
+Roles: 
+- projcet managenment (PM)
+- Marketing team 
+- HR team 
+- Fiance team 
+- Design team 
+Task: 
+
+2. List out at least ten task. activities, or deliverables 
+
+3. For each task/activitity/ddeliverable, list out the responsibilities of 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- 
+
+2)

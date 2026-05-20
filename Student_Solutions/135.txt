@@ -1,0 +1,91 @@
+1)
+Request 1:
+1.Project name: Coi Cafe Drink Media
+2.Justifications: The project is iniated because Coi's management want to implement an exxpansion project into Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh. Reasons inludes surveying and selecting premises, designing and constructing th brand, recruiting and training local personnel, building a raw material and launching campaigns for each store.
+3.Project contraints:
+.Scope: includes servey and selecting premises, desinging and contructing brand, recruiting and training local personel, building material supply chain from Central region, and launching campaigns
+.Time: 12 months
+.Cost/budget: VND 8.5 billion
+.Quality: Must ensure that each store must reach the break-even point within 8 months after opening
+
+Request 2:
+1.Name: Domain & SSL
+.Description: Licenced for fonts, icons and a professional (.ai or .edu) domain name
+.Market Rate: Based on pricing of providers
+.PIC: Project Manager
+
+2.Name: Design and Contruct The Brand
+.Description: Fee for Desiginer
+.Analogous: Based on materials and pricing of desiginer to design
+.PIC: Design Team
+
+3. Building A Store
+.Description: Cost of materials  and people who buids the store
+.Analogous: Based on pricing of materials
+.PIC: HR Team
+
+4.Marketing A Store
+.Description: Cost of marketing on social media (TikTok/Youtube/...) and for KOLs who post video about review Coi's drink on social media
+.Fixed Budget: Based on platform social media
+.PIC: Marketing Team
+
+5. Training Local Personel
+.Description: Cost for materials and uniform to trainer
+.Analogous: Based on pricing of trainer previous
+.PIC: HR team
+
+Request 3: 
+Risk 1:
+.Name: Low Reply Survey
+.Description: User delay to reply survey
+.Time: Project delay to wait reply
+.Quality: User experience
+.Mitigation: Give them voucher or sale of when they send feedback
+
+Risk 2:
+.Name: Not enough local personel to train
+.Description: Not enough local personsel apply to train in store
+.Mitigation: increase salary for them 
+
+Risk 3:
+.Name: Marketing Failure
+.Description: not have video viral and lack of users
+.
+
+Request 4:
+Project Roles:
+.Project Manager (PM): building timline, budgtet and hyrid comunicate team
+.HR Team (HR): manage store and people of strore, design
+.Marketing Team (MT): marketing, create content
+
+Task 1: 
+Create management plan: PM(A/R), HR(C), MT(I)
+
+Task 2: 
+Servey and select permises: PM(C), HR(A/R), MT(I)
+
+Task 3:
+Design and construct interiors with the brand: PM(C), HR(A/R), MT(I)
+
+Task 4:
+Training local personel: PM(C), HR(A/R), MT(I)
+
+Task 5:
+Create compaigns content: PM(I), HR(I), MT(A/R)
+
+Task 6:
+Launch social media promotion: PM(C), HR(I), MT(A/R)
+
+Task 7: 
+Buiding material from Central region suppliers: PM(C),HR(A/R), MT(I)
+
+Task 8:
+Tracking Data : PM(A/R), HR(C), MT(I)
+
+
+Task 9:
+Auditing before opening store: PM(A/R), HR(C), MT(I)
+
+Task 10: 
+Generate final performance project: PM(A/R), HR(I), MT(I)
+2)

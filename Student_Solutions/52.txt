@@ -1,0 +1,156 @@
+1)
+Request 1 
+Project Name:
+ Coi Cafe Expansion to Central Vietnam
+Purpose / Justification:
+ This project focuses on opening five new Coi Cafe stores in Central Vietnam within one year. The expansion targets key provinces including Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh.
+The main objectives are to expand the company’s market coverage, respond to increasing coffee consumption in tourist areas, and develop a more flexible supply system using local partners. It also helps the company reduce dependence on current markets and improve long-term profitability.
+Success Criteria:
+Open all 5 stores within 12 months
+Reach break-even point within 8 months
+Maintain consistent service and product quality
+Keep total cost under VND 8.5 billion
+Stakeholders:
+ Board of Directors, Project Manager, HR, Marketing, Design Team, Suppliers, Customers
+Constraints:
+Scope: Only 5 stores
+Time: 12 months
+Cost: 8.5 billion VND
+Quality: Must follow brand standards
+
+Request 2 
+1. Rental Cost
+ Includes monthly rent and deposit for each location.
+ Estimate: ~200–300M/store
+ Method: Market comparison
+ Responsible: Finance + PM
+2. Store Setup
+ Covers construction, decoration, and layout.
+ Estimate: ~700M/store
+ Method: Contractor quotation
+ Responsible: Design team
+3. Equipment Cost
+ Coffee machines and furniture.
+ Estimate: ~300M/store
+ Method: Supplier pricing
+ Responsible: Ops
+4. Staff Cost
+ Hiring and training employees.
+ Estimate: ~120M/store
+ Method: Per staff calculation
+ Responsible: HR
+5. Promotion Cost
+ Marketing campaigns and opening events.
+ Estimate: ~150M/store
+ Method: Based on previous campaigns
+ Responsible: Marketing
+
+
+2)
+Request 3 
+Risk 1: Project Delay
+ Construction or setup may take longer than expected.
+ Impact: Delay schedule, increase cost
+ Mitigation: Careful planning and monitoring
+ Contingency: Add extra time buffer
+Risk 2: Weak Customer Demand
+ Stores may not attract enough customers.
+ Impact: Low revenue
+ Mitigation: Strong marketing and location analysis
+ Contingency: Adjust promotion strategy
+Risk 3: Supplier Risk
+ Suppliers may not deliver on time.
+ Impact: Product shortage
+ Mitigation: Multiple suppliers
+ Contingency: Backup sourcing
+
+Request 4
+Project Roles:
+ PM: Project Manager
+ ID: Interior Design Team
+ HR: Human Resources Team
+ MKT: Marketing Team
+ OPS: Operations Team
+Task 1: Market Research
+ PM: A
+ MKT: R
+ ID: C
+ HR: C
+ OPS: I
+Task 2: Location Selection
+ PM: A
+ OPS: R
+ MKT: C
+ ID: C
+ HR: I
+Task 3: Lease Negotiation
+ PM: A
+ OPS: R
+ MKT: I
+ ID: I
+ HR: I
+Task 4: Store Design
+ ID: R
+ PM: A
+ OPS: C
+ MKT: C
+ HR: I
+Task 5: Construction
+ ID: R
+ PM: A
+ OPS: C
+ MKT: I
+ HR: I
+
+Task 6: Equipment Procurement
+ OPS: R
+ PM: A
+ MKT: I
+ ID: C
+ HR: I
+Task 7: Supplier Setup
+ OPS: R
+ PM: A
+ MKT: I
+ ID: C
+ HR: I
+Task 8: Staff Recruitment
+ HR: R
+ PM: A
+ OPS: C
+ MKT: I
+ ID: I
+Task 9: Staff Training
+ HR: R
+ PM: A
+ OPS: C
+ MKT: I
+ ID: I
+Task 10: Marketing Campaign
+ MKT: R
+ PM: A
+ OPS: C
+ ID: I
+ HR: I
+Task 11: Store Launch
+ PM: A
+ MKT: R
+ OPS: R
+ ID: C
+ HR: C
+
+Task 12: Performance Monitoring
+ PM: A
+ OPS: R
+ HR: C
+ MKT: C
+ ID: I
+
+Legend:
+ R: Responsible
+ A: Accountable
+ C: Consulted
+ I: Informed
+
+
+

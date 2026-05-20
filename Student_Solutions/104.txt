@@ -1,0 +1,75 @@
+1)
+request1: project name: coi cafe vietnamese coffee brand
+-  purpose:  coi's management decided to implement an expansion project into 5 central province (da nang, hue, quang nam, quang ngai, binh dinh), with 1 flagship store in each pronvin ce within 12 months. famous for its nostalgic space, traditional drink menu and sustainable business model (using reusable cups, purchasing coffee directly form dak lak farmers)
+ constraints:
+- scop: building a raw material supply chain form central region suppliers,
+-  time: 12 months
+- cost: the total budget in vnd 8.5 billion
+- quality: each store must reach the break-even point within 8 months after opening
+
+request 2:
+
+1: building sofware web to marketing and manager stores: 
+estmate:  0.5 for total months/ number employess
+2: survey and marketing: buildisng brand, lauch public,: 
+estmate method by anologis 0,2 billion for each month
+3: purchasing: earned and  imput meterial,
+eastmate method by simulation 0.7 for meterial for months.
+4: hire store: earned good location, pay money hire store 
+- with each store must reach the break-even point within 8 months after opening should caculater way cost hire  0.1 for months.s
+
+5:hire employees: seclec staff, mamager, using method simulation for each staff
+hire 0.2 for months should method simulation 
+
+
+request 3:
+
+- the first rist: meterial within nation decreasing
+possible: high
+impact: high
+response plan: allway buffer merterial, earned more supplier another.
+ 
+- the seconly: increasing marketing 
+possible: high
+impact: hight
+response plan: ananlyis marketing and give solution better
+
+- the final: employer stop job
+possible: medium
+impact: hight
+response plan: sometime trainding employer manger, add employemnt buffer.
+
+request 4:
+project roles:
+   the market development director (pm)
+   design team:
+   hr team: analysis sa
+   marketing team: building brand and analysis
+   staff product: creat product, manager, manafuturer
+  software development:
+task:
+1. survey user pm (i), design team (i), hr team (c,a), marketing team (r). staff product, developer
+
+2. survey marketing pm (c) design team (i), hr team(i,r), marketing team (r,a), developer (i), staff product (i)
+
+3: earned store meterial: pm(c) design team (i), hr team (c), marketing team (r,a) , staff product(i), developer (i)
+
+4: architecture system : pm(c), hr team,(i) marketing team(i), staff product(i), developer(r,a)
+
+5: building system: pm(c), hr team(i), marketing team,(i) staff product(i), developer(r,a)
+
+6: testing system: pm,(c) hr team(i), marketing team(i), staff product(c). developer(r,a)s
+
+7: deloy system: pm (i), hr team (i), marketing team (i), staff(i)  product developer(r,a)
+
+8: repor daily processt: pm (a,r), marketing team(i.c), hr team, developer (i), staff product (i)
+
+9: manafuturer product pm(c), hr team(c), marketing team(c) staff product(r,a) developer(i)
+
+10: deliverable product: pm(a), hr team(c), marketing team(c), staff product(r) developer(i)
+
+
+
+
+
+2)

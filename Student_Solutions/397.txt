@@ -1,0 +1,86 @@
+1)
+Request 1 
+The project name : Coi Cafe Central region market entry project 
+
+Purpose : The main purposes is to expand the business into five Central provinces and build a strong regional presence. This project will helps Coi Cafe increase revenue sources, reduce dependend on current markets.  
+
+Project constraints : the project must follow several constraints. In terms of scope, five flagship stores must be developed with full operations including location selection, store setup, staffing, and marketing. In terms of time, stores must be completed within 12 months.
+
+In terms of cost, the total investment is limited to VND 8.5 billion, so each activity must be carefully budget. In terms of quality, all stores must maintain consistent brand image, service quality, and achieve break- even within 8 months after opening.
+
+Reuqest 2 :
+
+The first cost item is location and legal cost. This includes site survey, rental deposit, and legal procedures. The estimation is based on local rental market data prepared by the finance team with PM approval
+
+The second cost item is store construction cost. This includes materials, labor, and contractor fees. The estimation is done using bottom-up estimation from detailed construction plans, handled by the design team.
+
+The third cost item is equipment cost. This includes coffee machine, furniture, and operational tool. The estimational is based on suppliers quotations, managed by the procurement team
+
+The fourth cost item is human resource Cost. This includes recruitment, salaries during training, and training programs. The estimation is based on staffing plans and standard salary levels, prepared by HR
+
+The fifth cost item is marketing cost. This includes advertising, promotion, and grand opening events. The estimation uses percentage-based estimation from expected revenue and past campaigns, managed by the marketing team.
+
+2)
+Request 3: unfarvorable loation select
+
+Description: selected store locations may not attract enough customer traffic due to poor analysis or incorrect assumptions.
+
+Impact:
+
+Scope / quality: store performance may not meet expected business standard
+Time: Time to reach break- even may be delay by 2 – 4 months
+
+Cost: additional relocation or marketing cost will increase by 15–20
+
+Mitigation: conduct detail market analysis and evaluate multiple location options before decision
+
+Contingency: Adjust marketing strategy or consider relocating after performance evaluation.
+
+Risk 2: ineffective staff performances
+
+Description: Newly recruited local staff may lack experience, leading to poor service quality.
+
+Impact:
+
+Scope / quality: service quality may not meet brand standard
+
+Time: additional training time may delay stable operation by 1–2 months
+
+Cost: extra training and supervision cost may increase by 5–10%
+
+Mitigation: implement strict recruitment criteria and standard training programs
+
+Contingency: replace underperforming staff and assign experienced staff from existing stores for support
+
+Risk 3: Budget Over run
+
+Description: actual costs may exceed the planned budget due to poor estimation or unexpected expense
+
+Impact:
+
+Scope / quality: some features or design elements may need to be reduce
+
+Time: project progress may slow down due to financial adjustment
+
+Cost: Total project cost may exceed budget by 10 –15%
+
+Mitigation: spply strict cost control and budget review
+
+Contingency: Rellocate budget and prioritize critical activitie
+
+Request 4 :
+
+The main role include Project Manager ( PM ), Design Team, HR Team, Marketing Team, and Procurement Team.
+
+Task 1: Market Research
+ PM – A
+ Marketing Team – R
+ Design Team – C
+ HR Team – I
+ Procurement Team – I
+
+Task 2: Location Selection
+ PM – A
+ Design Team – R
+ Marketing Team – C
+ Procurement Team – C

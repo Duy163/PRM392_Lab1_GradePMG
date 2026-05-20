@@ -1,0 +1,70 @@
+1)
+Request 1:
+ 1. Project Name: Coi Cafe Project
+ 2. Justifications: This project is implemented to an expansion project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 months and each store must reach the break-even point within 8 moonths after opening.
+ 3. Project Constraints: 
+ - Scope: The project must complete main tasks and achieve the goal of implement an expansion project into 5 Central provinces with 1 flagship store in each province.
+ - Time: Must be completed within 12 months.
+ - Cost: Total budget is strictly limited to VND 8.5 billion (approximately VND 1.7 billion/store).
+ - Quality: include surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel. building a raw material supply chain from Central region suppliers, and launching campaigns for each store.
+
+Request 2:
+ 1. Preparation and Setup Cost:
+ - Description: Purchasing neccessary materials and basic setup.
+ - Estimation: VND 2.5 billion (VND 500 million/store)
+ - Method: Supllier quotation
+ - Responsible: Project Manager
+ 2. Marketing and Advertising:
+ - Description: Social media boosting and printing posters.
+ - Estimation: VND 1 billion (VND 200 million/store)
+ - Responsible: Marketing Team
+ 3. Operation / Production Cost: 
+ - Description: Direct costs to run the project
+ - Estimation: VND 2 billion (VND 400 million/store)
+ - Method: Market price research
+ - Responsible: Operations Team
+ 4. Training and Admin Cost:
+ - Description: Training team members and paperwork
+ - Estimation: VND 1.5 billion (VND 300 miliion/store)
+ - Method: Expert judgment
+ - Responsible: HR/Admin Lead
+ 5. Contingency Reserve:
+ - Description: Backup fund for unexpected risks
+ - Estimation: VND 1.5 billion (VND 300 million/store)
+ - Method: Reserve calculation
+ - Responsible: Project Manager
+
+Request 3:
+ 1. Risk 1: Fail to reach the target of reaching the break-even point within 8 months after the opening of each store.
+ - Description: The project does not attract enough people.
+ - Impacts: Fails scope and wastes time budget.
+ - Response: 
+  + Mitigation: Push strong marketing early.
+  + Contingency: Extend promotion time if allowed.
+ 2. Risk 2: Not finish on time
+ - Description: There are many services quality need to be setup and monitor.
+ - Impacts: Fails quality and time
+ - Response:
+  + Mitigation: Pior strong Preparation and Setup period.
+  + Contingency: Extend promotion time if allowed.
+ 3. Risk 3: Over budget (Exceeding: VND 8.5 billion)
+ - Description: Unexpected costs happen during execution.
+ - Impacts: Fail cost constraints
+ - Response: 
+  + Mitigation: Track expenses strictly everyday.
+  + Contingency: Use the Contingency Reserve budget.
+
+Request 4:
+Roles: 1. Project Manager (PM) | 2. Operations Lead (OP) | 3. Marketing Lead (MKT)
+Tasks and Responsibilities:
+ 1. Define project plan and budget: PM (A, R), OP (C), MKT (I)
+ 2. Conduct market/audience research: MKT (R), PM (A), OP (I)
+ 3. Prepare equipment and materials: OP (R), PM (I), MKT (I).
+ 4. Train team members: PM (A, R), OP (C), MKT (I)
+ 5. Execute core project tasks (Phase 1): OP (R), PM (A), MKT (C).
+ 6. Execute core project tasks (Phase 2): OP (R), PM (A), MKT (I).
+ 7. Run marketing and promotions: MKT (R), PM (I), OP (I).
+8. Monitor quality and handle issues: PM (A, R), OP (C), MKT (C).
+9. Collect results and analytics: MKT (R), OP (C), PM (A).
+10. Final reporting and close project: PM (A, R), OP (I), MKT (I).
+2)

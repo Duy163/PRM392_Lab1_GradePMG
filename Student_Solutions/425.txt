@@ -1,0 +1,89 @@
+1)
+Request 1:
+Project name: Coi Cafe Management
+
+Purpose: The aims project is includes surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and traning local personnel, building a raw material supply chain from Central region suppliers, and launching campains for each store.
+
+Constraints
+
+Scope: the project include surveying and selecting premises, designing and contructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store.
+
+Time: the project need completed within 12 months.
+
+Cost/budget: The total budget is VND 8.5 billion (approximately VND 1.7 billion/store) 
+
+Quanlity: Each store must reach the break- event point within 8 months after opening.
+
+Request 2:
+
+Cost 1: Planning system project
+Name: Planning to do system project Coi Cafe management
+Description: planning can do project sucessfully don't have more rick or error when working
+Estimate: 200 million for planning can help project doing better no eror
+Person in charged: PM
+
+Cost 2: Started develop project
+Name: Start doing planning system project for each store 
+Description: Doing planning for each store was working good or had error
+Estimate: 4 billion for started planning working each store
+Person in charged: PM
+
+Cost 3: Fix error
+Name: Fix error when working have error or some problem
+Description: Fix error when had problem or error
+Estimate: 2 billion to fix problem or error
+Person in charged: PM
+
+Cost 4: Update system
+Name: Update system project working better 
+Description: Update system working beter
+Estimate: 1 billion for updating system
+Person in charged: PM
+
+Cost 5: Buying some tenology to develop each store
+Name: Buying tenology for store
+Description: Help users feeling store have more tenology can help up trend on social media
+Estimate: 1 billion for buying
+Person in charged: PM
+ 
+
+ 
+2)
+Request 3:
+
+Risk 1: Control more store
+Description: Have more store need to control and develop planning
+Scope or qulity: high
+Time: low
+Cost: high
+Risk reponse plan: Can't change improve find manager each store control develop planning
+
+Risk 2: Don't find people working
+Description: Each store can't find enough people working 
+Scope or qulity: high
+Time: high
+Cost: hingh
+Risk reponse plan: Can change some people working in difference store to help when find people 
+
+Risk 3: Emmployer don't working
+Description: Employer don't want working
+Scope or qulity: High
+Time: High
+Cost: high
+Risk reponse plan: Ready employee working more than in store can woking 
+
+Request 4: 
+
+1. Planning desgin system project woking
+2. Started working system each store Coi Cafe
+3. Colpleted develop system managermnet Coi Cafe
+
+1. Planning design system: PM(C), Design team(C,A), HR(I), MKT(I)
+2. Check planning: PM(A), Design team(C), HR(I), MKT(I)
+3.Find emmployee working: PM(I), Design team(I), HR(A,C), MKT(I)
+4.Training employee: PM(I), Design ream(A,C), HR(I),MKT(I)
+5. Fix error or problem working: PM(C), Design team(A,C), HR(I),MKT(I)
+6. Update system working: PM(C),Design team(A,C),HR(I),MKT(I)
+7. Check working: PM(A) , Design team(C), HR(I),MKT(I)
+8.Started demo user: PM(A), Design team(C), HR(I), MKT(I)
+9.Maketing system store : PM(I), Design team(I), HR(I), MKT(A,C)

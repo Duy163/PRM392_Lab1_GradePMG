@@ -1,0 +1,116 @@
+1)
+REQUEST 1:
+
+Project name: Coi's management
+Purpose: Expanding project into 5 Central provinces, with 1 flagship store in each province within 12 months.The project includes: surveying and training local personel, building a raw material supply chian from Central region suppliers,and lauching campaigns for each store.
+
+Constraints:
+
+- Scope: Expansion project into 5 Central provices (Da Nang , Hue,Quang Nam, Quang Ngai,Binh Dinh),with 1 flagship store in each province within 12 months. 
+- Time: 12 months
+- Budget: 8.5 billion VND
+ - Quality: Each store must reach the break-even point within 8 months after opening
+2)
+REQUEST 2:
+
+1. 
+- Name: Social media marketing
+- Description: budget are using for hiring KOLs, Reviewer in social media, marketing compaigns in many platform (Tiktok, Facebook,...)
+- Estimation: Buy marketing plan in social platform, booking with me manager of KOLs
+- Person in charged: Marketing team, Design team
+
+2. 
+- Name: Training employee
+- Description: budget is using for training team training employee
+- Estimation: test material use for training
+- Person in charged: HR team
+
+3. 
+- Name: Salary 
+- Description: money which paying the employee, internal team
+- Estimation: paying base on the impact of the emplyee in campaigns progess 
+- Person in charged: HR team, PM
+
+4. 
+-Name: Product Material
+- Description: the budget to buy ingredient to make the product.
+- Estimation: Base on the supply of the header, the best seller product.
+- Person in charged: PM
+
+5.
+-Name:Store facility
+-Description: money spent on chair, table ,.....
+-Estimation:Base on the stragetry of the store
+-Person in charged:HR team,PM
+
+REQUEST 3:
+
+1.
+- Name: Break-even point time overun(Quality)
+- Description: the time to reach the break-even is more than 8 months
+- Impact : high
+- Mitigation: use more budget to marketing, incresing quality of product
+- Contingency: having the insurence budget to solve problem.
+
+2.
+- Name: Dont have enough budget to expansion project(Scope)
+- Description: when expansion the project, the cost is more than 1.7 billion VND per store
+- Impact :high
+- Mitigation: decrese budget in all field or some field
+- Contingency: always checking for the effect of the money spending, 
+
+3.
+- Name: Market researching seem not worth for invest(cost)
+- Description : Market researching tells that it's low needs on the product of the project.
+- Impact;High
+- Mitigation: sent the report to the Director , request to stop investing or change the place to invest.
+- Contigency: Having the backup provinces to invest if the investing provice dont worth .
+
+REQUEST 4:
+
+1. Project Role
+-  Market Development Director : PM
+-  Design team: Internal
+- Marketing team : Internal
+2.3.
+ 1. Deciding the stragetry in a specific province
+PM: R
+Design Team: I
+Marketing team: A
+  2. Designing Brand base on the stragetry
+PM:C
+Marketing team: R
+Design Team: A
+  3. Survey price
+PM:R
+Marketing team:A
+Design Team:I
+  4. Booking Kols
+PM:R
+Marketing team:A
+Design team:C
+  5. Designing product 
+PM:C
+Marketing team:R
+Design team: A
+  6.Creating trending decoration to attract the young 
+PM:C
+Marketing team:R
+Design team:A
+  7.Choosing sale plan
+PM:R
+Marketing team:A
+Design team:I
+  8.Marketing for the whole Coi Cafe chain to gain trust from customer
+PM: C
+Marketing team: R
+Design team: A
+  9.Creating a website to marketing about Coi Cafe
+ PM:R
+ Marketing team:A
+ Design team:C
+ 10. Getting money from bank loans
+PM:A
+Marketing team:I
+Design team:I
+

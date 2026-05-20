@@ -1,0 +1,93 @@
+1)
+Request 1:
+
+1. Project name: Coi Cafe's Expansion
+
+2. Justification:
+
+- Reason: Coi Cafe wants to expand their stores into 5 central provinces which are Da Nang, Hue, Quang Nam, Quang Ngai and Binh Dinh.
+
+- Purpose: They want to have their stores located in 7 cities, which can increase their reputation and incomes because of the sustainable business model.
+
+3. Project constraints:
+
+- Scope: The project needs to have 1 flagship store in each of 5 central provinces. Deliverables must include surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from central region suppliers and launching campaigns for each store. Each store must reach the break - even point within 8 months after opening.
+
+-Time: The project must be entirely executed and closed within a strict 12 - month timeframe.
+
+- Cost/Budget:The maximum allowable budget is strictly capped at VND 8.5 bilion, approximately VND 1.7 billion per store, funded by equity and commercial bank loans. No additional funding is available.
+
+- Quality: The stores must effectively attract customers around their places. The project must do all the deliverables and yield measureable improvements in the incomes, so that each store can reach the break - even point within 8 months after opening. 
+
+Request 2:
+
+1. Surveying and Selecting
+- Description: Costs associated with surveying and selecting premises that are suitable for open a flagship store in 5 central provinces. 
+- Estimation: VND 250,000,000 (VND 50,000,000 / city)
+- Method: Analogous Estimating based on historical data from the locals.
+- In charge: Project Manager
+
+2. Designing and Constructing
+- Description: Costs associated with designing and constructing interiors consistent with the brand, making sure the 5 new stores will have the same theme as 12 stores in Ha Noi and Ho Chi Minh city.
+- Estimation: VND 5,000,000,000 (VND 1,000,000,000 / city)
+- Method: Parametric Estimating. Unit cost per store multiplied by 5 cities. 
+- In charge: Interior Design Team
+
+3. Recruiting and Training
+- Description: Costs associated with recruiting and training local personnel.
+- Estimation: VND 1,000,000,000 (VND 200,000,000 / city)
+- Method: Bottom - up estimating by summing up how much the local store manager and employees get paid.
+- In charge: HR Team
+
+4. Buiding
+- Description: Costs associated with building a raw material supply chain from central region suppliers.
+- Estimation: VND 1,000,000,000 (VND 200,000,000 / city)
+- Method: Analogous Estimating based on historical data from previous central region suppliers.
+- In charge: Project Manager
+
+5. Launching
+- Description: Costs associated with launching campaigns for each store.
+- Estimation: VND 1,250,000,000 (VND 250,000,000 / city)
+- Method: Three - point estimating using best - case, most likely and worst - case CPM / CPC rates to achieve the desirable views.
+- In charge: Marketing Team
+
+2)
+Request 3:
+
+1. Risk Title: Low Marketing Engagement 
+- Probability: Low
+- Impact: High
+- Mitigation Plan: Conduct A/B testing on marketing concepts with a small focus of people before full production; select KOLs based on proven engagement rates and audience demographics rather than just total followers counts.
+- Contigency Plan: Execute heavy paid media boosting ads to force visibility and reach the views KPI if organic reach falls short.
+
+2. Risk Title: Supply Chain and Logistics Delays
+- Probability: Low
+- Impact: High
+- Mitigation Plan: Sign strict Service Level Agreements (SLAs) with the central region suppliers.
+- Contigency Plan: Implement a phased rollout strategy focusing on availability first while resolving logistics issues to ensure project momentum is not entirely stalled.
+
+3. Risk Title: Employee's Attitude Scandal
+- Probability: Low
+- Impact: High
+- Mitigation Plan: Perform rigorous historical background checks before signing.
+- Contigency Plan: Annouce an apology to the customer, retrain the employees or fire them. 
+
+
+Request 4:
+
+Project Roles:
+- Product Manager (Internal): Oversees the entire "Coi Cafe's Expansion" project, manages the VND 8.5 billion budget, ensures the 12 - month timeline is met, and acts as the primary link between teams.
+
+- Interior Design Team (Internal): Designs interiors consistent with the brand, manages the builders to follow exactly their drawings.
+
+- HR Team (Internal): Recruits local employees, trains the local personnel, responsible for the productivity of local personnel in each store.
+
+- Marketing Team (Internal): Launchs campaigns for each store, responsible for creative content production, socia media enagagement.
+
+Tasks & Responsibilities:
+
+1. Develop Narrative Project Charter and Scope:
+PM (R) , Interior Design Team (I), HR Team (I), Marketing Team (I)
+
+2. 
+

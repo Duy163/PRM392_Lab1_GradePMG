@@ -1,0 +1,91 @@
+1)
+request 1:
+project name:
+"coi cafe" opened flagship store
+project justification:
+"coi cafe" as know as a famous cafe store where is focus to nostalgic space. with the potencal by  purchasing coffee directly from  dak lak faemers, "coi cafe" have a ability to open there bussiness by etablish a flagships store. 
+choosing open 1 flagship store in 5 central provinces (da nang, hue, quang nam, binh dinh) will make the brand bring more benefit and financial. 
+project constraints:
+in terms of scope:
+this project covered surveying and trainning local personnel, building a raw material supply chain from central region suppliers, and launching campaigns for each store. 
+time:
+duration: 12 moths 
+including from itiniation to closing the project. 
+cost/bugget:
+the total bugget is vnd 8.5 billion with each store approcimately vnd 1.7 billion. 
+quality:
+after launch, project need to improve the brand awaness about flagships store, and react the target in project.
+each flagships store need to react a number of customer, consumer. 
+request 2:
+five main cost bugget item:
+1 locational and running store cost:
+cost for each store: vnd 800 million
+time: within 8 mouth after opening 
+including: locational, power electric to run store, staff, suppies( computer, props,...)
+estimation: top-down. ussing top-down to litimit the bugget for each store because in each place have each difficut about location price, emploee,...
+2. core human resouce for project:
+bugget: vnd1 billiton 
+time: duriation 132 moths
+including: core saff from all the project in all milestone. 
+estimation: bottom - up
+3. raw material and suppliers:
+bugget: vnd 600 million
+time: during 8 moths when the store openned
+including: raw coffee, tea lief, raw materials to make coi cafe product. 
+estimation: bottom-up. coi cafe alredy have suppliers or shakeholder who provide raw material. ussing bottom up can minimize the cost. 
+4 marketing social:
+cost vnd 300 million
+including garffic design, running ads, book review, promotion plan,... 
+etismation: top down. thiss bugget not stickly, it can change from each flasform, time, ...
+5. design and decoration store:
+bugget: vnd 100 million for each store
+time: before openned store 1 moths.
+including the design, prop to decoration store, bugget for designer. 
+etismation: 
+top-down
+
+
+
+
+
+2)
+request 3:
+three risks in project:
+1. out of bugget 
+possible: low
+impact: high
+this risk happened when the project need more money than expectation, usually come from not manament stickly in some part or the primiry bugget was not correct in real life. 
+it bring alot of disadvantage such as
+mitigation plan: set a enmergency bugget ( minimixe at 10%) for each part of the project
+contingency: cut out some part doesn't nescessery to limit the money. 
+2. the schedule too tight. 
+possible: medium 
+impacts: high
+when the project come in hatf, staff or human resouce can handle such a huge task. or the project becoming over task. 
+mitigation plan: make sure or check stickly the project mamament before start. trainning carefully staff to running easier. 
+contingency plan: add more staff to solve the proplem.
+
+3. manement skill poor
+possible: low
+impacts: high
+when the manager have a poor skill, make the project not clear or leader ship bad. 
+affect most the project: time, cost,.., and bring bad feedback from client. 
+mitigation plan: practice soft and hard skill before start. add 1 sub mamager to handle. 
+contingency plan: if the situation become worst, add more than 1 sub manager to solve.
+request 4:
+three project role: 
+project manager(pm):
+accounting(acc)
+content planner(cp)
+coi's management(cm)
+ten task with reponsibilities of the project:
+1. create a project charter: pm(r,a),cm(c,i)
+2. create a bugget: pm (r,a), acc(c), cm(i)
+3. create risk manament: pm(a), cp(r). cm(i)
+4.  manament bugget: acc(r), pm(a)
+5. create a promotion plan: cp(r), pm(a), cm(i) 
+6. spending money: acc(r,a), pm(c,i),
+7. marketing plan: cp(r), pm(a,c), cm (i)
+8. surveying and selecting permises: cp(r), pm(a,i), acc (c)
+9. manament human resoure: pm(r,a,c,i) 
+10. createl content ads: cp(r,a), pm(c,i)

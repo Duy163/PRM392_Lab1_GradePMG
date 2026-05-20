@@ -1,0 +1,71 @@
+1)
+Request 1:
+Project name: "Coi's CoffeTradditional"
+
+Describe: Coi Cafe is a pure Vietnamese coffre brand with 12 stores in Ha Noi an Ho Chi Minh City, famous for its nostalgic space, traditional drink  menu and suitable business model( using resuable cups, purchasing coffe directly from Dak Lak farmers).
+
+Purpose & Reasons: Coi's Coffe are very famous with 12 stores in Ha Noi and Ho Chi Minh City, they want to management many stores and build the event, so Coi's Management decided to implement an expansion project into 5 Central province within 12 months.
+
+Project Contraints:
+ Scope: 
+  - Implement an expansion project into 5 Central provinces( Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) with 1 stores flagship in each provice.
+  - Design and constructing interiors consistent with the brand.
+  -  Recruiting and training local personnel.
+  - Building a raw meterial and launching campaigns for each store.
+ Time: 12 months
+ Cost/budget: VND 8.5 billion
+ Quality: 
+  - The survey need to 90% rate from event.
+  - The break-event point within 8 months after opening.
+
+Request 2:
+The total is VND 8.5 billion(approximately VND 1.7 billion/store)
+  1. Prepare and Setup Cost
+    - Description: Buy many material need to setup
+    - Estimation: 200 million
+    - Method: Supplier quatation
+    - Responsiable: Design Team
+  2. Marketing and Adversiting
+    - Description: Social media boosting and printing psoter.
+   - Estimation: 300 million
+   - Method: Base on pervious campaigns
+   - Responsiable: Marketing Team
+ 3. Operation/Prodouct cost:
+   - Description: Direct cost to run the project
+   - Estimation: 200 million 
+   - Method: To deploy website or News  
+   - Reponsiable: Market Development Director
+4. Admin Cost:
+   - Descriptions: Trainning local personel, team member and team-work
+   - Estimation: 350 millions
+   - Method: Traning team
+   - Reponsiable: HR Team
+5. Backup and Risk
+   - Description: Backup total and spend for risk in the project
+   - Estimation: 650 millions
+   - Method: Backup all detail what thing spend for this project
+   - Reponsiable: Project Manager
+
+
+2)
+Request 3: 
+   
+
+Request 4: 
+ 1. Three project roles:
+   - Maket Development Director as (PM)
+   - Design Team(DS)
+   - HR Team(OP)
+   - Marketing Team(MK)
+
+ 2. Task:
+   1. Define project plan and Budget: OP(C),PM(R,A), MK( I ) 
+   2. Conduct market/audiance research from survey
+   3. Repare equiment and material
+   4. Train Team Member
+   5. Excuting core project(Phase 1)
+   6. Excuting core project(Phase 2)
+   7. Run marketing and promotions
+   8. Monitor Quality and analysist
+   9. Collection resource 
+   10. Final Reporting: PM (R,A)

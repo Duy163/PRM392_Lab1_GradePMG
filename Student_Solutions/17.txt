@@ -1,0 +1,87 @@
+1)
+Request 1:
+1. Project name: Coi Cafe
+
+2. Justifications
+ -  Coi's management decided to implement an expansion project into 5 central provinces (Da Nang, Hue, Quang Nam, Quang Ngai , Binh Dinh) with 1 flagship store in ech province
+
+3 Project constraint:
+ - Scope: 
+   + Surveying and selecting premises
+   + designing and constructing interiors consistent with the brand
+   + Recruiting and training local personnel
+   + Building a raw material supply chain from Central region suppliers
+   + Launching campaigns for each store
+ - Time: 12 months
+ -  Cost: The total budget is VND 8.5 billion ( approximately VND 1.7 billion / store)
+ - Quality: Each store must reach the break-even point within 8 months after opening
+
+
+Request 2: 
+ 1. 
+- Name: Training local staff
+- Decription: cost for training staff to work at local personnel
+- Estimation: vnd 100 million
+- Way to estimate: Based on the number of staff training materials needed
+- Person in charge: HR team
+2. 
+- Name: buiding a raw material supply chain
+- Decription: cost for fiding location, material
+- Estimation: VND 800 million
+- Way to estimate: based on that location and material needed
+- Person in charge: Project Manager
+3. 
+- Name: Salary for staff
+- Decription: cost for salary for each staff in each month
+- Estimation: VND 200 million
+- Way to estimate: Based on the number of staff
+- Person in charge: HR Team
+4.
+- Name: Designing and constructing interiors consistent with the brand
+- Decription: cost for the number of posters and videos
+- Estimation: VND 300 million
+- Way to estimate: base on the number of poster and media product
+- Person in charge: Design Team
+5.
+- Name: Create small/big events
+- Decription: cost for material and store for event
+- Estimation: VND 300 million
+- Way to estimate: based on the number events and materials needed
+- Person in charge: Maketing Team
+2)
+Request 3:
+Risk 1: New staff need time to training
+-Impact The project maybe slower process because new staff need time to training
+-Mitigation: Prepare clear document, rules and manual for new staff
+- Contingency: The manager will training 1-1 with staff
+
+Risk 2: Do not enough Human Resource 
+- impact: The project maybe slower process beacasue brand do not enough Human Resource
+- Mitigation: Find Human Resource in platforms
+- Contingency: Find Human Resorce in platforms and have salary high but it fit with major of each person
+
+Risk 3:  Do not location in local personnel
+- impact: The project maybe delay because do not have a location for store
+- Militagation: Find more in platforms and make the price higher 
+- Contigency: Finding the relationship to sell that location
+
+
+Request 4:
+1
+- Project manager
+- HR team
+- Interior design team
+- Maketing team
+- Sponor
+2
+Task:
+- Create plan for project ( Project manager)
+- Finding location in each province ( Project manager)
+- Finding and contacting with KOL, influencer (Makerting Team)
+- Select KOLs, influencer ( Project manager, sponor)
+- Record and edit video , poster for brand ( design team)
+- Surveying and selecting premises ( Project Manager)
+- Desiging and constructing interiors consistent with the brand (Design team)
+- Recruiting and training local personal (HR Team)
+- Buiding raw material supply chain from Central region suppliers ( Maketing Team)
+-  Launch campaigns ( HR Team)

@@ -1,0 +1,115 @@
+1)
+Request 1
+
+1. Project name: Coi Cafe expansion.
+
+2. Justifications
+-Purpose: Coi Cafe decided to implement an expansion project into 5 Central .
+
+-Reason: to survey and select premises, design and contruct interiors consistent with the brand, recruit and training local personnel, buid a raw material supply and launching campaign.
+
+3. Constraints
+-Scope: Open 1 flagship store in each province: Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh.
+
+-Time: within 12 months and each store reach break-event point within 8 months after opening
+
+-Cost/budget: 8,5 billion VND( 1.7 billion VND per store) from equity and commercial bank loans
+
+-Quality: Building a raw material supply chain from Central region suppliers, and after 8 months opening, each store must reach the breakpoint.
+
+
+Request 2:
+
+1.
+-Name: Permits
+-Description: Fee to hire the place to open store for 12 months
+-Estimation: 1 billion.( 200 million/store)
+-How: ask local authorities
+-Person in charged: Project Managerment
+
+2.
+-Name: Supply Chain
+-Description: sign contact with local suppliers of each central region to supply raw material
+-Estimation: 2,5 billion( 500 million/Store)
+-How: contact with owner of supply operation
+-Person in charged: PM
+
+3.
+-Name: Flagship Store
+-Description: build a store, design for each Central region.
+-Estimation: 2,5 billion.(500 million/Store)
+-How: base on price of builder.
+-Person in charged: PM
+
+4.
+-Name: Hire and training local personnel
+-Description: select and hire local people for being staff of each store during 8 months after opening
+-Estimation: 2 billion. (400 million/Store)
+-How: deal with each personnel.
+-Person in charged: Store lead
+
+5.
+Name: Backup
+-Description: Backup money for unexpected problem
+-Estimation: 500 million( 100 million/store).
+-How: about 5,8% of total budget
+-Person in charged: PM.
+
+
+2)
+Request 3:
+
+1
+-Name: delayed supply material
+-Description: suppliers do not supply materials on time
+-Impact: Quality. no enough materials to make products
+-Mitigation: require maximum materials they have so bussiness still work while waiting for suppliers
+-Contingency: Make "delayed purchase" in the deal.
+
+2.
+-Name: Low Traffic
+-Description: rate of customer visit store below expected.
+-Impact: Cost/Time. cannot reach break-even point within 8 months after opening.
+-Mitigation: print advertise pager and gave in busy area. run advertising at social medias or pannels
+-Contingency: Sale off or recieve giff when purchase
+
+3.
+-Name: Permit Denied
+-Description: Local authorities not allow for store's place.
+-Impact: Time: Delayed in Building process and cannot opening store within 12 months.
+-Mitigation: Read carefullt about rules and re-submit permits
+-Contingency: find other area.
+
+Request 4:
+
+Responsible: R
+Accountable: A
+Consulted: C
+Informed: I
+
+3 Roles: PM, HR Team, Design Team
+
+List.
+
+-Design and construct interiors consistent with brand: PM(A), HR Team(I), Design Team(R)
+
+-Lanching campaigns: PM(A), HR Team(R), Design Team(I)
+
+-Deal with region suppliers: PM(A), HR Team( R), Design Team( I)
+
+-Traning local personnel: PM( A). HR Team(R), Design Team(I)
+
+-Contact and supply permits: PM(A), HR( R), Design Team( I )
+
+-Monitor progress of store building: PM( A), HR( R), Desgin Team (I)
+
+-Recruiting local personnel: PM(A), HR(R), Design Team (I)
+
+-Report project progress for Coi's Management: PM( R), HR(A), Design Team(I)
+
+ 
+
+
+
+
+

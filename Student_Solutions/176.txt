@@ -1,0 +1,73 @@
+1)
+Request 1:
+Project name: Coi Cafe - The best traditional coffee 2026
+The Narrative charter:
+- Justifications: Coi's management decided  to implement an expansion project in to 5 Central provices, with 1 flagship store each provices
+- Purpose: Open more stores, help local persons have job and bring to customer a famous for it nostalgic space, traditional drink menu and sustainable business model use a reusable cups and coffee directly from Dak Lak farmers
+- Project constraints: The project is led by Market Development Director( Project Manager), coordinating with the interior design team, HR team and marketing team
+- Scope: The project includes surveying and selecting premises, design and constructing interiors consistent with ther brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers and launch campaigns for each store
+- Time: 12 months
+- Budget: Total budget is 8.5 billion VND( 1.7 billionVND/ store) and the budget come from equity and commercial bank loans
+- Quality: Each store mus reach the breack-even point within 8 months after opening. Making the store is the place is nostalgic space, traditional drink and sustainable business model
+
+Request 2:
+5 Budget items.
+- Coffee Machine
+- Suitable for employee
+- Cost training
+- Launching campaign
+- Supply chain
+
+Coffee Machine: 
+- Name: Coffee Machine fee
+- Description: A budget to buy a coffee machines
+- Estimation: 500 million VND for all machine for each store
+
+Suitable for employee
+- Name: Suitable fee
+- Description: a budget use for buy suiltable for employee
+- Estimation: 200000 VND for each employee
+
+Cost training
+- Name: A budget are use to training an emloyee
+- Description: A budget use to train a local personnel
+- Estimation: 50 million for beginer training
+
+Lauch Campaign
+- Name: Marketing campaign
+- Description: A fee for marketing campaign in social media like tiktok/ youtube
+- Estimation: 100 million for each campaign
+
+Supply chain
+- Name: A supply budget
+- Desciption: A fee to buy a supply chain from Central region suppliers
+- Estimation: 300 million for all supply for each store
+
+2)
+Request 3:
+Three project risks:
+- Difficut to recruit an employee
+- Difficut to buy a supply chain
+- Training budget overrun
+
+Request 4:
+1) 
+- The Market Development Director(PM)
+- HR team
+- Marketing team
+2)
+1 - Define the value the project
+2 - Plan the project
+3 - Approval the project
+4 - Run the project
+5 - Buy the all the machine in store
+6 - Buy all the supply
+7 - Recruit the local personnal
+8 - Sign the contract with employee
+9 - Training the employee
+10 - Lauch a campaigns promotion
+
+3) 
+- PM: 1(A), 2(A), 3 (A), 4(A), 5(A), 6(A), 7(C), 8(A), 9(C), 10(C)
+- HR Team: 1(I), 2(I), 3(I), 4(I), 5(I), 6(I), 7(A), 8(R), 9(C), 10(I)
+Marketing team: 1(I), 2(I), 3(I),4(I), 5(I),6(I) 7(C), 8(I), 9(I), 10(A)

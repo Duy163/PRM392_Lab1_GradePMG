@@ -1,0 +1,89 @@
+1)
+Request 1: 
+1.Project name: Coi Cafe Project
+2. Justification
+-Purpose: Coi's management decided to impllement an expansion project into 5 Central provines (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province.
+-Reasons:Because Coi Cafe extend to building more store in Viet Nam. Coi Cafe want to encourage every one to using reusable cups, purchasing coffee from Dak Lak farmers.
+3.Project constraints:
+Scope: Surveying and selecting premises, designing and constructing interiors consistent with brand,recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and launching campaingns for each store
+Time: 12 months
+Cost/budget:VND 8.5 billion(approximately 1.7 billion/store)
+Quality:
+-Each to must reach the break-even point within 8 months after opening.
+Request 2:
+5 main cost/budget items:
+1.
+ Marketing in social media
+ Marketing in social media will encourage everyone in social media know about store in each province.
+The marketing team will post status, video, image on Facebook, Tik tok, Instagram to make everyone read the posting.
+2. 
+Designing the Store
+Designing the store make it to become frendly. The stores are beutiful to make many people buying Coi's product.
+The design team will planing the idea. They will design logo, quotes, painting the wall to make the store become wonderfull.
+3. 
+Contact with KOL/KOC
+Today, many people use Tik Tok to surface newfeeds to follow KOL/KOC. Connect KOL/KOC to the project to many people on tik tok have know the store.
+Marketing team will contact with tiktoker Quan Khong Go, Khai Thich An Uong, Khoai Lang Thang to review the store.
+4. 
+Buying a raw material supple chain from Central region suppliers.
+
+5.
+Building Management system Coi's Cafe.
+The system will managenment order, customer, cash  for Coi's Store.
+HR team will Connect with OutSources IT to building the Coi's coffee store management system to manage order, bill, money, customer in the store.
+Request 3:
+Three project risks
+1. KOL/KOC have scandal in the their life.
+Today, tiktiker have many antifan on social media, After the booking, they can have drama with another brands, Customer follow them can unfollow and do not care about the Coi's Store. That make the store lost of many customer. So, The marketing will have a contact to sign with tiktoker to make them do not have drama on this chanel.
+2.The Coi's coffee management system can have bug by IT outsource, Staff in the store can not fix and flexible to using to management. We need to IT and PM come to the store to training the staff use to the system 1 weak. Every 3 months will fix the system.
+3. The project miss deadline
+Project miss deadline by many reasons. So PM need to check the process everday, every weak
+Request 4: 
+1. Project role
+(1) Finishing the deadline 
+(2)Many people know the Coi's stoe
+(3)Designing the store wonderful
+(4)Coi's Store becoming frendly with the environment
+2.
+(1)Checking the view on Social Media (Tik Tok, Facebook, Instagram)
+(2)Create 10 videos, status, image, content about Coi's Store everyday.
+(3)Contact to Quan Khong G, Khoai Lang Thang to booking review, trying Coi's product.
+(4)Connect to IT outsources to build Coi's coffee management system.
+(5) Trainning Coi's Staff to use the system
+(6)Opening the Coi's workshop to encourge use frendly product from Central region suppilers(reusable cup, coffee from Dak Lak farmers)
+(7)Update the system 3 months /time.
+(8)Design the store
+(9)Cheking, testing the system by PM
+(10)Cheking process project by PM
+---------
+(2) FS (1)
+(1) SS (3)
+(4) FS(5)
+(4) FS (7)
+(8) FS (6)
+
+------|-----------------------|---------------------------------------------------|
+      |Task               |  Project Role                              |
+------|---------------------------------------------------------------------------|
+      | (1)                  | (1)                                              |
+------|---------------------------------------------------------------------------|
+      |(2)                   |(1), (2)                                         |
+------|---------------------------------------------------------------------------|
+      |(3)                   |(1), (2)                                         | 
+------|-----------------------|---------------------------------------------------|
+      |(4)                   |(1), (4)                                         |
+------|-----------------------|---------------------------------------------------|
+      |(5)                   |(1)                                               |
+------|-----------------------|---------------------------------------------------|
+      |(6)                   |(4)                                               |
+------|-----------------------|---------------------------------------------------|
+      | (7)                  |(1)                                               |
+------|-----------------------|---------------------------------------------------|
+      |(8)                   | (1),(4)                                         |
+------|-----------------------|---------------------------------------------------|
+      |(9)                   | (1)                                              |        
+------|-----------------------|---------------------------------------------------|
+      |(10)                 | (1)                                              |
+------|-----------------------|---------------------------------------------------|
+
+2)

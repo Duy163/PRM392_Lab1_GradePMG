@@ -1,0 +1,75 @@
+1)
+Request 1:
+- Project name: Morning coffee with a care for our planet
+- Justification: This project's purpose is to spread the brand to whole country, bringing a new atomosphere while drinking coffee with resuable cup and knowledge about protect enviroment. Building a raw material supply chain from 5 central regions (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) and a flagship store in each of them also recruiting and training local personnel.
+- Contrains: 
+   + In term of scope we will spread our Coi Cafe brand for more and let people know how to protect our planet. We won't build a whole factory in each region to get ingredients in other hand we will buy from local farmers with a more comfortable price.  
+   + This project will be held for 12 months.
+   + The total budget is 8.5 billion VND (approximately 1.7 billion/store) from equity and commercial bank loans.
+   + Each store must reach the break-even point within 8 months after opening.
+
+ Request 2:
+1. 
+- Name: Rent fee for stores.
+- Estimation: 2 billion VND (for 12 months all 5 stores)
+- Descripstion: For each store we will find a platform that have a price for rent maximum is 30 - 35 million VND/month
+
+2.
+- Name: Employee salary.
+- Estimation: 3.3 billion VND (for 12 months all 5 stores)
+- Description: We will approximate the salary table for each store seperated for 3 roles:
+       + Store manager: ~20 million VND/month
+       + Bartender: ~15 million VND/month
+       + 2 Waiters: ~10 million VND/month
+
+3.
+- Name: Store's facilities.
+- Estimation: 500 million VND (for all stores)
+- Description: We will buy the newest equipments on the market for each store to give our customer the best expierence when drinking our coffee.
+
+4.
+- Name: Ingredients.
+- Esimation: 2 billion VND (for 12 months all 5 stores)
+- Description: We will deal with local coffee farmers to get ingredient with a price approximatly 30 million VND/month. But in order to make the ingredients fresh when serve out to our customer we will get the supply from the farmers weekly.
+
+5.
+- Name: Maintance fee, taxes, scoial and others
+- Estimation: 700 million VND
+- Description: After everything this will be hold for maintaining our equipment, taxes and building our own scoial media. Prepare for emergency situation. 
+2)
+Request 3:
+Risk 1:
+Name: Late for deadlines (could not find platform for rent or late when finding employees).
+Impact: Time and cost
+Mitigation: Focus on others region.
+Contingency: Form 5 teams for each region each have 3 - 5 members. When some of the region finish they tasks (for example we just only  found a platform for rent in Da Nang, Hue but others not) let 1 - 2 member to other place that haven't finished.
+
+Risk 2:
+Name: Lack of teamwork in project team.
+Impact: Quality
+Mitigation: A leader which is PM must check all the task that he/she have seperated for memebers and quickly take in charge for it.
+Contingency: PM must have conversation with each member in the team after that conduct a meeting to solve the problem within members (for example member being missunderstanding with each other).
+
+Risk 3:
+Name: Uncondition weather give bad quality of ingredients or late supply.
+Impact: Quality and cost.
+Mitigation: Closed the store for short days if we have no more ingredients.
+Contingency: Each store must have own stored supply for emergency and the ingredients must meet the good quality when we serve to customer.
+
+Request 4:
+1. Three project roles:
+- Project Manager (PM)
+- Business Analyst (BA)
+- Chief Makerting Officer (CMO)
+- CEO
+2. Tasks and responsibilities for members:
+- Find platform: BA
+- Deal rent price: PM, BA
+- Recruit employees: BA
+- Deal employee salaries: PM, BA
+- Choose and buy facilities for stores: BA
+- Deal with farmers for supplier: PM, BA
+- Check the quality of supply: PM
+- Sign contract: PM
+- Build scoial media: CMO
+- Managing all stores: CEO

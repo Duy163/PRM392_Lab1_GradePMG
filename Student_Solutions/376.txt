@@ -1,0 +1,181 @@
+1)
+Request 1:
+1. Project name: Coi Cafe Store
+2. 
+Purpose: Surveying and selecting premises, deisgning and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers
+
+Reason: Coi's management want to implement an expansion project into 5 Central procinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh)
+
+3.
+Constrains:
+- 1 flagship store in each province within 12 months.
+- Each store must reach the break-even point within 8 months after opening.
+
+Scope:
+The project includes: 
+  - Surveying and selecting premises.
+  - Designing and constructing interiors consistent with the brand.
+  - Recruiting and training local personnel.
+  - Building a raw material supply chain from Central region suppliers.
+  - Launching campaigns for each store.
+
+Time: 12 months
+
+Budget: VND 8.5 billion (approximately VND 1.7 billion/store)
+
+Quality: Each store must reach the break-even point within 8 months after opening.
+
+Request 2:
+1. 
+ Name: Table, Chair
+ Description: Chair and Table for each store
+ Budget: VND 100 million (each store)
+ Time: 2 months
+ Method: Mathlogous
+
+2.
+ Name: Building store
+ Description: Budget for build a new store
+ Budget: VND 1.0 billions (each store)
+ Time: 10 months
+ Method: Buttom-up
+
+3.
+ Name: Training local personnel
+ Description: Training
+ Budget: VND 10 millions for each person (10 person each store) => VND 100 millions for each store
+ Time: 2 months
+ Method: Analogous
+
+4. 
+ Name: Coffee, tools, machine
+ Descripton: Items to runing store
+ Budget: VND 400 millions for each store
+ Time: 6 months
+ Method: Buttom-up
+
+5.
+ Name: Aceptance for running store
+ Description: Budget for aceptance running store
+ Budget: VND 50 millions for each store
+ Time: 1 months
+ Method: Expect to PM
+
+6.
+ Name: Marketing
+ Description: Marketing for opening new store
+ Budget: VND 50 millions for each store
+ Time: 1 months
+ Method: Analogous
+
+Request 3:
+1.
+ Name: Chair, table is damaged
+ Description: Chair table is damaged
+ Possible impact:
+   Cost: Increase
+   Revenue: Decrease
+Mitigation:
+  Maintance the table and chair daily.
+Contingency:
+  Using table and chair backup.
+
+2.
+ Name: Coffee is bad
+ Description: Coffee is bad because Coi's member doing not correct
+ Possible impact:
+   Revenue: Decrease
+   Consumer: Decrease
+ Mitigation:
+  Ensure Coi's member is trained with good knowledge.
+ Contigency:
+  Replace this Coi's member with Coi's member from other store.
+ 
+3.
+ Name: Coi's member is layoff
+ Description: Coi's member is layoff
+ Possible impact:
+  Revenue: Decrease
+  The store can be closely for little time
+ Mitigation:
+   For each store have at least 2 member part-time.
+ Contigency:
+   Using member part-time to back up for Coi's member
+
+Request 4:
+1.
+Project roles: Market Development Director (PM), Coi's Management (stakeholder), HR Team, Marketing Team, Design Team
+
+2.
+ 1. Survey and select premises
+   PM: R, A
+   Marketing Team: C
+   HR Team: C
+   Design Team: C
+   Coi's Management: I
+
+ 2. Designing and contruction interiors consistent with the brand
+   PM: A, C
+   Marketing Team: C
+   HR Taem: I
+   Design Team: R
+   Coi's Mangement: C
+
+ 3. Training local personnel.
+   PM: A, C
+   Marketing Team: I
+   HR Team: R
+   Design Team: I
+   Coi's Management: C
+
+
+ 4. Building a raw material supply chain from Central region suppliers
+   PM: I
+   Marketing Team: I
+   HR Team: R, A
+   Design Team: I
+   Coi's Management: C
+
+ 5. Launching Campaigns
+   PM: A, C
+   Marketing Team: R
+   HR Team: C
+   Design Team: C
+   Coi's Management: C, I
+
+ 6. Recruiting personnel
+   PM: A, C
+   Marketing Team: I
+   HR Team: R
+   Design Team: I
+   Coi's Mangement: I
+
+ 7. Budget Management
+  PM: R, A
+  Marketing Team: I
+  HR Team: I
+  Design Team: I
+  Coi's Management: C
+
+ 8. Marketing ads fb, yt, tiktok,...
+   PM: C
+   Marketing Team: R. A
+   HR Team: I
+   Design Team: I
+   Coi's Management: I
+
+ 9. Design banner, table, chair, view for store
+   PM: C
+   Marketing Team: C
+   HR Team: I
+   Design Team: R, A
+   Coi's Management: C
+
+ 10. Ensure the project time is correct
+   PM: R, A
+   Marketing Team: C
+   HR Team: C
+   Design Team: C
+   Coi's Management: C
+
+2)

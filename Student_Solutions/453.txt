@@ -1,0 +1,74 @@
+1)
+Request 1:
+Project name: CoiCafe Expansion
+Purpose & reason: to expand Coi Cafe brand by launching more new stores in central provinces in Viet Nam.
+Project constraint:
++ Scope:
+++ Opening new 5 stores in each defined provinces within 1 year.
+++ Before month 9, each store must reach the break-even point.
+++ Connect with Central region suppliers and constructing the material supply chain.
+++ Promotional boosting for each store for ehancing visibility.
++ Time: this project is a temporary endeavor within 12 months.
++ Budget: stirctly 8.5 billion VND for entire new chain stores
++ Quality:
+++ Feedback based: selecting permises through surveying customers
+++ Interior consistency: each store must be designed and constructed base on brand's theme and style.
+++ High service quality: hiring and tranning local personnel
+
+
+Request 2: Definition of Budget items for CoiCafe Expansion
+1. Project staffs salary
++ Description: static cost for paying salary for implementing team to work for the project, including PM, HR team, marketing team, etc.
++ Estimation: roughly 1.98 billion VND for all staffs within 12 months (PM: 30mVND, designer: 20mVND x 3, HR: 15mVND x 2 and marketing: 15mVND x 3)
++ How to estimate: parametric estimating, Mulltiply the salary of each staff roles with 12 and sum all of it.
+2. Location Renting
++ Description: cost for renting the physical location in the city central of each province for better visibility and customer attraction.
++ Estimation: 1.8 billion VND for 5 stores (around 30 million VND for each store to rent critical strategy location)
++ How to estimate: analogous estimating. Based on the exsiting knowledge for renting price in the previous launch new store for another brand project.
+3. Constructing materials:
++ Description: cost for buying raw materials (as woods, painting liquid, lights, etc.) based on the interior design template
++ Estimation: around 500 million for each store
++ How to estimate: analgous estimating. Relie on the knowledge advantage of the interior designing team, they provide an estimation base on their working experience.
+4. Advertisement:
++ Description: paying for the boosting of promotion campaigns like ads on facebook, tiktoks or recruiting local influencers for advertising brand new store in the each city.
++ Estimation: 500 million VND for entire project.
++ How to estimate: research for the current price for each promotional services on internet and contact to local influencers for implementing these campaigns. Sum all of it together.
+5. Contingency budget
++ Description: buffering budget for immergency or unexpected issues.
++ Estimation: 500 million VND
++ How to estimate: calculate the entire expenses and remember to pad some budget for the uncertain problems can happen during the project executing.
+
+2)
+request 3:
+Risk 1: Unreach the break-even point within 8 months
++ Description: because of this is the first time Coi Cafe opens new store in each province, it will be chance of actracting efficiency of each store to local customer being low, leading to the project can not reach the break-even point as expected
++ Impact on scope: can not satisfy the project's objective.
++ Response: 
+++ Enhance visibility as much as possible: find the critical location (in the center of the city or near working area, etc.) in each province to rent.
+++ Boosting promotional campaigns.
+++ monitor the income performance to identify the issues and take corrective actions timely. 
+Risk 2: Interior design do not meet brand consistency
++ Description: the final design do not follow the brand style/theme, leading to the new store looks like do not along to CoiCafe brand.
++ Impact:
+++ Scope: do not meet the design requirement
+++ Cost: can damage heavily if customer think that store is brand faking and do not using the service.
++ Response: PM monitor the designing progress of interior designing team in the designing phase closely to prevent further damage.
+Risk 3: Material expenses overrun 
++ Description: the spending for buying materials for construction exceed the estimated amounts, may be because of baseline cost estimate is incorrect when compare to actual cost, or may be because the building team buy more materials than actually need.
++ Impact on cost: need to pay more money for the construction phase than expected
++ Response: use the contingency budget to prevent the impact on another budget items
+
+
+request 4:
+Role define:
++ PM: manage the project budget, quality and scope to meet the project requirement
++ Design team (DM): responsible for designing each store interior.
++ Marketng team (MT): responsible for boosting the store's visibility
+Task:
+1. define requirement
++ PM: R
++ DM: C
++ MT: C
+2. design interior
++ PM: A
++ DM; R

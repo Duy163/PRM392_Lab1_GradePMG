@@ -1,0 +1,155 @@
+1)
+Request 1 – Project Charter
+Project Name:
+Coi Cafe Mobile & Event Activation Project – Central Vietnam 2026
+Justification (Purpose & Reasons):
+This project introduces a mobile café and event-based activation strategy, where Coi Cafe operates coffee trucks and temporary pop-up booths at high-traffic events such as festivals, concerts, universities, and tourist areas across Central Vietnam.
+Instead of investing heavily in fixed locations, this approach allows the brand to:
+Reach diverse customer segments through on-demand locations
+Test multiple markets quickly with minimal long-term commitment
+Increase brand visibility through event participation and experiential marketing
+Generate flexible revenue streams based on seasonal demand
+This model supports agile expansion and enhances brand exposure while reducing the risk associated with permanent store investments.
+Project Constraints
+Scope:
+Deploy 3 mobile coffee trucks and 2 portable pop-up booths
+Participate in at least 15 major events across Central Vietnam
+Develop a flexible menu suitable for mobile operations
+Coordinate logistics, permits, and event partnerships
+Time:
+Total duration: 12 months
+Vehicle setup & preparation: 3 months
+Event operations: 7 months
+Evaluation & scaling: 2 months
+Break-even target: within 6–7 months
+Cost/Budget:
+Total budget: VND 8.5 billion
+Allocation:
+Coffee trucks & equipment: ~4 billion
+Pop-up booth setup: ~1 billion
+Logistics & transportation: ~1.5 billion
+Marketing & event participation: ~2 billion
+Funding from internal capital and event sponsorships
+Quality:
+Maintain consistent product quality across all mobile units
+Ensure fast service speed during peak event hours
+Maintain hygiene and safety standards in mobile operations
+Customer satisfaction target ≥ 90%
+Request 2  – Cost/Budget Items
+1. Coffee Truck Investment
+Description: Purchase and customize mobile café vehicles
+Estimation: ~1.2–1.5 billion/truck
+Method: Vendor quotation
+Responsible: Operations Team
+2. Pop-up Booth Equipment
+Description: Portable stands, signage, and compact equipment
+Estimation: ~400–600 million/unit
+Method: Parametric estimation
+Responsible: Operations Team
+3. Logistics & Transportation
+Description: Fuel, maintenance, and movement between locations
+Estimation: ~1–1.5 billion total
+Method: Bottom-up estimation
+Responsible: Logistics Team
+4. Event Participation & Licensing
+Description: Fees for joining festivals, permits, and partnerships
+Estimation: ~200–300 million/event
+Method: Analogous estimation
+Responsible: Marketing Team
+5. Staff Recruitment & Training
+Description: Hire mobile operation staff and train for flexibility
+Estimation: ~100–120 million/team
+Method: Bottom-up estimation
+Responsible: HR Team
+
+2)
+Request 3 – Risk Management
+Risk 1: Unpredictable Event Attendance
+Description: Low turnout at events affects sales
+Impact: Revenue fluctuation
+Mitigation: Select high-profile events and diversify locations
+Contingency: Shift to alternative high-traffic areas (tourist spots, campuses)
+Risk 2: Weather Conditions
+Description: Rain or extreme heat affects operations
+Impact: Reduced customer demand and operational disruption
+Mitigation: Use weather-resistant equipment and tents
+Contingency: Reschedule or relocate to indoor events
+Risk 3: Operational Complexity
+Description: Managing multiple mobile units across locations
+Impact: Inefficiency and coordination issues
+Mitigation: Use centralized scheduling and tracking system
+Contingency: Reduce number of active units temporarily
+
+Request 4 – RACI Chart
+Project Roles:
+PM: Project Manager
+OPS: Operations Team
+LOG: Logistics Team
+HR: Human Resources
+MKT: Marketing Team
+Task 1: Project Planning
+PM: A
+OPS: R
+MKT: C
+LOG: C
+HR: I
+Task 2: Vehicle & Equipment Setup
+OPS: A/R
+PM: C
+LOG: C
+MKT: I
+HR: I
+Task 3: Event Partnership & Scheduling
+MKT: A/R
+PM: C
+OPS: C
+LOG: C
+HR: I
+Task 4: Logistics Coordination
+LOG: A/R
+OPS: C
+PM: C
+MKT: I
+HR: I
+Task 5: Staff Recruitment & Training
+HR: A/R
+OPS: C
+PM: C
+MKT: I
+LOG: I
+Task 6: Event Operations
+OPS: A/R
+PM: C
+LOG: C
+MKT: C
+HR: I
+Task 7: Marketing Activation
+MKT: A/R
+PM: C
+OPS: C
+LOG: I
+HR: I
+Task 8: Performance Tracking
+PM: A
+OPS: R
+MKT: C
+LOG: C
+HR: I
+Task 9: Optimization
+PM: A
+OPS: R
+MKT: C
+LOG: C
+HR: C
+Task 10: Expansion Decision
+PM: A
+OPS: R
+MKT: C
+LOG: C
+HR: I
+Legend:
+R: Responsible
+A: Accountable
+C: Consulted
+I: Informed
+

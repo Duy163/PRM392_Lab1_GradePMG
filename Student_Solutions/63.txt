@@ -1,0 +1,141 @@
+1)
+Request 1:  
+
+Project Name: Coffee store and promotion campaign project
+
+Purpose and reasons: The project aims to potential of coffee, a traditional drink in VietNam.Many place do not have coffee store. This project have create more store brand and make coffee become famous drink in VietNam
+
+Project constraints:
+Scope:Surveying and selecting premises , designing and constructing interiors consistent with the brand , recruiting and training local personnel , building a raw material supply chain from Central region suppliers and launching campaigns for each store.
+Each store must reach the break even point within 8 months after opening.
+
+Time:12 months/1 store
+
+Cost/Budget:8.5 billionVND(approximately 1.7 billion/store VND) from equity and commercial bank loans.
+
+Quality: Each store reach the break even pont within 8 months after opening. The project is led by the Market Development Director as PM , coordinating with the interior design team, HR team, marketing team.
+
+
+Request 2:
+5 cost/buget items:
+
+Name: Staff Cost.
+Description:Payment and support,tranning for organizing team.
+Estimation: Number of staff * cost per person.
+Person in charged: Project Manager
+
+Name: Marketing Cost
+Description: Promotion thorough social media and posters.
+Estimation : Base on advertising budget.
+Person in charged: Marketing team
+
+Name: Venue setup Cost
+Description:Room preparation, equiment, decoration.
+Estimation:Base on equiment retal and materials
+Person in charged: Operation team
+
+Name : Store setup Cost
+Description:Materials for store setup ( table , decoration display)
+Estimation: Base on materials and setup cost.
+Person in charged: Operation team.
+
+Name: Permit and operation cost
+Description: Cost for permit and operation expenses.
+Estimation: Base on fixed fees and estimated expenses
+Person in charged: Project Manager
+
+
+
+2)
+Request 3:
+3 project risks:
+
+Name:Project delay
+Description:The project store may be delay due to unexpected issue or poor planning.
+Scope/Quality: Some task may be reduce,Reduce quality due to time pressue.
+Time: Delay in schedule .
+Cost: Increase cost due to extended time.
+Mitigation: Create a clear schedule and monnitor progress regularly.
+Contingency:Adjust time or add more resources.
+
+Name: Low quality output
+Description: The project output may not meet quality requirement.
+Scope:Rework maybe requied, reduced user/customer satafication.
+Time:Delay due to fixing issue.
+Cost:Increase cost for rework.
+Mitigation:Implement review and quality control process.
+Contingency:Fix issue and improve before deliver.
+
+Name:Failune to meet objectives
+Descripton:Store may not achieve its expected goals.
+Scope:Objective not achieved, reduced effectiveness.
+Time:Additional time need.
+Cost: Increase cost for improvement.
+Mitigation:Define clear goals and track performance.
+Contingency : Adjust strategy or increase effort.
+
+
+Request 4:
+Project role: Projcet Manager , Operation team , Marketing team 
+
+10 activities:
+
+1.Define project scope
+R:Operation team
+A:Project Manager
+C:Marketing team
+I:Marketing team
+
+2.Design store layout:
+R :Operation team 
+A :Project Manager
+C:Marketing team
+I:Marketing team
+
+3.Collect Requirement:
+R:Operation team
+A:Project Manager
+C:Marketing team
+I: Marketing team
+
+4.Develop project plan:
+R:Operation team
+A:Project Manager
+C:Marketing team
+I:Marketing team
+
+5..Approve design:
+R:Operation team
+A:Project Manager
+C:Marketing team
+I: Marketing team
+
+6..Prepare store setup:
+R:Operation team
+A:Project Manager
+C:Marketing team
+I: Marketing team
+
+7.Tranning staff: 
+R:Operation team
+A:Project manager
+C:Marketing team
+I: Marketing team
+
+8.Launch store:
+R:Operation team
+A: Project manager
+C: Marketing team
+I: Marketing team
+
+9.Monitor operations:
+R:Marketing team
+A:Project manager
+C:Operation team
+I:Marketing team
+
+10.Evaluate close:
+R:Operation team
+A:Project Manager
+C:Makerting team
+I: Marketing team

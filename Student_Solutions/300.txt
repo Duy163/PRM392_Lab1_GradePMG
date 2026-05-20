@@ -1,0 +1,160 @@
+1)
+Request 1
+1. Project name:
+Coi Cafe Central Region Expansion Project
+
+2. Justifications:
+Purpose: Opent 5 flagship stores in 5 provinces in Central of Vietnam (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh). We must do this by 12 months.
+
+Reasons: To bring the successful nostalgic space, traditional drink, and green business to a new market and get more revenue.
+
+3. Project constraints:
+Scope: Make exactly 5 stores in 5 provinces. We need to find locations, build interior, hire and train local staff, find local suppliers, and run marketing.
+
+Time: Finish all works in 12 months.
+
+Cost/budget: Total budget is 8.5 billion VND (around
+1.7 billion VND per store). The money come from company and bank loan.
+
+Quality: Store design must match the brand. We must use sustainable model (reusable cup, direct buy). Each store need to reach break-even point in 8 months.       
+
+
+Request 2
+1. Renting Premises
+
+Desciption: Find and rent place for 5 stories in 5 provinces.
+
+Estimation: VND 1,500,000,000
+
+Way to estimate: Parametric estimating (multiply average rent price per square meter with the store area).
+
+Percon in charge: Project Manager
+
+2. Interior Construction
+
+Description: Design and buld interior for 5 stores to match the brand.
+
+Estimation: VND 4,000,000,000 
+
+Way to estimate: Analogous estimating (use the old cost when bulding stores in Hanoi and HCM city).
+
+Person in charge: Interior Design Team Lead
+
+3. Equipment adn Furniture
+
+Description: Buy coffee machine, reusable cup, and nostalgic furniture
+
+Estimation: VND 1,500,000,000
+
+Way to estimate: Bottom-up estimating (sum the price quotes from suppliers for each item).
+
+Person in charge: Project Manager
+
+4. Marketing Campaigns
+
+Description: Run marketing campaign for new stores in 5 provinces.
+
+Estimate: VND 500,000.000
+
+Way to estimate: Expert judgment (Marketing team guess based on old successful campaigns).
+
+Person in charge: Marketing Team Lead
+
+5. HR Recruitment and Training
+
+Description: Hire and train local staffs for 5 locations.
+
+Estimation: 250,000,000 VND
+
+Way to estimate: Parametric estimate (number of employees will be multiplied by the typical training cost per person).
+
+Person in charge: HR Team Lead
+
+
+Request 3
+
+1. Risk name: Late Premises Handover
+
+Description: Finding and choosing the store location take more time because there are not many good places in Central provinces.
+
+Possible impacts: (Time) Make the 12 month schedule late. (Cost) Increase project management cost.
+
+Risk response plans:
+
+Mitigation: Start to find locations right now and use local real estate agents.
+
+Contingency: Do the interior design faster to save time.
+
+2. Risk name: Supply Chain Problem 
+
+Description: The project cannot find raw material suppliers in Central region that follow sustainable rules.
+
+Possible impacts: Cannot make traditional drinks or keep the green business model.
+
+Risk response plans:
+
+Mitigation: Find and check many Central suppliers early in the project.
+
+Contingency: Buy materials from old Dak Lak farmers or Hanoi/HCm city suppliers for a short time until we find local suppliers.
+
+3. Risk name: Low Financial Revenue
+
+Description: New stores do not have enogh custiomers to reach break-even point in 8 months.
+
+Possible impacts: Make the company lose money and hard to pay the bank loan.
+
+Risk response plans:
+
+Mitigation: Do market research carefully and run very strong marketing campaign before opening. 
+
+Contingency: Give big discount for local people and cut down daily running cost.
+
+
+Request 4
+
+1. Define project roles: 
+
+PM: Project Manager (Market Development Director)
+
+DES: Interior Design Team
+
+HR: HR Team
+
+MKT: Marketing Team
+
+2. List of ten tasks, activities, or deliverables:
+
+Task 1: Find and select store locations.
+
+Task 2: Make interior design to match the brand.
+
+Task 3: Buy store equipment and materials.
+
+Task 4: Build and setup the store interior.
+
+Task 5: Hire local staffs.
+
+Task 6: Train staffs about menu and green business.
+
+Task 7: Find local suppliers in Central region.
+
+Task 8: Make marketing plan for opening day.
+
+Task 9: Run marketing campaigns.
+
+Task 10: Track money to see the 8-month break- even
+
+
+3. Responsibilities of the project roles for each task (R=Responsible, A=Accountable, C=Consulted, I=Informed):
+
+Task 1: PM: A/R | DES: C | HR: I | MKT: I
+
+Task 2: PM: A | DES: R | HR: I | MKT: I
+
+Task 3: PM: A/R | DES: C | HR: I | MKT: I
+
+Task 4: PM: A | DES: R | HR: I | MKT: I
+
+Task 5: PM: A | DES: I | HR: R | MKT: I
+
+2)

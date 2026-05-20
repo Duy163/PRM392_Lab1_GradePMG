@@ -1,0 +1,187 @@
+1)
+REQUEST 1:
+1. Project name: Coi Cafe
+2. Purpose: 
++ Opening more place to people attend the brand Cafe, to make people have a great experience.
+3. 
+- Project constraints: 
++ Expansion project into 5 Central provinces (Danang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within12 months
+- Scope: 
++ Surveying and selecting premises.
++ Designing and constructing interiors consistent with the brand.
++ Recruiting and traning local personnel.
++ Building a raw material supply chain from Central region suppliers.
++ Launching campaigns for each store.
+- Time: 12 months.
+- Cost/Budget:VND 8.5 billion (approximately VND 1.7 billion/store) from equity and commercial bank loans.
+- Quality: Each store must reach the break-even point within 8 months after opening.
+
+
+REQUESTt 2:
+1. 
+- Name: Designing place
+- Desciption: Design place for store 
+- Budget: VND 400 million/store
+- Estimation: 
++ Cost design + Cost do the design for store
++ Team leader of design
+
+2.
+- Name: Marketing
+- Description: Marketing for store to make customers attended
+- Budget: VND 400 million/store
+- Estimation:
++  Cost marketing + people who do the marketing
++ Team leader of marketing
+
+3. 
+- Name: Build store
+- Description: 
+- Budget: VND 300 million/store
+- Estimation:
++  Cost staff + who leader in project 
++ Management
+
+4.
+- Name: Training
+- Description: Cost for training person in store to take care customers
+- Budget: VND 200 million/store
+- Estimation:
++ Cost of store in last month / all staff in store - cost of store
++ Managemet
+
+5. 
+- Name: Store 
+- Description: This cost needed to store can work
+- Budget: VND 200 million/store
+- Estimation:
++ Cost of Electric + reusable cups, coffee
++ Management
+
+6.
+- Name: Campaigns
+- Desciption: Launching campaigns for each store
+- Budget: VND 200 million/store
+- Estimation:
++ Cost of gifts
++ Management
+
+Total: VND 1.7 billion/store
+2)
+REQUEST 3:
+
+1.
+- Name: Out budget
+- Description: Cost marketing is higher than the budget in project 
+- Impact: 
++ Quality: If this happend, quality will go down, most people will not know about the Coi Cafe
++ Time: 3 months
++ Cost: VND 600 million / store
++ Mitigation: need another method to marketing and that method can accept the budget in project.
++ Contigency: Up cost of marketing and down the cost another cost items.
+
+2.
+- Name: Deadline late
+- Description: Team design give the demo late to PM
+- Impact:
++ Quality: Can not do it exacly time
++ Time: 3 months
++ Cost: VND 500 million / store
++ Mitigation: Need check deadline daily and motivate team to do project, take care them. 
++ Contigency: all the team will need to focus on team design to help.
+
+3
+- Name: Training local personnel
+- Description: Personnel not work together, have war with another person
+- Impact:
++ Quality: professional of store will go down 
++ Time: 3 months
++ Cost: VND 200 million/store
++ Mitigation: Create a policy, tradional in store.
++ Contigency: Work with that personal and all members. The worst, the leader training need to take that person out of store.
+
+REQUEST 4:
+1.
+- Design team 
+- HR team
+- Marketing team
+- PM of the Market Development Director
+2. 
+- Design the logo
+- Design the place
+- Planned content
+- Check survey and select premises
+- Training local personnel
+- Marketing for store
+- Check percent store complete
+- Survey and select premises
+- Check budget of store
+- Deliverable store
+3. 
+- Design the logo
++ Design team: R,A
++ HR team: I
++ Marketing team: I
++ PM of the Market Development Director: C
+
+- Design the place:
++ Design team: R,A
++ HR team: I
++ Marketing team: I
++ PM of the Market Development Director: C
+
+- Planned content:
++ Design team: I
++ HR team: I
++ Marketing team: R, A
++ PM of the Market Development Director: C
+
+- Check survey and select premises:
++ Design team: I
++ HR team: I 
++ Marketing team: R
++ PM of the Market Development Director: A
+
+- Training local personnel:
++ Design team: I
++ HR team: R,A
++ Marketing team: I
++ PM of the Market Development Director: I
+
+- Marketing for store:
++ Design team: I
++ HR team: I
++ Marketing team: R,A 
++ PM of the Market Development Director: C
+
+- Check percent store complete: 
++ Design team: I
++ HR team: I
++ Marketing team: I
++ PM of the Market Development Director: R,A
+
+- Survey and select premises:
++ Design team: I
++ HR team: I
++ Marketing team: R,A
++ PM of the Market Development Director: C
+
+- Check budget of store:
++ Design team: I
++ HR team: I
++ Marketing team: I
++ PM of the Market Development Director: R,A
+
+- Deliverables store:
++ Design team: R,A
++ HR team:I
++ Marketing team:I
++ PM of the Market Development Director: C
+
+
+
+
+
+
+
+

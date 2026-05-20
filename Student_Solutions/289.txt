@@ -1,0 +1,32 @@
+1)
+Request 1:
+1) For the project name i will chosse Middle VietNam  
+2) My purpose is to find a best location for each store and it can make much more money we spend in this project
+3) This project will ready in 3 months and it will cost 8.5 billion VND (1.7 billion VND per each store), it will  be manage to get 150% revenue of 5 store, 60%-80%  custommer to comeback
+Request 2:
+- Item need to making drinks: like coffee machine, shaker, cups, mash coffee machine, blender..etc it will estimate the time to make a drink for custommer and can saving much time to serve a ton of them.
+- Decoration: real tree decor, wooden details, the staff table, order table,..etc it estimate the look of custommers to a Vietnammese coffee shop it will make the rethink and chose to step forward to order than stay away form our store
+- Survey spends: gasoline, flying cost, buying primary data,...etc it can estimate risk from chose wrong location and get the amazing flow of custommers
+- Design team: make 3d of store, run store in matrix, tools,..etc it help control the quality of store when run 
+- Marketing: provide the store, discounting, make everyone know about our store,..etc estimate the risk of lack of custommer mensure everyone know and the will wonder about our store
+Request 3: 
+- Problem in supply chain: weather, don't have viacle to ship raw material, it can lead to the lack of raw material to all store it effect to time and cost to make a drink, so we must have seccondary dilivery 
+- Risk in quality of raw material: it can be too dry or wet so it effect to the final profuct and impact directly to the quality, so we can slove that with a quallity checker to mensure the quality of raw material
+- Over bugget: the bugget of each location we research is different so we can't estimate that it can lead to the over cost so that we must have a accountan for this project to mensure the cost has not way too far from the bugget
+
+2)
+Request 4: 
+1) define at least 3 project roles
+We have 3 project roles: first is Maket Development Director which is PM, a marketing team and HR team
+2) for the roles in RACI i will use just keyword like R,A,C,I to show what they can do.
+- planing the project: PM is R and A, marketing and HR teams are C and I
+- make a WBS: PM is R and A, marketing and HR teams are I
+- make document for checking work: HR is R, PM is A and marketing team is C
+- make a domestic spend: marketing team will be R and PM, HR team will be I
+- creare a marketing plan for each location: marketing team will be R, PM is A and HR team will be C
+- creare a table to checking and mensure performance of each staff: HR team will be R and PM, marketing team will be C and I
+- make a list of proplem in running project to fix: PM is R, A, marketing team is C, I and HR team will be C
+- creare a checking lists to mensure the work has done: PM is R, A and HR and marketing team will be I
+- make a plan to pull more customer: marketing team will be R, PM is A and HR team is C
+- checking all the task in project: PM is R, A and marketing team, HR team will be I
+- assume final product and send to the brand: PM is R,A and marketing team, HR team will be C, I 

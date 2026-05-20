@@ -1,0 +1,71 @@
+1)
+Request 1: 
+- Project name: Coi Cafe 
+- Justifications: Purpose of the project is decide to implement an expansion project into 5 Central provices include Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh, with 1 flagship store in each provice within 12 months. Before Coi Cafe only has 12 store in Hanoi and Ho Chi Minh city, so Coi Cafe want development their coffee brand in Vietnam.
+- The project includes: Surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers and lauching campaings for each store.
+- Time: 12 months
+- Cost/budget: The total budget is VND 8.5 billion (approximately VND 1.7 billion/store).
+- Quality: Each store must reach the break-even point within 8 months after opening.
+
+Request 2: 
+Five main cost/budget items:
+
+ 1. Name: Training local personnel
+ - Description: When the new store open, employee need training and improve skill, it is support for their work.
+ - Estimate: Before the store opening, employee need training from 1 to 2 week, estimate time training will 8 hours / day. Store need pay money for person in chargred ( 3 people: 2 HR and 1 PM) and pay salary for empolyee ( estimate 10 people). Budget for one store is VND 40 million, Coi Cafe have 5 flagship store in each province so total budget is VND 200 million.
+ - Person in charged: HR team and PM
+
+2. Name: Designing for brand
+- Description: Each store need design new archicheutre, branding, social post (such as: poster, banner, etc). They also prepare record and edit video.
+- Estimate: One store need one team design, each design team should have least 5 people. Salary for each designer from VND 10 million to VND 20 million / month. 
+- Person in charged: Design team 
+
+3. Name: Launching campaigns
+- Description: The marketing team will create content, social post, book KOLs review, ads in social media (such as: Facebook, Tiktok, Instagram, etc), and campaigns for Coi Cafe. 
+- Estimate: Lauching campaigns has two cost include salary for marketing team and marketing fee (include: book KOLs or run ADS in social media). Each marketing team should have least 5 people, salary for each people from VND 10 million to VND 20 million / month. Marketing fee is about VND 30 million / month.
+- Person in charged: Marketing team
+
+4. Name: Building Central region suppliers
+- Description: Coi Cafe need build a raw material supply chain from Central region suppliers.
+- Estimate: If Coi Cafe wants to build a raw material supply chain from central region supplier, store need the PM has more experience from 3 to 5 years. Salary of senior PM is VND 40 million - 50 million / month for each people. 
+- Person in charged: PM
+
+5. Name: 
+
+Request 3: 
+Identify three project risks:
+
+1. Risk name: Employees do not enough experience.
+- Description: In the new strore employees do not have experience in the work such as prepare cofee for customer, communicate with customer is bad, etc.
+- Possible impacts: When employees don't have experience in the work, it's can make the customer don't want come the Coi Cafe, and they can review not good for the store. It can impact for the quality and cost of the store.
+- Mitigation plans: HR team can create training employees, it helps improve their skill.
+- Contigency plans: PM and HR team can take the old employee 12 stores in Hanoi and Ho Chi Minh city, they an helps to work some month. An other plans, when recruiting HR can requirement employee have experience in coffee store. It can helps save time training.
+
+2. Risk name: Late time
+- Description: When opening store has proplem, it makes late time. Because we must 1 flagship store in each provice within 12 months.
+- Possible impacts: Late time will impact time and cost, the store must pay fee for that. 
+- Mitigation plans: The store need to exactly plans and add other fee for prepare proplems.
+- Contigency plans: PM need to control the proplem and slove proplem early.
+
+3. Risk name: The total cost after opening is more than the total budget (VND 8.5 billion)
+- Description: The total budget is VND 8.5 billion (approximately VND 1.7 billion / store), but in process the real cost can more than the total budget. 
+- Poossible impacts: The real cost more than the total budget can lead to the Coi Cafe no enough money.
+- Mitigation plans: Lead team can remove some work not important. It can help save money.
+- Contigency plans: Lead team add other fee in the budget items. It can use when the real cost over budget.
+
+Request 4:
+- Define project roles: PM, design team, HR team and marketing team.
+- List out  tasks, activities, deliverables and responsibilities of the project roles:
+ 1. Recruiting employees: PM (C)  - Design team (I) - HR team (A/R) - Marketing team (I)
+ 2. Training local personnel: PM (R) - Design team (I) - HR team (A/R) - Marketing team (I)
+ 3. Design branding and design social post: PM (C) - Design team (A/R) - HR team (I) - Marketing team (R)
+ 4. Book KOLs/ run ADS in social media (such as: Facebook, Instargam, etc): PM (I) - Design team (I) - HR  team (R) - Marketing team ( A/R)
+ 5. Building Central region suppliers: PM (A/R) - Design team (I) - HR team (I) - Markting team (I)
+ 6. Surveying and selecting premises: PM (C) - Design team (I) - HR team (A/R) - Marketing team (R)
+ 7. Launching campaigns: PM (C) - Design team (R) - HR team (I) - Marketing team (A/R)
+ 8. Constructing interiors consistents with the brand: PM (C) - Design team (A/R) - HR team (I) - Marketing team (R)
+ 9. Prepare content for social post or video: PM (I) - Design team (C) - HR team (I) - Markting team (R)
+ 10. Caculate cost/budget of the store after that create report document: PM (A/R) - Design team (I) - HR team (R) - Marketing team (I)
+
+
+2)

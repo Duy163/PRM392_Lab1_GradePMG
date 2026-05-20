@@ -1,0 +1,94 @@
+1)
+Request 1: Project Charter Statement
+
+Project Name:
+Coi Cafe Central Expansion Project 2026
+
+Justification (Purpose & Reasons):
+The project aims to expand Coi Cafe’s brand presence into Central Vietnam, targeting key provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh) to increase market share and revenue. This expansion supports long-term growth, reduces dependence on Northern and Southern markets, and leverages rising tourism and local demand in Central regions. It also strengthens the brand’s identity in sustainable and traditional Vietnamese coffee culture.
+
+Project Constraints:
+
+ Scope: Open 5 flagship stores (1 per province), including site selection, store design, staffing, supply chain setup, and marketing launch.
+ Time: 12 months total; each store must reach break-even within 8 months after opening.
+ Cost/Budget: Total budget capped at VND 8.5 billion (~VND 1.7 billion/store), funded by equity and bank loans.
+ Quality: Stores must maintain consistent nostalgic design, authentic menu quality, and sustainability standards (reusable cups, ethical sourcing).
+
+
+
+Request 2: Main Cost/Budget Items
+
+1. Premises Leasing Cost
+
+    Description: Rental cost for store locations in 5 provinces.
+    Estimation: Based on market survey of commercial rents in each city; estimated by Market Development team using broker data.
+    Responsible: Market Development Director.
+
+2. Interior Design & Construction
+
+    Description: Store renovation, furniture, decoration aligned with brand identity.
+    Estimation: Cost per m² based on previous Hanoi/HCMC stores; validated by Interior Design team and contractors.
+    Responsible: Interior Design Manager.
+
+3. Human Resources (Recruitment & Training)
+
+    Description: Hiring baristas, managers, and training programs.
+    Estimation: Based on salary benchmarks and training cost per employee; HR uses historical data.
+    Responsible: HR Manager.
+
+4. Marketing & Launch Campaigns
+
+    Description: Grand opening events, digital ads, promotions.
+    Estimation: Fixed % of store budget (~10–15%); Marketing team benchmarks past campaigns.
+    Responsible: Marketing Manager.
+
+5. Supply Chain Setup Cost
+
+    Description: Sourcing materials, logistics, supplier contracts in Central region.
+    Estimation: Based on supplier quotations and logistics cost analysis.
+    Responsible: Operations/Supply Chain Lead.
+
+
+
+Request 3: Project Risks
+
+1. Risk: Delay in Site Acquisition
+
+    Description: Difficulty securing suitable locations in target provinces.
+    Impacts:
+
+      Time: Project delays
+      Cost: Increased leasing or opportunity cost
+      Scope/Quality: Compromised store location quality
+    Response:
+
+      Mitigation: Start site search early, use multiple brokers
+      Contingency: Prepare backup locations list
+
+2. Risk: Inconsistent Brand Quality Across Stores
+
+    Description: New staff or suppliers may not meet brand standards.
+    Impacts:
+
+      Quality: Poor customer experience
+      Cost: Rework/training costs
+      Time: Delays in store readiness
+    Response:
+
+      Mitigation: Standardized training programs, SOPs
+      Contingency: Deploy experienced staff from existing stores
+
+3. Risk: Budget Overrun
+
+    Description: Construction or operational costs exceed estimates.
+    Impacts:
+
+      Cost: Exceed VND 8.5 billion
+      Scope: Possible reduction in store features
+      Time: Delays due to funding issues
+    Response:
+
+      Mitigation: Strict cost control, vendor negotiation
+      Contingency: Reserve budget buffer (~10%)
+2)
+

@@ -1,0 +1,81 @@
+1)
+Request1:
+   1.1)Project name: Coi Cafe project
+   1.2)The purpose and reasons to implement this project: is to provide a nostalgic space, traditional drink menu, sustainable business model to people in 5 Central provinces
+   1.3)Project constraints:
+       -Scope: the project includes surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and launching campains for each store.
+       -Time: Within 12 months
+       -Cost/budget: the total budget is VND 8.5 billion(approximately VND 1.7 biilion store) from equity and commercial bank loans
+       -Quality: Each store must reach the break-even point within 8 months after opening
+
+Request 2:
+   1)-Name: Space setup, Design
+      -Description: this is the cost for setting space and design for the coffee shop
+      -Way to estimate: compare price of the furniture in store and use parametric estimation
+      -Estimation: about 4 billion VND
+      -Person in charged: PM
+
+   2)-Name: Training local personnel
+      -Description: this is the cost for training locals to know how to work
+      -Way to estimate: Hours x cost per hour x a person
+      -Estimation: about 1 billion VND
+      -Person in charged: HR team
+
+   3)-Name: Business lisence
+
+      -Description; The brand needs to have business lisence in order to open the store
+      -Way to estimate: go to the local goverment to buy a lisence, use parametric estimation
+      -Estimation: about 1 billion VND
+      -Person in charged: PM
+
+   4)-Name: Coffee provisioners
+      -Description: The brand needs to deal with Dak Lak farmers about the coffee
+      -Way to estimate: Cost per kilogram x kilogram, use parametric estimation
+      -Estimation: about 2 billion VND
+      -Person in charged: PM
+
+   5)-Name: Contigency cost
+      -Description: the cost to prevent the risk that can happen
+      -Way to estimate: % of total budget
+      -Estimation: 500 million VND
+      -Person in charged: PM
+   
+Request 3: Three project risks:
+    1) Budget overrun
+       -Description: when the budget is higher than the total budget
+       -Probabilities: Medium
+       -Impact: the cost is higher
+       -Mitigation: make a note to write what they have spend money for, prepare a plan for buying,
+       -Contigency: Use extra money, decrease the budget of other activities
+
+    2) Low rate of customers
+       -Description: when the rate of customers is not as high as the brand's expectation
+       -Probabilities: Medium
+       -Impact: the income can be not as expected
+       -Mitigation: Hire marketing team, make some hot deals for the store, and give the beneficials to gold customers. make events
+       -Contigency: Focus on improve the quaility of the store, make big sales to attract customers,...
+
+     3) Employees withdrawal
+      -Description: when suddenly a lot of the employees leave the work
+      -Probabilities: Low
+      -Impact: the quality goes down because there aren't many employees left
+                    the time and cost increase because the brand has to hire and training employees again
+      -Mitigate: Give employees good beneficials, recruit extra employees,...
+      -Contigency: re-allocate other employees from other stores to the store that has a few employees, recruit new employees,...
+
+Request 4:
+   1)Project roles: The Market Development Director as PM, HR team, Marketing team, interior design team
+   2) Ten activities and the responsibilities of the project roles
+     2.1)Create plan for the project: PM(R, A), HR team(C), Marketing team(I), interior design team(I)
+     2.2)Make a meeting about project: PM(R, A), HR team(C), Marketing team(I), interior design team(I)
+     2.3)Design and construct the store: PM(C), HR team(I), Marketing team(I), interior design team(R, A)
+     2.4)Find coffee privisioners: PM(R, A), HR team(I), Marketing team(I), interior design team(I)
+     2.5)Do survey and select premises: PM(A), HR team(R), Marketing team(I), interior design team(I)
+     2.6)Build a raw material supply chain: PM(R, A), HR team(C), Marketing team(I), interior design team(I)
+     2.7)Recruit and train local personnel: PM(C), HR team(R, A), Marketing team(I), interior design team(I)
+     2.8)Launching campains: PM(R, A), HR team(C), Marketing team(C), interior design team(I)
+     2.9)Do marketing: PM(A), HR team(I), Marketing team(R), interior design team(I)
+     2.10)Make events: PM(A), HR team(I), Marketing team(R), interior design team(I)
+
+
+2)

@@ -1,0 +1,90 @@
+1)
+Request 1:
+ 1.1 
+   Project name: 
+      Coi Cafe: The day of traditional
+ 1.2 Justifications
+   With a big coffee brand control all stores in Vietnam is very hard, make a little mistake in 1 store can have a bad effect to all brand. 
+  Purpose to implement an expansion project  into 5 Central province can surveyving and tranning local personnel to building a raw meterial supply chain from Central region suppliers. It help brand increase and more bigger, can make a trust with customer.
+ 1.3 Project constraints 
+   In terms of scope:
+    - Surveying and selecting premises.
+    - Designing and constructing interiors with the brand.
+    - Recruiting and training local personnel.
+  Out of scope:
+    - Start building and decor in each store.
+    - Make a new water for open day.
+    - Deliver coffee from Dak Lak farrm.
+   Time:
+   Start at June 2026 and end at June 2027 ( total is 12 months with 1 flagship store)  and break- even point within 8 months after opening.
+    Cost:
+  Total budget is VND 8.5 Billion ( approximately VND 1.7 billion/store).
+    Quality
+  Have 10,000 survey in total 5 Central province in (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), designing in a new space but still have a nostalgic space, training professional staff.
+
+  Request 2:
+1.
+ Name: Cost for go.
+ Description: The cost for team to go 5 Central province.
+ - Spend VND 200 million for plane in 12 month for team/ store. 
+ Person in change: Market Development Director(PM).
+2
+ Name: Cost for Machine.
+ Description: for each store have coffe machine, machine for jucie, table, chair,...
+ - Spend VND 500 million/1 store  for coffe machine and meterial in water. And spend VND 300 million/1 store for decor.
+ Person in change: Market Development Director(PM), design team.
+3. 
+ Name: Cost for Tranning
+ Description: tranning new staff is make he/she know about history of brand, how to make coffee, new staff will take more cost than old staff.
+ - Spend VND 200 million/1 store for new staff to help they know how taste water is, tranning history of brand, and how to do all activity a day in store.
+ Person in change: HR team.
+4. 
+ Name: Cost for design team.
+ Description: will have a design tool for team, cost plane to offline caculate and cost for meterial.
+ - Spend VND 50 million to buy premium tool for design team, and VND 150 million for team to go 5 Central provinces to caculate a cost for meterial.
+5.
+ Name: Cost for marketing.
+ Description: Marketing to apply mew staff, marketing for customer know Coi Cafe now open near they house.
+ - Spen VND 300 million/1 store for team marketing to do a video on social media, buy a poster, and use KOL, KOC to marketing for brand. 
+ Request 3:
+ 1. 
+ Risk name: Over budget.
+ Possible impacts: When over budget have a negative effect to quality and timeline of project, 
+ Relevant risk respone plans: Monitor project to make a good plan for new budget, ask a equity and commercial bank loans to have a new way .
+ 2.
+ Risk name: Place.
+ Possible impacts: Wrong place is can make customer difficult come to brand, the place is to light or to dark is alway have affect to nostalgic style of brand.
+ Relevant risk response plans: Survey customer to find a best place for brand, special design can helpful in interesting of customer. 
+ 3. 
+ Risk name: PM is not good.
+ Possible impacts: PM is part important for project, if have a bad PM can make a negative effect to quality, time and cost.
+ Relevant risk respone plans: If project is in initinal or planning can as a higher to change PM, else PM can asking who responsibilities of the project roles to earn exp.
+2)
+Request 4:
+ 1. Role
+  - Market Development Director(PM): PM is who make a plan and the the way for project.
+  - HR team: management people for project,
+  - Marketing team: make plane how to do the project.
+  - Design team: design for 5 Central provindes and make sure it can launch in open day.
+ 2. List out ten tasks
+   1. Initinal project.
+   2. Planning project.
+   3. Survey 5 Centrel province.
+   4. Survey customer.
+   5. Selecting premises.
+   6. Design space.
+   7. Recruiting.
+   8. Trainning local personnel.
+   9. Lauching project.
+   10. Make total in the end.
+3. RACI
+ 1.PM(A), HR(I), Marketing team(R), Design team(R).
+ 2. PM(A), HR(C), Marketing team(R), Design team(R).
+ 3. PM(A), HR(C), Marketing team(R), Design team(I).
+ 4. PM(A), HR(I), Marketing team(R), Design team(I).
+ 5. PM(A), HR(C), Marketing team(R), Design team(I).
+ 6. PM(C), HR(C), Marketing team(I), Design team(A,R)
+ 7, PM(C), HR(A,R), Marketing team(I), Design team(I).
+ 8. PM(C), HR(A,R), Marketing team(I), Design team(I).
+ 9. PM(A), HR(C), Marketing team(R), Design team(R).
+10. PM(A, R), HR(C), Marketing team(I), Design team(I),  

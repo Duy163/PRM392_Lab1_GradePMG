@@ -1,0 +1,183 @@
+1)
+
+2)
+Request 1:
+
+Project name:
+Coi Cafe Central Operations Control Expansion Project
+
+Justifications:
+Expand Coi Cafe into five Central provinces: Da Nang, Hue, Quang Nam, Quang Ngai, and Binh Dinh.
+Use a strong operations control model to ensure all new stores are opened on time, within budget, and with consistent quality.
+Standardize store setup, staff training, supplier selection, inventory control, and launch execution across all five provinces.
+Maintain Coi Cafe’s nostalgic Vietnamese coffee space, traditional drink menu, reusable cup practice, and direct sourcing from Dak Lak farmers.
+Reduce operational risks caused by managing multiple new stores in different provinces.
+Build a controlled regional expansion system that can be reused for future markets.
+Create new revenue from five stores and support the break-even target within eight months after opening.
+
+Project constraints:
+Scope:
+Open five flagship stores only, one store in each selected province.
+Project scope includes: market survey, premises selection, lease agreement, design approval, construction, equipment setup, staff recruitment, training, supplier setup, launch campaign, operation checklist, and performance reporting.
+The project does not include franchising, extra stores, new product development, or expansion outside the five selected provinces.
+Time:
+The project must be completed within 12 months.
+All five stores must be opened within the approved schedule.
+Operational control checklists must be completed before each store launch.
+Each store must reach break-even within eight months after opening.
+Cost / Budget:
+Total budget is VND 8.5 billion.
+Average budget is about VND 1.7 billion per store.
+Funding comes from equity and commercial bank loans.
+Spending must be controlled through budget tracking and approval checkpoints.
+Quality:
+All stores must meet Coi Cafe’s standard operating requirements.
+Interior design, drink recipes, service process, hygiene, sustainability practice, and supplier quality must be consistent.
+Each store must pass final operation readiness review before grand opening.
+
+Request 2:
+
+Financial Line 1: Market control and feasibility assessment
+Name: Market control and feasibility assessment
+Description: Cost for checking customer demand, competitor situation, rental conditions, sales potential, and operational difficulty level in each province.
+Estimation: VND 650 million total, around VND 130 million per store.
+Way to estimate: Based on market surveys, competitor visits, traffic observation, travel cost, customer interviews, and feasibility scoring.
+Person in charge: Project Manager and Marketing Team.
+
+Financial Line 2: Location and lease control
+Name: Premises selection and lease control
+Description: Cost for site search, legal review, rental comparison, lease negotiation, deposit payment, first rent, and document preparation.
+Estimation: VND 1.5 billion total, around VND 300 million per store.
+Way to estimate: Based on rental market price, deposit terms, broker fee, legal checking fee, and first rental payment.
+Person in charge: Project Manager and Finance Team.
+
+Financial Line 3: Controlled construction and interior setup
+Name: Construction and interior setup under brand control
+Description: Cost for construction, furniture, lighting, service counter, seating area, decoration, signage, and required brand-standard finishing.
+Estimation: VND 3.05 billion total, around VND 610 million per store.
+Way to estimate: Based on approved design checklist, store size, contractor quotations, material cost, furniture list, and construction schedule.
+Person in charge: Interior Design and Construction Team.
+
+Financial Line 4: Operations readiness package
+Name: Equipment, staffing, and training readiness
+Description: Cost for coffee machines, grinders, refrigerators, POS system, water filters, reusable cups, kitchen tools, recruitment, uniforms, training, trial shifts, and pre-opening salary.
+Estimation: VND 2.2 billion total, around VND 440 million per store.
+Way to estimate: Based on equipment checklist, supplier quotations, number of employees, training hours, uniform price, trainer cost, and salary support.
+Person in charge: HR Team, Procurement Team, and Operations Team.
+
+Financial Line 5: Supply, launch, and monitoring setup
+Name: Supply chain, launch campaign, and monitoring setup
+Description: Cost for supplier selection, first inventory, safety stock, delivery setup, quality checking, local launch advertising, grand opening event, promotion vouchers, and post-opening performance tracking.
+Estimation: VND 1.1 billion total, around VND 220 million per store.
+Way to estimate: Based on opening inventory plan, supplier price list, transport cost, campaign budget, event scale, promotion value, and monitoring tools.
+Person in charge: Procurement and Supply Chain Team, and Marketing Team.
+
+Request 3:
+
+Risk 1: Control process slows down execution
+Risk name: Too many approvals delay store opening.
+Description: A strict operations control model may require many reviews and approvals, causing delays in construction, purchasing, or launch preparation.
+Impacts:
+Scope / quality: Some teams may rush final work to meet deadlines.
+Time: Store opening dates may be delayed.
+Cost: Extra rent, labor, and contractor waiting costs may occur.
+Mitigation plan: Define clear approval levels and deadlines for each decision before project execution starts.
+Contingency plan: Allow the Project Manager to approve urgent operational decisions within budget limits.
+
+Risk 2: Teams do not follow standard procedures
+Risk name: Poor compliance with operatineg standards.
+Description: Local teams, contractors, or suppliers may skip checklists or fail to follow Coi Cafe’s standard process.
+Impacts:
+Scope / quality: Store quality, drink taste, or service consistency may be reduced.
+Time: Rework or retraining may delay launch.
+Cost: Correction cost, supervision cost, or replacement cost may increase.
+Mitigation plan: Use mandatory checklists, weekly inspections, and clear acceptance criteria before payment or store opening.
+Contingency plan: Stop launch for stores that fail critical standards and assign a support team to correct issues.
+
+Risk 3: Performance monitoring shows weak early sales
+Risk name: Early sales below planned break-even path.
+Description: After opening, performance reports may show that customer traffic and sales are lower than the planned break-even target.
+Impacts:
+Scope / quality: The store may not deliver the expected business result.
+Time: Break-even may exceed eight months.
+Cost: Extra marketing, promotion, or operating support may be required.
+Mitigation plan: Monitor daily sales, customer counts, and feedback during the first month after opening.
+Contingency plan: Activate a recovery plan with local promotions, cost control, menu bundle adjustment, and additional marketing support.
+
+Request 4:
+
+Project roles:
+Role 1: Project Manager / Market Development Director
+Responsible for project approval, scope, schedule, budget control, risk management, operational control, and break-even monitoring.
+
+Role 2: Store Implementation Team
+Responsible for premises support, design execution, construction, equipment setup, decoration, signage, and store readiness.
+
+Role 3: Operations Control Team
+Responsible for recruitment, training, supplier setup, inventory, standard checklists, launch campaign, performance reporting, and quality monitoring.
+
+RACI responsibilities:
+R = Responsible
+A = Accountable
+C = Consulted
+I = Informed
+
+Activity 1: Approve project charter and control model
+Project Manager: A/R
+Store Implementation Team: C
+Operations Control Team: C
+
+Activity 2: Conduct market feasibility assessment
+Project Manager: A
+Store Implementation Team: I
+Operations Control Team: R
+
+Activity 3: Select and approve premises
+Project Manager: A/R
+Store Implementation Team: C
+Operations Control Team: C
+
+Activity 4: Negotiate lease and confirm budget fit
+Project Manager: A/R
+Store Implementation Team: I
+Operations Control Team: C
+
+Activity 5: Prepare design and construction checklist
+Project Manager: A
+Store Implementation Team: R
+Operations Control Team: C
+
+Activity 6: Complete construction and interior setup
+Project Manager: A
+Store Implementation Team: R
+Operations Control Team: C
+
+Activity 7: Purchase equipment and prepare inventory
+Project Manager: A
+Store Implementation Team: C
+Operations Control Team: R
+
+Activity 8: Recruit and train local staff
+Project Manager: A
+Store Implementation Team: I
+Operations Control Team: R
+
+Activity 9: Complete supplier and logistics setup
+Project Manager: A
+Store Implementation Team: I
+Operations Control Team: R
+
+Activity 10: Conduct pre-opening readiness audit
+Project Manager: A/R
+Store Implementation Team: C
+Operations Control Team: R
+
+Activity 11: Execute launch campaign and grand opening
+Project Manager: A
+Store Implementation Team: C
+Operations Control Team: R
+
+Activity 12: Monitor sales, quality, and break-even progress
+Project Manager: A/R
+Store Implementation Team: I
+Operations Control Team: C

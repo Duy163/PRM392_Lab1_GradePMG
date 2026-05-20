@@ -1,0 +1,13 @@
+1)
+Request 1:
+1. Coi Cafe is a pure Vietnamese coffee brand with 12 stores in Hanoi and Ho Chi Minh City
+2. Coi Cafe is famous for its nostalgic space, traditional drink menu, and sustainable bussiness model (using reusable cups, purchasing ).
+3. Coi's management decided to implement an expansion project into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 months. 
+Request 2:
+- The project includes: surveying and selecting premises, designing and constructing interiors consistent with brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, and launching campaigns for each store.
+Request 3: 
+- The project is led by the Market Development Director as PM, coordinating with the interior design team, HR team, and marketing team.HR team, and marking team. The total budget is VND 8.5 bilion (approximately VND 1.7 billion/store) from equity and commercial bank loans.
+Request 4:
+- Provide at least five main cost/budget items. Each cost/budget item, you need to provide following details: name, description, estimation along with the way to estimate (how to estiamte, person in charged). Identify three project risks by listing out the risk title/name, description, possible impacts (in term of scope or quality, time, and cost), and relevant risk response plans (mitigation, contingency).Development a narrative charter statement that includes the following details project name, justification (purpose & reasons to implement this project),
+
+2)

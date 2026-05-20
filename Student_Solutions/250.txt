@@ -1,0 +1,93 @@
+1)
+Request 1
+1.1
+- Project name : Coi Cafe Vietnam
+1.2
+- Cafe is a favorite drink of vietnamese people. So that, Coi cafe was born to people can approve  a new brand cafe with famous nostalgic space, traditional drink menu and sustainable business model. The project can help customer have a new experience with new brand coffe expansion project into 5 central provinces like Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh.
+1.3
+Coi Cafe VietNam Project constraints:
+- Scope : expand into 5 central provinces. Beside that, selecting pre
+- Time : Flagship store in each provinces within 12 months.
+- Cost/buget : VND 8.5 billion ( approximately VND 1.7 billion / store)
+- Quality : each store must reach the break-even point within 8 months after opening and store will soon approach to customer.
+
+Request 2
+2.1
+- 5 main cost/buget iteam:
++ Money to buy place where built store(1)
++ Fee pay for tranner to tranning the local personnel.(2)
++ Fee buy material to make drink.(3)
++ Fee pay for employee.(4)
++ Fee marketing in social media.(5)
+
+-(1)
++ description : buy place to built store.
++ estimation : the place in central and good view where bring a good vibe for customer.
++ person in charged : PM
+-(2) 
++ description : tranner tranning local personnel.
++ estimation : 1 hour x 500.000 VND, 1 week 3 lesson.
++ person in charged : PM and Marketing team.
+-(5)
++ description : marketing store in to social media.
++ estimation : quantity of view in social and customer visit store
++ person in charge : Marketing team and Content creator team.
+-(4)
++ description : pay for employee every months
++ estimation : 1 hour x 25.000 VND full time.
++ person in charge : PM and accounter team.
+-(3)
++ description : buy material to make drink.
++ estimation : quantity coffe directly form Dak Lak famer with 40 kg cafe every week.
++ person in charge : PM 
+
+
+2)
+Request 3
+-  3 project risks in the project
++ Lack of money to bulit store 
++ One or many flagship store in each provinces more than 12 months.
++ Lack of coffe from Dak Lak Famer.
+- Lack of money to bulit store
++ description : when opening store the fee is more than plan.
++ impact : the time build store will be delay and can not get aim.
++ mitigation : bulid plan again with calcutator and reduce the things are not nessesary.
++ contigency : bank loans.
+- One or many flagship store in each provinces more than 12 months.
++ description : flagship store is more than 12 months not true with plan
++ impact : take a lot of time and money
++ mitigation : increasing speed complete mission to each store.
++ contigency : each store should announ with PM to have a good way excute.
+-  Lack coffe from Dak Lak famer.
++ description : not enough coffe to provice to store.
++ impact : revernus of store will decrease.
++ mittigation : contact with a new famer where have a good quality coffe.
++ contigency : buy coffe and save in chain.
+Request 4
+4.1 
+- 4 project roles : PM (PM) , marketing team (MT), design team (DS), HR team (HR).
+4.2
+- 10 task : 
++ find the place to built store (1)
++ Buy the place and have document which approve to use place. (2)
++ Design and constructing interiors consistent. (3)
++ Add the tranner to tranning local personnel. (4)
++ Bulid a raw material supply chain from Central region. (5)
++ Surveying and selecting premises. (6)
++ Manage revernue of store. (7)
++ Make short video to upload in social media.(8)
++ Buy material to make drink.(9)
++ Collection opinion from customer
+4.3
+(1) PM (R)
+(2) PM (R)
+(3) DS (R), PM (C) 
+(4) HR (R) , PM (A).
+(5) PM (R).
+(6) PM (R)
+(7) MK (R), PM (A)
+(8) MK (R), PM (A), DS (C)
+(9) PM (R), MK (C)
+(10) MK (R), PM (A). 
+(6) PM (R) , MT (C).
+

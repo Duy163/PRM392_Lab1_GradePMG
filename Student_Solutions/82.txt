@@ -1,0 +1,94 @@
+1)
+Request 1:
+
+1. Project name: Coi Cafe's brand expansion project
+
+2.  Justification: Expansion brand into 5 Central provinces (Da Nang, Hue, Quang Nam, Quang Ngai, Binh Dinh), with 1 flagship store in each province within 12 months
+
+3. Constraints: 
+- In term of scope: Surveying and selecting premises, designing and constructing interiors consistent with the brand, recruiting and training local personnel, building a raw material supply chain from Central region suppliers, launching campaigns for each store.
+- Time: 12 months
+- Budget: VND 8.5 billions (approximately VND 1.7 billion/store) 
+- Quality: Each store reach the break-even point within 8 months after opening
+
+
+2)
+REQUEST 2:
+
+1. Media shooting budget
+- Description: Cost for drink menu's shooting days, retouch and design media product.
+- Estimate cost: VND 50 million for all campaign (use products for all store)
+- Person in charge: Marketing Team(lead by Director of Marketing)
+
+2. Recruiting and training local personnel
+- Description: Recruiting new local resources. Building training kits and documents, operate internal training workshop for local managers and employees at each province.
+- Estimate cost: Total is VND 100 million (20 million/store)
+- Person in charge: HR team and PM
+
+3. Surveying and selecting premises
+- Description: Surveying people's selection for drink, selecting local premises to build special menu for each province
+- Estimate cost: Total is VND 200 million (both for online and offline survey) 
+- Person in charge: Market Development team (lead by PM)
+
+4. Marketing budget
+- Description: Cost for online marketing via social media (Facebook, Tiktok, Ads,..) and offline marketing, lauching event at store.
+- Estimate cost: Total is VND 1.0 billion (VND 200 millions/store)
+- Person in charge: Marketing team (lead by Director of Marketing)
+
+5. Build flagship store in each Central province
+- Description: Rental fee, cost for build and decor store, operation fee
+- Estimate cost: Total is VND 2.5 billion (VND 500 millions/store)
+- Person in charge: PM, local managers team
+
+REQUEST 3: 
+
+Risk 1: Over budget
+- Description: The campaign need to cost more than total budget at begin
+- Possible impact: Medium (Cost)
+- Mitigation: List down all fees need to pay from before run the project, keeptrack closely for each store
+- Contigency: Run the store and use entire revenue to continue operate the project. Also minimize employees in each store to minimize the paid
+
+Risk 2: Store can not reach the break-even point on time
+- Description: After 8 months opening, some store can not reach the break-even point because of consumer quantity and other reasons
+- Possible impact: High (Quality)
+- Mitigation: Push hard the revenue on first week from lauching day, run the marketing ads before opening day to reach as much as possible consumer
+- Contigency: Continue to run the store, use revenue from stores which is ahead renevue to run other store
+
+Risk 3: Flagship store in some province can not opening on time due to the reason of store rental. 
+- Possible impact: Medium (Time)
+- Mitigation: Scouting the rent market at those province at least 6 months before decide to run the project
+- Contigency: Do all the prepare for operation while finding rental space. When get a possible space, all other preparation has done and ready to opening
+
+REQUEST 4:
+
+1. Project roles: Project manager, Director of Marketing (DOM), Director of HR, Leader of interior design team
+
+2. Tasks list out:
+- Project charter
+- Surveying market and selecting premises
+- Planning for project
+- Recruiting and training for local managers and employee
+- Local brand awareness for each province
+- Building raw material supply chain
+- Marketing plan
+- Estimating budget 
+- Timeframe 
+- Launching campaigns for each store
+
+3. 
+
+3.1. Project charter: PM (A), DOM (C), Director of HR (I), Leader of interior design team (I)
+3.2. Surveying market and selecting premises: PM (A), DOM (R), Director of HR (I), Leader of interior design team (I)
+3.3. Planning for project: PM (A), DOM (R), Director of HR (R), Leader of interior design team (R)
+3.4. Recuiting and training for local managers and employees: PM (C), DOM (I), Director of HR (A), leader of interior design team (I)
+3.5. Local brand awareness for each province: PM (C), DOM (R), Director of HR (I), Leader of interior design team (A)
+3.6. Building raw material supply chain: PM (A), DOM (I), Director of HR (I), Leader of interior design team (R)
+3.7. Marketing plan: PM (C), DOM (A), Director of HR (I), Leader of interior design team (R)
+3,8. Estimate budget: PM (A), DOM (R), Director of HR (R), Leader of interior design team (R)
+3.9. Timeframe: PM (A), DOM (R), Director of  HR (R), Leader of interior design team (R)
+3.10. Lauching campaign for each store: PM (A), DOM (R), Director of HR (I), Leader of inrerior design team (C)
+
+
+
+
+
