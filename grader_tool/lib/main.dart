@@ -1,7 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:file_selector/file_selector.dart';
+import 'dart:io';
 import 'package:grader_tool/models/grading_result.dart';
+import 'package:grader_tool/services/app_state_store.dart';
 import 'package:grader_tool/services/ollama_service.dart';
+import 'package:grader_tool/services/grading_service.dart';
+import 'package:grader_tool/services/grading_store.dart';
+import 'package:grader_tool/services/excel_export_service.dart';
 
 void main() {
   runApp(const GraderApp());
@@ -142,12 +147,50 @@ class _SetupFilesViewState extends State<SetupFilesView> {
   String? _solutionsPath;
   String? _criteriaDocPath;
   String? _excelTemplatePath;
+  List<XFile>? _selectedTxtFiles;
   bool _isLoading = false;
+  int? _folderTxtCount;
+
+  @override
+  void initState() {
+    super.initState();
+    _solutionsPath = AppStateStore.solutionsPath;
+    _criteriaDocPath = AppStateStore.criteriaDocPath;
+    _excelTemplatePath = AppStateStore.excelTemplatePath;
+    _selectedTxtFiles = AppStateStore.selectedTxtFiles;
+    if (_solutionsPath != null) {
+      _folderTxtCount = _countTxtFiles(_solutionsPath!);
+    }
+  }
+
+  int _countTxtFiles(String path) {
+    try {
+      final dir = Directory(path);
+      return dir
+          .listSync()
+          .where((e) => e.path.toLowerCase().endsWith('.txt'))
+          .length;
+    } catch (_) {
+      return 0;
+    }
+  }
 
   Future<void> _pickFolder() async {
-    String? path = await getDirectoryPath();
-    if (path != null) {
-      setState(() => _solutionsPath = path);
+    const XTypeGroup txtGroup = XTypeGroup(
+      label: 'Text',
+      extensions: <String>['txt'],
+    );
+    final XFile? file = await openFile(
+      acceptedTypeGroups: <XTypeGroup>[txtGroup],
+    );
+    if (file != null) {
+      final String path = File(file.path).parent.path;
+      final int count = _countTxtFiles(path);
+      setState(() {
+        _solutionsPath = path;
+        _folderTxtCount = count;
+        AppStateStore.solutionsPath = path;
+      });
     }
   }
 
@@ -160,7 +203,10 @@ class _SetupFilesViewState extends State<SetupFilesView> {
       acceptedTypeGroups: <XTypeGroup>[docxTypeGroup],
     );
     if (file != null) {
-      setState(() => _criteriaDocPath = file.path);
+      setState(() {
+        _criteriaDocPath = file.path;
+        AppStateStore.criteriaDocPath = file.path;
+      });
     }
   }
 
@@ -173,7 +219,30 @@ class _SetupFilesViewState extends State<SetupFilesView> {
       acceptedTypeGroups: <XTypeGroup>[excelTypeGroup],
     );
     if (file != null) {
-      setState(() => _excelTemplatePath = file.path);
+      setState(() {
+        _excelTemplatePath = file.path;
+        AppStateStore.excelTemplatePath = file.path;
+      });
+    }
+  }
+
+  Future<void> _pickTxtFiles() async {
+    const XTypeGroup txtGroup = XTypeGroup(
+      label: 'Text',
+      extensions: <String>['txt'],
+    );
+    final List<XFile>? files = await openFiles(
+      acceptedTypeGroups: <XTypeGroup>[txtGroup],
+    );
+    if (files != null && files.isNotEmpty) {
+      setState(() {
+        _selectedTxtFiles = files;
+        AppStateStore.selectedTxtFiles = files;
+        // set solutions path to the folder containing the first selected file
+        _solutionsPath = File(files.first.path).parent.path;
+        AppStateStore.solutionsPath = _solutionsPath;
+        _folderTxtCount = _countTxtFiles(_solutionsPath!);
+      });
     }
   }
 
@@ -206,10 +275,36 @@ class _SetupFilesViewState extends State<SetupFilesView> {
       return;
     }
 
-    // Navigate to grading screen
-    if (mounted) {
-      widget.onNavigateToGrading();
-    }
+    // Start grading (use selected files if provided)
+    setState(() => _isLoading = true);
+    List<GradingResult> results = await GradingService.gradeAllStudents(
+      criteriaDocPath: _criteriaDocPath!,
+      solutionsFolderPath: _solutionsPath,
+      selectedFilePaths: _selectedTxtFiles?.map((f) => f.path).toList(),
+      onProgress: (msg) {
+        // Optionally show progress in SnackBar
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(
+              content: Text(msg),
+              duration: const Duration(milliseconds: 800),
+            ),
+          );
+        }
+      },
+      onError: (err) {
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(content: Text(err), duration: const Duration(seconds: 2)),
+          );
+        }
+      },
+    );
+    setState(() => _isLoading = false);
+
+    // Publish results and navigate to review page
+    GradingStore.mergeResults(results);
+    if (mounted) widget.onNavigateToGrading();
   }
 
   @override
@@ -233,14 +328,28 @@ class _SetupFilesViewState extends State<SetupFilesView> {
           const SizedBox(height: 32),
           _buildFileSelectCard(
             title: 'Student Solutions Folder',
-            subtitle:
-                _solutionsPath ??
-                'Select folder containing student .txt files.',
+            subtitle: _solutionsPath != null
+                ? '$_solutionsPath\n(Found ${_folderTxtCount ?? 0} .txt files)'
+                : 'Select any student .txt file to choose its folder',
             icon: Icons.folder_zip,
             onTap: _pickFolder,
             isSelected: _solutionsPath != null,
           ),
-          const SizedBox(height: 16),
+          const SizedBox(height: 8),
+          Row(
+            children: [
+              TextButton.icon(
+                onPressed: _pickTxtFiles,
+                icon: const Icon(Icons.file_open),
+                label: Text(
+                  _selectedTxtFiles == null
+                      ? 'Or pick specific .txt files'
+                      : 'Selected ${_selectedTxtFiles!.length} .txt files',
+                ),
+              ),
+            ],
+          ),
+          const SizedBox(height: 8),
           _buildFileSelectCard(
             title: 'Grading Criteria Document',
             subtitle: _criteriaDocPath ?? 'Select the .docx rubric file.',
@@ -367,9 +476,69 @@ class GradingReviewView extends StatefulWidget {
 
 class _GradingReviewViewState extends State<GradingReviewView> {
   List<GradingResult> _results = [];
-  List<TextEditingController> _controllers = [];
   bool _isGrading = false;
   String _progressMessage = '';
+
+  @override
+  void initState() {
+    super.initState();
+    _results = GradingStore.latestResults;
+    if (_results.isNotEmpty) {
+      _progressMessage = 'Received ${_results.length} graded submissions';
+    }
+
+    GradingStore.stream.listen((results) {
+      setState(() {
+        _results = results;
+        _progressMessage = 'Received ${results.length} graded submissions';
+      });
+    });
+  }
+
+  Future<void> _pickMoreTxtFiles() async {
+    const XTypeGroup txtGroup = XTypeGroup(
+      label: 'Text',
+      extensions: <String>['txt'],
+    );
+    final List<XFile>? files = await openFiles(
+      acceptedTypeGroups: <XTypeGroup>[txtGroup],
+    );
+    if (files != null && files.isNotEmpty) {
+      await _gradeMoreFiles(files.map((f) => f.path).toList());
+    }
+  }
+
+  Future<void> _gradeMoreFiles(List<String> filePaths) async {
+    if (AppStateStore.criteriaDocPath == null) {
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(content: Text('❌ Grading criteria path not found')),
+        );
+      }
+      return;
+    }
+
+    setState(() => _isGrading = true);
+    List<GradingResult> results = await GradingService.gradeAllStudents(
+      criteriaDocPath: AppStateStore.criteriaDocPath!,
+      selectedFilePaths: filePaths,
+      onProgress: (msg) {
+        if (mounted) {
+          setState(() => _progressMessage = msg);
+        }
+      },
+      onError: (err) {
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(content: Text(err), duration: const Duration(seconds: 2)),
+          );
+        }
+      },
+    );
+    setState(() => _isGrading = false);
+
+    GradingStore.mergeResults(results);
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -385,10 +554,74 @@ class _GradingReviewViewState extends State<GradingReviewView> {
                 'Review & Adjust Scores',
                 style: Theme.of(context).textTheme.headlineMedium,
               ),
-              FilledButton.tonalIcon(
-                onPressed: _results.isNotEmpty ? () {} : null,
-                icon: const Icon(Icons.download),
-                label: const Text('Export to Excel'),
+              Row(
+                children: [
+                  FilledButton.tonalIcon(
+                    onPressed: _isGrading ? null : _pickMoreTxtFiles,
+                    icon: const Icon(Icons.add),
+                    label: const Text('Add More Submissions'),
+                  ),
+                  const SizedBox(width: 16),
+                  FilledButton.tonalIcon(
+                    onPressed: _results.isNotEmpty && !_isGrading
+                        ? () async {
+                            final markerNameController =
+                                TextEditingController();
+                            final String? markerName = await showDialog<String>(
+                              context: context,
+                              builder: (context) {
+                                return AlertDialog(
+                                  title: const Text('Enter Marker Name'),
+                                  content: TextField(
+                                    controller: markerNameController,
+                                    decoration: const InputDecoration(
+                                      hintText: 'e.g., HungLD5',
+                                    ),
+                                    autofocus: true,
+                                  ),
+                                  actions: [
+                                    TextButton(
+                                      onPressed: () =>
+                                          Navigator.of(context).pop(),
+                                      child: const Text('Cancel'),
+                                    ),
+                                    FilledButton(
+                                      onPressed: () => Navigator.of(
+                                        context,
+                                      ).pop(markerNameController.text.trim()),
+                                      child: const Text('Export'),
+                                    ),
+                                  ],
+                                );
+                              },
+                            );
+
+                            if (markerName == null || markerName.isEmpty)
+                              return;
+
+                            final path = await ExcelExportService.exportToExcel(
+                              _results,
+                              markerName,
+                            );
+                            if (!mounted) return;
+                            final messenger = ScaffoldMessenger.of(context);
+                            if (path != null) {
+                              messenger.showSnackBar(
+                                SnackBar(content: Text('Exported to: $path')),
+                              );
+                            } else {
+                              messenger.showSnackBar(
+                                const SnackBar(
+                                  content: Text('Failed to export to Excel.'),
+                                ),
+                              );
+                            }
+                          }
+                        : null,
+                    icon: const Icon(Icons.download),
+                    label: const Text('Export to Excel'),
+                  ),
+                ],
               ),
             ],
           ),
@@ -448,39 +681,20 @@ class _GradingReviewViewState extends State<GradingReviewView> {
                         ),
                         columns: const [
                           DataColumn(label: Text('Student')),
-                          DataColumn(label: Text('AI Score')),
-                          DataColumn(label: Text('Final Score')),
+                          DataColumn(label: Text('Total Score')),
                           DataColumn(label: Text('AI Feedback')),
+                          DataColumn(label: Text('Actions')),
                         ],
                         rows: List.generate(_results.length, (index) {
+                          final res = _results[index];
                           return DataRow(
                             cells: [
-                              DataCell(Text(_results[index].studentFile)),
+                              DataCell(Text(res.studentFile)),
                               DataCell(
                                 Text(
-                                  _results[index].score.toStringAsFixed(1),
+                                  res.score.toStringAsFixed(1),
                                   style: const TextStyle(
                                     fontWeight: FontWeight.bold,
-                                  ),
-                                ),
-                              ),
-                              DataCell(
-                                Container(
-                                  width: 80,
-                                  padding: const EdgeInsets.symmetric(
-                                    vertical: 4,
-                                  ),
-                                  child: TextFormField(
-                                    controller: _controllers[index],
-                                    keyboardType: TextInputType.number,
-                                    decoration: const InputDecoration(
-                                      isDense: true,
-                                      border: OutlineInputBorder(),
-                                      contentPadding: EdgeInsets.symmetric(
-                                        horizontal: 12,
-                                        vertical: 8,
-                                      ),
-                                    ),
                                   ),
                                 ),
                               ),
@@ -488,12 +702,19 @@ class _GradingReviewViewState extends State<GradingReviewView> {
                                 SizedBox(
                                   width: 300,
                                   child: Tooltip(
-                                    message: _results[index].feedback,
+                                    message: res.feedback,
                                     child: Text(
-                                      _results[index].feedback,
+                                      res.feedback,
                                       overflow: TextOverflow.ellipsis,
                                     ),
                                   ),
+                                ),
+                              ),
+                              DataCell(
+                                FilledButton.tonal(
+                                  onPressed: () =>
+                                      _showDetailsDialog(context, index),
+                                  child: const Text('Review Details'),
                                 ),
                               ),
                             ],
@@ -505,6 +726,166 @@ class _GradingReviewViewState extends State<GradingReviewView> {
           ),
         ],
       ),
+    );
+  }
+
+  void _showDetailsDialog(BuildContext context, int index) {
+    final res = _results[index];
+    showDialog(
+      context: context,
+      builder: (context) {
+        return StatefulBuilder(
+          builder: (context, setDialogState) {
+            return AlertDialog(
+              title: Text('Grading Details: ${res.studentFile}'),
+              content: SizedBox(
+                width: 1200,
+                height: 700,
+                child: Row(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Expanded(
+                      flex: 1,
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Text(
+                            'Student Submission',
+                            style: Theme.of(context).textTheme.titleLarge,
+                          ),
+                          const SizedBox(height: 8),
+                          Expanded(
+                            child: Container(
+                              width: double.infinity,
+                              padding: const EdgeInsets.all(16),
+                              decoration: BoxDecoration(
+                                color: Theme.of(
+                                  context,
+                                ).colorScheme.surfaceContainerHighest,
+                                borderRadius: BorderRadius.circular(12),
+                              ),
+                              child: SingleChildScrollView(
+                                child: SelectableText(
+                                  res.submissionContent,
+                                  style: const TextStyle(
+                                    fontFamily: 'Consolas',
+                                    fontSize: 13,
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+                    const SizedBox(width: 24),
+                    Expanded(
+                      flex: 1,
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Text(
+                            'AI Grading Details',
+                            style: Theme.of(context).textTheme.titleLarge,
+                          ),
+                          const SizedBox(height: 8),
+                          Expanded(
+                            child: res.questions.isEmpty
+                                ? const Center(
+                                    child: Text('No detailed questions found.'),
+                                  )
+                                : ListView.builder(
+                                    itemCount: res.questions.length,
+                                    itemBuilder: (context, qIndex) {
+                                      final q = res.questions[qIndex];
+                                      return Card(
+                                        margin: const EdgeInsets.only(
+                                          bottom: 16,
+                                        ),
+                                        child: Padding(
+                                          padding: const EdgeInsets.all(16.0),
+                                          child: Column(
+                                            crossAxisAlignment:
+                                                CrossAxisAlignment.start,
+                                            children: [
+                                              Row(
+                                                mainAxisAlignment:
+                                                    MainAxisAlignment
+                                                        .spaceBetween,
+                                                children: [
+                                                  Text(
+                                                    'Question ${q.questionNumber}',
+                                                    style: Theme.of(context)
+                                                        .textTheme
+                                                        .titleMedium
+                                                        ?.copyWith(
+                                                          fontWeight:
+                                                              FontWeight.bold,
+                                                        ),
+                                                  ),
+                                                  SizedBox(
+                                                    width: 100,
+                                                    child: TextFormField(
+                                                      initialValue: q.score
+                                                          .toStringAsFixed(1),
+                                                      keyboardType:
+                                                          TextInputType.number,
+                                                      decoration:
+                                                          const InputDecoration(
+                                                            labelText: 'Score',
+                                                            isDense: true,
+                                                            border:
+                                                                OutlineInputBorder(),
+                                                          ),
+                                                      onChanged: (val) {
+                                                        final newScore =
+                                                            double.tryParse(
+                                                              val,
+                                                            );
+                                                        if (newScore != null) {
+                                                          q.score = newScore;
+                                                          setState(() {});
+                                                          setDialogState(() {});
+                                                        }
+                                                      },
+                                                    ),
+                                                  ),
+                                                ],
+                                              ),
+                                              const SizedBox(height: 8),
+                                              Text(
+                                                'Mistake: ${q.mistake}',
+                                                style: TextStyle(
+                                                  color: Theme.of(
+                                                    context,
+                                                  ).colorScheme.error,
+                                                ),
+                                              ),
+                                              const SizedBox(height: 8),
+                                              Text('Feedback: ${q.feedback}'),
+                                            ],
+                                          ),
+                                        ),
+                                      );
+                                    },
+                                  ),
+                          ),
+                        ],
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+              actions: [
+                TextButton(
+                  onPressed: () => Navigator.of(context).pop(),
+                  child: const Text('Done'),
+                ),
+              ],
+            );
+          },
+        );
+      },
     );
   }
 }
@@ -534,7 +915,7 @@ class SettingsView extends StatelessWidget {
             const SizedBox(height: 16),
             _buildSettingsCard(
               title: 'Model',
-              value: 'qwen2.5:7b',
+              value: 'qwen2.5:1.5b',
               icon: Icons.model_training,
               context: context,
             ),
@@ -556,7 +937,7 @@ class SettingsView extends StatelessWidget {
               ),
               child: Text(
                 '1. Make sure Ollama is running: ollama serve\n'
-                '2. Pull Qwen model: ollama pull qwen2.5:7b\n'
+                '2. Pull Qwen model: ollama pull qwen2.5:1.5b\n'
                 '3. Verify at: http://localhost:11434/api/tags\n'
                 '4. Return to Setup and start grading!',
                 style: Theme.of(context).textTheme.bodyMedium,
