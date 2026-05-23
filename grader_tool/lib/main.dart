@@ -3,10 +3,10 @@ import 'package:file_selector/file_selector.dart';
 import 'dart:io';
 import 'package:grader_tool/models/grading_result.dart';
 import 'package:grader_tool/services/app_state_store.dart';
-import 'package:grader_tool/services/ollama_service.dart';
 import 'package:grader_tool/services/grading_service.dart';
 import 'package:grader_tool/services/grading_store.dart';
 import 'package:grader_tool/services/excel_export_service.dart';
+import 'package:grader_tool/views/saved_results_view.dart';
 
 void main() {
   runApp(const GraderApp());
@@ -100,9 +100,9 @@ class _MainScreenState extends State<MainScreen> {
                 label: Text('Review & Export'),
               ),
               NavigationRailDestination(
-                icon: Icon(Icons.settings_outlined),
-                selectedIcon: Icon(Icons.settings),
-                label: Text('AI Settings'),
+                icon: Icon(Icons.history_outlined),
+                selectedIcon: Icon(Icons.history),
+                label: Text('Saved Results'),
               ),
             ],
           ),
@@ -124,7 +124,7 @@ class _MainScreenState extends State<MainScreen> {
                   },
                 ),
                 const GradingReviewView(),
-                const SettingsView(),
+                const SavedResultsView(),
               ],
             ),
           ),
@@ -176,31 +176,26 @@ class _SetupFilesViewState extends State<SetupFilesView> {
   }
 
   Future<void> _pickFolder() async {
-    const XTypeGroup txtGroup = XTypeGroup(
-      label: 'Text',
-      extensions: <String>['txt'],
+    final String? directoryPath = await getDirectoryPath(
+      confirmButtonText: 'Select Folder',
     );
-    final XFile? file = await openFile(
-      acceptedTypeGroups: <XTypeGroup>[txtGroup],
-    );
-    if (file != null) {
-      final String path = File(file.path).parent.path;
-      final int count = _countTxtFiles(path);
+    if (directoryPath != null) {
+      final int count = _countTxtFiles(directoryPath);
       setState(() {
-        _solutionsPath = path;
+        _solutionsPath = directoryPath;
         _folderTxtCount = count;
-        AppStateStore.solutionsPath = path;
+        AppStateStore.solutionsPath = directoryPath;
       });
     }
   }
 
-  Future<void> _pickWordFile() async {
-    const XTypeGroup docxTypeGroup = XTypeGroup(
-      label: 'Word',
-      extensions: <String>['docx'],
+  Future<void> _pickRubricFile() async {
+    const rubricTypeGroup = XTypeGroup(
+      label: 'Rubric',
+      extensions: <String>['docx', 'json'],
     );
     final XFile? file = await openFile(
-      acceptedTypeGroups: <XTypeGroup>[docxTypeGroup],
+      acceptedTypeGroups: <XTypeGroup>[rubricTypeGroup],
     );
     if (file != null) {
       setState(() {
@@ -231,14 +226,11 @@ class _SetupFilesViewState extends State<SetupFilesView> {
       label: 'Text',
       extensions: <String>['txt'],
     );
-    final List<XFile>? files = await openFiles(
-      acceptedTypeGroups: <XTypeGroup>[txtGroup],
-    );
-    if (files != null && files.isNotEmpty) {
+    final files = await openFiles(acceptedTypeGroups: <XTypeGroup>[txtGroup]);
+    if (files.isNotEmpty) {
       setState(() {
         _selectedTxtFiles = files;
         AppStateStore.selectedTxtFiles = files;
-        // set solutions path to the folder containing the first selected file
         _solutionsPath = File(files.first.path).parent.path;
         AppStateStore.solutionsPath = _solutionsPath;
         _folderTxtCount = _countTxtFiles(_solutionsPath!);
@@ -256,38 +248,20 @@ class _SetupFilesViewState extends State<SetupFilesView> {
       return;
     }
 
-    // Test Ollama connection
     setState(() => _isLoading = true);
-    final isConnected = await OllamaService.testConnection();
-    setState(() => _isLoading = false);
-
-    if (!isConnected) {
-      if (mounted) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          const SnackBar(
-            content: Text(
-              '❌ Cannot connect to Ollama. Make sure it\'s running on localhost:11434',
-            ),
-            duration: Duration(seconds: 3),
-          ),
-        );
-      }
-      return;
-    }
-
-    // Start grading (use selected files if provided)
-    setState(() => _isLoading = true);
-    List<GradingResult> results = await GradingService.gradeAllStudents(
+    final results = await GradingService.gradeAllStudents(
       criteriaDocPath: _criteriaDocPath!,
       solutionsFolderPath: _solutionsPath,
       selectedFilePaths: _selectedTxtFiles?.map((f) => f.path).toList(),
       onProgress: (msg) {
-        // Optionally show progress in SnackBar
         if (mounted) {
-          ScaffoldMessenger.of(context).showSnackBar(
+          final messenger = ScaffoldMessenger.of(context);
+          // Dismiss the current SnackBar immediately to avoid queuing them up!
+          messenger.hideCurrentSnackBar();
+          messenger.showSnackBar(
             SnackBar(
               content: Text(msg),
-              duration: const Duration(milliseconds: 800),
+              duration: const Duration(milliseconds: 1500),
             ),
           );
         }
@@ -302,7 +276,11 @@ class _SetupFilesViewState extends State<SetupFilesView> {
     );
     setState(() => _isLoading = false);
 
-    // Publish results and navigate to review page
+    // Clear all snackbars instantly when grading finishes!
+    if (mounted) {
+      ScaffoldMessenger.of(context).clearSnackBars();
+    }
+
     GradingStore.mergeResults(results);
     if (mounted) widget.onNavigateToGrading();
   }
@@ -330,8 +308,8 @@ class _SetupFilesViewState extends State<SetupFilesView> {
             title: 'Student Solutions Folder',
             subtitle: _solutionsPath != null
                 ? '$_solutionsPath\n(Found ${_folderTxtCount ?? 0} .txt files)'
-                : 'Select any student .txt file to choose its folder',
-            icon: Icons.folder_zip,
+                : 'Click to select folder containing student .txt files',
+            icon: Icons.folder_open,
             onTap: _pickFolder,
             isSelected: _solutionsPath != null,
           ),
@@ -351,10 +329,11 @@ class _SetupFilesViewState extends State<SetupFilesView> {
           ),
           const SizedBox(height: 8),
           _buildFileSelectCard(
-            title: 'Grading Criteria Document',
-            subtitle: _criteriaDocPath ?? 'Select the .docx rubric file.',
+            title: 'Grading Criteria Document / JSON Rubric',
+            subtitle:
+                _criteriaDocPath ?? 'Select the .docx or .json rubric file.',
             icon: Icons.description,
-            onTap: _pickWordFile,
+            onTap: _pickRubricFile,
             isSelected: _criteriaDocPath != null,
           ),
           const SizedBox(height: 16),
@@ -365,7 +344,9 @@ class _SetupFilesViewState extends State<SetupFilesView> {
             onTap: _pickExcelFile,
             isSelected: _excelTemplatePath != null,
           ),
-          const SizedBox(height: 48),
+          const SizedBox(height: 24),
+          _buildGradingModeCard(),
+          const SizedBox(height: 32),
           Align(
             alignment: Alignment.centerRight,
             child: _isLoading
@@ -382,7 +363,7 @@ class _SetupFilesViewState extends State<SetupFilesView> {
                         ? _startGrading
                         : null,
                     icon: const Icon(Icons.rocket_launch),
-                    label: const Text('Start AI Grading'),
+                    label: const Text('Start Grading'),
                     style: FilledButton.styleFrom(
                       padding: const EdgeInsets.symmetric(
                         horizontal: 24,
@@ -392,6 +373,132 @@ class _SetupFilesViewState extends State<SetupFilesView> {
                   ),
           ),
         ],
+      ),
+    );
+  }
+
+  Widget _buildGradingModeCard() {
+    return Card(
+      elevation: 0,
+      color: Theme.of(context).colorScheme.surfaceContainerHighest,
+      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
+      child: Padding(
+        padding: const EdgeInsets.all(20.0),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Text(
+              'Grading Mode (Chế độ chấm điểm)',
+              style: Theme.of(
+                context,
+              ).textTheme.titleMedium?.copyWith(fontWeight: FontWeight.bold),
+            ),
+            const SizedBox(height: 12),
+            Row(
+              children: [
+                Expanded(
+                  child: InkWell(
+                    borderRadius: BorderRadius.circular(12),
+                    onTap: () {
+                      setState(() {
+                        AppStateStore.useFastGrader = false;
+                      });
+                    },
+                    child: Container(
+                      padding: const EdgeInsets.all(16),
+                      decoration: BoxDecoration(
+                        color: !AppStateStore.useFastGrader
+                            ? Theme.of(context).colorScheme.primaryContainer
+                            : Colors.transparent,
+                        borderRadius: BorderRadius.circular(12),
+                        border: Border.all(
+                          color: !AppStateStore.useFastGrader
+                              ? Theme.of(context).colorScheme.primary
+                              : Theme.of(context).colorScheme.outlineVariant,
+                        ),
+                      ),
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Row(
+                            children: [
+                              Icon(
+                                Icons.psychology,
+                                color: !AppStateStore.useFastGrader
+                                    ? Theme.of(context).colorScheme.primary
+                                    : Theme.of(context).colorScheme.onSurface,
+                              ),
+                              const SizedBox(width: 8),
+                              const Text(
+                                'Advanced AI (Ollama)',
+                                style: TextStyle(fontWeight: FontWeight.bold),
+                              ),
+                            ],
+                          ),
+                          const SizedBox(height: 8),
+                          const Text(
+                            'High precision grading using your local Ollama LLM. Best for small batches.',
+                            style: TextStyle(fontSize: 12),
+                          ),
+                        ],
+                      ),
+                    ),
+                  ),
+                ),
+                const SizedBox(width: 16),
+                Expanded(
+                  child: InkWell(
+                    borderRadius: BorderRadius.circular(12),
+                    onTap: () {
+                      setState(() {
+                        AppStateStore.useFastGrader = true;
+                      });
+                    },
+                    child: Container(
+                      padding: const EdgeInsets.all(16),
+                      decoration: BoxDecoration(
+                        color: AppStateStore.useFastGrader
+                            ? Theme.of(context).colorScheme.primaryContainer
+                            : Colors.transparent,
+                        borderRadius: BorderRadius.circular(12),
+                        border: Border.all(
+                          color: AppStateStore.useFastGrader
+                              ? Theme.of(context).colorScheme.primary
+                              : Theme.of(context).colorScheme.outlineVariant,
+                        ),
+                      ),
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Row(
+                            children: [
+                              Icon(
+                                Icons.bolt,
+                                color: AppStateStore.useFastGrader
+                                    ? Theme.of(context).colorScheme.primary
+                                    : Theme.of(context).colorScheme.onSurface,
+                              ),
+                              const SizedBox(width: 8),
+                              const Text(
+                                '⚡ Fast Local Grader',
+                                style: TextStyle(fontWeight: FontWeight.bold),
+                              ),
+                            ],
+                          ),
+                          const SizedBox(height: 8),
+                          const Text(
+                            'Instant grading based on keywords & density. Grades 1000+ files in seconds.',
+                            style: TextStyle(fontSize: 12),
+                          ),
+                        ],
+                      ),
+                    ),
+                  ),
+                ),
+              ],
+            ),
+          ],
+        ),
       ),
     );
   }
@@ -478,6 +585,19 @@ class _GradingReviewViewState extends State<GradingReviewView> {
   List<GradingResult> _results = [];
   bool _isGrading = false;
   String _progressMessage = '';
+  String _scoreFilter = 'All';
+
+  List<GradingResult> get _filteredResults {
+    if (_scoreFilter == 'All') return _results;
+    return _results.where((res) {
+      final score = res.score;
+      if (_scoreFilter == 'Excellent') return score >= 80;
+      if (_scoreFilter == 'Good') return score >= 65 && score < 80;
+      if (_scoreFilter == 'Average') return score >= 50 && score < 65;
+      if (_scoreFilter == 'Weak') return score < 50;
+      return true;
+    }).toList();
+  }
 
   @override
   void initState() {
@@ -500,10 +620,8 @@ class _GradingReviewViewState extends State<GradingReviewView> {
       label: 'Text',
       extensions: <String>['txt'],
     );
-    final List<XFile>? files = await openFiles(
-      acceptedTypeGroups: <XTypeGroup>[txtGroup],
-    );
-    if (files != null && files.isNotEmpty) {
+    final files = await openFiles(acceptedTypeGroups: <XTypeGroup>[txtGroup]);
+    if (files.isNotEmpty) {
       await _gradeMoreFiles(files.map((f) => f.path).toList());
     }
   }
@@ -519,13 +637,11 @@ class _GradingReviewViewState extends State<GradingReviewView> {
     }
 
     setState(() => _isGrading = true);
-    List<GradingResult> results = await GradingService.gradeAllStudents(
+    final results = await GradingService.gradeAllStudents(
       criteriaDocPath: AppStateStore.criteriaDocPath!,
       selectedFilePaths: filePaths,
       onProgress: (msg) {
-        if (mounted) {
-          setState(() => _progressMessage = msg);
-        }
+        if (mounted) setState(() => _progressMessage = msg);
       },
       onError: (err) {
         if (mounted) {
@@ -596,14 +712,15 @@ class _GradingReviewViewState extends State<GradingReviewView> {
                               },
                             );
 
-                            if (markerName == null || markerName.isEmpty)
+                            if (markerName == null || markerName.isEmpty) {
                               return;
+                            }
 
                             final path = await ExcelExportService.exportToExcel(
                               _results,
                               markerName,
                             );
-                            if (!mounted) return;
+                            if (!context.mounted) return;
                             final messenger = ScaffoldMessenger.of(context);
                             if (path != null) {
                               messenger.showSnackBar(
@@ -640,7 +757,10 @@ class _GradingReviewViewState extends State<GradingReviewView> {
               padding: EdgeInsets.symmetric(vertical: 16.0),
               child: LinearProgressIndicator(),
             ),
-          const SizedBox(height: 24),
+          const SizedBox(height: 16),
+          _buildDashboard(),
+          _buildFilterChips(),
+          const SizedBox(height: 8),
           Expanded(
             child: _results.isEmpty
                 ? Center(
@@ -682,17 +802,18 @@ class _GradingReviewViewState extends State<GradingReviewView> {
                         columns: const [
                           DataColumn(label: Text('Student')),
                           DataColumn(label: Text('Total Score')),
-                          DataColumn(label: Text('AI Feedback')),
+                          DataColumn(label: Text('Feedback')),
                           DataColumn(label: Text('Actions')),
                         ],
-                        rows: List.generate(_results.length, (index) {
-                          final res = _results[index];
+                        rows: List.generate(_filteredResults.length, (index) {
+                          final res = _filteredResults[index];
+                          final actualIndex = _results.indexOf(res);
                           return DataRow(
                             cells: [
                               DataCell(Text(res.studentFile)),
                               DataCell(
                                 Text(
-                                  res.score.toStringAsFixed(1),
+                                  '${res.score.toStringAsFixed(1)} / 100',
                                   style: const TextStyle(
                                     fontWeight: FontWeight.bold,
                                   ),
@@ -713,7 +834,7 @@ class _GradingReviewViewState extends State<GradingReviewView> {
                               DataCell(
                                 FilledButton.tonal(
                                   onPressed: () =>
-                                      _showDetailsDialog(context, index),
+                                      _showDetailsDialog(context, actualIndex),
                                   child: const Text('Review Details'),
                                 ),
                               ),
@@ -729,13 +850,321 @@ class _GradingReviewViewState extends State<GradingReviewView> {
     );
   }
 
+  Widget _buildDashboard() {
+    if (_results.isEmpty) return const SizedBox.shrink();
+
+    final total = _results.length;
+    final avg = total == 0
+        ? 0.0
+        : _results.fold<double>(0.0, (sum, r) => sum + r.score) / total;
+    final passCount = _results.where((r) => r.score >= 50).length;
+    final passRate = total == 0 ? 0.0 : (passCount / total) * 100;
+
+    return Padding(
+      padding: const EdgeInsets.only(bottom: 24.0),
+      child: Row(
+        children: [
+          Expanded(
+            child: _buildMetricCard(
+              title: 'Total Graded (Đã chấm)',
+              value: '$total học sinh',
+              subtitle: 'Student submissions processed',
+              icon: Icons.people,
+              color: Theme.of(context).colorScheme.primaryContainer,
+              onColor: Theme.of(context).colorScheme.onPrimaryContainer,
+            ),
+          ),
+          const SizedBox(width: 16),
+          Expanded(
+            child: _buildMetricCard(
+              title: 'Class Average (ĐTB Lớp)',
+              value: '${avg.toStringAsFixed(1)} / 100',
+              subtitle: 'Average points scored',
+              icon: Icons.analytics,
+              color: Theme.of(context).colorScheme.secondaryContainer,
+              onColor: Theme.of(context).colorScheme.onSecondaryContainer,
+            ),
+          ),
+          const SizedBox(width: 16),
+          Expanded(
+            child: _buildMetricCard(
+              title: 'Pass Rate (Tỷ lệ đạt)',
+              value: '${passRate.toStringAsFixed(1)}%',
+              subtitle: '$passCount / $total scored >= 50',
+              icon: Icons.check_circle_outline,
+              color: Theme.of(context).colorScheme.tertiaryContainer,
+              onColor: Theme.of(context).colorScheme.onTertiaryContainer,
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildMetricCard({
+    required String title,
+    required String value,
+    required String subtitle,
+    required IconData icon,
+    required Color color,
+    required Color onColor,
+  }) {
+    return Card(
+      elevation: 0,
+      color: color,
+      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
+      child: Padding(
+        padding: const EdgeInsets.all(16.0),
+        child: Row(
+          children: [
+            CircleAvatar(
+              backgroundColor: onColor.withAlpha((0.1 * 255).round()),
+              radius: 24,
+              child: Icon(icon, color: onColor, size: 24),
+            ),
+            const SizedBox(width: 16),
+            Expanded(
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(
+                    title,
+                    style: TextStyle(
+                      fontSize: 12,
+                      fontWeight: FontWeight.w500,
+                      color: onColor.withAlpha((0.8 * 255).round()),
+                    ),
+                  ),
+                  const SizedBox(height: 4),
+                  Text(
+                    value,
+                    style: TextStyle(
+                      fontSize: 20,
+                      fontWeight: FontWeight.bold,
+                      color: onColor,
+                    ),
+                  ),
+                  const SizedBox(height: 2),
+                  Text(
+                    subtitle,
+                    style: TextStyle(
+                      fontSize: 10,
+                      color: onColor.withAlpha((0.6 * 255).round()),
+                    ),
+                  ),
+                ],
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+
+  Widget _buildFilterChips() {
+    if (_results.isEmpty) return const SizedBox.shrink();
+
+    final counts = {
+      'All': _results.length,
+      'Excellent': _results.where((r) => r.score >= 80).length,
+      'Good': _results.where((r) => r.score >= 65 && r.score < 80).length,
+      'Average': _results.where((r) => r.score >= 50 && r.score < 65).length,
+      'Weak': _results.where((r) => r.score < 50).length,
+    };
+
+    final labels = {
+      'All': 'Tất cả',
+      'Excellent': 'Xuất sắc (>= 80)',
+      'Good': 'Khá (65-79)',
+      'Average': 'Trung bình (50-64)',
+      'Weak': 'Yếu (< 50)',
+    };
+
+    return Padding(
+      padding: const EdgeInsets.only(bottom: 8.0),
+      child: Row(
+        children: labels.keys.map((filter) {
+          final isSelected = _scoreFilter == filter;
+          final count = counts[filter] ?? 0;
+          return Padding(
+            padding: const EdgeInsets.only(right: 8.0),
+            child: ChoiceChip(
+              label: Text('${labels[filter]} ($count)'),
+              selected: isSelected,
+              onSelected: (selected) {
+                if (selected) {
+                  setState(() {
+                    _scoreFilter = filter;
+                  });
+                }
+              },
+            ),
+          );
+        }).toList(),
+      ),
+    );
+  }
+
+  void _editCriterionScore(
+    BuildContext context,
+    int resultIndex,
+    int requirementIndex,
+    int criterionIndex,
+    CriterionScore criterion,
+    VoidCallback onSaved,
+  ) {
+    final controller = TextEditingController(
+      text: criterion.scoreGiven.toString(),
+    );
+
+    showDialog(
+      context: context,
+      builder: (context) {
+        return AlertDialog(
+          title: Text('Chỉnh sửa điểm: ${criterion.criterionId}'),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text(
+                criterion.criterionName,
+                style: const TextStyle(fontWeight: FontWeight.w500),
+              ),
+              const SizedBox(height: 16),
+              TextField(
+                controller: controller,
+                keyboardType: TextInputType.number,
+                decoration: InputDecoration(
+                  labelText: 'Điểm số',
+                  hintText: 'Nhập điểm (0 - ${criterion.maxScore})',
+                  border: const OutlineInputBorder(),
+                  suffixText: '/ ${criterion.maxScore}',
+                ),
+              ),
+              const SizedBox(height: 8),
+              Text(
+                'Level hiện tại: ${criterion.levelAwarded}',
+                style: TextStyle(fontSize: 12, color: Colors.grey[600]),
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.pop(context),
+              child: const Text('Hủy'),
+            ),
+            FilledButton(
+              onPressed: () {
+                final newScore = double.tryParse(controller.text);
+                if (newScore != null &&
+                    newScore >= 0 &&
+                    newScore <= criterion.maxScore) {
+                  // Create new criterion with updated score
+                  final updatedCriterion = CriterionScore(
+                    criterionId: criterion.criterionId,
+                    criterionName: criterion.criterionName,
+                    scoreGiven: newScore,
+                    maxScore: criterion.maxScore,
+                    levelAwarded: newScore == criterion.maxScore
+                        ? 'full'
+                        : (newScore > 0 ? 'partial' : 'fail'),
+                    feedback: criterion.feedback,
+                  );
+
+                  // Create new criteria list with updated criterion
+                  final updatedCriteria = List<CriterionScore>.from(
+                    _results[resultIndex]
+                        .requirements[requirementIndex]
+                        .criteria,
+                  );
+                  updatedCriteria[criterionIndex] = updatedCriterion;
+
+                  // Calculate new subtotal
+                  final newSubtotal = updatedCriteria.fold<double>(
+                    0.0,
+                    (sum, c) => sum + c.scoreGiven,
+                  );
+
+                  // Create new requirement with updated data
+                  final req =
+                      _results[resultIndex].requirements[requirementIndex];
+                  final updatedRequirement = RequirementScore(
+                    requirementId: req.requirementId,
+                    requirementName: req.requirementName,
+                    subtotalScore: newSubtotal,
+                    maxScore: req.maxScore,
+                    commonMistakesDetected: req.commonMistakesDetected,
+                    matchedCriteria: req.matchedCriteria,
+                    missingCriteria: req.missingCriteria,
+                    criteria: updatedCriteria,
+                  );
+
+                  // Create new requirements list
+                  final updatedRequirements = List<RequirementScore>.from(
+                    _results[resultIndex].requirements,
+                  );
+                  updatedRequirements[requirementIndex] = updatedRequirement;
+
+                  // Calculate new total
+                  final newTotal = updatedRequirements.fold<double>(
+                    0.0,
+                    (sum, r) => sum + r.subtotalScore,
+                  );
+
+                  // Create new result
+                  final result = _results[resultIndex];
+                  final updatedResult = GradingResult(
+                    studentFile: result.studentFile,
+                    submissionContent: result.submissionContent,
+                    requirements: updatedRequirements,
+                    totalScore: newTotal,
+                    feedback: result.feedback,
+                    fullResponse: result.fullResponse,
+                  );
+
+                  // Update parent view state and store
+                  setState(() {
+                    _results[resultIndex] = updatedResult;
+                  });
+
+                  // Update GradingStore to persist changes
+                  GradingStore.mergeResults([updatedResult]);
+
+                  // Update global store immediately
+                  GradingStore.mergeResults([updatedResult]);
+
+                  // Trigger dialog rebuild
+                  onSaved();
+
+                  Navigator.pop(context);
+                  ScaffoldMessenger.of(context).showSnackBar(
+                    const SnackBar(content: Text('Đã cập nhật điểm')),
+                  );
+                } else {
+                  ScaffoldMessenger.of(context).showSnackBar(
+                    SnackBar(
+                      content: Text(
+                        'Điểm không hợp lệ (0-${criterion.maxScore})',
+                      ),
+                    ),
+                  );
+                }
+              },
+              child: const Text('Lưu'),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
   void _showDetailsDialog(BuildContext context, int index) {
-    final res = _results[index];
     showDialog(
       context: context,
       builder: (context) {
         return StatefulBuilder(
-          builder: (context, setDialogState) {
+          builder: (context, setStateDialog) {
+            final res = _results[index];
             return AlertDialog(
               title: Text('Grading Details: ${res.studentFile}'),
               content: SizedBox(
@@ -785,86 +1214,255 @@ class _GradingReviewViewState extends State<GradingReviewView> {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
                           Text(
-                            'AI Grading Details',
+                            'Rubric Scoring Details',
                             style: Theme.of(context).textTheme.titleLarge,
                           ),
                           const SizedBox(height: 8),
                           Expanded(
-                            child: res.questions.isEmpty
+                            child: res.requirements.isEmpty
                                 ? const Center(
                                     child: Text('No detailed questions found.'),
                                   )
                                 : ListView.builder(
-                                    itemCount: res.questions.length,
+                                    itemCount: res.requirements.length,
                                     itemBuilder: (context, qIndex) {
-                                      final q = res.questions[qIndex];
+                                      final q = res.requirements[qIndex];
+
+                                      // DEBUG: Print requirement info
+                                      debugPrint(
+                                        '=== UI DEBUG: Requirement $qIndex ===',
+                                      );
+                                      debugPrint('ID: ${q.requirementId}');
+                                      debugPrint('Name: ${q.requirementName}');
+                                      debugPrint(
+                                        'Criteria count: ${q.criteria.length}',
+                                      );
+                                      if (q.criteria.isNotEmpty) {
+                                        for (var c in q.criteria) {
+                                          debugPrint(
+                                            '  - ${c.criterionId}: ${c.criterionName} (${c.scoreGiven}/${c.maxScore})',
+                                          );
+                                        }
+                                      }
+
                                       return Card(
                                         margin: const EdgeInsets.only(
-                                          bottom: 16,
+                                          bottom: 12,
                                         ),
-                                        child: Padding(
-                                          padding: const EdgeInsets.all(16.0),
-                                          child: Column(
-                                            crossAxisAlignment:
-                                                CrossAxisAlignment.start,
-                                            children: [
-                                              Row(
-                                                mainAxisAlignment:
-                                                    MainAxisAlignment
-                                                        .spaceBetween,
-                                                children: [
-                                                  Text(
-                                                    'Question ${q.questionNumber}',
-                                                    style: Theme.of(context)
-                                                        .textTheme
-                                                        .titleMedium
-                                                        ?.copyWith(
+                                        child: ExpansionTile(
+                                          initiallyExpanded: true,
+                                          tilePadding:
+                                              const EdgeInsets.symmetric(
+                                                horizontal: 16,
+                                                vertical: 8,
+                                              ),
+                                          childrenPadding:
+                                              const EdgeInsets.fromLTRB(
+                                                16,
+                                                0,
+                                                16,
+                                                16,
+                                              ),
+                                          title: Text(
+                                            '${q.requirementId} - ${q.requirementName}',
+                                            style: Theme.of(context)
+                                                .textTheme
+                                                .titleMedium
+                                                ?.copyWith(
+                                                  fontWeight: FontWeight.bold,
+                                                ),
+                                          ),
+                                          trailing: Container(
+                                            padding: const EdgeInsets.symmetric(
+                                              horizontal: 12,
+                                              vertical: 6,
+                                            ),
+                                            decoration: BoxDecoration(
+                                              color: Theme.of(
+                                                context,
+                                              ).colorScheme.primaryContainer,
+                                              borderRadius:
+                                                  BorderRadius.circular(12),
+                                            ),
+                                            child: Text(
+                                              '${q.subtotalScore.toStringAsFixed(1)} / ${q.maxScore.toStringAsFixed(1)}',
+                                              style: TextStyle(
+                                                fontWeight: FontWeight.bold,
+                                                color: Theme.of(context)
+                                                    .colorScheme
+                                                    .onPrimaryContainer,
+                                              ),
+                                            ),
+                                          ),
+                                          children: [
+                                            // Danh sách criteria chi tiết
+                                            if (q.criteria.isNotEmpty) ...[
+                                              const SizedBox(height: 8),
+                                              ...q.criteria.map((item) {
+                                                final isPass =
+                                                    item.scoreGiven > 0;
+                                                final statusColor = isPass
+                                                    ? Theme.of(
+                                                        context,
+                                                      ).colorScheme.primary
+                                                    : Theme.of(
+                                                        context,
+                                                      ).colorScheme.error;
+                                                final statusIcon = isPass
+                                                    ? '✓'
+                                                    : '✗';
+
+                                                return Padding(
+                                                  padding:
+                                                      const EdgeInsets.only(
+                                                        bottom: 8,
+                                                        left: 8,
+                                                        right: 8,
+                                                      ),
+                                                  child: Row(
+                                                    crossAxisAlignment:
+                                                        CrossAxisAlignment
+                                                            .start,
+                                                    children: [
+                                                      Text(
+                                                        statusIcon,
+                                                        style: TextStyle(
+                                                          color: statusColor,
+                                                          fontWeight:
+                                                              FontWeight.bold,
+                                                          fontSize: 16,
+                                                        ),
+                                                      ),
+                                                      const SizedBox(width: 12),
+                                                      Expanded(
+                                                        child: RichText(
+                                                          text: TextSpan(
+                                                            style:
+                                                                DefaultTextStyle.of(
+                                                                  context,
+                                                                ).style,
+                                                            children: [
+                                                              TextSpan(
+                                                                text:
+                                                                    '${item.criterionId}: ',
+                                                                style: const TextStyle(
+                                                                  fontWeight:
+                                                                      FontWeight
+                                                                          .bold,
+                                                                  fontSize: 14,
+                                                                ),
+                                                              ),
+                                                              TextSpan(
+                                                                text: item
+                                                                    .criterionName,
+                                                                style:
+                                                                    const TextStyle(
+                                                                      fontSize:
+                                                                          14,
+                                                                    ),
+                                                              ),
+                                                            ],
+                                                          ),
+                                                        ),
+                                                      ),
+                                                      const SizedBox(width: 12),
+                                                      Text(
+                                                        '${item.scoreGiven.toStringAsFixed(1)}/${item.maxScore.toStringAsFixed(1)}',
+                                                        style: TextStyle(
+                                                          color: statusColor,
+                                                          fontSize: 14,
                                                           fontWeight:
                                                               FontWeight.bold,
                                                         ),
+                                                      ),
+                                                      const SizedBox(width: 8),
+                                                      IconButton(
+                                                        icon: const Icon(
+                                                          Icons.edit,
+                                                          size: 16,
+                                                        ),
+                                                        padding:
+                                                            EdgeInsets.zero,
+                                                        constraints:
+                                                            const BoxConstraints(),
+                                                        onPressed: () =>
+                                                            _editCriterionScore(
+                                                              context,
+                                                              index,
+                                                              qIndex,
+                                                              q.criteria
+                                                                  .indexOf(
+                                                                    item,
+                                                                  ),
+                                                              item,
+                                                              () {
+                                                                setStateDialog(
+                                                                  () {},
+                                                                );
+                                                              },
+                                                            ),
+                                                        tooltip:
+                                                            'Chỉnh sửa điểm',
+                                                      ),
+                                                    ],
                                                   ),
-                                                  SizedBox(
-                                                    width: 100,
-                                                    child: TextFormField(
-                                                      initialValue: q.score
-                                                          .toStringAsFixed(1),
-                                                      keyboardType:
-                                                          TextInputType.number,
-                                                      decoration:
-                                                          const InputDecoration(
-                                                            labelText: 'Score',
-                                                            isDense: true,
-                                                            border:
-                                                                OutlineInputBorder(),
-                                                          ),
-                                                      onChanged: (val) {
-                                                        final newScore =
-                                                            double.tryParse(
-                                                              val,
-                                                            );
-                                                        if (newScore != null) {
-                                                          q.score = newScore;
-                                                          setState(() {});
-                                                          setDialogState(() {});
-                                                        }
-                                                      },
-                                                    ),
+                                                );
+                                              }),
+                                            ] else ...[
+                                              const Padding(
+                                                padding: EdgeInsets.all(16.0),
+                                                child: Text(
+                                                  'No criteria details available',
+                                                  style: TextStyle(
+                                                    fontStyle: FontStyle.italic,
+                                                    color: Colors.grey,
                                                   ),
-                                                ],
+                                                ),
                                               ),
+                                            ],
+                                            // Common mistakes nếu có
+                                            if (q
+                                                .commonMistakesDetected
+                                                .isNotEmpty) ...[
+                                              const Divider(),
                                               const SizedBox(height: 8),
-                                              Text(
-                                                'Mistake: ${q.mistake}',
-                                                style: TextStyle(
-                                                  color: Theme.of(
-                                                    context,
-                                                  ).colorScheme.error,
+                                              Padding(
+                                                padding:
+                                                    const EdgeInsets.symmetric(
+                                                      horizontal: 8.0,
+                                                    ),
+                                                child: Row(
+                                                  crossAxisAlignment:
+                                                      CrossAxisAlignment.start,
+                                                  children: [
+                                                    Icon(
+                                                      Icons
+                                                          .warning_amber_rounded,
+                                                      size: 18,
+                                                      color: Theme.of(
+                                                        context,
+                                                      ).colorScheme.error,
+                                                    ),
+                                                    const SizedBox(width: 8),
+                                                    Expanded(
+                                                      child: Text(
+                                                        'Common mistakes: ${q.commonMistakesDetected.join(', ')}',
+                                                        style: TextStyle(
+                                                          color: Theme.of(
+                                                            context,
+                                                          ).colorScheme.error,
+                                                          fontStyle:
+                                                              FontStyle.italic,
+                                                          fontSize: 13,
+                                                        ),
+                                                      ),
+                                                    ),
+                                                  ],
                                                 ),
                                               ),
                                               const SizedBox(height: 8),
-                                              Text('Feedback: ${q.feedback}'),
                                             ],
-                                          ),
+                                          ],
                                         ),
                                       );
                                     },
@@ -878,7 +1476,10 @@ class _GradingReviewViewState extends State<GradingReviewView> {
               ),
               actions: [
                 TextButton(
-                  onPressed: () => Navigator.of(context).pop(),
+                  onPressed: () {
+                    GradingStore.mergeResults(_results);
+                    Navigator.of(context).pop();
+                  },
                   child: const Text('Done'),
                 ),
               ],
@@ -915,14 +1516,14 @@ class SettingsView extends StatelessWidget {
             const SizedBox(height: 16),
             _buildSettingsCard(
               title: 'Model',
-              value: 'qwen2.5:1.5b',
+              value: 'Rubric JSON Parser',
               icon: Icons.model_training,
               context: context,
             ),
             const SizedBox(height: 16),
             _buildSettingsCard(
               title: 'Status',
-              value: 'Ready to connect',
+              value: 'Ready to grade',
               icon: Icons.cloud_done,
               context: context,
             ),
@@ -936,9 +1537,9 @@ class SettingsView extends StatelessWidget {
                 borderRadius: BorderRadius.circular(8),
               ),
               child: Text(
-                '1. Make sure Ollama is running: ollama serve\n'
-                '2. Pull Qwen model: ollama pull qwen2.5:1.5b\n'
-                '3. Verify at: http://localhost:11434/api/tags\n'
+                '1. Rubric can be .json or .docx\n'
+                '2. Student submissions must be .txt\n'
+                '3. Exported Excel includes both /100 and /10 scores\n'
                 '4. Return to Setup and start grading!',
                 style: Theme.of(context).textTheme.bodyMedium,
               ),

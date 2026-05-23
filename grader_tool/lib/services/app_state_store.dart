@@ -5,4 +5,5 @@ class AppStateStore {
   static String? criteriaDocPath;
   static String? excelTemplatePath;
   static List<XFile>? selectedTxtFiles;
+  static bool useFastGrader = false;
 }

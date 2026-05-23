@@ -1,4 +1,5 @@
 import 'dart:io';
+
 import 'package:excel/excel.dart';
 import 'package:file_selector/file_selector.dart';
 import 'package:grader_tool/models/grading_result.dart';
@@ -9,83 +10,75 @@ class ExcelExportService {
     String markerName,
   ) async {
     try {
-      var excel = Excel.createExcel();
-      Sheet sheetObject = excel['Sheet1'];
+      final excel = Excel.createExcel();
+      final sheetObject = excel['Sheet1'];
 
-      // Determine max questions to create columns dynamically
-      int maxQuestions = 0;
-      for (var res in results) {
-        if (res.questions.length > maxQuestions) {
-          maxQuestions = res.questions.length;
+      var maxRequirements = 0;
+      for (final res in results) {
+        if (res.requirements.length > maxRequirements) {
+          maxRequirements = res.requirements.length;
         }
       }
 
-      // Create Header Row 1
-      List<CellValue> header1 = [
-        TextCellValue('Alias'),
-        TextCellValue('Marker'),
-      ];
-      for (int i = 1; i <= maxQuestions; i++) {
-        header1.add(TextCellValue('Question $i'));
+      final List<CellValue> header1 = [];
+      header1.add(TextCellValue('Alias'));
+      header1.add(TextCellValue('Marker'));
+      for (var i = 1; i <= maxRequirements; i++) {
+        header1.add(TextCellValue('Requirement $i (/100)'));
       }
-      header1.add(TextCellValue('Total'));
+      header1.add(TextCellValue('Total (/100)'));
+      header1.add(TextCellValue('Total (/10)'));
       header1.add(TextCellValue('Comment'));
       sheetObject.appendRow(header1);
 
-      // Create Header Row 2 (Empty for max scores)
-      List<CellValue> header2 = [TextCellValue(''), TextCellValue('')];
-      for (int i = 1; i <= maxQuestions; i++) {
+      final List<CellValue> header2 = [];
+      header2.add(TextCellValue(''));
+      header2.add(TextCellValue(''));
+      for (var i = 1; i <= maxRequirements; i++) {
         header2.add(TextCellValue(''));
       }
       header2.add(TextCellValue(''));
       header2.add(TextCellValue(''));
+      header2.add(TextCellValue(''));
       sheetObject.appendRow(header2);
 
-      // Add Data Rows
-      for (var res in results) {
-        // Use filename without extension as Alias
-        String alias = res.studentFile.replaceAll(RegExp(r'\.txt$'), '');
+      for (final res in results) {
+        final alias = res.studentFile.replaceAll(RegExp(r'\.txt$'), '');
+        final row = <CellValue>[TextCellValue(alias), TextCellValue(markerName)];
 
-        List<CellValue> row = [TextCellValue(alias), TextCellValue(markerName)];
-
-        for (int i = 0; i < maxQuestions; i++) {
-          if (i < res.questions.length) {
-            row.add(DoubleCellValue(res.questions[i].score));
+        for (var i = 0; i < maxRequirements; i++) {
+          if (i < res.requirements.length) {
+            row.add(DoubleCellValue(res.requirements[i].subtotalScore));
           } else {
             row.add(TextCellValue(''));
           }
         }
 
         row.add(DoubleCellValue(res.score));
+        row.add(DoubleCellValue((res.score / 10).clamp(0, 10).toDouble()));
 
-        // Combine feedbacks for the Comment column
-        String combinedComment = res.questions
-            .map((q) => "Q${q.questionNumber}: ${q.feedback}")
-            .join("\n");
+        final combinedComment = res.requirements
+            .map((r) => '${r.requirementId}: ${r.requirementName} => ${r.subtotalScore.toStringAsFixed(1)}/${r.maxScore.toStringAsFixed(1)}')
+            .join('\n');
         row.add(TextCellValue(combinedComment));
 
         sheetObject.appendRow(row);
       }
 
-      final suggestedName =
-          'Grading_Results_${DateTime.now().millisecondsSinceEpoch}.xlsx';
+      final suggestedName = 'Grading_Results_${DateTime.now().millisecondsSinceEpoch}.xlsx';
       final location = await getSaveLocation(
         suggestedName: suggestedName,
         confirmButtonText: 'Save Excel',
       );
-      if (location == null) {
-        return null;
-      }
-      final savePath = location.path;
+      if (location == null) return null;
 
       final bytes = excel.save();
-      if (bytes != null) {
-        final file = File(savePath);
-        await file.writeAsBytes(bytes);
-        return savePath;
-      }
-      return null;
-    } catch (e) {
+      if (bytes == null) return null;
+
+      final file = File(location.path);
+      await file.writeAsBytes(bytes);
+      return location.path;
+    } catch (_) {
       return null;
     }
   }
