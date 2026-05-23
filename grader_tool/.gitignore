@@ -5,11 +5,9 @@
 *.swp
 .DS_Store
 .atom/
-.build/
 .buildlog/
 .history
 .svn/
-.swiftpm/
 migrate_working_dir/
 
 # IntelliJ related
@@ -27,11 +25,12 @@ migrate_working_dir/
 **/doc/api/
 **/ios/Flutter/.last_build_id
 .dart_tool/
+.flutter-plugins
 .flutter-plugins-dependencies
+.packages
 .pub-cache/
 .pub/
 /build/
-/coverage/
 
 # Symbolication related
 app.*.symbols
@@ -43,3 +42,34 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# JSON files - không push lên git
+*.json
+
+# Nhưng giữ lại các file config quan trọng
+!pubspec.lock
+!analysis_options.json
+!.vscode/*.json
+
+# Result folder - chứa kết quả chấm điểm
+result/
+
+# Cache files
+.grading_cache.json
+*.cache
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+.directory
+.Trash-*
