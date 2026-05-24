@@ -49,7 +49,9 @@ class _SavedResultsViewState extends State<SavedResultsView> {
       builder: (context) => AlertDialog(
         title: const Text('Xác nhận xóa'),
         content: Text(
-          'Bạn có chắc muốn xóa tất cả file kết quả cũ hơn $_daysToDelete ngày?',
+          _daysToDelete == 0
+              ? 'Bạn có chắc muốn xóa toàn bộ file kết quả đã lưu?'
+              : 'Bạn có chắc muốn xóa tất cả file kết quả cũ hơn $_daysToDelete ngày?',
         ),
         actions: [
           TextButton(
@@ -73,7 +75,13 @@ class _SavedResultsViewState extends State<SavedResultsView> {
 
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(content: Text('✅ Đã xóa $deletedCount file cũ')),
+          SnackBar(
+            content: Text(
+              _daysToDelete == 0
+                  ? '✅ Đã xóa toàn bộ file kết quả'
+                  : '✅ Đã xóa $deletedCount file cũ',
+            ),
+          ),
         );
       }
     }
@@ -555,6 +563,7 @@ class _SavedResultsViewState extends State<SavedResultsView> {
                 border: OutlineInputBorder(),
               ),
               items: const [
+                DropdownMenuItem(value: 0, child: Text('Xóa tất cả (bao gồm hôm nay)')),
                 DropdownMenuItem(value: 7, child: Text('7 ngày')),
                 DropdownMenuItem(value: 14, child: Text('14 ngày')),
                 DropdownMenuItem(value: 30, child: Text('30 ngày')),

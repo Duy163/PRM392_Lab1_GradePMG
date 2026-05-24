@@ -626,6 +626,41 @@ class _GradingReviewViewState extends State<GradingReviewView> {
     }
   }
 
+  Future<void> _pickMoreFolder() async {
+    final String? directoryPath = await getDirectoryPath(
+      confirmButtonText: 'Select Folder',
+    );
+    if (directoryPath != null) {
+      if (AppStateStore.criteriaDocPath == null) {
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            const SnackBar(content: Text('❌ Grading criteria path not found')),
+          );
+        }
+        return;
+      }
+
+      setState(() => _isGrading = true);
+      final results = await GradingService.gradeAllStudents(
+        criteriaDocPath: AppStateStore.criteriaDocPath!,
+        solutionsFolderPath: directoryPath,
+        onProgress: (msg) {
+          if (mounted) setState(() => _progressMessage = msg);
+        },
+        onError: (err) {
+          if (mounted) {
+            ScaffoldMessenger.of(context).showSnackBar(
+              SnackBar(content: Text(err), duration: const Duration(seconds: 2)),
+            );
+          }
+        },
+      );
+      setState(() => _isGrading = false);
+
+      GradingStore.mergeResults(results);
+    }
+  }
+
   Future<void> _gradeMoreFiles(List<String> filePaths) async {
     if (AppStateStore.criteriaDocPath == null) {
       if (mounted) {
@@ -676,6 +711,12 @@ class _GradingReviewViewState extends State<GradingReviewView> {
                     onPressed: _isGrading ? null : _pickMoreTxtFiles,
                     icon: const Icon(Icons.add),
                     label: const Text('Add More Submissions'),
+                  ),
+                  const SizedBox(width: 8),
+                  FilledButton.tonalIcon(
+                    onPressed: _isGrading ? null : _pickMoreFolder,
+                    icon: const Icon(Icons.create_new_folder),
+                    label: const Text('Add Folder'),
                   ),
                   const SizedBox(width: 16),
                   FilledButton.tonalIcon(

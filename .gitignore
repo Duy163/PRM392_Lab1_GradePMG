@@ -1,0 +1,13 @@
+# Grading cache file
+.grading_cache.json
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
