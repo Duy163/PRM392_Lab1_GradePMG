@@ -376,6 +376,26 @@ class GradingService {
         };
       }
 
+      Map<String, dynamic> buildCriterion({
+        required String cid,
+        required String cname,
+        required double points,
+        String? fullDesc,
+        String? partialDesc,
+        String? failDesc,
+      }) {
+        return {
+          'id': cid,
+          'name': '$cid ${cname.isEmpty ? cid : cname}',
+          'max_points': points,
+          'levels': buildLevels(
+            fullDesc: fullDesc,
+            partialDesc: partialDesc,
+            failDesc: failDesc,
+          ),
+        };
+      }
+
       // Parse criteria from the first part of the section (before Rubric table)
       int criteriaEndIndex = lines.length;
       if (rubricStartIndex != -1) {
@@ -414,25 +434,11 @@ class GradingService {
             }
           }
 
-          final criterion = {
-            'id': cid,
-            'name': '$cid $cname',
-            'max_points': points,
-            'levels': {
-              'full': {
-                'score_range': '100%',
-                'description': 'Đạt đầy đủ yêu cầu',
-              },
-              'partial': {
-                'score_range': '50-70%',
-                'description': 'Đạt một phần yêu cầu',
-              },
-              'fail': {
-                'score_range': '<50%',
-                'description': 'Chưa đạt yêu cầu',
-              },
-            },
-          };
+          final criterion = buildCriterion(
+            cid: cid,
+            cname: cname,
+            points: points,
+          );
           criteriaList.add(criterion);
           criteriaMap[cid] = criterion;
         }
@@ -516,16 +522,14 @@ class GradingService {
                 failDesc: failDesc,
               );
             } else {
-              final criterion = {
-                'id': cid,
-                'name': '$cid ${cname.isEmpty ? cid : cname}',
-                'max_points': points,
-                'levels': buildLevels(
-                  fullDesc: fullDesc,
-                  partialDesc: partialDesc,
-                  failDesc: failDesc,
-                ),
-              };
+              final criterion = buildCriterion(
+                cid: cid,
+                cname: cname,
+                points: points,
+                fullDesc: fullDesc,
+                partialDesc: partialDesc,
+                failDesc: failDesc,
+              );
               criteriaList.add(criterion);
               criteriaMap[cid] = criterion;
             }

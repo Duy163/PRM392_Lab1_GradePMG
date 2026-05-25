@@ -50,19 +50,6 @@ class MainScreen extends StatefulWidget {
 
 class _MainScreenState extends State<MainScreen> {
   int _selectedIndex = 0;
-  late PageController _pageController;
-
-  @override
-  void initState() {
-    super.initState();
-    _pageController = PageController(initialPage: 0);
-  }
-
-  @override
-  void dispose() {
-    _pageController.dispose();
-    super.dispose();
-  }
 
   @override
   Widget build(BuildContext context) {
@@ -82,11 +69,6 @@ class _MainScreenState extends State<MainScreen> {
             selectedIndex: _selectedIndex,
             onDestinationSelected: (int index) {
               setState(() => _selectedIndex = index);
-              _pageController.animateToPage(
-                index,
-                duration: const Duration(milliseconds: 300),
-                curve: Curves.easeInOut,
-              );
             },
             labelType: NavigationRailLabelType.all,
             destinations: const [
@@ -109,19 +91,12 @@ class _MainScreenState extends State<MainScreen> {
           ),
           const VerticalDivider(thickness: 1, width: 1),
           Expanded(
-            child: PageView(
-              controller: _pageController,
-              onPageChanged: (int index) {
-                setState(() => _selectedIndex = index);
-              },
+            child: IndexedStack(
+              index: _selectedIndex,
               children: [
                 SetupFilesView(
                   onNavigateToGrading: () {
-                    _pageController.animateToPage(
-                      1,
-                      duration: const Duration(milliseconds: 300),
-                      curve: Curves.easeInOut,
-                    );
+                    setState(() => _selectedIndex = 1);
                   },
                 ),
                 const GradingReviewView(),
