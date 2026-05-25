@@ -1,6 +1,24 @@
-#include <flutter/dart_project.h>
-#include <flutter/flutter_view_controller.h>
-#include <windows.h>
+#if defined(__has_include)
+#  if __has_include(<flutter/dart_project.h>)
+#    include <flutter/dart_project.h>
+#  else
+#    include "analysis_stubs/flutter/dart_project.h"
+#  endif
+#  if __has_include(<flutter/flutter_view_controller.h>)
+#    include <flutter/flutter_view_controller.h>
+#  else
+#    include "analysis_stubs/flutter/flutter_view_controller.h"
+#  endif
+#  if __has_include(<windows.h>)
+#    include <windows.h>
+#  else
+#    include "analysis_stubs/windows.h"
+#  endif
+#else
+#  include <flutter/dart_project.h>
+#  include <flutter/flutter_view_controller.h>
+#  include <windows.h>
+#endif
 
 #include "flutter_window.h"
 #include "utils.h"
