@@ -355,6 +355,27 @@ class GradingService {
       final criteriaList = <Map<String, dynamic>>[];
       final criteriaMap = <String, Map<String, dynamic>>{};
 
+      Map<String, dynamic> buildLevels({
+        String? fullDesc,
+        String? partialDesc,
+        String? failDesc,
+      }) {
+        return {
+          'full': {
+            'score_range': '100%',
+            'description': fullDesc ?? 'Đạt đầy đủ yêu cầu',
+          },
+          'partial': {
+            'score_range': '50-70%',
+            'description': partialDesc ?? 'Đạt một phần yêu cầu',
+          },
+          'fail': {
+            'score_range': '<50%',
+            'description': failDesc ?? 'Chưa đạt yêu cầu',
+          },
+        };
+      }
+
       // Parse criteria from the first part of the section (before Rubric table)
       int criteriaEndIndex = lines.length;
       if (rubricStartIndex != -1) {
@@ -489,39 +510,21 @@ class GradingService {
               if (points > 0) {
                 existing['max_points'] = points;
               }
-              existing['levels'] = {
-                'full': {
-                  'score_range': '100%',
-                  'description': fullDesc ?? 'Đạt đầy đủ yêu cầu',
-                },
-                'partial': {
-                  'score_range': '50-70%',
-                  'description': partialDesc ?? 'Đạt một phần yêu cầu',
-                },
-                'fail': {
-                  'score_range': '<50%',
-                  'description': failDesc ?? 'Chưa đạt yêu cầu',
-                },
-              };
+              existing['levels'] = buildLevels(
+                fullDesc: fullDesc,
+                partialDesc: partialDesc,
+                failDesc: failDesc,
+              );
             } else {
               final criterion = {
                 'id': cid,
                 'name': '$cid ${cname.isEmpty ? cid : cname}',
                 'max_points': points,
-                'levels': {
-                  'full': {
-                    'score_range': '100%',
-                    'description': fullDesc ?? 'Đạt đầy đủ yêu cầu',
-                  },
-                  'partial': {
-                    'score_range': '50-70%',
-                    'description': partialDesc ?? 'Đạt một phần yêu cầu',
-                  },
-                  'fail': {
-                    'score_range': '<50%',
-                    'description': failDesc ?? 'Chưa đạt yêu cầu',
-                  },
-                },
+                'levels': buildLevels(
+                  fullDesc: fullDesc,
+                  partialDesc: partialDesc,
+                  failDesc: failDesc,
+                ),
               };
               criteriaList.add(criterion);
               criteriaMap[cid] = criterion;
