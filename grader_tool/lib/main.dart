@@ -15,25 +15,86 @@ void main() {
 class GraderApp extends StatelessWidget {
   const GraderApp({super.key});
 
+  ThemeData _buildTheme(Brightness brightness) {
+    final isDark = brightness == Brightness.dark;
+    final base = ThemeData(
+      useMaterial3: true,
+      brightness: brightness,
+      colorSchemeSeed: const Color(0xFF6366F1),
+      fontFamily: 'DM Sans',
+    );
+
+    return base.copyWith(
+      scaffoldBackgroundColor: isDark ? const Color(0xFF0F1115) : const Color(0xFFFAFAFA),
+      appBarTheme: AppBarTheme(
+        backgroundColor: Colors.transparent,
+        surfaceTintColor: Colors.transparent,
+        elevation: 0,
+        centerTitle: false,
+        titleTextStyle: TextStyle(
+          fontFamily: 'DM Sans',
+          fontSize: 24,
+          fontWeight: FontWeight.w700,
+          color: isDark ? const Color(0xFFF5F5F7) : const Color(0xFF0A0A0A),
+        ),
+      ),
+      navigationRailTheme: NavigationRailThemeData(
+        backgroundColor: Colors.transparent,
+        selectedIconTheme: IconThemeData(
+          color: isDark ? const Color(0xFFF5F5F7) : const Color(0xFF6366F1),
+        ),
+        selectedLabelTextStyle: TextStyle(
+          color: isDark ? const Color(0xFFF5F5F7) : const Color(0xFF6366F1),
+          fontWeight: FontWeight.w600,
+        ),
+        unselectedIconTheme: IconThemeData(
+          color: isDark ? const Color(0xFF9C9C9C) : const Color(0xFF6B6B6B),
+        ),
+        unselectedLabelTextStyle: TextStyle(
+          color: isDark ? const Color(0xFF9C9C9C) : const Color(0xFF6B6B6B),
+        ),
+      ),
+      cardTheme: CardThemeData(
+        color: isDark ? const Color(0xFF151922) : Colors.white,
+        elevation: 0,
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(12),
+          side: BorderSide(
+            color: isDark ? const Color(0xFF2A2F3A) : const Color(0xFFE8E8EC),
+          ),
+        ),
+      ),
+      filledButtonTheme: FilledButtonThemeData(
+        style: FilledButton.styleFrom(
+          minimumSize: const Size(0, 44),
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(6)),
+          textStyle: const TextStyle(fontWeight: FontWeight.w600),
+        ),
+      ),
+      inputDecorationTheme: InputDecorationTheme(
+        border: OutlineInputBorder(borderRadius: BorderRadius.circular(6)),
+        enabledBorder: OutlineInputBorder(
+          borderRadius: BorderRadius.circular(6),
+          borderSide: BorderSide(color: isDark ? const Color(0xFF2A2F3A) : const Color(0xFFE8E8EC)),
+        ),
+        focusedBorder: OutlineInputBorder(
+          borderRadius: BorderRadius.circular(6),
+          borderSide: const BorderSide(color: Color(0xFF6366F1), width: 1.5),
+        ),
+        filled: true,
+        fillColor: isDark ? const Color(0xFF151922) : Colors.white,
+      ),
+      dividerTheme: DividerThemeData(color: isDark ? const Color(0xFF2A2F3A) : const Color(0xFFE8E8EC)),
+    );
+  }
+
   // ignore: member-ordering
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'AI Desktop Grader',
-      theme: ThemeData(
-        useMaterial3: true,
-        colorScheme: ColorScheme.fromSeed(
-          seedColor: const Color(0xFF6750A4),
-          brightness: Brightness.light,
-        ),
-      ),
-      darkTheme: ThemeData(
-        useMaterial3: true,
-        colorScheme: ColorScheme.fromSeed(
-          seedColor: const Color(0xFF6750A4),
-          brightness: Brightness.dark,
-        ),
-      ),
+      theme: _buildTheme(Brightness.light),
+      darkTheme: _buildTheme(Brightness.dark),
       themeMode: ThemeMode.system,
       home: const MainScreen(),
       debugShowCheckedModeBanner: false,
