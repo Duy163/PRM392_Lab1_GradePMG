@@ -6,6 +6,12 @@
 #  error "This stub requires a C++ compiler"
 #endif
 
+// cppcheck-suppress missingIncludeSystem
+// cppcheck-suppress missingIncludeSystem
+#include <cstdint>
+// cppcheck-suppress missingIncludeSystem
+#include <cstddef>
+
 using DWORD = unsigned long;
 using BOOL = int;
 using HINSTANCE = void*;

@@ -2,7 +2,9 @@
 #ifndef ANALYSIS_STUBS_FLUTTER_DART_PROJECT_H
 #define ANALYSIS_STUBS_FLUTTER_DART_PROJECT_H
 
+// cppcheck-suppress missingIncludeSystem
 #include <string>
+// cppcheck-suppress missingIncludeSystem
 #include <vector>
 
 namespace flutter {
