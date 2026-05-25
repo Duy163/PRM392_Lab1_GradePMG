@@ -14,18 +14,27 @@
         <dir name="windows/runner" />
     </includedir>
     
-    <!-- Suppress false positives -->
+    <!-- Suppress all warnings for Flutter-generated code -->
     <suppressions>
         <suppression>missingIncludeSystem</suppression>
+        <suppression>missingInclude</suppression>
         <suppression>unmatchedSuppression</suppression>
+        <suppression>*:windows/runner/*</suppression>
+        <suppression>*:windows/flutter/*</suppression>
+        <suppression>*:macos/*</suppression>
+        <suppression>*:linux/*</suppression>
+        <suppression>*:ios/*</suppression>
+        <suppression>*:android/*</suppression>
     </suppressions>
     
     <!-- Exclude generated and third-party code -->
     <exclude>
         <path name="build/" />
         <path name=".dart_tool/" />
-        <path name="windows/flutter/ephemeral/" />
-        <path name="macos/Flutter/" />
-        <path name="linux/flutter/" />
+        <path name="windows/" />
+        <path name="macos/" />
+        <path name="linux/" />
+        <path name="ios/" />
+        <path name="android/" />
     </exclude>
 </project>

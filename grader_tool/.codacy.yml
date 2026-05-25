@@ -5,11 +5,11 @@
 exclude_paths:
   - 'build/**'
   - '.dart_tool/**'
-  - 'windows/flutter/**'
-  - 'macos/Flutter/**'
-  - 'linux/flutter/**'
-  - 'ios/Flutter/**'
-  - 'android/.gradle/**'
+  - 'windows/**'
+  - 'macos/**'
+  - 'linux/**'
+  - 'ios/**'
+  - 'android/**'
   - '**.g.dart'
   - '**.freezed.dart'
   - '**.mocks.dart'
@@ -21,17 +21,15 @@ engines:
   dartanalyzer:
     enabled: true
     
-  # Disable C++ analysis for Flutter-generated files
+  # Completely disable C++ analysis (Flutter runner code is auto-generated)
   cppcheck:
-    enabled: true
+    enabled: false
     exclude_paths:
-      - 'windows/flutter/**'
-      - 'macos/Flutter/**'
-      - 'linux/flutter/**'
-      - 'windows/runner/flutter_window.cpp'
-      - 'windows/runner/win32_window.cpp'
-      - 'windows/runner/utils.cpp'
-      - 'windows/runner/main.cpp'
+      - 'windows/**'
+      - 'macos/**'
+      - 'linux/**'
+      - 'ios/**'
+      - 'android/**'
     
   # Code duplication detection
   duplication:
@@ -39,6 +37,11 @@ engines:
     exclude_paths:
       - 'test/**'
       - '**.g.dart'
+      - 'windows/**'
+      - 'macos/**'
+      - 'linux/**'
+      - 'ios/**'
+      - 'android/**'
     config:
       languages:
         - dart
@@ -59,3 +62,8 @@ ignore:
   - '*.freezed.dart'
   - '*.mocks.dart'
   - 'pubspec.lock'
+  - 'windows/**'
+  - 'macos/**'
+  - 'linux/**'
+  - 'ios/**'
+  - 'android/**'

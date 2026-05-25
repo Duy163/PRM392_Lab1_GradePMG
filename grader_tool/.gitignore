@@ -51,6 +51,9 @@ app.*.map.json
 !analysis_options.json
 !.vscode/*.json
 !.codacy.yml
+!.codacy.yaml
+!.codacyignore
+!.cppcheck
 
 # Result folder - chứa kết quả chấm điểm
 result/
