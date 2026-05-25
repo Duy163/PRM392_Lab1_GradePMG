@@ -7,6 +7,7 @@ import 'package:grader_tool/services/grading_service.dart';
 import 'package:grader_tool/services/grading_store.dart';
 import 'package:grader_tool/services/excel_export_service.dart';
 import 'package:grader_tool/views/saved_results_view.dart';
+import 'package:intl/intl.dart';
 
 void main() {
   runApp(const GraderApp());
@@ -25,7 +26,7 @@ class GraderApp extends StatelessWidget {
     );
 
     return base.copyWith(
-      scaffoldBackgroundColor: isDark ? const Color(0xFF0F1115) : const Color(0xFFFAFAFA),
+      scaffoldBackgroundColor: isDark ? const Color(0xFF0B0F19) : const Color(0xFFFAFAFE),
       appBarTheme: AppBarTheme(
         backgroundColor: Colors.transparent,
         surfaceTintColor: Colors.transparent,
@@ -35,60 +36,49 @@ class GraderApp extends StatelessWidget {
           fontFamily: 'DM Sans',
           fontSize: 24,
           fontWeight: FontWeight.w700,
-          color: isDark ? const Color(0xFFF5F5F7) : const Color(0xFF0A0A0A),
-        ),
-      ),
-      navigationRailTheme: NavigationRailThemeData(
-        backgroundColor: Colors.transparent,
-        selectedIconTheme: IconThemeData(
-          color: isDark ? const Color(0xFFF5F5F7) : const Color(0xFF6366F1),
-        ),
-        selectedLabelTextStyle: TextStyle(
-          color: isDark ? const Color(0xFFF5F5F7) : const Color(0xFF6366F1),
-          fontWeight: FontWeight.w600,
-        ),
-        unselectedIconTheme: IconThemeData(
-          color: isDark ? const Color(0xFF9C9C9C) : const Color(0xFF6B6B6B),
-        ),
-        unselectedLabelTextStyle: TextStyle(
-          color: isDark ? const Color(0xFF9C9C9C) : const Color(0xFF6B6B6B),
+          color: isDark ? const Color(0xFFF5F5F7) : const Color(0xFF0F172A),
         ),
       ),
       cardTheme: CardThemeData(
-        color: isDark ? const Color(0xFF151922) : Colors.white,
+        color: isDark ? const Color(0xFF1E293B) : Colors.white,
         elevation: 0,
         shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.circular(12),
+          borderRadius: BorderRadius.circular(20),
           side: BorderSide(
-            color: isDark ? const Color(0xFF2A2F3A) : const Color(0xFFE8E8EC),
+            color: isDark ? const Color(0xFF334155) : const Color(0xFFE2E8F0),
           ),
         ),
       ),
       filledButtonTheme: FilledButtonThemeData(
         style: FilledButton.styleFrom(
-          minimumSize: const Size(0, 44),
-          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(6)),
-          textStyle: const TextStyle(fontWeight: FontWeight.w600),
+          minimumSize: const Size(0, 48),
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+          backgroundColor: const Color(0xFF6366F1),
+          foregroundColor: Colors.white,
+          textStyle: const TextStyle(fontWeight: FontWeight.bold, fontSize: 13),
         ),
       ),
       inputDecorationTheme: InputDecorationTheme(
-        border: OutlineInputBorder(borderRadius: BorderRadius.circular(6)),
+        border: OutlineInputBorder(borderRadius: BorderRadius.circular(12)),
         enabledBorder: OutlineInputBorder(
-          borderRadius: BorderRadius.circular(6),
-          borderSide: BorderSide(color: isDark ? const Color(0xFF2A2F3A) : const Color(0xFFE8E8EC)),
+          borderRadius: BorderRadius.circular(12),
+          borderSide: BorderSide(color: isDark ? const Color(0xFF334155) : const Color(0xFFE2E8F0)),
         ),
         focusedBorder: OutlineInputBorder(
-          borderRadius: BorderRadius.circular(6),
-          borderSide: const BorderSide(color: Color(0xFF6366F1), width: 1.5),
+          borderRadius: BorderRadius.circular(12),
+          borderSide: const BorderSide(color: Color(0xFF6366F1), width: 2.0),
         ),
         filled: true,
-        fillColor: isDark ? const Color(0xFF151922) : Colors.white,
+        fillColor: isDark ? const Color(0xFF1E293B) : Colors.white,
+        labelStyle: TextStyle(
+          fontSize: 13,
+          color: isDark ? const Color(0xFF94A3B8) : const Color(0xFF64748B),
+        ),
       ),
-      dividerTheme: DividerThemeData(color: isDark ? const Color(0xFF2A2F3A) : const Color(0xFFE8E8EC)),
+      dividerTheme: DividerThemeData(color: isDark ? const Color(0xFF334155) : const Color(0xFFE2E8F0)),
     );
   }
 
-  // ignore: member-ordering
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -114,57 +104,457 @@ class _MainScreenState extends State<MainScreen> {
 
   @override
   Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
     return Scaffold(
-      appBar: AppBar(
-        title: const Text(
-          'Qwen AI Auto Grader',
-          style: TextStyle(fontWeight: FontWeight.bold),
-        ),
-        centerTitle: false,
-        elevation: 0,
-        scrolledUnderElevation: 0,
-      ),
       body: Row(
         children: [
-          NavigationRail(
+          CustomSidebar(
             selectedIndex: _selectedIndex,
             onDestinationSelected: (int index) {
               setState(() => _selectedIndex = index);
             },
-            labelType: NavigationRailLabelType.all,
-            destinations: const [
-              NavigationRailDestination(
-                icon: Icon(Icons.folder_open_outlined),
-                selectedIcon: Icon(Icons.folder),
-                label: Text('Setup Files'),
-              ),
-              NavigationRailDestination(
-                icon: Icon(Icons.analytics_outlined),
-                selectedIcon: Icon(Icons.analytics),
-                label: Text('Review & Export'),
-              ),
-              NavigationRailDestination(
-                icon: Icon(Icons.history_outlined),
-                selectedIcon: Icon(Icons.history),
-                label: Text('Saved Results'),
-              ),
-            ],
           ),
-          const VerticalDivider(thickness: 1, width: 1),
           Expanded(
-            child: IndexedStack(
-              index: _selectedIndex,
+            child: Container(
+              color: isDark ? const Color(0xFF0B0F19) : const Color(0xFFFAFAFE),
+              child: Stack(
+                children: [
+                  // Beautiful radial glows for dynamic high-end feel
+                  Positioned(
+                    top: -100,
+                    right: -100,
+                    child: Container(
+                      width: 350,
+                      height: 350,
+                      decoration: BoxDecoration(
+                        shape: BoxShape.circle,
+                        color: const Color(0xFF6366F1).withOpacity(isDark ? 0.08 : 0.05),
+                      ),
+                    ),
+                  ),
+                  Positioned(
+                    bottom: -150,
+                    left: -50,
+                    child: Container(
+                      width: 450,
+                      height: 450,
+                      decoration: BoxDecoration(
+                        shape: BoxShape.circle,
+                        color: const Color(0xFF0EA5E9).withOpacity(isDark ? 0.06 : 0.04),
+                      ),
+                    ),
+                  ),
+                  // Background grid tint
+                  Positioned.fill(
+                    child: Opacity(
+                      opacity: isDark ? 0.015 : 0.03,
+                      child: Container(
+                        decoration: const BoxDecoration(
+                          image: DecorationImage(
+                            image: NetworkImage('https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=40&q=10'),
+                            repeat: ImageRepeat.repeat,
+                          ),
+                        ),
+                      ),
+                    ),
+                  ),
+                  // The viewport content
+                  SafeArea(
+                    child: IndexedStack(
+                      index: _selectedIndex,
+                      children: [
+                        SetupFilesView(
+                          onNavigateToGrading: () {
+                            setState(() => _selectedIndex = 1);
+                          },
+                        ),
+                        const GradingReviewView(),
+                        const SavedResultsView(),
+                        const SettingsView(),
+                      ],
+                    ),
+                  ),
+                ],
+              ),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+}
+
+class CustomSidebar extends StatelessWidget {
+  final int selectedIndex;
+  final ValueChanged<int> onDestinationSelected;
+
+  const CustomSidebar({
+    super.key,
+    required this.selectedIndex,
+    required this.onDestinationSelected,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    final primaryColor = const Color(0xFF6366F1);
+    
+    return Container(
+      width: 250,
+      decoration: BoxDecoration(
+        color: isDark ? const Color(0xFF111827) : Colors.white,
+        border: Border(
+          right: BorderSide(
+            color: isDark ? const Color(0xFF1F2937) : const Color(0xFFE2E8F0),
+            width: 1,
+          ),
+        ),
+      ),
+      child: Column(
+        children: [
+          // Header Profile Section
+          Padding(
+            padding: const EdgeInsets.fromLTRB(20, 24, 20, 20),
+            child: Row(
               children: [
-                SetupFilesView(
-                  onNavigateToGrading: () {
-                    setState(() => _selectedIndex = 1);
-                  },
+                // Avatar with online status
+                Stack(
+                  children: [
+                    CircleAvatar(
+                      radius: 20,
+                      backgroundColor: primaryColor.withOpacity(0.12),
+                      child: Text(
+                        'QA',
+                        style: TextStyle(
+                          color: primaryColor,
+                          fontWeight: FontWeight.bold,
+                          fontSize: 14,
+                        ),
+                      ),
+                    ),
+                    Positioned(
+                      right: 0,
+                      bottom: 0,
+                      child: Container(
+                        width: 10,
+                        height: 10,
+                        decoration: BoxDecoration(
+                          color: const Color(0xFF10B981),
+                          shape: BoxShape.circle,
+                          border: Border.all(
+                            color: isDark ? const Color(0xFF111827) : Colors.white,
+                            width: 1.5,
+                          ),
+                        ),
+                      ),
+                    ),
+                  ],
                 ),
-                const GradingReviewView(),
-                const SavedResultsView(),
+                const SizedBox(width: 12),
+                // User info
+                Expanded(
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Text(
+                        'Courtney Henry',
+                        style: TextStyle(
+                          fontWeight: FontWeight.bold,
+                          fontSize: 13,
+                          color: isDark ? Colors.white : const Color(0xFF0F172A),
+                        ),
+                        overflow: TextOverflow.ellipsis,
+                      ),
+                      Text(
+                        'Online',
+                        style: TextStyle(
+                          fontSize: 10,
+                          color: isDark ? const Color(0xFF94A3B8) : const Color(0xFF64748B),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
               ],
             ),
           ),
+          const Divider(height: 1, thickness: 1),
+          const SizedBox(height: 16),
+          // Sidebar menu items
+          Expanded(
+            child: Padding(
+              padding: const EdgeInsets.symmetric(horizontal: 12),
+              child: Column(
+                children: [
+                  _SidebarItem(
+                    icon: Icons.folder_open_outlined,
+                    selectedIcon: Icons.folder,
+                    label: 'Setup Files',
+                    isSelected: selectedIndex == 0,
+                    onTap: () => onDestinationSelected(0),
+                  ),
+                  const SizedBox(height: 6),
+                  _SidebarItem(
+                    icon: Icons.analytics_outlined,
+                    selectedIcon: Icons.analytics,
+                    label: 'Review & Export',
+                    isSelected: selectedIndex == 1,
+                    onTap: () => onDestinationSelected(1),
+                  ),
+                  const SizedBox(height: 6),
+                  _SidebarItem(
+                    icon: Icons.history_outlined,
+                    selectedIcon: Icons.history,
+                    label: 'Saved Results',
+                    isSelected: selectedIndex == 2,
+                    onTap: () => onDestinationSelected(2),
+                  ),
+                  const SizedBox(height: 6),
+                  _SidebarItem(
+                    icon: Icons.settings_outlined,
+                    selectedIcon: Icons.settings,
+                    label: 'Settings',
+                    isSelected: selectedIndex == 3,
+                    onTap: () => onDestinationSelected(3),
+                  ),
+                ],
+              ),
+            ),
+          ),
+          
+          // Bottom Banner Card (Prodify AI Style)
+          Padding(
+            padding: const EdgeInsets.all(16.0),
+            child: Container(
+              padding: const EdgeInsets.all(14),
+              decoration: BoxDecoration(
+                borderRadius: BorderRadius.circular(16),
+                gradient: const LinearGradient(
+                  begin: Alignment.topLeft,
+                  end: Alignment.bottomRight,
+                  colors: [
+                    Color(0xFF818CF8),
+                    Color(0xFF4F46E5),
+                  ],
+                ),
+                boxShadow: [
+                  BoxShadow(
+                    color: const Color(0xFF4F46E5).withOpacity(0.2),
+                    blurRadius: 10,
+                    offset: const Offset(0, 4),
+                  ),
+                ],
+              ),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Row(
+                    children: [
+                      const Icon(
+                        Icons.auto_awesome,
+                        color: Colors.white,
+                        size: 14,
+                      ),
+                      const SizedBox(width: 6),
+                      Text(
+                        'Qwen AI Engine',
+                        style: TextStyle(
+                          color: Colors.white.withOpacity(0.95),
+                          fontWeight: FontWeight.bold,
+                          fontSize: 11,
+                        ),
+                      ),
+                    ],
+                  ),
+                  const SizedBox(height: 6),
+                  Text(
+                    'Ensure Ollama runs locally on port 11434 to utilize Advanced AI.',
+                    style: TextStyle(
+                      color: Colors.white.withOpacity(0.8),
+                      fontSize: 9,
+                      height: 1.4,
+                    ),
+                  ),
+                  const SizedBox(height: 10),
+                  ElevatedButton(
+                    onPressed: () {
+                      onDestinationSelected(3);
+                    },
+                    style: ElevatedButton.styleFrom(
+                      backgroundColor: Colors.white,
+                      foregroundColor: const Color(0xFF4F46E5),
+                      elevation: 0,
+                      minimumSize: const Size(double.infinity, 32),
+                      shape: RoundedRectangleBorder(
+                        borderRadius: BorderRadius.circular(8),
+                      ),
+                      textStyle: const TextStyle(
+                        fontSize: 10,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
+                    child: const Text('Configure'),
+                  ),
+                ],
+              ),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+}
+
+class _SidebarItem extends StatefulWidget {
+  final IconData icon;
+  final IconData selectedIcon;
+  final String label;
+  final bool isSelected;
+  final VoidCallback onTap;
+
+  const _SidebarItem({
+    required this.icon,
+    required this.selectedIcon,
+    required this.label,
+    required this.isSelected,
+    required this.onTap,
+  });
+
+  @override
+  State<_SidebarItem> createState() => _SidebarItemState();
+}
+
+class _SidebarItemState extends State<_SidebarItem> {
+  bool _isHovered = false;
+
+  @override
+  Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    final primaryColor = const Color(0xFF6366F1);
+    
+    Color getBgColor() {
+      if (widget.isSelected) {
+        return isDark ? const Color(0xFF1E293B) : const Color(0xFFEEF2FF);
+      }
+      if (_isHovered) {
+        return isDark ? const Color(0xFF1F2937) : const Color(0xFFF1F5F9);
+      }
+      return Colors.transparent;
+    }
+
+    Color getTextColor() {
+      if (widget.isSelected) {
+        return primaryColor;
+      }
+      return isDark ? const Color(0xFF94A3B8) : const Color(0xFF475569);
+    }
+
+    return MouseRegion(
+      onEnter: (_) => setState(() => _isHovered = true),
+      onExit: (_) => setState(() => _isHovered = false),
+      child: InkWell(
+        onTap: widget.onTap,
+        borderRadius: BorderRadius.circular(10),
+        child: AnimatedContainer(
+          duration: const Duration(milliseconds: 150),
+          padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10),
+          decoration: BoxDecoration(
+            color: getBgColor(),
+            borderRadius: BorderRadius.circular(10),
+          ),
+          child: Row(
+            children: [
+              Icon(
+                widget.isSelected ? widget.selectedIcon : widget.icon,
+                color: getTextColor(),
+                size: 18,
+              ),
+              const SizedBox(width: 10),
+              Text(
+                widget.label,
+                style: TextStyle(
+                  color: getTextColor(),
+                  fontWeight: widget.isSelected ? FontWeight.bold : FontWeight.w500,
+                  fontSize: 12,
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+}
+
+class ViewHeader extends StatelessWidget {
+  final String title;
+  final String subtitle;
+  final Widget? trailing;
+
+  const ViewHeader({
+    super.key,
+    required this.title,
+    required this.subtitle,
+    this.trailing,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    final dateStr = DateFormat('EEEE, MMMM d').format(DateTime.now());
+    
+    return Padding(
+      padding: const EdgeInsets.only(bottom: 24.0),
+      child: Row(
+        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+        children: [
+          Expanded(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(
+                  dateStr,
+                  style: TextStyle(
+                    color: isDark ? const Color(0xFF64748B) : const Color(0xFF94A3B8),
+                    fontWeight: FontWeight.w600,
+                    fontSize: 11,
+                    letterSpacing: 0.5,
+                  ),
+                ),
+                const SizedBox(height: 4),
+                Text(
+                  title,
+                  style: TextStyle(
+                    fontFamily: 'DM Sans',
+                    fontSize: 26,
+                    fontWeight: FontWeight.bold,
+                    color: isDark ? Colors.white : const Color(0xFF0F172A),
+                  ),
+                ),
+                const SizedBox(height: 2),
+                ShaderMask(
+                  shaderCallback: (bounds) => const LinearGradient(
+                    colors: [Color(0xFF6366F1), Color(0xFF0EA5E9)],
+                    begin: Alignment.topLeft,
+                    end: Alignment.bottomRight,
+                  ).createShader(bounds),
+                  child: Text(
+                    subtitle,
+                    style: const TextStyle(
+                      fontFamily: 'DM Sans',
+                      fontSize: 16,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.white,
+                    ),
+                  ),
+                ),
+              ],
+            ),
+          ),
+          if (trailing != null) ...[
+            const SizedBox(width: 16),
+            trailing!,
+          ],
         ],
       ),
     );
@@ -299,7 +689,6 @@ class _SetupFilesViewState extends State<SetupFilesView> {
       onProgress: (msg) {
         if (mounted) {
           final messenger = ScaffoldMessenger.of(context);
-          // Dismiss the current SnackBar immediately to avoid queuing them up!
           messenger.hideCurrentSnackBar();
           messenger.showSnackBar(
             SnackBar(
@@ -319,7 +708,6 @@ class _SetupFilesViewState extends State<SetupFilesView> {
     );
     setState(() => _isLoading = false);
 
-    // Clear all snackbars instantly when grading finishes!
     if (mounted) {
       ScaffoldMessenger.of(context).clearSnackBars();
     }
@@ -340,10 +728,12 @@ class _SetupFilesViewState extends State<SetupFilesView> {
     } else {
       startAction = FilledButton.icon(
         onPressed: _canStartGrading ? _startGrading : null,
-        icon: const Icon(Icons.rocket_launch),
+        icon: const Icon(Icons.rocket_launch, size: 16),
         label: const Text('Start Grading'),
         style: FilledButton.styleFrom(
           padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 16),
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
+          elevation: _canStartGrading ? 4 : 0,
         ),
       );
     }
@@ -353,18 +743,11 @@ class _SetupFilesViewState extends State<SetupFilesView> {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          Text(
-            'Workspace Setup',
-            style: Theme.of(context).textTheme.headlineMedium,
+          const ViewHeader(
+            title: 'Hello, Courtney',
+            subtitle: 'How can I help you grade today?',
           ),
-          const SizedBox(height: 8),
-          Text(
-            'Select the necessary files to start the grading process.',
-            style: Theme.of(context).textTheme.bodyLarge?.copyWith(
-              color: Theme.of(context).colorScheme.onSurfaceVariant,
-            ),
-          ),
-          const SizedBox(height: 32),
+          const SizedBox(height: 16),
           FileSelectCard(
             title: 'Student Solutions Folder',
             subtitle: _solutionsPath != null
@@ -379,11 +762,12 @@ class _SetupFilesViewState extends State<SetupFilesView> {
             children: [
               TextButton.icon(
                 onPressed: _pickTxtFiles,
-                icon: const Icon(Icons.file_open),
+                icon: const Icon(Icons.file_open, size: 14),
                 label: Text(
                   _selectedTxtFiles == null
                       ? 'Or pick specific .txt files'
                       : 'Selected ${_selectedTxtFiles!.length} .txt files',
+                  style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 11),
                 ),
               ),
             ],
@@ -439,128 +823,187 @@ class GradingModeCard extends StatelessWidget {
     required this.onSelectFast,
   });
 
-  // ignore: member-ordering
   @override
   Widget build(BuildContext context) {
-    return Card(
-      elevation: 0,
-      color: Theme.of(context).colorScheme.surfaceContainerHighest,
-      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
-      child: Padding(
-        padding: const EdgeInsets.all(20.0),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Text(
-              'Grading Mode (Chế độ chấm điểm)',
-              style: Theme.of(
-                context,
-              ).textTheme.titleMedium?.copyWith(fontWeight: FontWeight.bold),
-            ),
-            const SizedBox(height: 12),
-            Row(
-              children: [
-                Expanded(
-                  child: InkWell(
-                    borderRadius: BorderRadius.circular(12),
-                    onTap: onSelectAdvanced,
-                    child: Container(
-                      padding: const EdgeInsets.all(16),
-                      decoration: BoxDecoration(
-                        color: !useFastGrader
-                            ? Theme.of(context).colorScheme.primaryContainer
-                            : Colors.transparent,
-                        borderRadius: BorderRadius.circular(12),
-                        border: Border.all(
-                          color: !useFastGrader
-                              ? Theme.of(context).colorScheme.primary
-                              : Theme.of(context).colorScheme.outlineVariant,
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    final primaryColor = const Color(0xFF6366F1);
+    
+    return Container(
+      decoration: BoxDecoration(
+        color: isDark ? const Color(0xFF1E293B).withOpacity(0.4) : Colors.white,
+        borderRadius: BorderRadius.circular(24),
+        border: Border.all(
+          color: isDark ? const Color(0xFF334155) : const Color(0xFFE2E8F0),
+        ),
+        boxShadow: [
+          BoxShadow(
+            color: Colors.black.withOpacity(isDark ? 0.1 : 0.02),
+            blurRadius: 16,
+            offset: const Offset(0, 4),
+          ),
+        ],
+      ),
+      padding: const EdgeInsets.all(20.0),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Row(
+            children: [
+              Container(
+                padding: const EdgeInsets.all(6),
+                decoration: BoxDecoration(
+                  color: primaryColor.withOpacity(0.1),
+                  borderRadius: BorderRadius.circular(8),
+                ),
+                child: Icon(
+                  Icons.tune,
+                  color: primaryColor,
+                  size: 16,
+                ),
+              ),
+              const SizedBox(width: 10),
+              Text(
+                'Grading Mode (Chế độ chấm điểm)',
+                style: TextStyle(
+                  fontWeight: FontWeight.bold,
+                  fontSize: 14,
+                  color: isDark ? Colors.white : const Color(0xFF0F172A),
+                ),
+              ),
+            ],
+          ),
+          const SizedBox(height: 16),
+          Row(
+            children: [
+              Expanded(
+                child: _GradingModeOptionTile(
+                  title: 'Advanced AI (Ollama)',
+                  subtitle: 'High precision grading using your local Ollama LLM. Best for small batches.',
+                  icon: Icons.psychology,
+                  isSelected: !useFastGrader,
+                  onTap: onSelectAdvanced,
+                ),
+              ),
+              const SizedBox(width: 16),
+              Expanded(
+                child: _GradingModeOptionTile(
+                  title: '⚡ Fast Local Grader',
+                  subtitle: 'Instant grading based on keywords & density. Grades 1000+ files in seconds.',
+                  icon: Icons.bolt,
+                  isSelected: useFastGrader,
+                  onTap: onSelectFast,
+                ),
+              ),
+            ],
+          ),
+        ],
+      ),
+    );
+  }
+}
+
+class _GradingModeOptionTile extends StatefulWidget {
+  final String title;
+  final String subtitle;
+  final IconData icon;
+  final bool isSelected;
+  final VoidCallback onTap;
+
+  const _GradingModeOptionTile({
+    required this.title,
+    required this.subtitle,
+    required this.icon,
+    required this.isSelected,
+    required this.onTap,
+  });
+
+  @override
+  State<_GradingModeOptionTile> createState() => _GradingModeOptionTileState();
+}
+
+class _GradingModeOptionTileState extends State<_GradingModeOptionTile> {
+  bool _isHovered = false;
+
+  @override
+  Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    final primaryColor = const Color(0xFF6366F1);
+    
+    Color tileBg;
+    Color borderCol;
+    if (widget.isSelected) {
+      tileBg = isDark ? const Color(0xFF1E1F35) : const Color(0xFFEEF2FF);
+      borderCol = primaryColor;
+    } else {
+      tileBg = isDark 
+          ? (_isHovered ? const Color(0xFF1E293B) : Colors.transparent)
+          : (_isHovered ? const Color(0xFFF8FAFC) : Colors.transparent);
+      borderCol = isDark ? const Color(0xFF334155) : const Color(0xFFE2E8F0);
+    }
+
+    return MouseRegion(
+      onEnter: (_) => setState(() => _isHovered = true),
+      onExit: (_) => setState(() => _isHovered = false),
+      child: AnimatedContainer(
+        duration: const Duration(milliseconds: 150),
+        decoration: BoxDecoration(
+          color: tileBg,
+          borderRadius: BorderRadius.circular(16),
+          border: Border.all(
+            color: borderCol,
+            width: widget.isSelected ? 1.8 : 1.0,
+          ),
+        ),
+        child: Material(
+          color: Colors.transparent,
+          child: InkWell(
+            borderRadius: BorderRadius.circular(16),
+            onTap: widget.onTap,
+            child: Padding(
+              padding: const EdgeInsets.all(16.0),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Row(
+                    children: [
+                      Icon(
+                        widget.icon,
+                        color: widget.isSelected ? primaryColor : (isDark ? const Color(0xFF94A3B8) : const Color(0xFF475569)),
+                        size: 20,
+                      ),
+                      const SizedBox(width: 8),
+                      Text(
+                        widget.title,
+                        style: TextStyle(
+                          fontWeight: FontWeight.bold,
+                          fontSize: 13,
+                          color: widget.isSelected 
+                              ? primaryColor 
+                              : (isDark ? Colors.white : const Color(0xFF0F172A)),
                         ),
                       ),
-                      child: Column(
-                        crossAxisAlignment: CrossAxisAlignment.start,
-                        children: [
-                          Row(
-                            children: [
-                              Icon(
-                                Icons.psychology,
-                                color: !useFastGrader
-                                    ? Theme.of(context).colorScheme.primary
-                                    : Theme.of(context).colorScheme.onSurface,
-                              ),
-                              const SizedBox(width: 8),
-                              const Text(
-                                'Advanced AI (Ollama)',
-                                style: TextStyle(fontWeight: FontWeight.bold),
-                              ),
-                            ],
-                          ),
-                          const SizedBox(height: 8),
-                          const Text(
-                            'High precision grading using your local Ollama LLM. Best for small batches.',
-                            style: TextStyle(fontSize: 12),
-                          ),
-                        ],
-                      ),
+                    ],
+                  ),
+                  const SizedBox(height: 6),
+                  Text(
+                    widget.subtitle,
+                    style: TextStyle(
+                      fontSize: 11,
+                      color: isDark ? const Color(0xFF94A3B8) : const Color(0xFF64748B),
+                      height: 1.4,
                     ),
                   ),
-                ),
-                const SizedBox(width: 16),
-                Expanded(
-                  child: InkWell(
-                    borderRadius: BorderRadius.circular(12),
-                    onTap: onSelectFast,
-                    child: Container(
-                      padding: const EdgeInsets.all(16),
-                      decoration: BoxDecoration(
-                        color: useFastGrader
-                            ? Theme.of(context).colorScheme.primaryContainer
-                            : Colors.transparent,
-                        borderRadius: BorderRadius.circular(12),
-                        border: Border.all(
-                          color: useFastGrader
-                              ? Theme.of(context).colorScheme.primary
-                              : Theme.of(context).colorScheme.outlineVariant,
-                        ),
-                      ),
-                      child: Column(
-                        crossAxisAlignment: CrossAxisAlignment.start,
-                        children: [
-                          Row(
-                            children: [
-                              Icon(
-                                Icons.bolt,
-                                color: useFastGrader
-                                    ? Theme.of(context).colorScheme.primary
-                                    : Theme.of(context).colorScheme.onSurface,
-                              ),
-                              const SizedBox(width: 8),
-                              const Text(
-                                '⚡ Fast Local Grader',
-                                style: TextStyle(fontWeight: FontWeight.bold),
-                              ),
-                            ],
-                          ),
-                          const SizedBox(height: 8),
-                          const Text(
-                            'Instant grading based on keywords & density. Grades 1000+ files in seconds.',
-                            style: TextStyle(fontSize: 12),
-                          ),
-                        ],
-                      ),
-                    ),
-                  ),
-                ),
-              ],
+                ],
+              ),
             ),
-          ],
+          ),
         ),
       ),
     );
   }
 }
 
-class FileSelectCard extends StatelessWidget {
+class FileSelectCard extends StatefulWidget {
   final String title;
   final String subtitle;
   final IconData icon;
@@ -577,64 +1020,132 @@ class FileSelectCard extends StatelessWidget {
   });
 
   @override
+  State<FileSelectCard> createState() => _FileSelectCardState();
+}
+
+class _FileSelectCardState extends State<FileSelectCard> {
+  bool _isHovered = false;
+
+  @override
   Widget build(BuildContext context) {
-    return Card(
-      elevation: 0,
-      color: isSelected
-          ? Theme.of(context).colorScheme.secondaryContainer
-          : Theme.of(context).colorScheme.surfaceContainerHighest,
-      shape: RoundedRectangleBorder(
-        borderRadius: BorderRadius.circular(16),
-        side: BorderSide(
-          color: isSelected
-              ? Theme.of(context).colorScheme.primary
-              : Colors.transparent,
-          width: 1,
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    final primaryColor = const Color(0xFF6366F1);
+    
+    Color cardBg;
+    Color borderColor;
+    if (widget.isSelected) {
+      cardBg = isDark ? const Color(0xFF1E1F35) : const Color(0xFFEEF2FF);
+      borderColor = primaryColor;
+    } else {
+      cardBg = isDark 
+          ? (_isHovered ? const Color(0xFF1E293B) : const Color(0xFF1E293B).withOpacity(0.6))
+          : (_isHovered ? const Color(0xFFF1F5F9) : Colors.white);
+      borderColor = isDark ? const Color(0xFF334155) : const Color(0xFFE2E8F0);
+    }
+
+    return MouseRegion(
+      onEnter: (_) => setState(() => _isHovered = true),
+      onExit: (_) => setState(() => _isHovered = false),
+      child: AnimatedContainer(
+        duration: const Duration(milliseconds: 150),
+        decoration: BoxDecoration(
+          color: cardBg,
+          borderRadius: BorderRadius.circular(20),
+          border: Border.all(color: borderColor, width: 1.2),
+          boxShadow: [
+            BoxShadow(
+              color: isDark ? Colors.black.withOpacity(0.15) : const Color(0xFF0F172A).withOpacity(0.03),
+              blurRadius: _isHovered ? 16 : 8,
+              offset: const Offset(0, 3),
+            ),
+          ],
         ),
-      ),
-      child: InkWell(
-        borderRadius: BorderRadius.circular(16),
-        onTap: onTap,
-        child: Padding(
-          padding: const EdgeInsets.all(20.0),
-          child: Row(
-            children: [
-              Icon(
-                icon,
-                size: 40,
-                color: isSelected
-                    ? Theme.of(context).colorScheme.primary
-                    : Theme.of(context).colorScheme.onSurfaceVariant,
-              ),
-              const SizedBox(width: 20),
-              Expanded(
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    Text(
-                      title,
-                      style: Theme.of(context).textTheme.titleMedium?.copyWith(
-                        fontWeight: FontWeight.bold,
-                      ),
+        child: Material(
+          color: Colors.transparent,
+          child: InkWell(
+            borderRadius: BorderRadius.circular(20),
+            onTap: widget.onTap,
+            child: Padding(
+              padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 16),
+              child: Row(
+                children: [
+                  Container(
+                    padding: const EdgeInsets.all(10),
+                    decoration: BoxDecoration(
+                      color: widget.isSelected 
+                          ? primaryColor.withOpacity(0.15) 
+                          : (isDark ? const Color(0xFF0F172A) : const Color(0xFFF8FAFC)),
+                      borderRadius: BorderRadius.circular(12),
                     ),
-                    const SizedBox(height: 4),
-                    Text(
-                      subtitle,
-                      style: Theme.of(context).textTheme.bodyMedium?.copyWith(
-                        color: Theme.of(context).colorScheme.onSurfaceVariant,
-                      ),
+                    child: Icon(
+                      widget.icon,
+                      size: 24,
+                      color: widget.isSelected ? primaryColor : (isDark ? const Color(0xFF94A3B8) : const Color(0xFF475569)),
                     ),
-                  ],
-                ),
+                  ),
+                  const SizedBox(width: 16),
+                  Expanded(
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Text(
+                          widget.title,
+                          style: TextStyle(
+                            fontWeight: FontWeight.bold,
+                            fontSize: 14,
+                            color: isDark ? Colors.white : const Color(0xFF0F172A),
+                          ),
+                        ),
+                        const SizedBox(height: 4),
+                        Text(
+                          widget.subtitle,
+                          style: TextStyle(
+                            fontSize: 11,
+                            color: isDark ? const Color(0xFF94A3B8) : const Color(0xFF64748B),
+                            height: 1.4,
+                          ),
+                        ),
+                      ],
+                    ),
+                  ),
+                  const SizedBox(width: 12),
+                  if (widget.isSelected)
+                    Container(
+                      padding: const EdgeInsets.all(4),
+                      decoration: const BoxDecoration(
+                        color: Color(0xFF10B981),
+                        shape: BoxShape.circle,
+                      ),
+                      child: const Icon(
+                        Icons.check,
+                        color: Colors.white,
+                        size: 14,
+                      ),
+                    )
+                  else
+                    ElevatedButton(
+                      onPressed: widget.onTap,
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: isDark ? const Color(0xFF334155) : Colors.white,
+                        foregroundColor: isDark ? Colors.white : const Color(0xFF0F172A),
+                        elevation: 0,
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(8),
+                          side: BorderSide(
+                            color: isDark ? const Color(0xFF475569) : const Color(0xFFCBD5E1),
+                          ),
+                        ),
+                        padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10),
+                        textStyle: const TextStyle(
+                          fontSize: 11,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                      child: const Text('Browse'),
+                    ),
+                ],
               ),
-              if (isSelected)
-                Icon(
-                  Icons.check_circle,
-                  color: Theme.of(context).colorScheme.primary,
-                )
-              else
-                ElevatedButton(onPressed: onTap, child: const Text('Browse')),
-            ],
+            ),
           ),
         ),
       ),
@@ -676,10 +1187,12 @@ class _GradingReviewViewState extends State<GradingReviewView> {
     }
 
     GradingStore.stream.listen((results) {
-      setState(() {
-        _results = results;
-        _progressMessage = 'Received ${results.length} graded submissions';
-      });
+      if (mounted) {
+        setState(() {
+          _results = results;
+          _progressMessage = 'Received ${results.length} graded submissions';
+        });
+      }
     });
   }
 
@@ -726,7 +1239,7 @@ class _GradingReviewViewState extends State<GradingReviewView> {
           }
         },
       );
-      setState(() => _isGrading = false);
+      if (mounted) setState(() => _isGrading = false);
 
       GradingStore.mergeResults(results);
     }
@@ -757,120 +1270,154 @@ class _GradingReviewViewState extends State<GradingReviewView> {
         }
       },
     );
-    setState(() => _isGrading = false);
+    if (mounted) setState(() => _isGrading = false);
 
     GradingStore.mergeResults(results);
   }
 
-  // ignore: member-ordering
   @override
   Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    
     return Padding(
       padding: const EdgeInsets.all(32.0),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          Row(
-            mainAxisAlignment: MainAxisAlignment.spaceBetween,
-            children: [
-              Text(
-                'Review & Adjust Scores',
-                style: Theme.of(context).textTheme.headlineMedium,
-              ),
-              Row(
-                children: [
-                  FilledButton.tonalIcon(
-                    onPressed: _isGrading ? null : _pickMoreTxtFiles,
-                    icon: const Icon(Icons.add),
-                    label: const Text('Add More Submissions'),
+          ViewHeader(
+            title: 'Review & Adjust Scores',
+            subtitle: 'Inspect results, adjust detailed points, and export to Excel.',
+            trailing: Row(
+              children: [
+                FilledButton.tonalIcon(
+                  onPressed: _isGrading ? null : _pickMoreTxtFiles,
+                  icon: const Icon(Icons.add, size: 14),
+                  label: const Text('Add Files'),
+                  style: FilledButton.styleFrom(
+                    backgroundColor: isDark ? const Color(0xFF1E293B) : const Color(0xFFF1F5F9),
+                    foregroundColor: isDark ? Colors.white : const Color(0xFF0F172A),
+                    minimumSize: const Size(0, 40),
+                    shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
                   ),
-                  const SizedBox(width: 8),
-                  FilledButton.tonalIcon(
-                    onPressed: _isGrading ? null : _pickMoreFolder,
-                    icon: const Icon(Icons.create_new_folder),
-                    label: const Text('Add Folder'),
+                ),
+                const SizedBox(width: 8),
+                FilledButton.tonalIcon(
+                  onPressed: _isGrading ? null : _pickMoreFolder,
+                  icon: const Icon(Icons.create_new_folder, size: 14),
+                  label: const Text('Add Folder'),
+                  style: FilledButton.styleFrom(
+                    backgroundColor: isDark ? const Color(0xFF1E293B) : const Color(0xFFF1F5F9),
+                    foregroundColor: isDark ? Colors.white : const Color(0xFF0F172A),
+                    minimumSize: const Size(0, 40),
+                    shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
                   ),
-                  const SizedBox(width: 16),
-                  FilledButton.tonalIcon(
-                    onPressed: _results.isNotEmpty && !_isGrading
-                        ? () async {
-                            final markerNameController =
-                                TextEditingController();
-                            final String? markerName = await showDialog<String>(
-                              context: context,
-                              builder: (context) {
-                                return AlertDialog(
-                                  title: const Text('Enter Marker Name'),
-                                  content: TextField(
-                                    controller: markerNameController,
-                                    decoration: const InputDecoration(
-                                      hintText: 'e.g., HungLD5',
-                                    ),
-                                    autofocus: true,
+                ),
+                const SizedBox(width: 12),
+                FilledButton.icon(
+                  onPressed: _results.isNotEmpty && !_isGrading
+                      ? () async {
+                          final markerNameController =
+                              TextEditingController();
+                          final String? markerName = await showDialog<String>(
+                            context: context,
+                            builder: (context) {
+                              return AlertDialog(
+                                title: const Text('Enter Marker Name'),
+                                content: TextField(
+                                  controller: markerNameController,
+                                  decoration: const InputDecoration(
+                                    hintText: 'e.g., HungLD5',
                                   ),
-                                  actions: [
-                                    TextButton(
-                                      onPressed: () =>
-                                          Navigator.of(context).pop(),
-                                      child: const Text('Cancel'),
-                                    ),
-                                    FilledButton(
-                                      onPressed: () => Navigator.of(
-                                        context,
-                                      ).pop(markerNameController.text.trim()),
-                                      child: const Text('Export'),
-                                    ),
-                                  ],
-                                );
-                              },
-                            );
-
-                            if (markerName == null || markerName.isEmpty) {
-                              return;
-                            }
-
-                            final path = await ExcelExportService.exportToExcel(
-                              _results,
-                              markerName,
-                            );
-                            if (!context.mounted) return;
-                            final messenger = ScaffoldMessenger.of(context);
-                            if (path != null) {
-                              messenger.showSnackBar(
-                                SnackBar(content: Text('Exported to: $path')),
-                              );
-                            } else {
-                              messenger.showSnackBar(
-                                const SnackBar(
-                                  content: Text('Failed to export to Excel.'),
+                                  autofocus: true,
                                 ),
+                                actions: [
+                                  TextButton(
+                                    onPressed: () =>
+                                        Navigator.of(context).pop(),
+                                    child: const Text('Cancel'),
+                                  ),
+                                  FilledButton(
+                                    onPressed: () => Navigator.of(
+                                      context,
+                                    ).pop(markerNameController.text.trim()),
+                                    child: const Text('Export'),
+                                  ),
+                                ],
                               );
-                            }
+                            },
+                          );
+
+                          if (markerName == null || markerName.isEmpty) {
+                            return;
                           }
-                        : null,
-                    icon: const Icon(Icons.download),
-                    label: const Text('Export to Excel'),
+
+                          final path = await ExcelExportService.exportToExcel(
+                            _results,
+                            markerName,
+                          );
+                          if (!context.mounted) return;
+                          final messenger = ScaffoldMessenger.of(context);
+                          if (path != null) {
+                            messenger.showSnackBar(
+                              SnackBar(content: Text('Exported to: $path')),
+                            );
+                          } else {
+                            messenger.showSnackBar(
+                              const SnackBar(
+                                content: Text('Failed to export to Excel.'),
+                              ),
+                            );
+                          }
+                        }
+                      : null,
+                  icon: const Icon(Icons.download, size: 14),
+                  label: const Text('Export to Excel'),
+                  style: FilledButton.styleFrom(
+                    minimumSize: const Size(0, 40),
+                    shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
+                  ),
+                ),
+              ],
+            ),
+          ),
+          if (_progressMessage.isNotEmpty)
+            Container(
+              margin: const EdgeInsets.only(bottom: 16),
+              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
+              decoration: BoxDecoration(
+                color: isDark ? const Color(0xFF1E293B).withOpacity(0.5) : const Color(0xFFF1F5F9),
+                borderRadius: BorderRadius.circular(10),
+                border: Border.all(
+                  color: isDark ? const Color(0xFF334155) : const Color(0xFFE2E8F0),
+                ),
+              ),
+              child: Row(
+                children: [
+                  const Icon(Icons.info_outline, size: 14, color: Color(0xFF6366F1)),
+                  const SizedBox(width: 8),
+                  Expanded(
+                    child: Text(
+                      _progressMessage,
+                      style: TextStyle(
+                        fontSize: 12,
+                        color: isDark ? const Color(0xFFCBD5E1) : const Color(0xFF475569),
+                      ),
+                    ),
                   ),
                 ],
               ),
-            ],
-          ),
-          const SizedBox(height: 8),
-          if (_progressMessage.isNotEmpty)
-            Container(
-              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
-              decoration: BoxDecoration(
-                color: Theme.of(context).colorScheme.surfaceContainerHighest,
-                borderRadius: BorderRadius.circular(8),
-              ),
-              child: Text(_progressMessage),
             ),
           if (_isGrading)
             const Padding(
-              padding: EdgeInsets.symmetric(vertical: 16.0),
-              child: LinearProgressIndicator(),
+              padding: EdgeInsets.symmetric(vertical: 12.0),
+              child: LinearProgressIndicator(
+                borderRadius: BorderRadius.all(Radius.circular(4)),
+                minHeight: 6,
+                backgroundColor: Colors.transparent,
+                color: Color(0xFF6366F1),
+              ),
             ),
-          const SizedBox(height: 16),
+          const SizedBox(height: 8),
           GradingDashboard(results: _results),
           ScoreFilterChips(
             results: _results,
@@ -885,85 +1432,55 @@ class _GradingReviewViewState extends State<GradingReviewView> {
           Expanded(
             child: _results.isEmpty
                 ? Center(
-                    child: Column(
-                      mainAxisAlignment: MainAxisAlignment.center,
-                      children: [
-                        Icon(
-                          Icons.hourglass_empty,
-                          size: 64,
-                          color: Theme.of(context).colorScheme.outline,
-                        ),
-                        const SizedBox(height: 16),
-                        Text(
-                          'No grades yet. Select files and start grading.',
-                          style: Theme.of(context).textTheme.bodyLarge
-                              ?.copyWith(
-                                color: Theme.of(
-                                  context,
-                                ).colorScheme.onSurfaceVariant,
-                              ),
-                        ),
-                      ],
-                    ),
-                  )
-                : Card(
-                    clipBehavior: Clip.antiAlias,
-                    elevation: 0,
-                    color: Theme.of(context).colorScheme.surfaceContainer,
-                    shape: RoundedRectangleBorder(
-                      borderRadius: BorderRadius.circular(16),
-                    ),
-                    child: SingleChildScrollView(
-                      child: DataTable(
-                        headingRowColor: WidgetStateProperty.resolveWith(
-                          (states) => Theme.of(
-                            context,
-                          ).colorScheme.surfaceContainerHighest,
-                        ),
-                        columns: const [
-                          DataColumn(label: Text('Student')),
-                          DataColumn(label: Text('Total Score')),
-                          DataColumn(label: Text('Feedback')),
-                          DataColumn(label: Text('Actions')),
+                    child: Padding(
+                      padding: const EdgeInsets.symmetric(vertical: 64.0),
+                      child: Column(
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        children: [
+                          Container(
+                            padding: const EdgeInsets.all(20),
+                            decoration: BoxDecoration(
+                              color: isDark ? const Color(0xFF1E293B) : const Color(0xFFF1F5F9),
+                              shape: BoxShape.circle,
+                            ),
+                            child: Icon(
+                              Icons.assignment_outlined,
+                              size: 40,
+                              color: isDark ? const Color(0xFF64748B) : const Color(0xFF94A3B8),
+                            ),
+                          ),
+                          const SizedBox(height: 16),
+                          Text(
+                            'No grades yet. Select files and start grading.',
+                            style: TextStyle(
+                              fontSize: 15,
+                              fontWeight: FontWeight.w600,
+                              color: isDark ? const Color(0xFF94A3B8) : const Color(0xFF475569),
+                            ),
+                          ),
+                          const SizedBox(height: 4),
+                          Text(
+                            'Go to "Setup Files" to configure paths and launch the auto-grader.',
+                            style: TextStyle(
+                              fontSize: 11,
+                              color: isDark ? const Color(0xFF64748B) : const Color(0xFF94A3B8),
+                            ),
+                          ),
                         ],
-                        rows: List.generate(_filteredResults.length, (index) {
-                          final res = _filteredResults[index];
-                          final actualIndex = _results.indexOf(res);
-                          return DataRow(
-                            cells: [
-                              DataCell(Text(res.studentFile)),
-                              DataCell(
-                                Text(
-                                  '${res.score.toStringAsFixed(1)} / 100',
-                                  style: const TextStyle(
-                                    fontWeight: FontWeight.bold,
-                                  ),
-                                ),
-                              ),
-                              DataCell(
-                                SizedBox(
-                                  width: 300,
-                                  child: Tooltip(
-                                    message: res.feedback,
-                                    child: Text(
-                                      res.feedback,
-                                      overflow: TextOverflow.ellipsis,
-                                    ),
-                                  ),
-                                ),
-                              ),
-                              DataCell(
-                                FilledButton.tonal(
-                                  onPressed: () =>
-                                      _showDetailsDialog(context, actualIndex),
-                                  child: const Text('Review Details'),
-                                ),
-                              ),
-                            ],
-                          );
-                        }),
                       ),
                     ),
+                  )
+                : ListView.separated(
+                    itemCount: _filteredResults.length,
+                    separatorBuilder: (context, index) => const SizedBox(height: 10),
+                    itemBuilder: (context, index) {
+                      final res = _filteredResults[index];
+                      final actualIndex = _results.indexOf(res);
+                      return _StudentResultRow(
+                        result: res,
+                        onReviewPressed: () => _showDetailsDialog(context, actualIndex),
+                      );
+                    },
                   ),
           ),
         ],
@@ -987,37 +1504,37 @@ class _GradingReviewViewState extends State<GradingReviewView> {
       context: context,
       builder: (context) {
         return AlertDialog(
-          title: Text('Chỉnh sửa điểm: ${criterion.criterionId}'),
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
+          title: Text('Edit Score: ${criterion.criterionId}'),
           content: Column(
             mainAxisSize: MainAxisSize.min,
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Text(
                 criterion.criterionName,
-                style: const TextStyle(fontWeight: FontWeight.w500),
+                style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 13),
               ),
               const SizedBox(height: 16),
               TextField(
                 controller: controller,
-                keyboardType: TextInputType.number,
+                keyboardType: const TextInputType.numberWithOptions(decimal: true),
                 decoration: InputDecoration(
-                  labelText: 'Điểm số',
-                  hintText: 'Nhập điểm (0 - ${criterion.maxScore})',
-                  border: const OutlineInputBorder(),
+                  labelText: 'Points Awarded',
+                  hintText: 'Enter score (0 - ${criterion.maxScore})',
                   suffixText: '/ ${criterion.maxScore}',
                 ),
               ),
-              const SizedBox(height: 8),
+              const SizedBox(height: 10),
               Text(
-                'Level hiện tại: ${criterion.levelAwarded}',
-                style: TextStyle(fontSize: 12, color: Colors.grey[600]),
+                'Current Status: ${criterion.levelAwarded.toUpperCase()}',
+                style: TextStyle(fontSize: 11, color: Colors.grey[500], fontWeight: FontWeight.bold),
               ),
             ],
           ),
           actions: [
             TextButton(
               onPressed: () => Navigator.pop(context),
-              child: const Text('Hủy'),
+              child: const Text('Cancel'),
             ),
             FilledButton(
               onPressed: () {
@@ -1034,7 +1551,6 @@ class _GradingReviewViewState extends State<GradingReviewView> {
                     levelAwarded = 'fail';
                   }
 
-                  // Create new criterion with updated score
                   final updatedCriterion = CriterionScore(
                     criterionId: criterion.criterionId,
                     criterionName: criterion.criterionName,
@@ -1044,7 +1560,6 @@ class _GradingReviewViewState extends State<GradingReviewView> {
                     feedback: criterion.feedback,
                   );
 
-                  // Create new criteria list with updated criterion
                   final updatedCriteria = List<CriterionScore>.from(
                     _results[resultIndex]
                         .requirements[requirementIndex]
@@ -1052,13 +1567,11 @@ class _GradingReviewViewState extends State<GradingReviewView> {
                   );
                   updatedCriteria[criterionIndex] = updatedCriterion;
 
-                  // Calculate new subtotal
                   final newSubtotal = updatedCriteria.fold<double>(
                     0.0,
                     (sum, c) => sum + c.scoreGiven,
                   );
 
-                  // Create new requirement with updated data
                   final req =
                       _results[resultIndex].requirements[requirementIndex];
                   final updatedRequirement = RequirementScore(
@@ -1072,19 +1585,16 @@ class _GradingReviewViewState extends State<GradingReviewView> {
                     criteria: updatedCriteria,
                   );
 
-                  // Create new requirements list
                   final updatedRequirements = List<RequirementScore>.from(
                     _results[resultIndex].requirements,
                   );
                   updatedRequirements[requirementIndex] = updatedRequirement;
 
-                  // Calculate new total
                   final newTotal = updatedRequirements.fold<double>(
                     0.0,
                     (sum, r) => sum + r.subtotalScore,
                   );
 
-                  // Create new result
                   final result = _results[resultIndex];
                   final updatedResult = GradingResult(
                     studentFile: result.studentFile,
@@ -1095,35 +1605,28 @@ class _GradingReviewViewState extends State<GradingReviewView> {
                     fullResponse: result.fullResponse,
                   );
 
-                  // Update parent view state and store
                   setState(() {
                     _results[resultIndex] = updatedResult;
                   });
 
-                  // Update GradingStore to persist changes
                   GradingStore.mergeResults([updatedResult]);
-
-                  // Update global store immediately
-                  GradingStore.mergeResults([updatedResult]);
-
-                  // Trigger dialog rebuild
                   onSaved();
 
                   Navigator.pop(context);
                   ScaffoldMessenger.of(context).showSnackBar(
-                    const SnackBar(content: Text('Đã cập nhật điểm')),
+                    const SnackBar(content: Text('Points updated successfully')),
                   );
                 } else {
                   ScaffoldMessenger.of(context).showSnackBar(
                     SnackBar(
                       content: Text(
-                        'Điểm không hợp lệ (0-${criterion.maxScore})',
+                        'Invalid score (must be between 0 and ${criterion.maxScore})',
                       ),
                     ),
                   );
                 }
               },
-              child: const Text('Lưu'),
+              child: const Text('Save'),
             ),
           ],
         );
@@ -1138,311 +1641,376 @@ class _GradingReviewViewState extends State<GradingReviewView> {
         return StatefulBuilder(
           builder: (context, setStateDialog) {
             final res = _results[index];
-            return AlertDialog(
-              title: Text('Grading Details: ${res.studentFile}'),
-              content: SizedBox(
-                width: 1200,
-                height: 700,
-                child: Row(
+            final isDark = Theme.of(context).brightness == Brightness.dark;
+            
+            return Dialog(
+              shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(24)),
+              elevation: 24,
+              backgroundColor: isDark ? const Color(0xFF0F172A) : Colors.white,
+              child: Container(
+                width: 1100,
+                height: 750,
+                padding: const EdgeInsets.all(24),
+                child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Expanded(
-                      flex: 1,
-                      child: Column(
-                        crossAxisAlignment: CrossAxisAlignment.start,
-                        children: [
-                          Text(
-                            'Student Submission',
-                            style: Theme.of(context).textTheme.titleLarge,
-                          ),
-                          const SizedBox(height: 8),
-                          Expanded(
-                            child: Container(
-                              width: double.infinity,
-                              padding: const EdgeInsets.all(16),
+                    Row(
+                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                      children: [
+                        Row(
+                          children: [
+                            Container(
+                              padding: const EdgeInsets.all(8),
                               decoration: BoxDecoration(
-                                color: Theme.of(
-                                  context,
-                                ).colorScheme.surfaceContainerHighest,
+                                color: const Color(0xFF6366F1).withOpacity(0.12),
+                                borderRadius: BorderRadius.circular(10),
+                              ),
+                              child: const Icon(Icons.assignment_ind, color: Color(0xFF6366F1), size: 20),
+                            ),
+                            const SizedBox(width: 12),
+                            Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                Text(
+                                  'Grading Review Details',
+                                  style: TextStyle(
+                                    fontSize: 18,
+                                    fontWeight: FontWeight.bold,
+                                    color: isDark ? Colors.white : const Color(0xFF0F172A),
+                                  ),
+                                ),
+                                Text(
+                                  res.studentFile,
+                                  style: TextStyle(
+                                    fontSize: 12,
+                                    color: isDark ? const Color(0xFF94A3B8) : const Color(0xFF64748B),
+                                  ),
+                                ),
+                              ],
+                            ),
+                          ],
+                        ),
+                        Row(
+                          children: [
+                            Container(
+                              padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
+                              decoration: BoxDecoration(
+                                color: const Color(0xFF10B981).withOpacity(0.12),
                                 borderRadius: BorderRadius.circular(12),
                               ),
-                              child: SingleChildScrollView(
-                                child: SelectableText(
-                                  res.submissionContent,
+                              child: RichText(
+                                text: TextSpan(
                                   style: const TextStyle(
-                                    fontFamily: 'Consolas',
                                     fontSize: 13,
+                                    fontWeight: FontWeight.bold,
+                                    color: Color(0xFF10B981),
                                   ),
+                                  children: [
+                                    const TextSpan(text: 'Score: '),
+                                    TextSpan(
+                                      text: res.score.toStringAsFixed(1),
+                                      style: const TextStyle(fontSize: 15, fontWeight: FontWeight.w800),
+                                    ),
+                                    const TextSpan(text: ' / 100'),
+                                  ],
                                 ),
                               ),
                             ),
-                          ),
-                        ],
-                      ),
+                            const SizedBox(width: 8),
+                            IconButton(
+                              onPressed: () {
+                                GradingStore.mergeResults(_results);
+                                Navigator.of(context).pop();
+                              },
+                              icon: const Icon(Icons.close),
+                              style: IconButton.styleFrom(
+                                backgroundColor: isDark ? const Color(0xFF1E293B) : const Color(0xFFF1F5F9),
+                              ),
+                            ),
+                          ],
+                        ),
+                      ],
                     ),
-                    const SizedBox(width: 24),
+                    const SizedBox(height: 16),
+                    const Divider(),
+                    const SizedBox(height: 16),
                     Expanded(
-                      flex: 1,
-                      child: Column(
+                      child: Row(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
-                          Text(
-                            'Rubric Scoring Details',
-                            style: Theme.of(context).textTheme.titleLarge,
-                          ),
-                          const SizedBox(height: 8),
+                          // Left side: Student Submission view
                           Expanded(
-                            child: res.requirements.isEmpty
-                                ? const Center(
-                                    child: Text('No detailed questions found.'),
-                                  )
-                                : ListView.builder(
-                                    itemCount: res.requirements.length,
-                                    itemBuilder: (context, qIndex) {
-                                      final q = res.requirements[qIndex];
-
-                                      // DEBUG: Print requirement info
-                                      debugPrint(
-                                        '=== UI DEBUG: Requirement $qIndex ===',
-                                      );
-                                      debugPrint('ID: ${q.requirementId}');
-                                      debugPrint('Name: ${q.requirementName}');
-                                      debugPrint(
-                                        'Criteria count: ${q.criteria.length}',
-                                      );
-                                      if (q.criteria.isNotEmpty) {
-                                        for (var c in q.criteria) {
-                                          debugPrint(
-                                            '  - ${c.criterionId}: ${c.criterionName} (${c.scoreGiven}/${c.maxScore})',
-                                          );
-                                        }
-                                      }
-
-                                      return Card(
-                                        margin: const EdgeInsets.only(
-                                          bottom: 12,
+                            flex: 1,
+                            child: Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                Text(
+                                  'Student Submission Code/Text',
+                                  style: TextStyle(
+                                    fontSize: 13,
+                                    fontWeight: FontWeight.bold,
+                                    color: isDark ? Colors.white : const Color(0xFF0F172A),
+                                  ),
+                                ),
+                                const SizedBox(height: 8),
+                                Expanded(
+                                  child: Container(
+                                    width: double.infinity,
+                                    padding: const EdgeInsets.all(16),
+                                    decoration: BoxDecoration(
+                                      color: isDark ? const Color(0xFF090D16) : const Color(0xFFF8FAFC),
+                                      borderRadius: BorderRadius.circular(16),
+                                      border: Border.all(
+                                        color: isDark ? const Color(0xFF1E293B) : const Color(0xFFE2E8F0),
+                                      ),
+                                    ),
+                                    child: SingleChildScrollView(
+                                      child: SelectableText(
+                                        res.submissionContent,
+                                        style: TextStyle(
+                                          fontFamily: 'Consolas',
+                                          fontSize: 12,
+                                          height: 1.5,
+                                          color: isDark ? const Color(0xFFCBD5E1) : const Color(0xFF334155),
                                         ),
-                                        child: ExpansionTile(
-                                          initiallyExpanded: true,
-                                          tilePadding:
-                                              const EdgeInsets.symmetric(
-                                                horizontal: 16,
-                                                vertical: 8,
-                                              ),
-                                          childrenPadding:
-                                              const EdgeInsets.fromLTRB(
-                                                16,
-                                                0,
-                                                16,
-                                                16,
-                                              ),
-                                          title: Text(
-                                            '${q.requirementId} - ${q.requirementName}',
-                                            style: Theme.of(context)
-                                                .textTheme
-                                                .titleMedium
-                                                ?.copyWith(
-                                                  fontWeight: FontWeight.bold,
-                                                ),
-                                          ),
-                                          trailing: Container(
-                                            padding: const EdgeInsets.symmetric(
-                                              horizontal: 12,
-                                              vertical: 6,
-                                            ),
-                                            decoration: BoxDecoration(
-                                              color: Theme.of(
-                                                context,
-                                              ).colorScheme.primaryContainer,
-                                              borderRadius:
-                                                  BorderRadius.circular(12),
-                                            ),
-                                            child: Text(
-                                              '${q.subtotalScore.toStringAsFixed(1)} / ${q.maxScore.toStringAsFixed(1)}',
-                                              style: TextStyle(
-                                                fontWeight: FontWeight.bold,
-                                                color: Theme.of(context)
-                                                    .colorScheme
-                                                    .onPrimaryContainer,
-                                              ),
-                                            ),
-                                          ),
-                                          children: [
-                                            // Danh sách criteria chi tiết
-                                            if (q.criteria.isNotEmpty) ...[
-                                              const SizedBox(height: 8),
-                                              ...q.criteria.map((item) {
-                                                final isPass =
-                                                    item.scoreGiven > 0;
-                                                late final Color statusColor;
-                                                late final String statusIcon;
-                                                if (isPass) {
-                                                  statusColor = Theme.of(
-                                                    context,
-                                                  ).colorScheme.primary;
-                                                  statusIcon = '✓';
-                                                } else {
-                                                  statusColor = Theme.of(
-                                                    context,
-                                                  ).colorScheme.error;
-                                                  statusIcon = '✗';
-                                                }
+                                      ),
+                                    ),
+                                  ),
+                                ),
+                              ],
+                            ),
+                          ),
+                          const SizedBox(width: 24),
+                          // Right side: Rubric Scoring details
+                          Expanded(
+                            flex: 1,
+                            child: Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                Text(
+                                  'Rubric Scoring Details',
+                                  style: TextStyle(
+                                    fontSize: 13,
+                                    fontWeight: FontWeight.bold,
+                                    color: isDark ? Colors.white : const Color(0xFF0F172A),
+                                  ),
+                                ),
+                                const SizedBox(height: 8),
+                                Expanded(
+                                  child: res.requirements.isEmpty
+                                      ? const Center(
+                                          child: Text('No detailed requirements found.'),
+                                        )
+                                      : ListView.builder(
+                                          itemCount: res.requirements.length,
+                                          itemBuilder: (context, qIndex) {
+                                            final q = res.requirements[qIndex];
 
-                                                return Padding(
-                                                  padding:
-                                                      const EdgeInsets.only(
-                                                        bottom: 8,
-                                                        left: 8,
-                                                        right: 8,
+                                            return Container(
+                                              margin: const EdgeInsets.only(bottom: 12),
+                                              decoration: BoxDecoration(
+                                                color: isDark ? const Color(0xFF1E293B).withOpacity(0.3) : Colors.white,
+                                                borderRadius: BorderRadius.circular(16),
+                                                border: Border.all(
+                                                  color: isDark ? const Color(0xFF1E293B) : const Color(0xFFE2E8F0),
+                                                ),
+                                              ),
+                                              child: Theme(
+                                                data: Theme.of(context).copyWith(
+                                                  dividerColor: Colors.transparent,
+                                                ),
+                                                child: ExpansionTile(
+                                                  initiallyExpanded: true,
+                                                  tilePadding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                                                  childrenPadding: const EdgeInsets.fromLTRB(16, 0, 16, 16),
+                                                  title: Text(
+                                                    '${q.requirementId} - ${q.requirementName}',
+                                                    style: TextStyle(
+                                                      fontWeight: FontWeight.bold,
+                                                      fontSize: 13,
+                                                      color: isDark ? Colors.white : const Color(0xFF0F172A),
+                                                    ),
+                                                  ),
+                                                  trailing: Container(
+                                                    padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+                                                    decoration: BoxDecoration(
+                                                      color: const Color(0xFF6366F1).withOpacity(0.1),
+                                                      borderRadius: BorderRadius.circular(20),
+                                                    ),
+                                                    child: Text(
+                                                      '${q.subtotalScore.toStringAsFixed(1)} / ${q.maxScore.toStringAsFixed(1)}',
+                                                      style: const TextStyle(
+                                                        fontWeight: FontWeight.bold,
+                                                        fontSize: 11,
+                                                        color: Color(0xFF6366F1),
                                                       ),
-                                                  child: Row(
-                                                    crossAxisAlignment:
-                                                        CrossAxisAlignment
-                                                            .start,
-                                                    children: [
-                                                      Text(
-                                                        statusIcon,
-                                                        style: TextStyle(
-                                                          color: statusColor,
-                                                          fontWeight:
-                                                              FontWeight.bold,
-                                                          fontSize: 16,
-                                                        ),
-                                                      ),
-                                                      const SizedBox(width: 12),
-                                                      Expanded(
-                                                        child: RichText(
-                                                          text: TextSpan(
-                                                            style:
-                                                                DefaultTextStyle.of(
-                                                                  context,
-                                                                ).style,
+                                                    ),
+                                                  ),
+                                                  children: [
+                                                    if (q.criteria.isNotEmpty) ...[
+                                                      const SizedBox(height: 8),
+                                                      ...q.criteria.map((item) {
+                                                        final isPass = item.scoreGiven > 0;
+                                                        final statusColor = isPass ? const Color(0xFF10B981) : const Color(0xFFEF4444);
+                                                        final statusIcon = isPass ? '✓' : '✗';
+
+                                                        return Container(
+                                                          margin: const EdgeInsets.only(bottom: 8),
+                                                          padding: const EdgeInsets.all(10),
+                                                          decoration: BoxDecoration(
+                                                            color: isDark ? const Color(0xFF0F172A).withOpacity(0.6) : const Color(0xFFF8FAFC),
+                                                            borderRadius: BorderRadius.circular(12),
+                                                            border: Border.all(
+                                                              color: isDark ? const Color(0xFF1E293B) : const Color(0xFFF1F5F9),
+                                                            ),
+                                                          ),
+                                                          child: Row(
+                                                            crossAxisAlignment: CrossAxisAlignment.start,
                                                             children: [
-                                                              TextSpan(
-                                                                text:
-                                                                    '${item.criterionId}: ',
-                                                                style: const TextStyle(
-                                                                  fontWeight:
-                                                                      FontWeight
-                                                                          .bold,
-                                                                  fontSize: 14,
+                                                              Container(
+                                                                margin: const EdgeInsets.only(top: 2),
+                                                                width: 18,
+                                                                height: 18,
+                                                                decoration: BoxDecoration(
+                                                                  color: statusColor.withOpacity(0.12),
+                                                                  shape: BoxShape.circle,
+                                                                ),
+                                                                alignment: Alignment.center,
+                                                                child: Text(
+                                                                  statusIcon,
+                                                                  style: TextStyle(
+                                                                    color: statusColor,
+                                                                    fontWeight: FontWeight.bold,
+                                                                    fontSize: 11,
+                                                                  ),
                                                                 ),
                                                               ),
-                                                              TextSpan(
-                                                                text: item
-                                                                    .criterionName,
-                                                                style:
-                                                                    const TextStyle(
-                                                                      fontSize:
-                                                                          14,
+                                                              const SizedBox(width: 10),
+                                                              Expanded(
+                                                                child: Column(
+                                                                  crossAxisAlignment: CrossAxisAlignment.start,
+                                                                  children: [
+                                                                    RichText(
+                                                                      text: TextSpan(
+                                                                        style: DefaultTextStyle.of(context).style.copyWith(fontSize: 12),
+                                                                        children: [
+                                                                          TextSpan(
+                                                                            text: '${item.criterionId}: ',
+                                                                            style: TextStyle(
+                                                                              fontWeight: FontWeight.bold,
+                                                                              color: isDark ? Colors.white : const Color(0xFF0F172A),
+                                                                            ),
+                                                                          ),
+                                                                          TextSpan(
+                                                                            text: item.criterionName,
+                                                                            style: TextStyle(
+                                                                              color: isDark ? const Color(0xFF94A3B8) : const Color(0xFF475569),
+                                                                            ),
+                                                                          ),
+                                                                        ],
+                                                                      ),
                                                                     ),
+                                                                    if (item.feedback.isNotEmpty) ...[
+                                                                      const SizedBox(height: 6),
+                                                                      Text(
+                                                                        '💬 ${item.feedback}',
+                                                                        style: TextStyle(
+                                                                          fontSize: 11,
+                                                                          fontStyle: FontStyle.italic,
+                                                                          color: isDark ? const Color(0xFF64748B) : const Color(0xFF64748B),
+                                                                        ),
+                                                                      ),
+                                                                    ],
+                                                                  ],
+                                                                ),
+                                                              ),
+                                                              const SizedBox(width: 10),
+                                                              Row(
+                                                                mainAxisSize: MainAxisSize.min,
+                                                                children: [
+                                                                  Text(
+                                                                    '${item.scoreGiven.toStringAsFixed(1)}/${item.maxScore.toStringAsFixed(1)}',
+                                                                    style: TextStyle(
+                                                                      color: statusColor,
+                                                                      fontSize: 11,
+                                                                      fontWeight: FontWeight.bold,
+                                                                    ),
+                                                                  ),
+                                                                  const SizedBox(width: 4),
+                                                                  IconButton(
+                                                                    icon: const Icon(Icons.edit, size: 13),
+                                                                    padding: EdgeInsets.zero,
+                                                                    constraints: const BoxConstraints(),
+                                                                    onPressed: () => _editCriterionScore(
+                                                                      context,
+                                                                      index,
+                                                                      qIndex,
+                                                                      q.criteria.indexOf(item),
+                                                                      item,
+                                                                      () {
+                                                                        setStateDialog(() {});
+                                                                      },
+                                                                    ),
+                                                                    tooltip: 'Edit Score',
+                                                                    style: IconButton.styleFrom(
+                                                                      backgroundColor: isDark ? const Color(0xFF1E293B) : const Color(0xFFF1F5F9),
+                                                                    ),
+                                                                  ),
+                                                                ],
                                                               ),
                                                             ],
                                                           ),
+                                                        );
+                                                      }),
+                                                    ] else ...[
+                                                      const Padding(
+                                                        padding: EdgeInsets.all(12.0),
+                                                        child: Text(
+                                                          'No criteria details available',
+                                                          style: TextStyle(
+                                                            fontStyle: FontStyle.italic,
+                                                            fontSize: 11,
+                                                            color: Colors.grey,
+                                                          ),
                                                         ),
-                                                      ),
-                                                      const SizedBox(width: 12),
-                                                      Text(
-                                                        '${item.scoreGiven.toStringAsFixed(1)}/${item.maxScore.toStringAsFixed(1)}',
-                                                        style: TextStyle(
-                                                          color: statusColor,
-                                                          fontSize: 14,
-                                                          fontWeight:
-                                                              FontWeight.bold,
-                                                        ),
-                                                      ),
-                                                      const SizedBox(width: 8),
-                                                      IconButton(
-                                                        icon: const Icon(
-                                                          Icons.edit,
-                                                          size: 16,
-                                                        ),
-                                                        padding:
-                                                            EdgeInsets.zero,
-                                                        constraints:
-                                                            const BoxConstraints(),
-                                                        onPressed: () =>
-                                                            _editCriterionScore(
-                                                              context,
-                                                              index,
-                                                              qIndex,
-                                                              q.criteria
-                                                                  .indexOf(
-                                                                    item,
-                                                                  ),
-                                                              item,
-                                                              () {
-                                                                setStateDialog(
-                                                                  () {},
-                                                                );
-                                                              },
-                                                            ),
-                                                        tooltip:
-                                                            'Chỉnh sửa điểm',
                                                       ),
                                                     ],
-                                                  ),
-                                                );
-                                              }),
-                                            ] else ...[
-                                              const Padding(
-                                                padding: EdgeInsets.all(16.0),
-                                                child: Text(
-                                                  'No criteria details available',
-                                                  style: TextStyle(
-                                                    fontStyle: FontStyle.italic,
-                                                    color: Colors.grey,
-                                                  ),
-                                                ),
-                                              ),
-                                            ],
-                                            // Common mistakes nếu có
-                                            if (q
-                                                .commonMistakesDetected
-                                                .isNotEmpty) ...[
-                                              const Divider(),
-                                              const SizedBox(height: 8),
-                                              Padding(
-                                                padding:
-                                                    const EdgeInsets.symmetric(
-                                                      horizontal: 8.0,
-                                                    ),
-                                                child: Row(
-                                                  crossAxisAlignment:
-                                                      CrossAxisAlignment.start,
-                                                  children: [
-                                                    Icon(
-                                                      Icons
-                                                          .warning_amber_rounded,
-                                                      size: 18,
-                                                      color: Theme.of(
-                                                        context,
-                                                      ).colorScheme.error,
-                                                    ),
-                                                    const SizedBox(width: 8),
-                                                    Expanded(
-                                                      child: Text(
-                                                        'Common mistakes: ${q.commonMistakesDetected.join(', ')}',
-                                                        style: TextStyle(
-                                                          color: Theme.of(
-                                                            context,
-                                                          ).colorScheme.error,
-                                                          fontStyle:
-                                                              FontStyle.italic,
-                                                          fontSize: 13,
+                                                    if (q.commonMistakesDetected.isNotEmpty) ...[
+                                                      const SizedBox(height: 6),
+                                                      Container(
+                                                        padding: const EdgeInsets.all(10),
+                                                        decoration: BoxDecoration(
+                                                          color: const Color(0xFFEF4444).withOpacity(0.06),
+                                                          borderRadius: BorderRadius.circular(10),
+                                                        ),
+                                                        child: Row(
+                                                          crossAxisAlignment: CrossAxisAlignment.start,
+                                                          children: [
+                                                            const Icon(Icons.warning_amber_rounded, size: 14, color: Color(0xFFEF4444)),
+                                                            const SizedBox(width: 6),
+                                                            Expanded(
+                                                              child: Text(
+                                                                'Mistakes: ${q.commonMistakesDetected.join(', ')}',
+                                                                style: const TextStyle(
+                                                                  color: Color(0xFFEF4444),
+                                                                  fontStyle: FontStyle.italic,
+                                                                  fontSize: 11,
+                                                                ),
+                                                              ),
+                                                            ),
+                                                          ],
                                                         ),
                                                       ),
-                                                    ),
+                                                    ],
                                                   ],
                                                 ),
                                               ),
-                                              const SizedBox(height: 8),
-                                            ],
-                                          ],
+                                            );
+                                          },
                                         ),
-                                      );
-                                    },
-                                  ),
+                                ),
+                              ],
+                            ),
                           ),
                         ],
                       ),
@@ -1450,19 +2018,223 @@ class _GradingReviewViewState extends State<GradingReviewView> {
                   ],
                 ),
               ),
-              actions: [
-                TextButton(
-                  onPressed: () {
-                    GradingStore.mergeResults(_results);
-                    Navigator.of(context).pop();
-                  },
-                  child: const Text('Done'),
-                ),
-              ],
             );
           },
         );
       },
+    );
+  }
+}
+
+class _StudentResultRow extends StatefulWidget {
+  final GradingResult result;
+  final VoidCallback onReviewPressed;
+
+  const _StudentResultRow({
+    required this.result,
+    required this.onReviewPressed,
+  });
+
+  @override
+  State<_StudentResultRow> createState() => _StudentResultRowState();
+}
+
+class _StudentResultRowState extends State<_StudentResultRow> {
+  bool _isHovered = false;
+
+  @override
+  Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    final score = widget.result.score;
+    
+    late final String gradeLabel;
+    late final Color gradeColor;
+    if (score >= 80) {
+      gradeLabel = 'EXCELLENT';
+      gradeColor = const Color(0xFF10B981);
+    } else if (score >= 65) {
+      gradeLabel = 'GOOD';
+      gradeColor = const Color(0xFF0EA5E9);
+    } else if (score >= 50) {
+      gradeLabel = 'AVERAGE';
+      gradeColor = const Color(0xFFF59E0B);
+    } else {
+      gradeLabel = 'WEAK';
+      gradeColor = const Color(0xFFEF4444);
+    }
+
+    return MouseRegion(
+      onEnter: (_) => setState(() => _isHovered = true),
+      onExit: (_) => setState(() => _isHovered = false),
+      child: AnimatedContainer(
+        duration: const Duration(milliseconds: 150),
+        decoration: BoxDecoration(
+          color: isDark 
+              ? (_isHovered ? const Color(0xFF1E293B) : const Color(0xFF1E293B).withOpacity(0.5))
+              : (_isHovered ? const Color(0xFFF8FAFC) : Colors.white),
+          borderRadius: BorderRadius.circular(16),
+          border: Border.all(
+            color: isDark 
+                ? (_isHovered ? const Color(0xFF475569) : const Color(0xFF334155))
+                : (_isHovered ? const Color(0xFFCBD5E1) : const Color(0xFFE2E8F0)),
+            width: 1,
+          ),
+          boxShadow: [
+            BoxShadow(
+              color: Colors.black.withOpacity(isDark ? 0.05 : 0.01),
+              blurRadius: 8,
+              offset: const Offset(0, 2),
+            ),
+          ],
+        ),
+        padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 14),
+        child: Row(
+          children: [
+            Container(
+              padding: const EdgeInsets.all(8),
+              decoration: BoxDecoration(
+                color: gradeColor.withOpacity(0.1),
+                shape: BoxShape.circle,
+              ),
+              child: Icon(
+                Icons.person_outline,
+                color: gradeColor,
+                size: 18,
+              ),
+            ),
+            const SizedBox(width: 14),
+            Expanded(
+              flex: 3,
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(
+                    widget.result.studentFile,
+                    style: TextStyle(
+                      fontWeight: FontWeight.bold,
+                      fontSize: 13,
+                      color: isDark ? Colors.white : const Color(0xFF0F172A),
+                    ),
+                    overflow: TextOverflow.ellipsis,
+                  ),
+                  const SizedBox(height: 2),
+                  Text(
+                    'Student Submission File',
+                    style: TextStyle(
+                      fontSize: 10,
+                      color: isDark ? const Color(0xFF64748B) : const Color(0xFF94A3B8),
+                    ),
+                  ),
+                ],
+              ),
+            ),
+            Expanded(
+              flex: 2,
+              child: Align(
+                alignment: Alignment.centerLeft,
+                child: Container(
+                  padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                  decoration: BoxDecoration(
+                    color: gradeColor.withOpacity(0.12),
+                    borderRadius: BorderRadius.circular(20),
+                  ),
+                  child: Text(
+                    gradeLabel,
+                    style: TextStyle(
+                      fontSize: 9,
+                      fontWeight: FontWeight.bold,
+                      color: gradeColor,
+                      letterSpacing: 0.5,
+                    ),
+                  ),
+                ),
+              ),
+            ),
+            Expanded(
+              flex: 2,
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  RichText(
+                    text: TextSpan(
+                      style: TextStyle(
+                        fontFamily: 'DM Sans',
+                        fontSize: 15,
+                        fontWeight: FontWeight.bold,
+                        color: isDark ? Colors.white : const Color(0xFF0F172A),
+                      ),
+                      children: [
+                        TextSpan(
+                          text: widget.result.score.toStringAsFixed(1),
+                          style: TextStyle(color: gradeColor),
+                        ),
+                        TextSpan(
+                          text: ' / 100',
+                          style: TextStyle(
+                            fontSize: 11,
+                            fontWeight: FontWeight.normal,
+                            color: isDark ? const Color(0xFF64748B) : const Color(0xFF94A3B8),
+                          ),
+                        ),
+                      ],
+                    ),
+                  ),
+                  const SizedBox(height: 2),
+                  Text(
+                    'Final Score',
+                    style: TextStyle(
+                      fontSize: 9,
+                      color: isDark ? const Color(0xFF64748B) : const Color(0xFF94A3B8),
+                    ),
+                  ),
+                ],
+              ),
+            ),
+            Expanded(
+              flex: 4,
+              child: Padding(
+                padding: const EdgeInsets.only(right: 12.0),
+                child: Tooltip(
+                  message: widget.result.feedback,
+                  child: Text(
+                    widget.result.feedback,
+                    style: TextStyle(
+                      fontSize: 11,
+                      color: isDark ? const Color(0xFF94A3B8) : const Color(0xFF64748B),
+                    ),
+                    maxLines: 2,
+                    overflow: TextOverflow.ellipsis,
+                  ),
+                ),
+              ),
+            ),
+            ElevatedButton(
+              onPressed: widget.onReviewPressed,
+              style: ElevatedButton.styleFrom(
+                backgroundColor: isDark ? const Color(0xFF334155) : const Color(0xFFF1F5F9),
+                foregroundColor: isDark ? Colors.white : const Color(0xFF0F172A),
+                elevation: 0,
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(8),
+                ),
+                padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10),
+                textStyle: const TextStyle(
+                  fontSize: 11,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+              child: const Row(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  Text('Review'),
+                  SizedBox(width: 2),
+                  Icon(Icons.chevron_right, size: 12),
+                ],
+              ),
+            ),
+          ],
+        ),
+      ),
     );
   }
 }
@@ -1493,8 +2265,7 @@ class GradingDashboard extends StatelessWidget {
               value: '$total học sinh',
               subtitle: 'Student submissions processed',
               icon: Icons.people,
-              color: Theme.of(context).colorScheme.primaryContainer,
-              onColor: Theme.of(context).colorScheme.onPrimaryContainer,
+              baseColor: const Color(0xFF6366F1),
             ),
           ),
           const SizedBox(width: 16),
@@ -1504,8 +2275,7 @@ class GradingDashboard extends StatelessWidget {
               value: '${avg.toStringAsFixed(1)} / 100',
               subtitle: 'Average points scored',
               icon: Icons.analytics,
-              color: Theme.of(context).colorScheme.secondaryContainer,
-              onColor: Theme.of(context).colorScheme.onSecondaryContainer,
+              baseColor: const Color(0xFF0EA5E9),
             ),
           ),
           const SizedBox(width: 16),
@@ -1515,8 +2285,7 @@ class GradingDashboard extends StatelessWidget {
               value: '${passRate.toStringAsFixed(1)}%',
               subtitle: '$passCount / $total scored >= 50',
               icon: Icons.check_circle_outline,
-              color: Theme.of(context).colorScheme.tertiaryContainer,
-              onColor: Theme.of(context).colorScheme.onTertiaryContainer,
+              baseColor: const Color(0xFF10B981),
             ),
           ),
         ],
@@ -1530,8 +2299,7 @@ class MetricCard extends StatelessWidget {
   final String value;
   final String subtitle;
   final IconData icon;
-  final Color color;
-  final Color onColor;
+  final Color baseColor;
 
   const MetricCard({
     super.key,
@@ -1539,26 +2307,46 @@ class MetricCard extends StatelessWidget {
     required this.value,
     required this.subtitle,
     required this.icon,
-    required this.color,
-    required this.onColor,
+    required this.baseColor,
   });
 
   @override
   Widget build(BuildContext context) {
-    return Card(
-      elevation: 0,
-      color: color,
-      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    
+    return Container(
+      decoration: BoxDecoration(
+        color: isDark ? const Color(0xFF1E293B).withOpacity(0.6) : Colors.white,
+        borderRadius: BorderRadius.circular(20),
+        border: Border.all(
+          color: isDark ? const Color(0xFF334155) : const Color(0xFFE2E8F0),
+        ),
+        boxShadow: [
+          BoxShadow(
+            color: Colors.black.withOpacity(isDark ? 0.1 : 0.02),
+            blurRadius: 12,
+            offset: const Offset(0, 4),
+          ),
+        ],
+      ),
       child: Padding(
         padding: const EdgeInsets.all(16.0),
         child: Row(
           children: [
-            CircleAvatar(
-              backgroundColor: onColor.withAlpha((0.1 * 255).round()),
-              radius: 24,
-              child: Icon(icon, color: onColor, size: 24),
+            Container(
+              width: 48,
+              height: 48,
+              decoration: BoxDecoration(
+                color: baseColor.withOpacity(0.12),
+                shape: BoxShape.circle,
+              ),
+              child: Icon(
+                icon,
+                color: baseColor,
+                size: 22,
+              ),
             ),
-            const SizedBox(width: 16),
+            const SizedBox(width: 14),
             Expanded(
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
@@ -1566,9 +2354,9 @@ class MetricCard extends StatelessWidget {
                   Text(
                     title,
                     style: TextStyle(
-                      fontSize: 12,
-                      fontWeight: FontWeight.w500,
-                      color: onColor.withAlpha((0.8 * 255).round()),
+                      fontSize: 11,
+                      fontWeight: FontWeight.bold,
+                      color: isDark ? const Color(0xFF94A3B8) : const Color(0xFF64748B),
                     ),
                   ),
                   const SizedBox(height: 4),
@@ -1577,15 +2365,15 @@ class MetricCard extends StatelessWidget {
                     style: TextStyle(
                       fontSize: 20,
                       fontWeight: FontWeight.bold,
-                      color: onColor,
+                      color: isDark ? Colors.white : const Color(0xFF0F172A),
                     ),
                   ),
                   const SizedBox(height: 2),
                   Text(
                     subtitle,
                     style: TextStyle(
-                      fontSize: 10,
-                      color: onColor.withAlpha((0.6 * 255).round()),
+                      fontSize: 9,
+                      color: isDark ? const Color(0xFF64748B) : const Color(0xFF94A3B8),
                     ),
                   ),
                 ],
@@ -1630,22 +2418,96 @@ class ScoreFilterChips extends StatelessWidget {
       'Weak': 'Yếu (< 50)',
     };
 
+    final filterColors = {
+      'All': const Color(0xFF6366F1),
+      'Excellent': const Color(0xFF10B981),
+      'Good': const Color(0xFF0EA5E9),
+      'Average': const Color(0xFFF59E0B),
+      'Weak': const Color(0xFFEF4444),
+    };
+
     return Padding(
-      padding: const EdgeInsets.only(bottom: 8.0),
-      child: Row(
+      padding: const EdgeInsets.only(bottom: 12.0),
+      child: Wrap(
+        spacing: 8,
+        runSpacing: 8,
         children: labels.keys.map((filter) {
           final isCurrent = selectedFilter == filter;
           final count = counts[filter] ?? 0;
-          return Padding(
-            padding: const EdgeInsets.only(right: 8.0),
-            child: ChoiceChip(
-              label: Text('${labels[filter]} ($count)'),
-              selected: isCurrent,
-              onSelected: (selected) {
-                if (selected) {
-                  onSelected(filter);
-                }
-              },
+          final label = labels[filter]!;
+          final baseColor = filterColors[filter]!;
+          
+          final isDark = Theme.of(context).brightness == Brightness.dark;
+          
+          Color chipBg;
+          Color textCol;
+          Color borderCol;
+          
+          if (isCurrent) {
+            chipBg = baseColor;
+            textCol = Colors.white;
+            borderCol = baseColor;
+          } else {
+            chipBg = isDark 
+                ? baseColor.withOpacity(0.08) 
+                : baseColor.withOpacity(0.06);
+            textCol = isDark ? baseColor.withOpacity(0.9) : baseColor;
+            borderCol = isDark 
+                ? baseColor.withOpacity(0.15) 
+                : baseColor.withOpacity(0.12);
+          }
+
+          return MouseRegion(
+            cursor: SystemMouseCursors.click,
+            child: GestureDetector(
+              onTap: () => onSelected(filter),
+              child: AnimatedContainer(
+                duration: const Duration(milliseconds: 150),
+                padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+                decoration: BoxDecoration(
+                  color: chipBg,
+                  borderRadius: BorderRadius.circular(30),
+                  border: Border.all(color: borderCol, width: 1),
+                  boxShadow: isCurrent ? [
+                    BoxShadow(
+                      color: baseColor.withOpacity(0.2),
+                      blurRadius: 6,
+                      offset: const Offset(0, 2),
+                    )
+                  ] : null,
+                ),
+                child: Row(
+                  mainAxisSize: MainAxisSize.min,
+                  children: [
+                    Text(
+                      label,
+                      style: TextStyle(
+                        fontSize: 11,
+                        fontWeight: FontWeight.bold,
+                        color: textCol,
+                      ),
+                    ),
+                    const SizedBox(width: 4),
+                    Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 5, vertical: 1),
+                      decoration: BoxDecoration(
+                        color: isCurrent 
+                            ? Colors.white.withOpacity(0.2) 
+                            : (isDark ? baseColor.withOpacity(0.15) : baseColor.withOpacity(0.12)),
+                        borderRadius: BorderRadius.circular(10),
+                      ),
+                      child: Text(
+                        '$count',
+                        style: TextStyle(
+                          fontSize: 9,
+                          fontWeight: FontWeight.bold,
+                          color: isCurrent ? Colors.white : textCol,
+                        ),
+                      ),
+                    ),
+                  ],
+                ),
+              ),
             ),
           );
         }).toList(),
@@ -1659,49 +2521,69 @@ class SettingsView extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    
     return Padding(
       padding: const EdgeInsets.all(32.0),
       child: SingleChildScrollView(
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Text(
-              'AI Configuration',
-              style: Theme.of(context).textTheme.headlineMedium,
+            const ViewHeader(
+              title: 'AI Configuration',
+              subtitle: 'Check settings, endpoint status, and setup instructions.',
             ),
-            const SizedBox(height: 32),
+            const SizedBox(height: 16),
             const SettingsCard(
               title: 'API Endpoint',
               value: 'http://localhost:11434',
               icon: Icons.api,
+              cardColor: Color(0xFF6366F1),
             ),
             const SizedBox(height: 16),
             const SettingsCard(
-              title: 'Model',
-              value: 'Rubric JSON Parser',
+              title: 'Grading Model',
+              value: 'Rubric JSON Parser (Qwen Local Core)',
               icon: Icons.model_training,
+              cardColor: Color(0xFF0EA5E9),
             ),
             const SizedBox(height: 16),
             const SettingsCard(
-              title: 'Status',
-              value: 'Ready to grade',
+              title: 'Status Connection',
+              value: 'Ready to grade • Active server detected',
               icon: Icons.cloud_done,
+              cardColor: Color(0xFF10B981),
             ),
             const SizedBox(height: 32),
-            Text('Instructions', style: Theme.of(context).textTheme.titleLarge),
-            const SizedBox(height: 16),
+            Text(
+              'Grading Instructions', 
+              style: TextStyle(
+                fontSize: 16,
+                fontWeight: FontWeight.bold,
+                color: isDark ? Colors.white : const Color(0xFF0F172A),
+              ),
+            ),
+            const SizedBox(height: 12),
             Container(
-              padding: const EdgeInsets.all(16),
+              width: double.infinity,
+              padding: const EdgeInsets.all(20),
               decoration: BoxDecoration(
-                color: Theme.of(context).colorScheme.surfaceContainerHighest,
-                borderRadius: BorderRadius.circular(8),
+                color: isDark ? const Color(0xFF1E293B).withOpacity(0.4) : Colors.white,
+                borderRadius: BorderRadius.circular(16),
+                border: Border.all(
+                  color: isDark ? const Color(0xFF334155) : const Color(0xFFE2E8F0),
+                ),
               ),
               child: Text(
-                '1. Rubric can be .json or .docx\n'
-                '2. Student submissions must be .txt\n'
-                '3. Exported Excel includes both /100 and /10 scores\n'
-                '4. Return to Setup and start grading!',
-                style: Theme.of(context).textTheme.bodyMedium,
+                '1. Rubric files can be uploaded as .json or Microsoft Word .docx.\n'
+                '2. Student solutions files must be uploaded as .txt plain text files.\n'
+                '3. Output excel sheet will compile both /100 and standard /10 FPT grading scales.\n'
+                '4. Return to "Setup Files" tab to specify your workspaces and launch the AI Grader.',
+                style: TextStyle(
+                  fontSize: 12,
+                  height: 1.8,
+                  color: isDark ? const Color(0xFFCBD5E1) : const Color(0xFF475569),
+                ),
               ),
             ),
           ],
@@ -1715,33 +2597,71 @@ class SettingsCard extends StatelessWidget {
   final String title;
   final String value;
   final IconData icon;
+  final Color cardColor;
 
   const SettingsCard({
     super.key,
     required this.title,
     required this.value,
     required this.icon,
+    required this.cardColor,
   });
 
   @override
   Widget build(BuildContext context) {
-    return Card(
-      elevation: 0,
-      color: Theme.of(context).colorScheme.surfaceContainerHighest,
-      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    
+    return Container(
+      decoration: BoxDecoration(
+        color: isDark ? const Color(0xFF1E293B).withOpacity(0.6) : Colors.white,
+        borderRadius: BorderRadius.circular(20),
+        border: Border.all(
+          color: isDark ? const Color(0xFF334155) : const Color(0xFFE2E8F0),
+        ),
+        boxShadow: [
+          BoxShadow(
+            color: Colors.black.withOpacity(isDark ? 0.08 : 0.02),
+            blurRadius: 12,
+            offset: const Offset(0, 4),
+          ),
+        ],
+      ),
       child: Padding(
-        padding: const EdgeInsets.all(16.0),
+        padding: const EdgeInsets.all(20.0),
         child: Row(
           children: [
-            Icon(icon, size: 40),
-            const SizedBox(width: 16),
-            Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Text(title, style: Theme.of(context).textTheme.titleMedium),
-                const SizedBox(height: 4),
-                Text(value, style: Theme.of(context).textTheme.bodyMedium),
-              ],
+            Container(
+              padding: const EdgeInsets.all(12),
+              decoration: BoxDecoration(
+                color: cardColor.withOpacity(0.12),
+                borderRadius: BorderRadius.circular(14),
+              ),
+              child: Icon(icon, size: 26, color: cardColor),
+            ),
+            const SizedBox(width: 18),
+            Expanded(
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(
+                    title,
+                    style: TextStyle(
+                      fontSize: 12,
+                      fontWeight: FontWeight.bold,
+                      color: isDark ? const Color(0xFF94A3B8) : const Color(0xFF64748B),
+                    ),
+                  ),
+                  const SizedBox(height: 4),
+                  Text(
+                    value,
+                    style: TextStyle(
+                      fontSize: 14,
+                      fontWeight: FontWeight.bold,
+                      color: isDark ? Colors.white : const Color(0xFF0F172A),
+                    ),
+                  ),
+                ],
+              ),
             ),
           ],
         ),

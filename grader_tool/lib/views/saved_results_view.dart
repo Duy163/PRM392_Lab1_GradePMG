@@ -47,6 +47,7 @@ class _SavedResultsViewState extends State<SavedResultsView> {
     final confirmed = await showDialog<bool>(
       context: context,
       builder: (context) => AlertDialog(
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
         title: const Text('Xác nhận xóa'),
         content: Text(
           _daysToDelete == 0
@@ -60,6 +61,10 @@ class _SavedResultsViewState extends State<SavedResultsView> {
           ),
           FilledButton(
             onPressed: () => Navigator.pop(context, true),
+            style: FilledButton.styleFrom(
+              backgroundColor: Theme.of(context).colorScheme.error,
+              foregroundColor: Theme.of(context).colorScheme.onError,
+            ),
             child: const Text('Xóa'),
           ),
         ],
@@ -91,6 +96,7 @@ class _SavedResultsViewState extends State<SavedResultsView> {
     final confirmed = await showDialog<bool>(
       context: context,
       builder: (context) => AlertDialog(
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
         title: const Text('Xác nhận xóa'),
         content: Text(
           'Bạn có chắc muốn xóa file này?\n\n${filePath.split(Platform.pathSeparator).last}',
@@ -102,6 +108,10 @@ class _SavedResultsViewState extends State<SavedResultsView> {
           ),
           FilledButton(
             onPressed: () => Navigator.pop(context, true),
+            style: FilledButton.styleFrom(
+              backgroundColor: Theme.of(context).colorScheme.error,
+              foregroundColor: Theme.of(context).colorScheme.onError,
+            ),
             child: const Text('Xóa'),
           ),
         ],
@@ -133,13 +143,16 @@ class _SavedResultsViewState extends State<SavedResultsView> {
     }
 
     if (!mounted) return;
+    final isDark = Theme.of(context).brightness == Brightness.dark;
 
     showDialog(
       context: context,
       builder: (context) => Dialog(
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(24)),
+        backgroundColor: isDark ? const Color(0xFF0F172A) : Colors.white,
         child: Container(
-          width: 800,
-          height: 600,
+          width: 1100,
+          height: 720,
           padding: const EdgeInsets.all(24),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
@@ -147,207 +160,323 @@ class _SavedResultsViewState extends State<SavedResultsView> {
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
-                  Text(
-                    'Chi tiết kết quả chấm điểm',
-                    style: Theme.of(context).textTheme.headlineSmall,
+                  Row(
+                    children: [
+                      Container(
+                        padding: const EdgeInsets.all(8),
+                        decoration: BoxDecoration(
+                          color: const Color(0xFF0EA5E9).withOpacity(0.12),
+                          borderRadius: BorderRadius.circular(10),
+                        ),
+                        child: const Icon(Icons.analytics_outlined, color: Color(0xFF0EA5E9), size: 20),
+                      ),
+                      const SizedBox(width: 12),
+                      Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Text(
+                            'Chi tiết kết quả chấm điểm',
+                            style: TextStyle(
+                              fontSize: 18,
+                              fontWeight: FontWeight.bold,
+                              color: isDark ? Colors.white : const Color(0xFF0F172A),
+                            ),
+                          ),
+                          Text(
+                            data['metadata']['student_file'] ?? 'Sinh viên',
+                            style: TextStyle(
+                              fontSize: 12,
+                              color: isDark ? const Color(0xFF94A3B8) : const Color(0xFF64748B),
+                            ),
+                          ),
+                        ],
+                      ),
+                    ],
                   ),
-                  IconButton(
-                    onPressed: () => Navigator.pop(context),
-                    icon: const Icon(Icons.close),
+                  Row(
+                    children: [
+                      Container(
+                        padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
+                        decoration: BoxDecoration(
+                          color: const Color(0xFF10B981).withOpacity(0.12),
+                          borderRadius: BorderRadius.circular(12),
+                        ),
+                        child: RichText(
+                          text: TextSpan(
+                            style: const TextStyle(
+                              fontSize: 13,
+                              fontWeight: FontWeight.bold,
+                              color: Color(0xFF10B981),
+                            ),
+                            children: [
+                              const TextSpan(text: 'Score: '),
+                              TextSpan(
+                                text: '${data['summary']['total_score']}',
+                                style: const TextStyle(fontSize: 15, fontWeight: FontWeight.w800),
+                              ),
+                              TextSpan(text: ' / ${data['metadata']['total_possible_points']}'),
+                            ],
+                          ),
+                        ),
+                      ),
+                      const SizedBox(width: 8),
+                      IconButton(
+                        onPressed: () => Navigator.pop(context),
+                        icon: const Icon(Icons.close),
+                        style: IconButton.styleFrom(
+                          backgroundColor: isDark ? const Color(0xFF1E293B) : const Color(0xFFF1F5F9),
+                        ),
+                      ),
+                    ],
                   ),
                 ],
               ),
+              const SizedBox(height: 16),
               const Divider(),
               const SizedBox(height: 16),
               Expanded(
-                child: SingleChildScrollView(
-                  child: Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      _buildInfoRow(
-                        'Sinh viên',
-                        data['metadata']['student_file'],
-                      ),
-                      _buildInfoRow(
-                        'Thời gian chấm',
-                        _formatDateTime(data['metadata']['graded_at']),
-                      ),
-                      _buildInfoRow(
-                        'Khóa học',
-                        data['metadata']['rubric_course'],
-                      ),
-                      _buildInfoRow(
-                        'Tiêu đề',
-                        data['metadata']['rubric_title'],
-                      ),
-                      const SizedBox(height: 16),
-                      const Divider(),
-                      const SizedBox(height: 16),
-                      Text(
-                        'Kết quả',
-                        style: Theme.of(context).textTheme.titleLarge,
-                      ),
-                      const SizedBox(height: 8),
-                      _buildInfoRow(
-                        'Tổng điểm',
-                        '${data['summary']['total_score']} / ${data['metadata']['total_possible_points']}',
-                      ),
-                      _buildInfoRow(
-                        'Phần trăm',
-                        '${data['summary']['percentage']}%',
-                      ),
-                      _buildInfoRow(
-                        'Số yêu cầu',
-                        '${data['summary']['requirements_count']}',
-                      ),
-                      const SizedBox(height: 16),
-                      Text(
-                        'Nhận xét chung',
-                        style: Theme.of(context).textTheme.titleMedium,
-                      ),
-                      const SizedBox(height: 8),
-                      Container(
-                        padding: const EdgeInsets.all(12),
-                        decoration: BoxDecoration(
-                          color: Theme.of(
-                            context,
-                          ).colorScheme.surfaceContainerHighest,
-                          borderRadius: BorderRadius.circular(8),
-                        ),
-                        child: Text(data['summary']['general_feedback']),
-                      ),
-                      const SizedBox(height: 16),
-                      Text(
-                        'Chi tiết từng yêu cầu',
-                        style: Theme.of(context).textTheme.titleMedium,
-                      ),
-                      const SizedBox(height: 8),
-                      ...((data['grading_result']['requirements'] as List).map((
-                        req,
-                      ) {
-                        final criteria = (req['criteria'] as List?) ?? [];
-
-                        return Card(
-                          margin: const EdgeInsets.only(bottom: 12),
-                          child: Theme(
-                            data: Theme.of(
-                              context,
-                            ).copyWith(dividerColor: Colors.transparent),
-                            child: ExpansionTile(
-                              tilePadding: const EdgeInsets.symmetric(
-                                horizontal: 16,
-                                vertical: 8,
-                              ),
-                              childrenPadding: const EdgeInsets.all(16),
-                              title: Column(
-                                crossAxisAlignment: CrossAxisAlignment.start,
+                child: Row(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    // Left Column: Result metadata overview & general feedback
+                    Expanded(
+                      flex: 1,
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Text(
+                            'Tổng quan bài chấm',
+                            style: TextStyle(
+                              fontSize: 13,
+                              fontWeight: FontWeight.bold,
+                              color: isDark ? Colors.white : const Color(0xFF0F172A),
+                            ),
+                          ),
+                          const SizedBox(height: 8),
+                          Expanded(
+                            child: SingleChildScrollView(
+                              child: Column(
                                 children: [
-                                  Text(
-                                    '${req['requirement_id']}: ${req['requirement_name']}',
-                                    style: const TextStyle(
-                                      fontWeight: FontWeight.bold,
-                                      fontSize: 15,
+                                  Container(
+                                    padding: const EdgeInsets.all(16),
+                                    decoration: BoxDecoration(
+                                      color: isDark ? const Color(0xFF1E293B).withOpacity(0.4) : const Color(0xFFF8FAFC),
+                                      borderRadius: BorderRadius.circular(16),
+                                      border: Border.all(
+                                        color: isDark ? const Color(0xFF1E293B) : const Color(0xFFE2E8F0),
+                                      ),
+                                    ),
+                                    child: Column(
+                                      children: [
+                                        _buildInfoRow(isDark, 'Sinh viên', data['metadata']['student_file']),
+                                        _buildInfoRow(isDark, 'Thời gian chấm', _formatDateTime(data['metadata']['graded_at'])),
+                                        _buildInfoRow(isDark, 'Khóa học', data['metadata']['rubric_course']),
+                                        _buildInfoRow(isDark, 'Yêu cầu đề bài', data['metadata']['rubric_title']),
+                                        _buildInfoRow(isDark, 'Số yêu cầu', '${data['summary']['requirements_count']}'),
+                                        _buildInfoRow(isDark, 'Phần trăm đạt', '${data['summary']['percentage']}%'),
+                                      ],
                                     ),
                                   ),
-                                  const SizedBox(height: 4),
-                                  Text(
-                                    'Điểm: ${req['subtotal_score']} / ${req['max_score']}',
-                                    style: TextStyle(
-                                      color: _getScoreColor(
-                                        context,
-                                        req['subtotal_score'],
-                                        req['max_score'],
+                                  const SizedBox(height: 20),
+                                  Align(
+                                    alignment: Alignment.centerLeft,
+                                    child: Text(
+                                      'Nhận xét chung',
+                                      style: TextStyle(
+                                        fontSize: 13,
+                                        fontWeight: FontWeight.bold,
+                                        color: isDark ? Colors.white : const Color(0xFF0F172A),
                                       ),
-                                      fontWeight: FontWeight.w600,
+                                    ),
+                                  ),
+                                  const SizedBox(height: 8),
+                                  Container(
+                                    width: double.infinity,
+                                    padding: const EdgeInsets.all(16),
+                                    decoration: BoxDecoration(
+                                      color: const Color(0xFF6366F1).withOpacity(isDark ? 0.08 : 0.05),
+                                      borderRadius: BorderRadius.circular(16),
+                                      border: Border.all(
+                                        color: const Color(0xFF6366F1).withOpacity(0.15),
+                                      ),
+                                    ),
+                                    child: Text(
+                                      data['summary']['general_feedback'] ?? 'Không có nhận xét chung.',
+                                      style: TextStyle(
+                                        fontSize: 12,
+                                        height: 1.6,
+                                        color: isDark ? const Color(0xFFCBD5E1) : const Color(0xFF334155),
+                                      ),
                                     ),
                                   ),
                                 ],
                               ),
-                              children: [
-                                if (criteria.isEmpty)
-                                  const Text('Không có chi tiết tiêu chí')
-                                else
-                                  ...criteria.map((crit) {
-                                    return Container(
-                                      margin: const EdgeInsets.only(bottom: 12),
-                                      padding: const EdgeInsets.all(12),
-                                      decoration: BoxDecoration(
-                                        color: Theme.of(
-                                          context,
-                                        ).colorScheme.surfaceContainerHighest,
-                                        borderRadius: BorderRadius.circular(8),
-                                      ),
-                                      child: Column(
-                                        crossAxisAlignment:
-                                            CrossAxisAlignment.start,
-                                        children: [
-                                          Row(
-                                            children: [
-                                              Expanded(
-                                                child: Text(
-                                                  crit['criterion_name'] ??
-                                                      crit['criterion_id'],
-                                                  style: const TextStyle(
-                                                    fontWeight: FontWeight.bold,
-                                                  ),
-                                                ),
-                                              ),
-                                              Container(
-                                                padding:
-                                                    const EdgeInsets.symmetric(
-                                                      horizontal: 8,
-                                                      vertical: 4,
-                                                    ),
-                                                decoration: BoxDecoration(
-                                                  color: _getLevelColor(
-                                                    context,
-                                                    crit['level_awarded'],
-                                                  ),
-                                                  borderRadius:
-                                                      BorderRadius.circular(4),
-                                                ),
-                                                child: Text(
-                                                  '${crit['score_given']} / ${crit['max_score']}',
-                                                  style: const TextStyle(
-                                                    fontWeight: FontWeight.bold,
-                                                    fontSize: 12,
-                                                  ),
-                                                ),
-                                              ),
-                                            ],
-                                          ),
-                                          const SizedBox(height: 8),
-                                          if (crit['feedback'] != null &&
-                                              crit['feedback']
-                                                  .toString()
-                                                  .isNotEmpty)
-                                            Container(
-                                              padding: const EdgeInsets.all(8),
-                                              decoration: BoxDecoration(
-                                                color: Theme.of(
-                                                  context,
-                                                ).colorScheme.surface,
-                                                borderRadius:
-                                                    BorderRadius.circular(6),
-                                              ),
-                                              child: Text(
-                                                '💬 ${crit['feedback']}',
-                                                style: const TextStyle(
-                                                  fontSize: 13,
-                                                ),
-                                              ),
-                                            ),
-                                        ],
-                                      ),
-                                    );
-                                  }),
-                              ],
                             ),
                           ),
-                        );
-                      })),
-                    ],
-                  ),
+                        ],
+                      ),
+                    ),
+                    const SizedBox(width: 24),
+                    // Right Column: Rubric scoring expand list
+                    Expanded(
+                      flex: 1,
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Text(
+                            'Chi tiết điểm theo Rubric',
+                            style: TextStyle(
+                              fontSize: 13,
+                              fontWeight: FontWeight.bold,
+                              color: isDark ? Colors.white : const Color(0xFF0F172A),
+                            ),
+                          ),
+                          const SizedBox(height: 8),
+                          Expanded(
+                            child: ListView.builder(
+                              itemCount: (data['grading_result']['requirements'] as List).length,
+                              itemBuilder: (context, qIndex) {
+                                final req = data['grading_result']['requirements'][qIndex];
+                                final criteria = (req['criteria'] as List?) ?? [];
+
+                                return Container(
+                                  margin: const EdgeInsets.only(bottom: 12),
+                                  decoration: BoxDecoration(
+                                    color: isDark ? const Color(0xFF1E293B).withOpacity(0.3) : Colors.white,
+                                    borderRadius: BorderRadius.circular(16),
+                                    border: Border.all(
+                                      color: isDark ? const Color(0xFF1E293B) : const Color(0xFFE2E8F0),
+                                    ),
+                                  ),
+                                  child: Theme(
+                                    data: Theme.of(context).copyWith(dividerColor: Colors.transparent),
+                                    child: ExpansionTile(
+                                      initiallyExpanded: true,
+                                      tilePadding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                                      childrenPadding: const EdgeInsets.all(16),
+                                      title: Column(
+                                        crossAxisAlignment: CrossAxisAlignment.start,
+                                        children: [
+                                          Text(
+                                            '${req['requirement_id']}: ${req['requirement_name']}',
+                                            style: TextStyle(
+                                              fontWeight: FontWeight.bold,
+                                              fontSize: 13,
+                                              color: isDark ? Colors.white : const Color(0xFF0F172A),
+                                            ),
+                                          ),
+                                        ],
+                                      ),
+                                      trailing: Container(
+                                        padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                                        decoration: BoxDecoration(
+                                          color: _getScoreColor(context, req['subtotal_score'], req['max_score']).withOpacity(0.12),
+                                          borderRadius: BorderRadius.circular(20),
+                                        ),
+                                        child: Text(
+                                          '${req['subtotal_score']} / ${req['max_score']}',
+                                          style: TextStyle(
+                                            color: _getScoreColor(context, req['subtotal_score'], req['max_score']),
+                                            fontWeight: FontWeight.bold,
+                                            fontSize: 11,
+                                          ),
+                                        ),
+                                      ),
+                                      children: [
+                                        if (criteria.isEmpty)
+                                          const Text('Không có chi tiết tiêu chí', style: TextStyle(fontStyle: FontStyle.italic, fontSize: 11))
+                                        else
+                                          ...criteria.map((crit) {
+                                            final level = crit['level_awarded'] ?? 'fail';
+                                            final levelCol = _getLevelColor(context, level);
+                                            final statusIcon = level == 'full' ? '✓' : (level == 'partial' ? '~' : '✗');
+
+                                            return Container(
+                                              margin: const EdgeInsets.only(bottom: 8),
+                                              padding: const EdgeInsets.all(10),
+                                              decoration: BoxDecoration(
+                                                color: isDark ? const Color(0xFF0F172A).withOpacity(0.6) : const Color(0xFFF8FAFC),
+                                                borderRadius: BorderRadius.circular(12),
+                                                border: Border.all(
+                                                  color: isDark ? const Color(0xFF1E293B) : const Color(0xFFF1F5F9),
+                                                ),
+                                              ),
+                                              child: Column(
+                                                crossAxisAlignment: CrossAxisAlignment.start,
+                                                children: [
+                                                  Row(
+                                                    children: [
+                                                      Container(
+                                                        width: 18,
+                                                        height: 18,
+                                                        decoration: BoxDecoration(
+                                                          color: levelCol.withOpacity(0.12),
+                                                          shape: BoxShape.circle,
+                                                        ),
+                                                        alignment: Alignment.center,
+                                                        child: Text(
+                                                          statusIcon,
+                                                          style: TextStyle(
+                                                            color: levelCol,
+                                                            fontWeight: FontWeight.bold,
+                                                            fontSize: 10,
+                                                          ),
+                                                        ),
+                                                      ),
+                                                      const SizedBox(width: 8),
+                                                      Expanded(
+                                                        child: Text(
+                                                          crit['criterion_name'] ?? crit['criterion_id'],
+                                                          style: TextStyle(
+                                                            fontWeight: FontWeight.bold,
+                                                            fontSize: 12,
+                                                            color: isDark ? Colors.white : const Color(0xFF0F172A),
+                                                          ),
+                                                        ),
+                                                      ),
+                                                      Container(
+                                                        padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
+                                                        decoration: BoxDecoration(
+                                                          color: levelCol.withOpacity(0.1),
+                                                          borderRadius: BorderRadius.circular(4),
+                                                        ),
+                                                        child: Text(
+                                                          '${crit['score_given']} / ${crit['max_score']}',
+                                                          style: TextStyle(
+                                                            fontWeight: FontWeight.bold,
+                                                            color: levelCol,
+                                                            fontSize: 10,
+                                                          ),
+                                                        ),
+                                                      ),
+                                                    ],
+                                                  ),
+                                                  if (crit['feedback'] != null && crit['feedback'].toString().isNotEmpty) ...[
+                                                    const SizedBox(height: 6),
+                                                    Text(
+                                                      '💬 ${crit['feedback']}',
+                                                      style: TextStyle(
+                                                        fontSize: 11,
+                                                        fontStyle: FontStyle.italic,
+                                                        color: isDark ? const Color(0xFF64748B) : const Color(0xFF64748B),
+                                                      ),
+                                                    ),
+                                                  ],
+                                                ],
+                                              ),
+                                            );
+                                          }),
+                                      ],
+                                    ),
+                                  ),
+                                );
+                              },
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+                  ],
                 ),
               ),
             ],
@@ -357,20 +486,33 @@ class _SavedResultsViewState extends State<SavedResultsView> {
     );
   }
 
-  Widget _buildInfoRow(String label, String value) {
+  Widget _buildInfoRow(bool isDark, String label, String value) {
     return Padding(
-      padding: const EdgeInsets.only(bottom: 8),
+      padding: const EdgeInsets.only(bottom: 10),
       child: Row(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           SizedBox(
-            width: 150,
+            width: 140,
             child: Text(
               '$label:',
-              style: const TextStyle(fontWeight: FontWeight.bold),
+              style: TextStyle(
+                fontWeight: FontWeight.bold,
+                fontSize: 12,
+                color: isDark ? const Color(0xFF94A3B8) : const Color(0xFF64748B),
+              ),
             ),
           ),
-          Expanded(child: Text(value)),
+          Expanded(
+            child: Text(
+              value,
+              style: TextStyle(
+                fontSize: 12,
+                color: isDark ? Colors.white : const Color(0xFF0F172A),
+                fontWeight: FontWeight.w500,
+              ),
+            ),
+          ),
         ],
       ),
     );
@@ -396,26 +538,28 @@ class _SavedResultsViewState extends State<SavedResultsView> {
     final m = (maxScore is num) ? maxScore.toDouble() : 1.0;
     final ratio = m > 0 ? s / m : 0.0;
 
-    if (ratio >= 0.8) return Colors.green;
-    if (ratio >= 0.5) return Colors.orange;
-    return Colors.red;
+    if (ratio >= 0.8) return const Color(0xFF10B981);
+    if (ratio >= 0.5) return const Color(0xFFF59E0B);
+    return const Color(0xFFEF4444);
   }
 
   Color _getLevelColor(BuildContext context, String? level) {
     switch (level) {
       case 'full':
-        return Colors.green.withAlpha((0.2 * 255).round());
+        return const Color(0xFF10B981);
       case 'partial':
-        return Colors.orange.withAlpha((0.2 * 255).round());
+        return const Color(0xFFF59E0B);
       case 'fail':
-        return Colors.red.withAlpha((0.2 * 255).round());
+        return const Color(0xFFEF4444);
       default:
-        return Theme.of(context).colorScheme.surfaceContainerHighest;
+        return const Color(0xFF64748B);
     }
   }
 
   @override
   Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    
     return Padding(
       padding: const EdgeInsets.all(32.0),
       child: Column(
@@ -428,14 +572,39 @@ class _SavedResultsViewState extends State<SavedResultsView> {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Text(
-                    'Kết quả đã lưu',
-                    style: Theme.of(context).textTheme.headlineMedium,
+                    DateFormat('EEEE, MMMM d').format(DateTime.now()),
+                    style: TextStyle(
+                      color: isDark ? const Color(0xFF64748B) : const Color(0xFF94A3B8),
+                      fontWeight: FontWeight.w600,
+                      fontSize: 11,
+                      letterSpacing: 0.5,
+                    ),
                   ),
-                  const SizedBox(height: 8),
+                  const SizedBox(height: 4),
                   Text(
-                    'Quản lý các file kết quả chấm điểm đã lưu',
-                    style: Theme.of(context).textTheme.bodyLarge?.copyWith(
-                      color: Theme.of(context).colorScheme.onSurfaceVariant,
+                    'Kết quả đã lưu',
+                    style: TextStyle(
+                      fontFamily: 'DM Sans',
+                      fontSize: 26,
+                      fontWeight: FontWeight.bold,
+                      color: isDark ? Colors.white : const Color(0xFF0F172A),
+                    ),
+                  ),
+                  const SizedBox(height: 2),
+                  ShaderMask(
+                    shaderCallback: (bounds) => const LinearGradient(
+                      colors: [Color(0xFF6366F1), Color(0xFF0EA5E9)],
+                      begin: Alignment.topLeft,
+                      end: Alignment.bottomRight,
+                    ).createShader(bounds),
+                    child: const Text(
+                      'Quản lý các file kết quả chấm điểm đã lưu',
+                      style: TextStyle(
+                        fontFamily: 'DM Sans',
+                        fontSize: 16,
+                        fontWeight: FontWeight.bold,
+                        color: Colors.white,
+                      ),
                     ),
                   ),
                 ],
@@ -444,19 +613,27 @@ class _SavedResultsViewState extends State<SavedResultsView> {
                 children: [
                   FilledButton.tonalIcon(
                     onPressed: _loadResultFiles,
-                    icon: const Icon(Icons.refresh),
+                    icon: const Icon(Icons.refresh, size: 14),
                     label: const Text('Làm mới'),
+                    style: FilledButton.styleFrom(
+                      backgroundColor: isDark ? const Color(0xFF1E293B) : const Color(0xFFF1F5F9),
+                      foregroundColor: isDark ? Colors.white : const Color(0xFF0F172A),
+                      minimumSize: const Size(0, 40),
+                      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
+                    ),
                   ),
-                  const SizedBox(width: 16),
+                  const SizedBox(width: 8),
                   FilledButton.icon(
                     onPressed: _resultFiles.isNotEmpty
                         ? () => _showDeleteDialog()
                         : null,
-                    icon: const Icon(Icons.delete_sweep),
+                    icon: const Icon(Icons.delete_sweep, size: 14),
                     label: const Text('Xóa file cũ'),
                     style: FilledButton.styleFrom(
-                      backgroundColor: Theme.of(context).colorScheme.error,
-                      foregroundColor: Theme.of(context).colorScheme.onError,
+                      backgroundColor: const Color(0xFFEF4444).withOpacity(0.12),
+                      foregroundColor: const Color(0xFFEF4444),
+                      minimumSize: const Size(0, 40),
+                      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
                     ),
                   ),
                 ],
@@ -465,23 +642,32 @@ class _SavedResultsViewState extends State<SavedResultsView> {
           ),
           const SizedBox(height: 24),
           if (_isLoading)
-            const Center(child: CircularProgressIndicator())
+            const Expanded(child: Center(child: CircularProgressIndicator()))
           else if (_resultFiles.isEmpty)
             Expanded(
               child: Center(
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
-                    Icon(
-                      Icons.folder_open,
-                      size: 64,
-                      color: Theme.of(context).colorScheme.outline,
+                    Container(
+                      padding: const EdgeInsets.all(20),
+                      decoration: BoxDecoration(
+                        color: isDark ? const Color(0xFF1E293B) : const Color(0xFFF1F5F9),
+                        shape: BoxShape.circle,
+                      ),
+                      child: Icon(
+                        Icons.folder_open,
+                        size: 40,
+                        color: isDark ? const Color(0xFF64748B) : const Color(0xFF94A3B8),
+                      ),
                     ),
                     const SizedBox(height: 16),
                     Text(
                       'Chưa có file kết quả nào được lưu',
-                      style: Theme.of(context).textTheme.bodyLarge?.copyWith(
-                        color: Theme.of(context).colorScheme.onSurfaceVariant,
+                      style: TextStyle(
+                        fontSize: 15,
+                        fontWeight: FontWeight.w600,
+                        color: isDark ? const Color(0xFF94A3B8) : const Color(0xFF475569),
                       ),
                     ),
                   ],
@@ -490,54 +676,23 @@ class _SavedResultsViewState extends State<SavedResultsView> {
             )
           else
             Expanded(
-              child: Card(
-                clipBehavior: Clip.antiAlias,
-                elevation: 0,
-                color: Theme.of(context).colorScheme.surfaceContainer,
-                shape: RoundedRectangleBorder(
-                  borderRadius: BorderRadius.circular(16),
+              child: GridView.builder(
+                gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+                  crossAxisCount: 2,
+                  crossAxisSpacing: 16,
+                  mainAxisSpacing: 16,
+                  childAspectRatio: 2.8,
                 ),
-                child: ListView.separated(
-                  itemCount: _resultFiles.length,
-                  separatorBuilder: (context, index) =>
-                      const Divider(height: 1),
-                  itemBuilder: (context, index) {
-                    final file = _resultFiles[index];
-                    final stat = file.statSync();
-                    final fileName = file.path
-                        .split(Platform.pathSeparator)
-                        .last;
-                    final modifiedDate = DateFormat(
-                      'dd/MM/yyyy HH:mm',
-                    ).format(stat.modified);
-                    final fileSize = _formatFileSize(stat.size);
-
-                    return ListTile(
-                      leading: Icon(
-                        Icons.description,
-                        color: Theme.of(context).colorScheme.primary,
-                      ),
-                      title: Text(fileName),
-                      subtitle: Text('$modifiedDate • $fileSize'),
-                      trailing: Row(
-                        mainAxisSize: MainAxisSize.min,
-                        children: [
-                          IconButton(
-                            onPressed: () => _viewFileDetails(file.path),
-                            icon: const Icon(Icons.visibility),
-                            tooltip: 'Xem chi tiết',
-                          ),
-                          IconButton(
-                            onPressed: () => _deleteFile(file.path),
-                            icon: const Icon(Icons.delete),
-                            tooltip: 'Xóa',
-                            color: Theme.of(context).colorScheme.error,
-                          ),
-                        ],
-                      ),
-                    );
-                  },
-                ),
+                itemCount: _resultFiles.length,
+                itemBuilder: (context, index) {
+                  final file = _resultFiles[index];
+                  return _SavedResultGridCard(
+                    file: file,
+                    onView: () => _viewFileDetails(file.path),
+                    onDelete: () => _deleteFile(file.path),
+                    formatSize: _formatFileSize,
+                  );
+                },
               ),
             ),
         ],
@@ -549,6 +704,7 @@ class _SavedResultsViewState extends State<SavedResultsView> {
     showDialog(
       context: context,
       builder: (context) => AlertDialog(
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
         title: const Text('Xóa file cũ'),
         content: Column(
           mainAxisSize: MainAxisSize.min,
@@ -591,6 +747,132 @@ class _SavedResultsViewState extends State<SavedResultsView> {
             child: const Text('Xóa'),
           ),
         ],
+      ),
+    );
+  }
+}
+
+class _SavedResultGridCard extends StatefulWidget {
+  final FileSystemEntity file;
+  final VoidCallback onView;
+  final VoidCallback onDelete;
+  final String Function(int) formatSize;
+
+  const _SavedResultGridCard({
+    required this.file,
+    required this.onView,
+    required this.onDelete,
+    required this.formatSize,
+  });
+
+  @override
+  State<_SavedResultGridCard> createState() => _SavedResultGridCardState();
+}
+
+class _SavedResultGridCardState extends State<_SavedResultGridCard> {
+  bool _isHovered = false;
+
+  @override
+  Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    final stat = widget.file.statSync();
+    final fileName = widget.file.path.split(Platform.pathSeparator).last;
+    final modifiedDate = DateFormat('dd/MM/yyyy HH:mm').format(stat.modified);
+    final fileSize = widget.formatSize(stat.size);
+
+    return MouseRegion(
+      onEnter: (_) => setState(() => _isHovered = true),
+      onExit: (_) => setState(() => _isHovered = false),
+      child: AnimatedContainer(
+        duration: const Duration(milliseconds: 150),
+        decoration: BoxDecoration(
+          color: isDark 
+              ? (_isHovered ? const Color(0xFF1E293B) : const Color(0xFF1E293B).withOpacity(0.4))
+              : (_isHovered ? const Color(0xFFF8FAFC) : Colors.white),
+          borderRadius: BorderRadius.circular(20),
+          border: Border.all(
+            color: isDark 
+                ? (_isHovered ? const Color(0xFF475569) : const Color(0xFF334155))
+                : (_isHovered ? const Color(0xFFCBD5E1) : const Color(0xFFE2E8F0)),
+            width: 1.2,
+          ),
+          boxShadow: [
+            BoxShadow(
+              color: Colors.black.withOpacity(isDark ? 0.08 : 0.02),
+              blurRadius: _isHovered ? 12 : 6,
+              offset: const Offset(0, 3),
+            ),
+          ],
+        ),
+        padding: const EdgeInsets.all(16.0),
+        child: Row(
+          children: [
+            Container(
+              padding: const EdgeInsets.all(10),
+              decoration: BoxDecoration(
+                color: const Color(0xFF0EA5E9).withOpacity(0.12),
+                borderRadius: BorderRadius.circular(14),
+              ),
+              child: const Icon(
+                Icons.description,
+                color: Color(0xFF0EA5E9),
+                size: 24,
+              ),
+            ),
+            const SizedBox(width: 16),
+            Expanded(
+              child: Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(
+                    fileName,
+                    style: TextStyle(
+                      fontWeight: FontWeight.bold,
+                      fontSize: 13,
+                      color: isDark ? Colors.white : const Color(0xFF0F172A),
+                    ),
+                    maxLines: 1,
+                    overflow: TextOverflow.ellipsis,
+                  ),
+                  const SizedBox(height: 4),
+                  Text(
+                    '$modifiedDate • $fileSize',
+                    style: TextStyle(
+                      fontSize: 10,
+                      color: isDark ? const Color(0xFF94A3B8) : const Color(0xFF64748B),
+                    ),
+                  ),
+                ],
+              ),
+            ),
+            const SizedBox(width: 12),
+            Row(
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                IconButton(
+                  onPressed: widget.onView,
+                  icon: const Icon(Icons.visibility, size: 16),
+                  tooltip: 'Xem chi tiết',
+                  style: IconButton.styleFrom(
+                    backgroundColor: isDark ? const Color(0xFF334155) : const Color(0xFFF1F5F9),
+                    foregroundColor: isDark ? Colors.white : const Color(0xFF0F172A),
+                  ),
+                ),
+                const SizedBox(width: 4),
+                IconButton(
+                  onPressed: widget.onDelete,
+                  icon: const Icon(Icons.delete, size: 16),
+                  tooltip: 'Xóa',
+                  style: IconButton.styleFrom(
+                    backgroundColor: const Color(0xFFEF4444).withOpacity(0.12),
+                    foregroundColor: const Color(0xFFEF4444),
+                  ),
+                ),
+              ],
+            ),
+          ],
+        ),
       ),
     );
   }
