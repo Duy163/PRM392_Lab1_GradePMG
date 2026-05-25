@@ -1,0 +1,61 @@
+---
+# Codacy configuration file for grader_tool Flutter project
+
+# Exclude generated and third-party code from analysis
+exclude_paths:
+  - 'build/**'
+  - '.dart_tool/**'
+  - 'windows/flutter/**'
+  - 'macos/Flutter/**'
+  - 'linux/flutter/**'
+  - 'ios/Flutter/**'
+  - 'android/.gradle/**'
+  - '**.g.dart'
+  - '**.freezed.dart'
+  - '**.mocks.dart'
+  - 'test/.test_coverage.dart'
+
+# Configure engines
+engines:
+  # Dart/Flutter analysis
+  dartanalyzer:
+    enabled: true
+    
+  # Disable C++ analysis for Flutter-generated files
+  cppcheck:
+    enabled: true
+    exclude_paths:
+      - 'windows/flutter/**'
+      - 'macos/Flutter/**'
+      - 'linux/flutter/**'
+      - 'windows/runner/flutter_window.cpp'
+      - 'windows/runner/win32_window.cpp'
+      - 'windows/runner/utils.cpp'
+      - 'windows/runner/main.cpp'
+    
+  # Code duplication detection
+  duplication:
+    enabled: true
+    exclude_paths:
+      - 'test/**'
+      - '**.g.dart'
+    config:
+      languages:
+        - dart
+        
+  # Code coverage
+  coverage:
+    enabled: false
+
+# File extensions to analyze
+file_extensions:
+  - .dart
+  - .yaml
+  - .yml
+
+# Ignore patterns
+ignore:
+  - '*.g.dart'
+  - '*.freezed.dart'
+  - '*.mocks.dart'
+  - 'pubspec.lock'

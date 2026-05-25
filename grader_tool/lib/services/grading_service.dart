@@ -356,9 +356,12 @@ class GradingService {
       final criteriaMap = <String, Map<String, dynamic>>{};
 
       // Parse criteria from the first part of the section (before Rubric table)
-      final criteriaEndIndex = rubricStartIndex != -1
-          ? rubricStartIndex
-          : (mistakesStartIndex != -1 ? mistakesStartIndex : lines.length);
+      int criteriaEndIndex = lines.length;
+      if (rubricStartIndex != -1) {
+        criteriaEndIndex = rubricStartIndex;
+      } else if (mistakesStartIndex != -1) {
+        criteriaEndIndex = mistakesStartIndex;
+      }
       for (var j = 1; j < criteriaEndIndex; j++) {
         final line = lines[j];
 

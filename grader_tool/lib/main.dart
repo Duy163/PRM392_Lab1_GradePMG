@@ -15,6 +15,7 @@ void main() {
 class GraderApp extends StatelessWidget {
   const GraderApp({super.key});
 
+  // ignore: member-ordering
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -150,6 +151,12 @@ class _SetupFilesViewState extends State<SetupFilesView> {
   List<XFile>? _selectedTxtFiles;
   bool _isLoading = false;
   int? _folderTxtCount;
+
+  bool get _canStartGrading {
+    return _solutionsPath != null &&
+        _criteriaDocPath != null &&
+        _excelTemplatePath != null;
+  }
 
   @override
   void initState() {
@@ -287,6 +294,24 @@ class _SetupFilesViewState extends State<SetupFilesView> {
 
   @override
   Widget build(BuildContext context) {
+    final Widget startAction;
+    if (_isLoading) {
+      startAction = const SizedBox(
+        width: 48,
+        height: 48,
+        child: CircularProgressIndicator(),
+      );
+    } else {
+      startAction = FilledButton.icon(
+        onPressed: _canStartGrading ? _startGrading : null,
+        icon: const Icon(Icons.rocket_launch),
+        label: const Text('Start Grading'),
+        style: FilledButton.styleFrom(
+          padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 16),
+        ),
+      );
+    }
+
     return SingleChildScrollView(
       padding: const EdgeInsets.all(32.0),
       child: Column(
@@ -304,7 +329,7 @@ class _SetupFilesViewState extends State<SetupFilesView> {
             ),
           ),
           const SizedBox(height: 32),
-          _buildFileSelectCard(
+          FileSelectCard(
             title: 'Student Solutions Folder',
             subtitle: _solutionsPath != null
                 ? '$_solutionsPath\n(Found ${_folderTxtCount ?? 0} .txt files)'
@@ -328,7 +353,7 @@ class _SetupFilesViewState extends State<SetupFilesView> {
             ],
           ),
           const SizedBox(height: 8),
-          _buildFileSelectCard(
+          FileSelectCard(
             title: 'Grading Criteria Document / JSON Rubric',
             subtitle:
                 _criteriaDocPath ?? 'Select the .docx or .json rubric file.',
@@ -337,7 +362,7 @@ class _SetupFilesViewState extends State<SetupFilesView> {
             isSelected: _criteriaDocPath != null,
           ),
           const SizedBox(height: 16),
-          _buildFileSelectCard(
+          FileSelectCard(
             title: 'Scores Excel Template',
             subtitle: _excelTemplatePath ?? 'Select the .xlsx output file.',
             icon: Icons.table_chart,
@@ -345,39 +370,42 @@ class _SetupFilesViewState extends State<SetupFilesView> {
             isSelected: _excelTemplatePath != null,
           ),
           const SizedBox(height: 24),
-          _buildGradingModeCard(),
-          const SizedBox(height: 32),
-          Align(
-            alignment: Alignment.centerRight,
-            child: _isLoading
-                ? const SizedBox(
-                    width: 48,
-                    height: 48,
-                    child: CircularProgressIndicator(),
-                  )
-                : FilledButton.icon(
-                    onPressed:
-                        (_solutionsPath != null &&
-                            _criteriaDocPath != null &&
-                            _excelTemplatePath != null)
-                        ? _startGrading
-                        : null,
-                    icon: const Icon(Icons.rocket_launch),
-                    label: const Text('Start Grading'),
-                    style: FilledButton.styleFrom(
-                      padding: const EdgeInsets.symmetric(
-                        horizontal: 24,
-                        vertical: 16,
-                      ),
-                    ),
-                  ),
+          GradingModeCard(
+            useFastGrader: AppStateStore.useFastGrader,
+            onSelectAdvanced: () {
+              setState(() {
+                AppStateStore.useFastGrader = false;
+              });
+            },
+            onSelectFast: () {
+              setState(() {
+                AppStateStore.useFastGrader = true;
+              });
+            },
           ),
+          const SizedBox(height: 32),
+          Align(alignment: Alignment.centerRight, child: startAction),
         ],
       ),
     );
   }
+}
 
-  Widget _buildGradingModeCard() {
+class GradingModeCard extends StatelessWidget {
+  final bool useFastGrader;
+  final VoidCallback onSelectAdvanced;
+  final VoidCallback onSelectFast;
+
+  const GradingModeCard({
+    super.key,
+    required this.useFastGrader,
+    required this.onSelectAdvanced,
+    required this.onSelectFast,
+  });
+
+  // ignore: member-ordering
+  @override
+  Widget build(BuildContext context) {
     return Card(
       elevation: 0,
       color: Theme.of(context).colorScheme.surfaceContainerHighest,
@@ -399,20 +427,16 @@ class _SetupFilesViewState extends State<SetupFilesView> {
                 Expanded(
                   child: InkWell(
                     borderRadius: BorderRadius.circular(12),
-                    onTap: () {
-                      setState(() {
-                        AppStateStore.useFastGrader = false;
-                      });
-                    },
+                    onTap: onSelectAdvanced,
                     child: Container(
                       padding: const EdgeInsets.all(16),
                       decoration: BoxDecoration(
-                        color: !AppStateStore.useFastGrader
+                        color: !useFastGrader
                             ? Theme.of(context).colorScheme.primaryContainer
                             : Colors.transparent,
                         borderRadius: BorderRadius.circular(12),
                         border: Border.all(
-                          color: !AppStateStore.useFastGrader
+                          color: !useFastGrader
                               ? Theme.of(context).colorScheme.primary
                               : Theme.of(context).colorScheme.outlineVariant,
                         ),
@@ -424,7 +448,7 @@ class _SetupFilesViewState extends State<SetupFilesView> {
                             children: [
                               Icon(
                                 Icons.psychology,
-                                color: !AppStateStore.useFastGrader
+                                color: !useFastGrader
                                     ? Theme.of(context).colorScheme.primary
                                     : Theme.of(context).colorScheme.onSurface,
                               ),
@@ -449,20 +473,16 @@ class _SetupFilesViewState extends State<SetupFilesView> {
                 Expanded(
                   child: InkWell(
                     borderRadius: BorderRadius.circular(12),
-                    onTap: () {
-                      setState(() {
-                        AppStateStore.useFastGrader = true;
-                      });
-                    },
+                    onTap: onSelectFast,
                     child: Container(
                       padding: const EdgeInsets.all(16),
                       decoration: BoxDecoration(
-                        color: AppStateStore.useFastGrader
+                        color: useFastGrader
                             ? Theme.of(context).colorScheme.primaryContainer
                             : Colors.transparent,
                         borderRadius: BorderRadius.circular(12),
                         border: Border.all(
-                          color: AppStateStore.useFastGrader
+                          color: useFastGrader
                               ? Theme.of(context).colorScheme.primary
                               : Theme.of(context).colorScheme.outlineVariant,
                         ),
@@ -474,7 +494,7 @@ class _SetupFilesViewState extends State<SetupFilesView> {
                             children: [
                               Icon(
                                 Icons.bolt,
-                                color: AppStateStore.useFastGrader
+                                color: useFastGrader
                                     ? Theme.of(context).colorScheme.primary
                                     : Theme.of(context).colorScheme.onSurface,
                               ),
@@ -502,14 +522,26 @@ class _SetupFilesViewState extends State<SetupFilesView> {
       ),
     );
   }
+}
 
-  Widget _buildFileSelectCard({
-    required String title,
-    required String subtitle,
-    required IconData icon,
-    required VoidCallback onTap,
-    required bool isSelected,
-  }) {
+class FileSelectCard extends StatelessWidget {
+  final String title;
+  final String subtitle;
+  final IconData icon;
+  final VoidCallback onTap;
+  final bool isSelected;
+
+  const FileSelectCard({
+    super.key,
+    required this.title,
+    required this.subtitle,
+    required this.icon,
+    required this.onTap,
+    required this.isSelected,
+  });
+
+  @override
+  Widget build(BuildContext context) {
     return Card(
       elevation: 0,
       color: isSelected
@@ -650,7 +682,10 @@ class _GradingReviewViewState extends State<GradingReviewView> {
         onError: (err) {
           if (mounted) {
             ScaffoldMessenger.of(context).showSnackBar(
-              SnackBar(content: Text(err), duration: const Duration(seconds: 2)),
+              SnackBar(
+                content: Text(err),
+                duration: const Duration(seconds: 2),
+              ),
             );
           }
         },
@@ -691,6 +726,7 @@ class _GradingReviewViewState extends State<GradingReviewView> {
     GradingStore.mergeResults(results);
   }
 
+  // ignore: member-ordering
   @override
   Widget build(BuildContext context) {
     return Padding(
@@ -799,8 +835,16 @@ class _GradingReviewViewState extends State<GradingReviewView> {
               child: LinearProgressIndicator(),
             ),
           const SizedBox(height: 16),
-          _buildDashboard(),
-          _buildFilterChips(),
+          GradingDashboard(results: _results),
+          ScoreFilterChips(
+            results: _results,
+            selectedFilter: _scoreFilter,
+            onSelected: (filter) {
+              setState(() {
+                _scoreFilter = filter;
+              });
+            },
+          ),
           const SizedBox(height: 8),
           Expanded(
             child: _results.isEmpty
@@ -891,161 +935,6 @@ class _GradingReviewViewState extends State<GradingReviewView> {
     );
   }
 
-  Widget _buildDashboard() {
-    if (_results.isEmpty) return const SizedBox.shrink();
-
-    final total = _results.length;
-    final avg = total == 0
-        ? 0.0
-        : _results.fold<double>(0.0, (sum, r) => sum + r.score) / total;
-    final passCount = _results.where((r) => r.score >= 50).length;
-    final passRate = total == 0 ? 0.0 : (passCount / total) * 100;
-
-    return Padding(
-      padding: const EdgeInsets.only(bottom: 24.0),
-      child: Row(
-        children: [
-          Expanded(
-            child: _buildMetricCard(
-              title: 'Total Graded (Đã chấm)',
-              value: '$total học sinh',
-              subtitle: 'Student submissions processed',
-              icon: Icons.people,
-              color: Theme.of(context).colorScheme.primaryContainer,
-              onColor: Theme.of(context).colorScheme.onPrimaryContainer,
-            ),
-          ),
-          const SizedBox(width: 16),
-          Expanded(
-            child: _buildMetricCard(
-              title: 'Class Average (ĐTB Lớp)',
-              value: '${avg.toStringAsFixed(1)} / 100',
-              subtitle: 'Average points scored',
-              icon: Icons.analytics,
-              color: Theme.of(context).colorScheme.secondaryContainer,
-              onColor: Theme.of(context).colorScheme.onSecondaryContainer,
-            ),
-          ),
-          const SizedBox(width: 16),
-          Expanded(
-            child: _buildMetricCard(
-              title: 'Pass Rate (Tỷ lệ đạt)',
-              value: '${passRate.toStringAsFixed(1)}%',
-              subtitle: '$passCount / $total scored >= 50',
-              icon: Icons.check_circle_outline,
-              color: Theme.of(context).colorScheme.tertiaryContainer,
-              onColor: Theme.of(context).colorScheme.onTertiaryContainer,
-            ),
-          ),
-        ],
-      ),
-    );
-  }
-
-  Widget _buildMetricCard({
-    required String title,
-    required String value,
-    required String subtitle,
-    required IconData icon,
-    required Color color,
-    required Color onColor,
-  }) {
-    return Card(
-      elevation: 0,
-      color: color,
-      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
-      child: Padding(
-        padding: const EdgeInsets.all(16.0),
-        child: Row(
-          children: [
-            CircleAvatar(
-              backgroundColor: onColor.withAlpha((0.1 * 255).round()),
-              radius: 24,
-              child: Icon(icon, color: onColor, size: 24),
-            ),
-            const SizedBox(width: 16),
-            Expanded(
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  Text(
-                    title,
-                    style: TextStyle(
-                      fontSize: 12,
-                      fontWeight: FontWeight.w500,
-                      color: onColor.withAlpha((0.8 * 255).round()),
-                    ),
-                  ),
-                  const SizedBox(height: 4),
-                  Text(
-                    value,
-                    style: TextStyle(
-                      fontSize: 20,
-                      fontWeight: FontWeight.bold,
-                      color: onColor,
-                    ),
-                  ),
-                  const SizedBox(height: 2),
-                  Text(
-                    subtitle,
-                    style: TextStyle(
-                      fontSize: 10,
-                      color: onColor.withAlpha((0.6 * 255).round()),
-                    ),
-                  ),
-                ],
-              ),
-            ),
-          ],
-        ),
-      ),
-    );
-  }
-
-  Widget _buildFilterChips() {
-    if (_results.isEmpty) return const SizedBox.shrink();
-
-    final counts = {
-      'All': _results.length,
-      'Excellent': _results.where((r) => r.score >= 80).length,
-      'Good': _results.where((r) => r.score >= 65 && r.score < 80).length,
-      'Average': _results.where((r) => r.score >= 50 && r.score < 65).length,
-      'Weak': _results.where((r) => r.score < 50).length,
-    };
-
-    final labels = {
-      'All': 'Tất cả',
-      'Excellent': 'Xuất sắc (>= 80)',
-      'Good': 'Khá (65-79)',
-      'Average': 'Trung bình (50-64)',
-      'Weak': 'Yếu (< 50)',
-    };
-
-    return Padding(
-      padding: const EdgeInsets.only(bottom: 8.0),
-      child: Row(
-        children: labels.keys.map((filter) {
-          final isSelected = _scoreFilter == filter;
-          final count = counts[filter] ?? 0;
-          return Padding(
-            padding: const EdgeInsets.only(right: 8.0),
-            child: ChoiceChip(
-              label: Text('${labels[filter]} ($count)'),
-              selected: isSelected,
-              onSelected: (selected) {
-                if (selected) {
-                  setState(() {
-                    _scoreFilter = filter;
-                  });
-                }
-              },
-            ),
-          );
-        }).toList(),
-      ),
-    );
-  }
-
   void _editCriterionScore(
     BuildContext context,
     int resultIndex,
@@ -1100,15 +989,22 @@ class _GradingReviewViewState extends State<GradingReviewView> {
                 if (newScore != null &&
                     newScore >= 0 &&
                     newScore <= criterion.maxScore) {
+                  String levelAwarded;
+                  if (newScore == criterion.maxScore) {
+                    levelAwarded = 'full';
+                  } else if (newScore > 0) {
+                    levelAwarded = 'partial';
+                  } else {
+                    levelAwarded = 'fail';
+                  }
+
                   // Create new criterion with updated score
                   final updatedCriterion = CriterionScore(
                     criterionId: criterion.criterionId,
                     criterionName: criterion.criterionName,
                     scoreGiven: newScore,
                     maxScore: criterion.maxScore,
-                    levelAwarded: newScore == criterion.maxScore
-                        ? 'full'
-                        : (newScore > 0 ? 'partial' : 'fail'),
+                    levelAwarded: levelAwarded,
                     feedback: criterion.feedback,
                   );
 
@@ -1342,16 +1238,19 @@ class _GradingReviewViewState extends State<GradingReviewView> {
                                               ...q.criteria.map((item) {
                                                 final isPass =
                                                     item.scoreGiven > 0;
-                                                final statusColor = isPass
-                                                    ? Theme.of(
-                                                        context,
-                                                      ).colorScheme.primary
-                                                    : Theme.of(
-                                                        context,
-                                                      ).colorScheme.error;
-                                                final statusIcon = isPass
-                                                    ? '✓'
-                                                    : '✗';
+                                                late final Color statusColor;
+                                                late final String statusIcon;
+                                                if (isPass) {
+                                                  statusColor = Theme.of(
+                                                    context,
+                                                  ).colorScheme.primary;
+                                                  statusIcon = '✓';
+                                                } else {
+                                                  statusColor = Theme.of(
+                                                    context,
+                                                  ).colorScheme.error;
+                                                  statusIcon = '✗';
+                                                }
 
                                                 return Padding(
                                                   padding:
@@ -1532,6 +1431,193 @@ class _GradingReviewViewState extends State<GradingReviewView> {
   }
 }
 
+class GradingDashboard extends StatelessWidget {
+  final List<GradingResult> results;
+
+  const GradingDashboard({super.key, required this.results});
+
+  @override
+  Widget build(BuildContext context) {
+    if (results.isEmpty) return const SizedBox.shrink();
+
+    final total = results.length;
+    final avg = total == 0
+        ? 0.0
+        : results.fold<double>(0.0, (sum, r) => sum + r.score) / total;
+    final passCount = results.where((r) => r.score >= 50).length;
+    final passRate = total == 0 ? 0.0 : (passCount / total) * 100;
+
+    return Padding(
+      padding: const EdgeInsets.only(bottom: 24.0),
+      child: Row(
+        children: [
+          Expanded(
+            child: MetricCard(
+              title: 'Total Graded (Đã chấm)',
+              value: '$total học sinh',
+              subtitle: 'Student submissions processed',
+              icon: Icons.people,
+              color: Theme.of(context).colorScheme.primaryContainer,
+              onColor: Theme.of(context).colorScheme.onPrimaryContainer,
+            ),
+          ),
+          const SizedBox(width: 16),
+          Expanded(
+            child: MetricCard(
+              title: 'Class Average (ĐTB Lớp)',
+              value: '${avg.toStringAsFixed(1)} / 100',
+              subtitle: 'Average points scored',
+              icon: Icons.analytics,
+              color: Theme.of(context).colorScheme.secondaryContainer,
+              onColor: Theme.of(context).colorScheme.onSecondaryContainer,
+            ),
+          ),
+          const SizedBox(width: 16),
+          Expanded(
+            child: MetricCard(
+              title: 'Pass Rate (Tỷ lệ đạt)',
+              value: '${passRate.toStringAsFixed(1)}%',
+              subtitle: '$passCount / $total scored >= 50',
+              icon: Icons.check_circle_outline,
+              color: Theme.of(context).colorScheme.tertiaryContainer,
+              onColor: Theme.of(context).colorScheme.onTertiaryContainer,
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+}
+
+class MetricCard extends StatelessWidget {
+  final String title;
+  final String value;
+  final String subtitle;
+  final IconData icon;
+  final Color color;
+  final Color onColor;
+
+  const MetricCard({
+    super.key,
+    required this.title,
+    required this.value,
+    required this.subtitle,
+    required this.icon,
+    required this.color,
+    required this.onColor,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    return Card(
+      elevation: 0,
+      color: color,
+      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
+      child: Padding(
+        padding: const EdgeInsets.all(16.0),
+        child: Row(
+          children: [
+            CircleAvatar(
+              backgroundColor: onColor.withAlpha((0.1 * 255).round()),
+              radius: 24,
+              child: Icon(icon, color: onColor, size: 24),
+            ),
+            const SizedBox(width: 16),
+            Expanded(
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(
+                    title,
+                    style: TextStyle(
+                      fontSize: 12,
+                      fontWeight: FontWeight.w500,
+                      color: onColor.withAlpha((0.8 * 255).round()),
+                    ),
+                  ),
+                  const SizedBox(height: 4),
+                  Text(
+                    value,
+                    style: TextStyle(
+                      fontSize: 20,
+                      fontWeight: FontWeight.bold,
+                      color: onColor,
+                    ),
+                  ),
+                  const SizedBox(height: 2),
+                  Text(
+                    subtitle,
+                    style: TextStyle(
+                      fontSize: 10,
+                      color: onColor.withAlpha((0.6 * 255).round()),
+                    ),
+                  ),
+                ],
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+}
+
+class ScoreFilterChips extends StatelessWidget {
+  final List<GradingResult> results;
+  final String selectedFilter;
+  final ValueChanged<String> onSelected;
+
+  const ScoreFilterChips({
+    super.key,
+    required this.results,
+    required this.selectedFilter,
+    required this.onSelected,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    if (results.isEmpty) return const SizedBox.shrink();
+
+    final counts = {
+      'All': results.length,
+      'Excellent': results.where((r) => r.score >= 80).length,
+      'Good': results.where((r) => r.score >= 65 && r.score < 80).length,
+      'Average': results.where((r) => r.score >= 50 && r.score < 65).length,
+      'Weak': results.where((r) => r.score < 50).length,
+    };
+
+    final labels = {
+      'All': 'Tất cả',
+      'Excellent': 'Xuất sắc (>= 80)',
+      'Good': 'Khá (65-79)',
+      'Average': 'Trung bình (50-64)',
+      'Weak': 'Yếu (< 50)',
+    };
+
+    return Padding(
+      padding: const EdgeInsets.only(bottom: 8.0),
+      child: Row(
+        children: labels.keys.map((filter) {
+          final isCurrent = selectedFilter == filter;
+          final count = counts[filter] ?? 0;
+          return Padding(
+            padding: const EdgeInsets.only(right: 8.0),
+            child: ChoiceChip(
+              label: Text('${labels[filter]} ($count)'),
+              selected: isCurrent,
+              onSelected: (selected) {
+                if (selected) {
+                  onSelected(filter);
+                }
+              },
+            ),
+          );
+        }).toList(),
+      ),
+    );
+  }
+}
+
 class SettingsView extends StatelessWidget {
   const SettingsView({super.key});
 
@@ -1548,25 +1634,22 @@ class SettingsView extends StatelessWidget {
               style: Theme.of(context).textTheme.headlineMedium,
             ),
             const SizedBox(height: 32),
-            _buildSettingsCard(
+            const SettingsCard(
               title: 'API Endpoint',
               value: 'http://localhost:11434',
               icon: Icons.api,
-              context: context,
             ),
             const SizedBox(height: 16),
-            _buildSettingsCard(
+            const SettingsCard(
               title: 'Model',
               value: 'Rubric JSON Parser',
               icon: Icons.model_training,
-              context: context,
             ),
             const SizedBox(height: 16),
-            _buildSettingsCard(
+            const SettingsCard(
               title: 'Status',
               value: 'Ready to grade',
               icon: Icons.cloud_done,
-              context: context,
             ),
             const SizedBox(height: 32),
             Text('Instructions', style: Theme.of(context).textTheme.titleLarge),
@@ -1590,13 +1673,22 @@ class SettingsView extends StatelessWidget {
       ),
     );
   }
+}
 
-  Widget _buildSettingsCard({
-    required String title,
-    required String value,
-    required IconData icon,
-    required BuildContext context,
-  }) {
+class SettingsCard extends StatelessWidget {
+  final String title;
+  final String value;
+  final IconData icon;
+
+  const SettingsCard({
+    super.key,
+    required this.title,
+    required this.value,
+    required this.icon,
+  });
+
+  @override
+  Widget build(BuildContext context) {
     return Card(
       elevation: 0,
       color: Theme.of(context).colorScheme.surfaceContainerHighest,

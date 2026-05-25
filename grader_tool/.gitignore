@@ -50,6 +50,7 @@ app.*.map.json
 !pubspec.lock
 !analysis_options.json
 !.vscode/*.json
+!.codacy.yml
 
 # Result folder - chứa kết quả chấm điểm
 result/
@@ -73,3 +74,19 @@ $RECYCLE.BIN/
 *~
 .directory
 .Trash-*
+
+# Flutter Windows build artifacts (generated code)
+windows/flutter/ephemeral/
+windows/flutter/generated_plugin_registrant.cc
+windows/flutter/generated_plugin_registrant.h
+windows/flutter/generated_plugins.cmake
+
+# Flutter macOS build artifacts (generated code)
+macos/Flutter/ephemeral/
+macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Flutter Linux build artifacts (generated code)
+linux/flutter/ephemeral/
+linux/flutter/generated_plugin_registrant.cc
+linux/flutter/generated_plugin_registrant.h
+linux/flutter/generated_plugins.cmake
