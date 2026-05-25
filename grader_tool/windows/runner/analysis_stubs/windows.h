@@ -2,8 +2,9 @@
 #ifndef ANALYSIS_STUBS_WINDOWS_H
 #define ANALYSIS_STUBS_WINDOWS_H
 
-#include <cstddef>
-#include <cstdint>
+#if !defined(__cplusplus)
+#  error "This stub requires a C++ compiler"
+#endif
 
 using DWORD = unsigned long;
 using BOOL = int;
