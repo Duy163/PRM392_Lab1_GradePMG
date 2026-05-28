@@ -78,6 +78,59 @@ class ResultStorageService {
     return savedPaths;
   }
 
+  /// Cập nhật file kết quả đã lưu theo student file sau khi chỉnh điểm tay.
+  /// Hàm này giữ nguyên rubric/metadata gốc, chỉ ghi đè phần grading_result và summary.
+  static Future<bool> updateSavedResultForStudent({
+    required GradingResult result,
+  }) async {
+    final files = await getAllResultFiles();
+
+    for (final file in files) {
+      final data = await loadResultFromFile(file.path);
+      final metadataStudentFile = data?['metadata']?['student_file'];
+      final gradingStudentFile = data?['grading_result']?['student_file'];
+
+      if (metadataStudentFile == result.studentFile ||
+          gradingStudentFile == result.studentFile) {
+        final updatedJson = Map<String, dynamic>.from(data ?? {});
+        final metadata = Map<String, dynamic>.from(
+          updatedJson['metadata'] as Map? ?? const {},
+        );
+        final rubric = Map<String, dynamic>.from(
+          updatedJson['rubric'] as Map? ?? const {},
+        );
+
+        metadata['graded_at'] = DateTime.now().toIso8601String();
+        metadata['student_file'] = result.studentFile;
+
+        updatedJson['metadata'] = metadata;
+        updatedJson['rubric'] = rubric;
+        updatedJson['grading_result'] = _gradingResultToJson(result);
+        updatedJson['summary'] = {
+          'total_score': result.score,
+          'percentage': metadata['total_possible_points'] is num &&
+                  (metadata['total_possible_points'] as num).toDouble() > 0
+              ? (result.score /
+                      (metadata['total_possible_points'] as num).toDouble() *
+                      100)
+                  .toStringAsFixed(2)
+              : '0.00',
+          'requirements_count': result.requirements.length,
+          'general_feedback': result.feedback,
+        };
+
+        await File(file.path).writeAsString(
+          const JsonEncoder.withIndent('  ').convert(updatedJson),
+        );
+        _resultCache[file.path] = updatedJson;
+        _fileSizeCache[file.path] = await File(file.path).length();
+        return true;
+      }
+    }
+
+    return false;
+  }
+
   /// Lấy danh sách tất cả file kết quả trong folder result (OPTIMIZED - async operations)
   static Future<List<FileSystemEntity>> getAllResultFiles() async {
     final resultDir = Directory(resultFolderName);

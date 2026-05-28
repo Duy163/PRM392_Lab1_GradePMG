@@ -6,6 +6,7 @@ import 'package:grader_tool/services/app_state_store.dart';
 import 'package:grader_tool/services/grading_service.dart';
 import 'package:grader_tool/services/grading_store.dart';
 import 'package:grader_tool/services/excel_export_service.dart';
+import 'package:grader_tool/services/result_storage_service.dart';
 import 'package:grader_tool/views/saved_results_view.dart';
 import 'package:intl/intl.dart';
 
@@ -1610,6 +1611,9 @@ class _GradingReviewViewState extends State<GradingReviewView> {
                   });
 
                   GradingStore.mergeResults([updatedResult]);
+                  ResultStorageService.updateSavedResultForStudent(
+                    result: updatedResult,
+                  );
                   onSaved();
 
                   Navigator.pop(context);
